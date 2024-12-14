@@ -1,0 +1,72 @@
+---
+import Layout from '../../layouts/Layout.astro';
+export async function getStaticPaths() {
+  // Importa todos los archivos JSON de cuestionarios
+  const quizzes = Object.keys(import.meta.glob('../../data/test/*.json'));
+
+  // Genera las rutas estáticas basadas en los nombres de los archivos
+  return quizzes.map((path) => {
+    const slug = path.split('/').pop().replace('.json', ''); // Extrae el slug
+    return { params: { slug } };
+  });
+}
+
+const { slug } = Astro.params;
+
+// Carga el cuestionario basado en el slug
+const quiz = await import(`../../data/test/${slug}.json`);
+---
+<Layout>
+  <h1>{quiz.title}</h1>
+  {quiz.questions.map((question, index) => (
+    <div>
+      <h2>{index + 1}. {question.question}</h2>
+      <ul>
+        {question.options.map((option, optionIndex) => (
+          <li>
+            <button 
+            class="respuestaForm"
+              data-correct={option.isCorrect}
+              data-hint={option.hint}
+              >
+              {option.text}
+            </button>
+            <div class="feedback"></div>
+          </li>
+        ))}
+      </ul>
+    </div>
+  ))}
+</Layout>
+<script>
+  // function handleOptionClick(isCorrect, hint) {
+  //   if (isCorrect) {
+  //     alert('¡Correcto!');
+  //   } else {
+  //     alert(`Incorrecto. Pista: ${hint}`);
+  //   }
+  // }
+  function handleOptionClick(button) {
+    const isCorrect = button.dataset.correct === "true";
+    const hint = button.dataset.hint;
+
+    const feedbackDiv = button.nextElementSibling; // Accede al <div> feedback al lado del botón
+    if (isCorrect) {
+      feedbackDiv.innerHTML = "<strong class='success'>¡Correcto! ✅</strong>";
+    } else {
+      feedbackDiv.innerHTML = `<span class='error'>❌ Incorrecto. Pista: ${hint}</span>`;
+    }
+  }
+
+  // Encuentra todos los botones con la clase `alert` en la página.
+  const buttons = document.querySelectorAll('button.respuestaForm');
+
+  // Maneja los clics en cada botón.
+  buttons.forEach((button) => {
+    button.addEventListener('click', () => {
+      // handleOptionClick(button.dataset.correct === 'true', button.dataset.hint);
+      handleOptionClick(button);
+
+    });
+  });
+</script>

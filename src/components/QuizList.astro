@@ -1,0 +1,11 @@
+---
+const { quizzes } = Astro.props;
+---
+
+<ul>
+  {quizzes.map((test) => (
+    <li>
+      <a href={`/test/${test.slug}`}>{test.title}</a>
+    </li>
+  ))}
+</ul>

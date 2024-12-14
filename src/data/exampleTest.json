@@ -1,0 +1,24 @@
+{
+    "title": "Plantilla de cuestionario",
+    "questions": [
+      {
+        "question": "¿Es esta la pregunta uno?",
+        "options": [
+          { "text": "Si", "isCorrect": true },
+          { "text": "No pero casi", "isCorrect": false, "hint": "Seguro que esta cerca." },
+          { "text": "Es la tercera", "isCorrect": false, "hint": "Muy muy cerca." },
+          { "text": "Es la anterior a la tercera", "isCorrect": false, "hint": "Pero terriblemente cerca." }
+        ]
+      },
+      {
+        "question": "¿Es la segunda pregunta?",
+        "options": [
+          { "text": "Si", "isCorrect": true },
+          { "text": "No pero casi", "isCorrect": false, "hint": "Seguro que esta cerca." },
+          { "text": "Es la tercera", "isCorrect": false, "hint": "Muy muy cerca." },
+          { "text": "Es la anterior a la cuarta", "isCorrect": false, "hint": "Pero terriblemente cerca." }
+        ]
+      }
+    ]
+  }
+  

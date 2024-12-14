@@ -1,0 +1,168 @@
+{
+    "title": "Catálogo de servicios",
+    "questions": [
+      {
+        "question": "Comunicaciones Electrónicas Seguras",
+        "options": [
+          { "text": "Cl@ve", "isCorrect": true },
+          { "text": "CTT", "isCorrect": false, "hint": "Centro de Transferencia de Tecnología" },
+          { "text": "Cortino", "isCorrect": false, "hint": "Comunicaciones Electrónicas Seguras" },
+          { "text": "@firma", "isCorrect": false, "hint": "Plataforma de validación de certificados y firmas" }
+        ]
+      },
+      {
+        "question": "Sistema europeo de reconocimiento de identidades electrónicas",
+        "options": [
+          { "text": "eIDAS", "isCorrect": true },
+          { "text": "FORMA", "isCorrect": false, "hint": "Formularios para publicación web" },
+          { "text": "PAG", "isCorrect": false, "hint": "Punto de Acceso General" },
+          { "text": "SIM", "isCorrect": false, "hint": "Plataforma de Mensajería" }
+        ]
+      },
+      {
+        "question": "Plataforma de Traducción Automática",
+        "options": [
+          { "text": "PLATA", "isCorrect": true },
+          { "text": "eIDAS ", "isCorrect": false, "hint": "Sistema europeo de reconocimiento de identidades electrónicas" },
+          { "text": "Cl@ve", "isCorrect": false, "hint": "Identidad electrónica para las Administraciones" },
+          { "text": "CIRCABC", "isCorrect": false, "hint": "Herramienta de trabajo en grupo para intercambio de información y trabajo colaborativo." }
+        ]
+      },
+      {
+        "question": "Cliente de Firma electrónica de @Firma",
+        "options": [
+          { "text": "Cliente", "isCorrect": true },
+          { "text": "InSiDe", "isCorrect": false, "hint": "Infraestructura y Sistemas de Documentación Electrónica" },
+          { "text": "OBSAE", "isCorrect": false, "hint": "Observatorio Administracion Electronica" },
+          { "text": "CIRCABC", "isCorrect": false, "hint": "Herramienta de trabajo en grupo para intercambio de información y trabajo colaborativo." }
+        ]
+      },
+      {
+        "question": "Portal de Administración Electrónica",
+        "options": [
+          { "text": "PAe", "isCorrect": true },
+          { "text": "Red SARA", "isCorrect": false, "hint": "Conjunto de infraestructuras de comunicaciones y servicios básicos que conecta las redes de las AAPP españolas e Instituciones europeas" },
+          { "text": "GEISER", "isCorrect": false, "hint": "Gestión Integral de Servicios de Registro" },
+          { "text": "CIRCABC", "isCorrect": false, "hint": "Herramienta de trabajo en grupo para intercambio de información y trabajo colaborativo." }
+        ]
+      },
+      {
+        "question": "Servicio Común de Reuniones Virtuales",
+        "options": [
+          { "text": "REÚNETE", "isCorrect": true },
+          { "text": "SIRES", "isCorrect": false, "hint": "portal de intercambio de ficheros entre el Registro Central de Personal y otros organismos de la AGE" },
+          { "text": "VALIDe", "isCorrect": false, "hint": "Validación de firmas y certificados electrónicos" },
+          { "text": "OBSAE", "isCorrect": false, "hint": "Observatorio Administracion Electronica" }
+        ]
+      },
+      {
+        "question": "Servicio de diagnóstico en línea",
+        "options": [
+          { "text": "OAW", "isCorrect": true },
+          { "text": "NEDAES", "isCorrect": false, "hint": "Nómina Estándar Descentralizada de la Administración del Estado" },
+          { "text": "SERVINOMINA", "isCorrect": false, "hint": "Servicio de Visualización de Nómina en el Portal Funciona" },
+          { "text": "rec.redsara.es", "isCorrect": false, "hint": "Registro Electrónico Común" }
+        ]
+      },
+      {
+        "question": "Envío y recepción de ficheros de gran tamaño",
+        "options": [
+          { "text": "ALMACÉN", "isCorrect": true },
+          { "text": "PAG", "isCorrect": false, "hint": "Punto de Acceso General" },
+          { "text": "Registro Electrónico Común", "isCorrect": false, "hint": "rec.redsara.es" },
+          { "text": "@firma", "isCorrect": false, "hint": "Plataforma de validación de certificados y firmas" }
+        ]
+      },
+      {
+        "question": "Portal del Empleado Público",
+        "options": [
+          { "text": "FUNCIONA", "isCorrect": true },
+          { "text": "SCSP v3", "isCorrect": false, "hint": "Sustitucion de certificados en soporte papel" },
+          { "text": "TS@", "isCorrect": false, "hint": "Plataforma de sellado de tiempo" },
+          { "text": "CISE", "isCorrect": false, "hint": "Centro de Interoperabilidad Semántica" }
+        ]
+      },
+      {
+        "question": "Comunicaciones Electrónicas Seguras",
+        "options": [
+          { "text": "Cortino", "isCorrect": true },
+          { "text": "SNE", "isCorrect": false, "hint": "Notificaciones electrónicas" },
+          { "text": "TRAMA", "isCorrect": false, "hint": "Tramitación de permisos e incidencias" },
+          { "text": "TS@", "isCorrect": false, "hint": "Plataforma de sellado de tiempo" }
+        ]
+      },
+      {
+        "question": "Plataforma de validación de certificados y firmas",
+        "options": [
+          { "text": "@firma", "isCorrect": true },
+          { "text": "SIRES", "isCorrect": false, "hint": "portal de intercambio de ficheros entre el Registro Central de Personal y otros organismos de la AGE" },
+          { "text": "Pagos", "isCorrect": false, "hint": "Pasarela de pagos" },
+          { "text": "Cortino", "isCorrect": false, "hint": "Comunicaciones Electrónicas Seguras" }
+        ]
+      },
+      {
+        "question": "Nómina Estándar Descentralizada de la Administración del Estado",
+        "options": [
+          { "text": "NEDAES", "isCorrect": true },
+          { "text": "TRAMA ", "isCorrect": false, "hint": "Tramitación de permisos e incidencias" },
+          { "text": "SIR", "isCorrect": false, "hint": "Sistema de Interconexión de Registros" },
+          { "text": "TS@", "isCorrect": false, "hint": "Plataforma de sellado de tiempo" }
+        ]
+      },
+      {
+        "question": "Centro de Interoperabilidad Semántica",
+        "options": [
+          { "text": "CISE", "isCorrect": true },
+          { "text": "CTT", "isCorrect": false, "hint": "Centro de Transferencia de Tecnología" },
+          { "text": "OBSAE", "isCorrect": false, "hint": "Observatorio Administracion Electronica" },
+          { "text": "Stork", "isCorrect": false, "hint": "Reconocimiento paneuropeo de las identidades electrónicas (DNIe)" }
+        ]
+      },
+      {
+        "question": "Autenticación de empleado público",
+        "options": [
+          { "text": "Atuentica", "isCorrect": true },
+          { "text": "FUNCIONA ", "isCorrect": false, "hint": "Portal del Empleado Público" },
+          { "text": "GEISER", "isCorrect": false, "hint": "Gestión Integral de Servicios de Registro" },
+          { "text": "OBSAE", "isCorrect": false, "hint": "Observatorio Administracion Electronica" }
+        ]
+      },
+      {
+        "question": "Servicio de Visualización de Nómina en el Portal Funciona",
+        "options": [
+          { "text": "SERVINOMINA", "isCorrect": true },
+          { "text": "Carpeta ciudadana", "isCorrect": false, "hint": "Servicio centrado en el ciudadano que le facilita su relación con las Administraciones Públicas" },
+          { "text": "PLATA ", "isCorrect": false, "hint": "Plataforma de Traducción Automática" },
+          { "text": "SIRES", "isCorrect": false, "hint": "portal de intercambio de ficheros entre el Registro Central de Personal y otros organismos de la AGE" }
+        ]
+      },
+      {
+        "question": "Plataforma de sellado de tiempo",
+        "options": [
+          { "text": "TS@", "isCorrect": true },
+          { "text": "Archive ", "isCorrect": false, "hint": "Archivo definitivo de expedientes y documentos" },
+          { "text": "Port@firmas", "isCorrect": false, "hint": "Firma electrónica de empleado público" },
+          { "text": "Apodera", "isCorrect": false, "hint": "Registro electrónico de Apoderamientos de la Administración General del Estado" }
+        ]
+      },
+      {
+        "question": "Punto común para la validación de la habilitación y representación de personas físicas o jurídicas.",
+        "options": [
+          { "text": "Representa", "isCorrect": true },
+          { "text": "CTT", "isCorrect": false, "hint": "Centro de Transferencia de Tecnología" },
+          { "text": "Cl@ve Firma ", "isCorrect": false, "hint": "Firma criptográfica basada en certificados centralizados" },
+          { "text": "SERVINOMINA", "isCorrect": false, "hint": "Servicio de Visualización de Nómina en el Portal Funciona" }
+        ]
+      },
+      {
+        "question": "Validación de firmas y certificados electrónicos",
+        "options": [
+          { "text": "VALIDe", "isCorrect": true },
+          { "text": "Pagos ", "isCorrect": false, "hint": "Pasarela de pagos" },
+          { "text": "Cortino", "isCorrect": false, "hint": "Comunicaciones Electrónicas Seguras" },
+          { "text": "datos.gob.es", "isCorrect": false, "hint": "Reutilizacion de la información pública" }
+        ]
+      }
+    ]
+  }
+  

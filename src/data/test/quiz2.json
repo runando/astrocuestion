@@ -1,0 +1,159 @@
+{
+    "title": "Agenda 2030",
+    "questions": [
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Agua limpia y saneamiento", "isCorrect": true },
+          { "text": "Acceso al agua potable y saneamiento", "isCorrect": false, "hint": "" },
+          { "text": "Aguas limpias y residuales", "isCorrect": false, "hint": "" },
+          { "text": "Gestión de los recursos hídricos", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Alianzas para lograr los objetivos", "isCorrect": true },
+          { "text": "Cooperación para lograr los objetivos", "isCorrect": false, "hint": "" },
+          { "text": "Tratados para lograr los objetivos", "isCorrect": false, "hint": "" },
+          { "text": "Asociaciones para la lograr de los fines", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Energía asequible y no contaminante", "isCorrect": true },
+          { "text": "Acceso al energia limpia", "isCorrect": false, "hint": "" },
+          { "text": "Energia barata y sin residuos", "isCorrect": false, "hint": "" },
+          { "text": "Energia limpia de emisiones", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Industria, innovación e infraestructura", "isCorrect": true },
+          { "text": "Innovación industrial y desarrollo de tecnologías", "isCorrect": false, "hint": "" },
+          { "text": "Desarrollo, técnica y empresa", "isCorrect": false, "hint": "" },
+          { "text": "Desarrollo industrial, innovación y mejora de infraestructuras", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Reducción de las desigualdades", "isCorrect": true },
+          { "text": "Equidad, igualdad y paridad", "isCorrect": false, "hint": "" },
+          { "text": "Mitigación de la brecha social", "isCorrect": false, "hint": "" },
+          { "text": "Fin de todas las formas de discriminación", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Fin de la pobreza", "isCorrect": true },
+          { "text": "Superar la pobreza", "isCorrect": false, "hint": "" },
+          { "text": "Erradicación de la pobreza", "isCorrect": false, "hint": "" },
+          { "text": "Eliminación de la pobreza extrema", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Vida de ecosistemas terrestres", "isCorrect": true },
+          { "text": "Biodiversiad", "isCorrect": false, "hint": "" },
+          { "text": "Fauna y flora terrestres", "isCorrect": false, "hint": "" },
+          { "text": "Repoblación de especies en peligro de extinción", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Trabajo decente y crecimiento economico", "isCorrect": true },
+          { "text": "Empleo de calidad y economia sostenible", "isCorrect": false, "hint": "" },
+          { "text": "Empleo digno y desarrollo económico", "isCorrect": false, "hint": "" },
+          { "text": "Trabajo remunerado y economia ética", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Educación de calidad", "isCorrect": true },
+          { "text": "Educación para todos", "isCorrect": false, "hint": "" },
+          { "text": "Enseñanza de calidad", "isCorrect": false, "hint": "" },
+          { "text": "Fin del analfabetismo", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Paz, justicia e instituciones sólidas", "isCorrect": true },
+          { "text": "Paz, democracia y libertad", "isCorrect": false, "hint": "" },
+          { "text": "Paz, justicia e instituciones democráticas", "isCorrect": false, "hint": "" },
+          { "text": "Paz, justicia y vida en libertad", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Ciudades y comunidades sostenibles", "isCorrect": true },
+          { "text": "Ciudades transitables y transporte publico", "isCorrect": false, "hint": "" },
+          { "text": "Urbanismo y ruralismo sostenibles", "isCorrect": false, "hint": "" },
+          { "text": "Desarrollo urbano sostenible", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Hambre cero", "isCorrect": true },
+          { "text": "Acabar con la inanición", "isCorrect": false, "hint": "" },
+          { "text": "Fin del hambre", "isCorrect": false, "hint": "" },
+          { "text": "Erradicación del hambre y desnutrición", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Acción por el clima", "isCorrect": true },
+          { "text": "Fin al calentamiento global", "isCorrect": false, "hint": "" },
+          { "text": "Lucha por el cambio climático", "isCorrect": false, "hint": "" },
+          { "text": "Compromiso con el medio ambiente", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Salud y Bienestar", "isCorrect": true },
+          { "text": "Promoción de hábitos de la salud y bienestar", "isCorrect": false, "hint": "" },
+          { "text": "Salud, Bienestar y Deporte", "isCorrect": false, "hint": "" },
+          { "text": "Mejora de la calidad de vida y bienestar", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Producción y consumo responsables", "isCorrect": true },
+          { "text": "Producción planificada y consumo limitado", "isCorrect": false, "hint": "" },
+          { "text": "Consumo responsable y producción sostenible", "isCorrect": false, "hint": "" },
+          { "text": "Producción y consumo sostenible", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Vida submarina", "isCorrect": true },
+          { "text": "Vida marina y pesca sostenible", "isCorrect": false, "hint": "" },
+          { "text": "Fauna y flora submarina", "isCorrect": false, "hint": "" },
+          { "text": "Ecosistemas marinos", "isCorrect": false, "hint": "" }
+        ]
+      },
+      {
+        "question": "Es un uno de los 17 ODS (169 metas)",
+        "options": [
+          { "text": "Igualdad de género", "isCorrect": true },
+          { "text": "Promoción de la Igualdad", "isCorrect": false, "hint": "" },
+          { "text": "Fin de las desigualdades de género", "isCorrect": false, "hint": "" },
+          { "text": "Igualdad entre hombres y mujeres", "isCorrect": false, "hint": "" }
+        ]
+      }
+    ]
+  }
+  
