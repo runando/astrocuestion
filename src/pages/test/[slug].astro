@@ -15,10 +15,28 @@ const { slug } = Astro.params;
 
 // Carga el cuestionario basado en el slug
 const quiz = await import(`../../data/test/${slug}.json`);
+
+
+
+// Función para desordenar un array (Fisher-Yates Shuffle)
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
+// Creamos una nueva lista de preguntas con opciones desordenadas
+const questionsWithShuffledOptions = quiz.questions.map((question) => ({
+  ...question,
+  options: shuffleArray([...question.options]), // Solo desordenamos las respuestas
+}));
+
 ---
 <Layout>
   <h1>{quiz.title}</h1>
-  {quiz.questions.map((question, index) => (
+  {questionsWithShuffledOptions.map((question, index) => (
     <div>
       <h2>{index + 1}. {question.question}</h2>
       <ul>
@@ -37,6 +55,8 @@ const quiz = await import(`../../data/test/${slug}.json`);
       </ul>
     </div>
   ))}
+
+<a href="/astrocuestion" target="_blank">Volver atrás</a>
 </Layout>
 <script>
   // function handleOptionClick(isCorrect, hint) {
