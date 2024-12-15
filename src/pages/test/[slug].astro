@@ -36,19 +36,23 @@ const questionsWithShuffledOptions = quiz.questions.map((question) => ({
 ---
 <Layout>
   <h1>{quiz.title}</h1>
+  <a href="/astrocuestion" class="back-link" title="Volver atrás">Volver atrás</a>
+  <section class="zona_cuestionario">
+
+ 
   {questionsWithShuffledOptions.map((question, index) => (
     <div>
       <h2>{index + 1}. {question.question}</h2>
       <ul>
         {question.options.map((option, optionIndex) => (
           <li>
-            <button 
-            class="respuestaForm"
+            <p 
+              class="respuestaForm options"
               data-correct={option.isCorrect}
               data-hint={option.hint}
               >
               {option.text}
-            </button>
+            </p>
             <div class="feedback"></div>
           </li>
         ))}
@@ -56,8 +60,98 @@ const questionsWithShuffledOptions = quiz.questions.map((question) => ({
     </div>
   ))}
 
-<a href="/astrocuestion" target="_blank">Volver atrás</a>
+ </section>
+<a href="/astrocuestion" class="back-link" title="Volver atrás">Volver atrás</a>
 </Layout>
+
+<style>
+  h1 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+  }
+  .question {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .options {
+    display: grid;
+    gap: 10px;
+    cursor: pointer;
+  }
+  @media (min-width: 768px) {
+    .options {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  label {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  label:hover {
+    background-color: #e8f4fd;
+  }
+  .options {
+    margin-right: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  .options:hover{
+    background-color: #e8f4fd;
+    transform: translateY(-2px);
+  }
+  .submit-btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  .submit-btn:hover {
+    background-color: #2980b9;
+  }
+.zona_cuestionario{
+  border-bottom: 2px solid #3498db;
+  margin-bottom: 1em;
+
+}
+
+  .back-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s, transform 0.2s;
+    margin-bottom: 20px;
+  }
+
+  .back-link:hover {
+    background-color: #2980b9;
+    transform: translateY(-2px);
+  }
+
+  .back-link:active {
+    transform: translateY(0);
+  }
+</style>
+
 <script>
   // function handleOptionClick(isCorrect, hint) {
   //   if (isCorrect) {
@@ -79,7 +173,7 @@ const questionsWithShuffledOptions = quiz.questions.map((question) => ({
   }
 
   // Encuentra todos los botones con la clase `alert` en la página.
-  const buttons = document.querySelectorAll('button.respuestaForm');
+  const buttons = document.querySelectorAll('p.respuestaForm');
 
   // Maneja los clics en cada botón.
   buttons.forEach((button) => {

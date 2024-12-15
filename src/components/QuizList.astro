@@ -2,10 +2,35 @@
 const { quizzes } = Astro.props;
 ---
 
-<ul>
+<ul id="quizList" class="quiz-list">
   {quizzes.map((test) => (
-    <li>
-      <a href={`/astrocuestion/test/${test.slug}`}>{test.title}</a>
+    <li class="quiz-item">
+      <a href={`/astrocuestion/test/${test.slug}`} class="quiz-link">{test.title}</a>
     </li>
   ))}
 </ul>
+
+<style>
+    .quiz-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  .quiz-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  .quiz-item:hover {
+    background-color: #e8f4fd;
+    transform: translateY(-2px);
+  }
+  .quiz-link {
+    display: block;
+    padding: 15px;
+    color: #2c3e50;
+    text-decoration: none;
+    font-weight: bold;
+  }
+</style>

@@ -14,7 +14,51 @@ const quizzes = Object.entries(import.meta.glob('../data/test/*.json', { eager: 
 
 <Layout>
 	<h1>Listado de Cuestionarios</h1>
+  <input type="text" id="quizFilter" class="filter-input" placeholder="Filtrar">
 	<QuizList quizzes={quizzes} />
+  <p id="noResults" class="no-results" style="display: none;">Ningún test coincide con el filtro.</p>
 
   <a href="https://github.com/artulance/astrocuestion" target="_blank">Ver repositorio</a>
 </Layout>
+<script>
+  const quizFilter = document.getElementById('quizFilter');
+  const quizList = document.getElementById('quizList');
+  const noResults = document.getElementById('noResults');
+  const quizItems = quizList.getElementsByClassName('quiz-item');
+
+  quizFilter.addEventListener('input', function() {
+    const filterValue = this.value.toLowerCase();
+    let visibleItems = 0;
+
+    for (let i = 0; i < quizItems.length; i++) {
+      const quizTitle = quizItems[i].textContent.toLowerCase();
+      if (quizTitle.includes(filterValue)) {
+        quizItems[i].style.display = '';
+        visibleItems++;
+      } else {
+        quizItems[i].style.display = 'none';
+      }
+    }
+
+    if (visibleItems === 0) {
+      noResults.style.display = 'block';
+    } else {
+      noResults.style.display = 'none';
+    }
+  });
+</script>
+<style>
+  .filter-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #3498db;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  .no-results {
+    text-align: center;
+    color: #7f8c8d;
+    font-style: italic;
+  }
+</style>
