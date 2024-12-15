@@ -10,6 +10,9 @@ Se ha realizado la siguiente estructura
 En src/data guardamos un ejemplo de json test como ejemplo si quieres subir tu propio cuestionario. 
 En src/data/test/ guardamos todos los test en formato json, todos tienen o no una pista en caso de error para mostrarla en pantalla.
 
+### ¿Cómo puedo aportar un cuestionario?
+
+Puedes aportar agregando ficheros json con una pull request. Será aceptada siempre y cuando respete el formato de json necesario.
 
 ```
 

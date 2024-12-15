@@ -37,6 +37,13 @@ const questionsWithShuffledOptions = quiz.questions.map((question) => ({
 <Layout>
   <h1>{quiz.title}</h1>
   <a href="/astrocuestion" class="back-link" title="Volver atrás">Volver atrás</a>
+
+  <div class="counter">
+    <span id="correctCount" class="correct">0</span> /
+    <span id="incorrectCount" class="incorrect">0</span> /
+    <span id="totalQuestions">{questionsWithShuffledOptions.length}</span>
+  </div>
+  
   <section class="zona_cuestionario">
 
  
@@ -50,6 +57,7 @@ const questionsWithShuffledOptions = quiz.questions.map((question) => ({
               class="respuestaForm options"
               data-correct={option.isCorrect}
               data-hint={option.hint}
+              data-question={index}
               >
               {option.text}
             </p>
@@ -129,7 +137,12 @@ const questionsWithShuffledOptions = quiz.questions.map((question) => ({
   margin-bottom: 1em;
 
 }
-
+  #correctCount{
+    color: #16c60c;
+  }
+  #incorrectCount{
+    color: #f03a17;
+  }
   .back-link {
     display: inline-block;
     padding: 10px 20px;
@@ -160,9 +173,12 @@ const questionsWithShuffledOptions = quiz.questions.map((question) => ({
   //     alert(`Incorrecto. Pista: ${hint}`);
   //   }
   // }
+  const answeredQuestions = {};
+
   function handleOptionClick(button) {
     const isCorrect = button.dataset.correct === "true";
     const hint = button.dataset.hint;
+    const questionNumber = button.dataset.question;
 
     const feedbackDiv = button.nextElementSibling; // Accede al <div> feedback al lado del botón
     if (isCorrect) {
@@ -170,6 +186,21 @@ const questionsWithShuffledOptions = quiz.questions.map((question) => ({
     } else {
       feedbackDiv.innerHTML = `<span class='error'>❌ Incorrecto. Pista: ${hint}</span>`;
     }
+    console.log(questionNumber)
+    if (!answeredQuestions[questionNumber]) {
+      // Actualiza los contadores solo si no se ha respondido antes
+      if (isCorrect) {
+        countAnsweredQuestions(document.getElementById("correctCount"));
+      } else {
+        countAnsweredQuestions(document.getElementById("incorrectCount"));
+      }
+      // Almacena la respuesta en el estado
+      answeredQuestions[questionNumber] = questionNumber;
+    }
+  }
+
+  function countAnsweredQuestions(element) {
+     element.textContent = parseInt(element.textContent) + 1;
   }
 
   // Encuentra todos los botones con la clase `alert` en la página.

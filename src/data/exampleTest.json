@@ -1,5 +1,6 @@
 {
     "title": "Plantilla de cuestionario",
+    "type": "tipo",
     "questions": [
       {
         "question": "¿Es esta la pregunta uno?",
@@ -13,8 +14,8 @@
       {
         "question": "¿Es la segunda pregunta?",
         "options": [
-          { "text": "Si", "isCorrect": true },
           { "text": "No pero casi", "isCorrect": false, "hint": "Seguro que esta cerca." },
+          { "text": "Si", "isCorrect": true },
           { "text": "Es la tercera", "isCorrect": false, "hint": "Muy muy cerca." },
           { "text": "Es la anterior a la cuarta", "isCorrect": false, "hint": "Pero terriblemente cerca." }
         ]

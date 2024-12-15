@@ -163,6 +163,51 @@
           { "text": "Cortino", "isCorrect": false, "hint": "Comunicaciones Electrónicas Seguras" },
           { "text": "datos.gob.es", "isCorrect": false, "hint": "Reutilizacion de la información pública" }
         ]
+      },
+      {
+        "question": "Registro de Funcionarios Habilitados",
+        "options": [
+          { "text": "Habilit@", "isCorrect": true },
+          { "text": "SIRES ", "isCorrect": false, "hint": "Portal de intercambio de ficheros entre el Registro Central de Personal y otros organismos de la AGE" },
+          { "text": "Notifica", "isCorrect": false, "hint": "Gestión de notificaciones" },
+          { "text": "Cortino", "isCorrect": false, "hint": "Comunicaciones Electrónicas Seguras" }
+        ]
+      },
+      {
+        "question": "Plataforma de Mensajería",
+        "options": [
+          { "text": "SIM", "isCorrect": true },
+          { "text": "Pagos ", "isCorrect": false, "hint": "Pasarela de pagos" },
+          { "text": "Atuentica", "isCorrect": false, "hint": "Autenticación de empleado público" },
+          { "text": "ALMACÉN", "isCorrect": false, "hint": "Envío y recepción de ficheros de gran tamaño" }
+        ]
+      },
+      {
+        "question": "Firma criptográfica basada en certificados centralizados",
+        "options": [
+          { "text": "Cl@ve Firma", "isCorrect": true },
+          { "text": "Representa ", "isCorrect": false, "hint": "Punto común para la validación de la habilitación y representación de personas físicas o jurídicas." },
+          { "text": "DIR3", "isCorrect": false, "hint": "Directorio Común de Unidades" },
+          { "text": "OBSAE", "isCorrect": false, "hint": "Observatorio Administracion Electronica" }
+        ]
+      },
+      {
+        "question": "Observatorio de Administración Electrónica.",
+        "options": [
+          { "text": "OBSAE", "isCorrect": true },
+          { "text": "InSiDe", "isCorrect": false, "hint": "Infraestructura y Sistemas de Documentación Electrónica" },
+          { "text": "ALMACÉN", "isCorrect": false, "hint": "Envío y recepción de ficheros de gran tamaño" },
+          { "text": "CIRCABC", "isCorrect": false, "hint": "Herramienta de trabajo en grupo para intercambio de información y trabajo colaborativo." }
+        ]
+      },
+      {
+        "question": "Oficina de Registro Virtual",
+        "options": [
+          { "text": "ORVE", "isCorrect": true },
+          { "text": "@firma", "isCorrect": false, "hint": "Plataforma de validación de certificados y firmas" },
+          { "text": "Apodera", "isCorrect": false, "hint": "Registro electrónico de Apoderamientos de la Administración General del Estado" },
+          { "text": "Cliente", "isCorrect": false, "hint": "Cliente de Firma electrónica de @Firma" }
+        ]
       }
     ]
   }
