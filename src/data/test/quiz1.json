@@ -1,5 +1,6 @@
 {
     "title": "Catálogo de servicios",
+    "type": "servicios",
     "questions": [
       {
         "question": "Comunicaciones Electrónicas Seguras",

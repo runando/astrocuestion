@@ -8,14 +8,24 @@ import QuizList from '../components/QuizList.astro';
 const quizzes = Object.entries(import.meta.glob('../data/test/*.json', { eager: true }))
   .map(([path, module]) => ({
     slug: path.split('/').pop().replace('.json', ''), // Extrae el nombre del archivo como slug
-    title: module.title // Usa el campo "title" del JSON
+    title: module.title, // Usa el campo "title" del JSON
+    type: module.type
   }));
+
+// Separar los cuestionarios en categorías
+const serviciosQuizzes = quizzes.filter((quiz) => quiz.type === 'servicios');
+const leyesQuizzes = quizzes.filter((quiz) => quiz.type === 'leyes');
 ---
 
 <Layout>
 	<h1>Listado de Cuestionarios</h1>
   <input type="text" id="quizFilter" class="filter-input" placeholder="Filtrar">
-	<QuizList quizzes={quizzes} />
+
+  <h2>Cuestionarios de Servicios</h2>
+	<QuizList quizzes={serviciosQuizzes} />
+
+  <h2>Cuestionarios de Leyes</h2>
+  <QuizList quizzes={leyesQuizzes} />
   <p id="noResults" class="no-results" style="display: none;">Ningún test coincide con el filtro.</p>
 
   <a href="https://github.com/artulance/astrocuestion" target="_blank">Ver repositorio</a>
