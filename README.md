@@ -9,6 +9,7 @@ Se ha realizado la siguiente estructura
 
 En src/data guardamos un ejemplo de json test como ejemplo si quieres subir tu propio cuestionario. 
 En src/data/test/ guardamos todos los test en formato json, todos tienen o no una pista en caso de error para mostrarla en pantalla.
+Si se desea que el cuestionario tenga las preguntas con orden aleatorio, se recomienda usar la propiedad "shuffle": true, de lo contrario se pone como valor false o no se pone. (Recomendable poner en false para examenes y pastillas). Para examenes en caso de que una pregunta sea anulada, dejar todas a false
 
 ### ¿Cómo puedo aportar un cuestionario?
 

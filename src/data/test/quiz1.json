@@ -1,6 +1,7 @@
 {
     "title": "Catálogo de servicios",
     "type": "servicios",
+    "shuffle": true,
     "questions": [
       {
         "question": "Comunicaciones Electrónicas Seguras",
@@ -207,6 +208,96 @@
           { "text": "@firma", "isCorrect": false, "hint": "Plataforma de validación de certificados y firmas" },
           { "text": "Apodera", "isCorrect": false, "hint": "Registro electrónico de Apoderamientos de la Administración General del Estado" },
           { "text": "Cliente", "isCorrect": false, "hint": "Cliente de Firma electrónica de @Firma" }
+        ]
+      },
+      {
+        "question": "Sistema Integrado de Gestión de Personal",
+        "options": [
+          { "text": "SIGP", "isCorrect": true },
+          { "text": "OBSAE", "isCorrect": false, "hint": "Observatorio Administracion Electronica" },
+          { "text": "InSiDe", "isCorrect": false, "hint": "Infraestructura y Sistemas de Documentación Electrónica" },
+          { "text": "CTT", "isCorrect": false, "hint": "Centro de Transferencia de Tecnología" }
+        ]
+      },
+      {
+        "question": "Observatorio Administracion Electronica",
+        "options": [
+          { "text": "OBSAE", "isCorrect": true },
+          { "text": "PLATA", "isCorrect": false, "hint": "Plataforma de Traducción Automática" },
+          { "text": "PAe", "isCorrect": false, "hint": "Portal de Administración Electrónica" },
+          { "text": "FIRe", "isCorrect": false, "hint": "Solución Integral de Firma electrónica" }
+        ]
+      },
+      {
+        "question": "Herramienta de trabajo en grupo para intercambio de información y trabajo colaborativo.",
+        "options": [
+          { "text": "CIRCABC", "isCorrect": true },
+          { "text": "Stork", "isCorrect": false, "hint": "Reconocimiento paneuropeo de las identidades electrónicas (DNIe)" },
+          { "text": "Pagos", "isCorrect": false, "hint": "Pasarela de pagos" },
+          { "text": "Port@firmas", "isCorrect": false, "hint": "Firma electrónica de empleado público" }
+        ]
+      },
+      {
+        "question": "Notificaciones electrónicas",
+        "options": [
+          { "text": "SNE", "isCorrect": true },
+          { "text": "Habilit@", "isCorrect": false, "hint": "Registro de Funcionarios Habilitados" },
+          { "text": "Notifica", "isCorrect": false, "hint": "Gestión de notificaciones" },
+          { "text": "PAG", "isCorrect": false, "hint": "Punto de Acceso General" }
+        ]
+      },
+      {
+        "question": "Gestión de notificaciones",
+        "options": [
+          { "text": "Notifica", "isCorrect": true },
+          { "text": "Atuentica", "isCorrect": false, "hint": "Autenticación de empleado público" },
+          { "text": "FUNCIONA", "isCorrect": false, "hint": "Portal del Empleado Público" },
+          { "text": "TS@", "isCorrect": false, "hint": "Plataforma de sellado de tiempo" }
+        ]
+      },
+      {
+        "question": "Sede y gestión electrónica de procedimientos",
+        "options": [
+          { "text": "Acceda", "isCorrect": true },
+          { "text": "SNE", "isCorrect": false, "hint": "Notificaciones electrónicas" },
+          { "text": "Cliente", "isCorrect": false, "hint": "Cliente de Firma electrónica de @Firma" },
+          { "text": "OBSAE", "isCorrect": false, "hint": "Observatorio Administracion Electronica" }
+        ]
+      },
+      {
+        "question": "Registro electrónico de Apoderamientos de la Administración General del Estado",
+        "options": [
+          { "text": "Apodera", "isCorrect": true },
+          { "text": "ALMACÉN", "isCorrect": false, "hint": "Envío y recepción de ficheros de gran tamaño" },
+          { "text": "datos.gob.es", "isCorrect": false, "hint": "Reutilizacion de la información pública" },
+          { "text": "Cliente", "isCorrect": false, "hint": "Cliente de Firma electrónica de @Firma" }
+        ]
+      },
+      {
+        "question": "Servicio centrado en el ciudadano que le facilita su relación con las Administraciones Públicas",
+        "options": [
+          { "text": "Carpeta ciudadana", "isCorrect": true },
+          { "text": "REÚNETE", "isCorrect": false, "hint": "Servicio Común de Reuniones Virtuales" },
+          { "text": "Archive", "isCorrect": false, "hint": "Archivo definitivo de expedientes y documentos" },
+          { "text": "SIRES", "isCorrect": false, "hint": "portal de intercambio de ficheros entre el Registro Central de Personal y otros organismos de la AGE" }
+        ]
+      },
+      {
+        "question": "Punto de Acceso General",
+        "options": [
+          { "text": "PAG", "isCorrect": true },
+          { "text": "SCSP v3", "isCorrect": false, "hint": "Sustitucion de certificados en soporte papel" },
+          { "text": "@firma", "isCorrect": false, "hint": "Plataforma de validación de certificados y firmas" },
+          { "text": "ORVE", "isCorrect": false, "hint": "Oficina de Registro Virtual" }
+        ]
+      },
+      {
+        "question": "Reutilizacion de la información pública",
+        "options": [
+          { "text": "datos.gob.es", "isCorrect": true },
+          { "text": "SERVINOMINA", "isCorrect": false, "hint": "Servicio de Visualización de Nómina en el Portal Funciona" },
+          { "text": "DIR3", "isCorrect": false, "hint": "Directorio Común de Unidades" },
+          { "text": "FIRe", "isCorrect": false, "hint": "Solución Integral de Firma electrónica" }
         ]
       }
     ]

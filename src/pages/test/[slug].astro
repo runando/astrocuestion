@@ -27,8 +27,11 @@ function shuffleArray(array) {
   return array;
 }
 
+// Verifica si el cuestionario tiene la propiedad shuffle en true
+const questions = quiz.shuffle ? shuffleArray([...quiz.questions]) : quiz.questions;
+
 // Creamos una nueva lista de preguntas con opciones desordenadas
-const questionsWithShuffledOptions = quiz.questions.map((question) => ({
+const questionsWithShuffledOptions = questions.map((question) => ({
   ...question,
   options: shuffleArray([...question.options]), // Solo desordenamos las respuestas
 }));

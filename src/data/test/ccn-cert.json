@@ -1,0 +1,224 @@
+{
+    "title": "Herramientas ccn-cert",
+    "type": "servicios",
+    "shuffle": true,
+    "questions": [
+      {
+        "question": "Elaboración de la Documentación de Seguridad",
+        "options": [
+          { "text": "MARGA", "isCorrect": true },
+          { "text": "ATENEA", "isCorrect": false, "hint": "Plataforma de desafíos de seguridad" },
+          { "text": "CLARA", "isCorrect": false, "hint": "Auditoría de Cumplimiento ENS/STIC en Sistemas Windows" },
+          { "text": "ROCIO", "isCorrect": false, "hint": "Inspección de Operación. Auditoría de configuraciones de dispositivos de red" }
+        ]
+      },
+      {
+        "question": "Centro de vacunación",
+        "options": [
+          { "text": "microCLAUDIA", "isCorrect": true },
+          { "text": "VANESA", "isCorrect": false, "hint": "Grabaciones y emisiones de vídeo en streaming" },
+          { "text": "OLVIDO", "isCorrect": false, "hint": "Borrado seguro de datos" },
+          { "text": "CCNDroid", "isCorrect": false, "hint": "Seguridad para Android" }
+        ]
+      },
+      {
+        "question": "Protección y trazabilidad del dato",
+        "options": [
+          { "text": "CARLA", "isCorrect": true },
+          { "text": "ATENEA", "isCorrect": false, "hint": "Plataforma de desafíos de seguridad" },
+          { "text": "IRIS", "isCorrect": false, "hint": "Estado de la ciberseguridad" },
+          { "text": "CCNDroid", "isCorrect": false, "hint": "Seguridad para Android" }
+        ]
+      },
+      {
+        "question": "Seguridad para Android",
+        "options": [
+          { "text": "CCNDroid", "isCorrect": true },
+          { "text": "CARMEN", "isCorrect": false, "hint": "Defensa de ataques avanzados/APT" },
+          { "text": "EMMA", "isCorrect": false, "hint": "Visibilidad y control sobre la red" },
+          { "text": "AMPARO", "isCorrect": false, "hint": "Implantación de seguridad y conformidad del ENS" }
+        ]
+      },
+      {
+        "question": "Sistemas de Gestión Federada de Tickets",
+        "options": [
+          { "text": "LUCIA", "isCorrect": true },
+          { "text": "microCLAUDIA", "isCorrect": false, "hint": "Centro de vacunación" },
+          { "text": "ATENEA", "isCorrect": false, "hint": "Plataforma de desafíos de seguridad" },
+          { "text": "CLAUDIA", "isCorrect": false, "hint": "Herramienta para la detección de amenazas complejas en el puesto de usuario" }
+        ]
+      },
+      {
+        "question": "Análisis y Gestión de Riesgos",
+        "options": [
+          { "text": "PILAR", "isCorrect": true },
+          { "text": "CLAUDIA", "isCorrect": false, "hint": "Herramienta para la detección de amenazas complejas en el puesto de usuario" },
+          { "text": "ATENEA", "isCorrect": false, "hint": "Plataforma de desafíos de seguridad" },
+          { "text": "LUCIA", "isCorrect": false, "hint": "Sistemas de Gestión Federada de Tickets" }
+        ]
+      },
+      {
+        "question": "Gestor de logs para responder ante incidentes y amenazas",
+        "options": [
+          { "text": "GLORIA", "isCorrect": true },
+          { "text": "AMPARO", "isCorrect": false, "hint": "Implantación de seguridad y conformidad del ENS" },
+          { "text": "MARTA", "isCorrect": false, "hint": "Análisis avanzados de ficheros" },
+          { "text": "ATENEA", "isCorrect": false, "hint": "Plataforma de desafíos de seguridad" }
+        ]
+      },
+      {
+        "question": "Implantación de seguridad y conformidad del ENS",
+        "options": [
+          { "text": "AMPARO", "isCorrect": true },
+          { "text": "EMMA", "isCorrect": false, "hint": "Visibilidad y control sobre la red" },
+          { "text": "MÓNICA", "isCorrect": false, "hint": "Gestión de eventos e información de seguridad" },
+          { "text": "INES", "isCorrect": false, "hint": "Informe de Estado de Seguridad en el ENS" }
+        ]
+      },
+      {
+        "question": "Inspección de Operación. Auditoría de configuraciones de dispositivos de red",
+        "options": [
+          { "text": "ROCIO", "isCorrect": true },
+          { "text": "ATENEA", "isCorrect": false, "hint": "Plataforma de desafíos de seguridad" },
+          { "text": "CLAUDIA", "isCorrect": false, "hint": "Herramienta para la detección de amenazas complejas en el puesto de usuario" },
+          { "text": "LUCIA", "isCorrect": false, "hint": "Sistemas de Gestión Federada de Tickets" }
+        ]
+      },
+      {
+        "question": "Almacenamiento en la nube",
+        "options": [
+          { "text": "LORETO", "isCorrect": true },
+          { "text": "MARTA", "isCorrect": false, "hint": "Análisis avanzados de ficheros" },
+          { "text": "CARLA", "isCorrect": false, "hint": "Protección y trazabilidad del dato" },
+          { "text": "ANA", "isCorrect": false, "hint": "Automatización y normalización de auditorías" }
+        ]
+      },
+      {
+        "question": "Simulador de Técnicas de Cibervigilancia",
+        "options": [
+          { "text": "ELENA", "isCorrect": true },
+          { "text": "REYES", "isCorrect": false, "hint": "Intercambio de Información de Ciberamenazas" },
+          { "text": "MARGA", "isCorrect": false, "hint": "Elaboración de la Documentación de Seguridad" },
+          { "text": "ANA", "isCorrect": false, "hint": "Automatización y normalización de auditorías" }
+        ]
+      },
+      {
+        "question": "Automatización y normalización de auditorías",
+        "options": [
+          { "text": "ANA", "isCorrect": true },
+          { "text": "PILAR", "isCorrect": false, "hint": "Análisis y Gestión de Riesgos" },
+          { "text": "CARLA", "isCorrect": false, "hint": "Protección y trazabilidad del dato" },
+          { "text": "ROCIO", "isCorrect": false, "hint": "Inspección de Operación. Auditoría de configuraciones de dispositivos de red" }
+        ]
+      },
+      {
+        "question": "Plataforma de desafíos de seguridad",
+        "options": [
+          { "text": "ATENEA", "isCorrect": true },
+          { "text": "OLVIDO", "isCorrect": false, "hint": "Borrado seguro de datos" },
+          { "text": "MARTA", "isCorrect": false, "hint": "Análisis avanzados de ficheros" },
+          { "text": "IRIS", "isCorrect": false, "hint": "Estado de la ciberseguridad" }
+        ]
+      },
+      {
+        "question": "Informe de Estado de Seguridad en el ENS",
+        "options": [
+          { "text": "INES", "isCorrect": true },
+          { "text": "AMPARO", "isCorrect": false, "hint": "Implantación de seguridad y conformidad del ENS" },
+          { "text": "EMMA", "isCorrect": false, "hint": "Visibilidad y control sobre la red" },
+          { "text": "VANESA", "isCorrect": false, "hint": "Grabaciones y emisiones de vídeo en streaming" }
+        ]
+      },
+      {
+        "question": "Borrado seguro de datos",
+        "options": [
+          { "text": "OLVIDO", "isCorrect": true },
+          { "text": "microCLAUDIA", "isCorrect": false, "hint": "Centro de vacunación" },
+          { "text": "ATENEA ", "isCorrect": false, "hint": "Plataforma de desafíos de seguridad" },
+          { "text": "CLAUDIA", "isCorrect": false, "hint": "Herramienta para la detección de amenazas complejas en el puesto de usuario" }
+        ]
+      },
+      {
+        "question": "Intercambio de Información de Ciberamenazas",
+        "options": [
+          { "text": "REYES", "isCorrect": true },
+          { "text": "MARTA", "isCorrect": false, "hint": "Análisis avanzados de ficheros" },
+          { "text": "VANESA", "isCorrect": false, "hint": "Grabaciones y emisiones de vídeo en streaming" },
+          { "text": "CLAUDIA", "isCorrect": false, "hint": "Herramienta para la detección de amenazas complejas en el puesto de usuario" }
+        ]
+      },
+      {
+        "question": "Gestión de eventos e información de seguridad",
+        "options": [
+          { "text": "MÓNICA", "isCorrect": true },
+          { "text": "IRIS", "isCorrect": false, "hint": "Estado de la ciberseguridad" },
+          { "text": "REYES", "isCorrect": false, "hint": "Intercambio de Información de Ciberamenazas" },
+          { "text": "PILAR", "isCorrect": false, "hint": "Análisis y Gestión de Riesgos" }
+        ]
+      },
+      {
+        "question": "Visibilidad y control sobre la red",
+        "options": [
+          { "text": "EMMA", "isCorrect": true },
+          { "text": "OLVIDO ", "isCorrect": false, "hint": "Borrado seguro de datos" },
+          { "text": "CARLA", "isCorrect": false, "hint": "Protección y trazabilidad del dato" },
+          { "text": "IRIS", "isCorrect": false, "hint": "Estado de la ciberseguridad" }
+        ]
+      },
+      {
+        "question": "Análisis avanzados de ficheros",
+        "options": [
+          { "text": "MARTA", "isCorrect": true },
+          { "text": "CLARA ", "isCorrect": false, "hint": "Auditoría de Cumplimiento ENS/STIC en Sistemas Windows" },
+          { "text": "ANA", "isCorrect": false, "hint": "Automatización y normalización de auditorías" },
+          { "text": "REYES", "isCorrect": false, "hint": "Intercambio de Información de Ciberamenazas" }
+        ]
+      },
+      {
+        "question": "Estado de la ciberseguridad",
+        "options": [
+          { "text": "IRIS", "isCorrect": true },
+          { "text": "GLORIA ", "isCorrect": false, "hint": "Gestor de logs para responder ante incidentes y amenazas" },
+          { "text": "MÓNICA", "isCorrect": false, "hint": "Gestión de eventos e información de seguridad" },
+          { "text": "ROCIO", "isCorrect": false, "hint": "Inspección de Operación. Auditoría de configuraciones de dispositivos de red" }
+        ]
+      },
+      {
+        "question": "Herramienta para la detección de amenazas complejas en el puesto de usuario",
+        "options": [
+          { "text": "CLAUDIA", "isCorrect": true },
+          { "text": "PILAR", "isCorrect": false, "hint": "Análisis y Gestión de Riesgos" },
+          { "text": "IRIS", "isCorrect": false, "hint": "Estado de la ciberseguridad" },
+          { "text": "CARMEN", "isCorrect": false, "hint": "Defensa de ataques avanzados/APT" }
+        ]
+      },
+      {
+        "question": "Grabaciones y emisiones de vídeo en streaming",
+        "options": [
+          { "text": "VANESA", "isCorrect": true },
+          { "text": "REYES", "isCorrect": false, "hint": "Intercambio de Información de Ciberamenazas" },
+          { "text": "ELENA", "isCorrect": false, "hint": "Simulador de Técnicas de Cibervigilancia" },
+          { "text": "CLAUDIA", "isCorrect": false, "hint": "Herramienta para la detección de amenazas complejas en el puesto de usuario" }
+        ]
+      },
+      {
+        "question": "Auditoría de Cumplimiento ENS/STIC en Sistemas Windows",
+        "options": [
+          { "text": "CLARA", "isCorrect": true },
+          { "text": "LUCIA", "isCorrect": false, "hint": "Sistemas de Gestión Federada de Tickets" },
+          { "text": "MÓNICA", "isCorrect": false, "hint": "Gestión de eventos e información de seguridad" },
+          { "text": "CCNDroid", "isCorrect": false, "hint": "Seguridad para Android" }
+        ]
+      },
+      {
+        "question": "Defensa de ataques avanzados/APT",
+        "options": [
+          { "text": "CARMEN", "isCorrect": true },
+          { "text": "ELENA", "isCorrect": false, "hint": "Simulador de Técnicas de Cibervigilancia" },
+          { "text": "microCLAUDIA", "isCorrect": false, "hint": "Centro de vacunación" },
+          { "text": "IRIS", "isCorrect": false, "hint": "Estado de la ciberseguridad" }
+        ]
+      }
+    ]
+  }
+  

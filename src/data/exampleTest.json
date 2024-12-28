@@ -1,6 +1,7 @@
 {
     "title": "Plantilla de cuestionario",
     "type": "tipo",
+    "shuffle": true,
     "questions": [
       {
         "question": "¿Es esta la pregunta uno?",
