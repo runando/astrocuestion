@@ -1,0 +1,727 @@
+{
+    "title": "CUESTIONARIO 18-TAI\u2013PI - B2-4",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "10. Indique qu\u00e9 ordenaci\u00f3n es correcta respecto a la velocidad de acceso a los datos en distintos tipos de memoria de m\u00e1s r\u00e1pida a menos r\u00e1pida:",
+            "options": [
+                {
+                    "text": "a) Registros de la CPU, Memoria Cach\u00e9, Memoria Principal (RAM), Discos magn\u00e9ticos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Internet Message Access Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": ") Aumenta la velocidad de transferencia de datos sobre la versi\u00f3n anterior",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Hipervisor tipo 2.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11. La especificaci\u00f3n USB 3.2:",
+            "options": [
+                {
+                    "text": ") Aumenta la velocidad de transferencia de datos sobre la versi\u00f3n anterior",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Hipervisor tipo 2.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) a:0; B:0",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Internet Message Access Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12. En relaci\u00f3n con las funciones l\u00f3gicas b\u00e1sicas. Suponiendo que a=1 y b=1, \u00bfcu\u00e1l de las siguientes sentencias es correcta?",
+            "options": [
+                {
+                    "text": "a) a XNOR b=1",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) getfacl",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) El grado de un nodo es el n\u00famero de aristas que inciden a ese nodo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) TIER 2",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. En relaci\u00f3n a la teor\u00eda de grafos, indique la afirmaci\u00f3n correcta:",
+            "options": [
+                {
+                    "text": "a) El grado de un nodo es el n\u00famero de aristas que inciden a ese nodo",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 8 bits.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 1310 y 1550 nm.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 183.45.33.12",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14. Un algoritmo de ordenaci\u00f3n cuyo funcionamiento se basa en la elecci\u00f3n de un elemento llamado pivote es:",
+            "options": [
+                {
+                    "text": "c) Quicksort.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) APFS",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) ElGamal",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Hipervisor tipo 2.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15. Se\u00f1ale cu\u00e1l de los siguientes formatos de archivo de configuraci\u00f3n de inicializaci\u00f3n de Windows 10:",
+            "options": [
+                {
+                    "text": "a) .ini",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 183.45.33.12",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 8 bits.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Cifrado.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. En Linux, el directorio \/boot:",
+            "options": [
+                {
+                    "text": "b) Es el directorio que incluye todos los ejecutables y archivos necesarios en el proceso de arranque del sistema.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Permite ver fas \u00faltimas l\u00edneas de un fichero",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) El grado de un nodo es el n\u00famero de aristas que inciden a ese nodo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 1310 y 1550 nm.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17. La utilidad del comando 'tail' en UNIX es:",
+            "options": [
+                {
+                    "text": "a) Permite ver fas \u00faltimas l\u00edneas de un fichero",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Capa sesi\u00f3n",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Es el directorio que incluye todos los ejecutables y archivos necesarios en el proceso de arranque del sistema.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Cifrado.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18. La versi\u00f3n Pie de Android se corresponde con la versi\u00f3n:",
+            "options": [
+                {
+                    "text": "c) 9.0",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) El grado de un nodo es el n\u00famero de aristas que inciden a ese nodo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) WSUS",
+                    "isCorrect": false,
+                    "hint": "Windows Server update service"
+                },
+                {
+                    "text": "b) TIER 2",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "33. En el lenguaje de script Powershell, indique qu\u00e9 comando (cmdlet) utilizar\u00eda si quisiera crear un alias de otro cmdlet:",
+            "options": [
+                {
+                    "text": "d) set-alias",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El cliente.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) El grado de un nodo es el n\u00famero de aristas que inciden a ese nodo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) &lt;big&gt;",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "34. Indique cu\u00e1l de las siguientes herramientas se utilizar\u00eda en caso de querer garantizar la confidencialidad de la informaci\u00f3n:",
+            "options": [
+                {
+                    "text": "d) Cifrado.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Capa sesi\u00f3n",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Registros de la CPU, Memoria Cach\u00e9, Memoria Principal (RAM), Discos magn\u00e9ticos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) net user pepe *",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "35. En sistemas Linux, \u00bfqu\u00e9 comando muestra en pantalla por cada archivo el nombre de archivo, propietario y grupo, entre otra informaci\u00f3n?",
+            "options": [
+                {
+                    "text": "c) getfacl",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) WSUS",
+                    "isCorrect": false,
+                    "hint": "Windows Server update service"
+                },
+                {
+                    "text": "c) 9.0",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) ElGamal",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "36. Indique cu\u00e1l de los siguientes t\u00e9rminos se corresponde con un servicio que permite a los administradores de tecnolog\u00edas de la informaci\u00f3n implementar las actualizaciones de productos de Microsoft m\u00e1s recientes:",
+            "options": [
+                {
+                    "text": "c) WSUS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Registros de la CPU, Memoria Cach\u00e9, Memoria Principal (RAM), Discos magn\u00e9ticos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) &lt;big&gt;",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) TIER 2",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37. En el contexto de la virtualizaci\u00f3n de sistemas, indique cu\u00e1l de los siguientes hipervisores se comportar\u00eda como un programa m\u00e1s ejecut\u00e1ndose sobre el sistema operativo instalado sobre la m\u00e1quina real:",
+            "options": [
+                {
+                    "text": "a) Hipervisor tipo 2.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Internet Message Access Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) El cliente.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) WSUS",
+                    "isCorrect": false,
+                    "hint": "Windows Server update service"
+                }
+            ]
+        },
+        {
+            "question": "38. \u00bfA qu\u00e9 se corresponden las siglas del protocolo IMAP?",
+            "options": [
+                {
+                    "text": "d) Internet Message Access Protocol.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) .ini",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) APFS",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) set-alias",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39. Seleccione entre los protocolos siguientes aquel que se emplea en el env\u00edo de correos electr\u00f3nicos entre servidores de correo:",
+            "options": [
+                {
+                    "text": "b) SMTP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) WSUS",
+                    "isCorrect": false,
+                    "hint": "Windows Server update service"
+                },
+                {
+                    "text": "d) Internet Message Access Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) APFS",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "40. \u00bfDesde l\u00ednea de comandos, en Windows 10, con los privilegios adecuados, c\u00f3mo podemos cambiar la contrase\u00f1a de un usuario llamado \"pepe\"?",
+            "options": [
+                {
+                    "text": "d) net user pepe *",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) a:0; B:0",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Capa sesi\u00f3n",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 443",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "41. \u00bfCu\u00e1l de los siguientes es un algoritmo de cifrado asim\u00e9trico?",
+            "options": [
+                {
+                    "text": "c) ElGamal",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 183.45.33.12",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) El grado de un nodo es el n\u00famero de aristas que inciden a ese nodo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Capa sesi\u00f3n",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "42. Indique qu\u00e9 longitudes de onda son las apropiadas para utilizar con fibra monomodo:",
+            "options": [
+                {
+                    "text": "a) 1310 y 1550 nm.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) WSUS",
+                    "isCorrect": false,
+                    "hint": "Windows Server update service"
+                },
+                {
+                    "text": "c) Quicksort.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Permite ver fas \u00faltimas l\u00edneas de un fichero",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "43. En una transmisi\u00f3n se env\u00edan secuencialmente dos tramas (A:0111011 ; B:0011100), Para incorporar un mecanismo de detecci\u00f3n de errores se va a a\u00f1adir un bit de paridad impar a cada una. \u00bfCu\u00e1les ser\u00edan los bits de paridad impar en cada caso?",
+            "options": [
+                {
+                    "text": "a) a:0; B:0",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Es el directorio que incluye todos los ejecutables y archivos necesarios en el proceso de arranque del sistema.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SMTP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) APFS",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "44. Se\u00f1ale la respuesta INCORRECTA en relaci\u00f3n con la tecnolog\u00eda Bluetooth:",
+            "options": [
+                {
+                    "text": "d) Los sistemas Bluetooth operan en la banda ISM de los 5 GHz.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) ElGamal",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) net user pepe *",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Es el directorio que incluye todos los ejecutables y archivos necesarios en el proceso de arranque del sistema.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "45. En IPv6, el campo \"Clase de Tr\u00e1fico\" tiene un tama\u00f1o de:",
+            "options": [
+                {
+                    "text": "b) 8 bits.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) getfacl",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": ") Aumenta la velocidad de transferencia de datos sobre la versi\u00f3n anterior",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SMTP",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "46. Seg\u00fan el modelo OSI, \u00bfen qu\u00e9 capa quedar\u00eda encuadrado el protocolo RPC?",
+            "options": [
+                {
+                    "text": "c) Capa sesi\u00f3n",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) WSUS",
+                    "isCorrect": false,
+                    "hint": "Windows Server update service"
+                },
+                {
+                    "text": "d) Cifrado.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Los sistemas Bluetooth operan en la banda ISM de los 5 GHz.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "47. Indique cu\u00e1l de las siguientes direcciones iPv4 es una direcci\u00f3n IP clase B asignable:",
+            "options": [
+                {
+                    "text": "d) 183.45.33.12",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) net user pepe *",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Los sistemas Bluetooth operan en la banda ISM de los 5 GHz.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Cifrado.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "48. Qu\u00e9 puerto utiliza por defecto HTTPS?",
+            "options": [
+                {
+                    "text": "d) 443",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) a XNOR b=1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Registros de la CPU, Memoria Cach\u00e9, Memoria Principal (RAM), Discos magn\u00e9ticos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) WSUS",
+                    "isCorrect": false,
+                    "hint": "Windows Server update service"
+                }
+            ]
+        },
+        {
+            "question": "49. Se\u00f1ale cu\u00e1l de las siguientes etiquetas ha sido eliminada en HTML5:",
+            "options": [
+                {
+                    "text": "a) &lt;big&gt;",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) WSUS",
+                    "isCorrect": false,
+                    "hint": "Windows Server update service"
+                },
+                {
+                    "text": ") Aumenta la velocidad de transferencia de datos sobre la versi\u00f3n anterior",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) set-alias",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "50. En un protocolo de conexi\u00f3n TLS v1.3, \u00bfqui\u00e9n inicia la conexi\u00f3n en el proceso Handshake?",
+            "options": [
+                {
+                    "text": "b) El cliente.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Internet Message Access Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) net user pepe *",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) .ini",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2. Seleccione, de entre los siguientes niveles de array de discos RAID, aquel que emplee c\u00f3digos Hamming para la correcci\u00f3n de errores en disco:",
+            "options": [
+                {
+                    "text": "b) RAID 2",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) set-alias",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) TIER 2",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 443",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 4. Cu\u00e1l de los siguientes sistemas de archivos, especialmente dise\u00f1ado para optimizar dispositivos con memorias SSD, es el sucesor de HFS+",
+            "options": [
+                {
+                    "text": "b) APFS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) RAID 2",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Internet Message Access Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SMTP",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 5. Seg\u00fan est\u00e1ndar ANSI\/TIA 942, \u00bfa qu\u00e9 TIER debe corresponderse un CPD para cumplir con un grado de disponibilidad del 99,741%?",
+            "options": [
+                {
+                    "text": "b) TIER 2",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) SMTP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) a XNOR b=1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": ") Aumenta la velocidad de transferencia de datos sobre la versi\u00f3n anterior",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,679 @@
+{
+    "title": "CUESTIONARIO 16-TAI\u2013PI - B4",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1. Indique cu\u00e1l de las siguientes funciones NO es propia de un administrador del sistema: ",
+            "options": [
+                {
+                    "text": "c) Test de integraci\u00f3n de las aplicaciones. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) La versi\u00f3n 3 del protocolo permite el uso de AES (Advanced Encryption Standard). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Fibra \u00f3ptica. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SPF ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2. \u00bfCu\u00e1l de las siguientes herramientas est\u00e1 dise\u00f1ada para administrar la configuraci\u00f3n de sistemas similares a Unix y a Microsoft Windows de forma declarativa y dispone de una interfaz gr\u00e1fica para la gesti\u00f3n? ",
+            "options": [
+                {
+                    "text": "a) Puppet ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) aparentemente vulnerables (reales o simulados) cuya intenci\u00f3n es atraer a los atacantes. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Secuestro de sesi\u00f3n: El atacante espera a que la v\u00edctima se identifique ante el sistema y tras ello le suplanta como usuario autorizado",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) OpenVPN ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. Indique cu\u00e1l es el resultado de la ejecuci\u00f3n del comando \u201ccat fichero | wc -l\u201d en Unix: ",
+            "options": [
+                {
+                    "text": "b) El n\u00famero de l\u00edneas que tiene fichero. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 8 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Multicast ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Entornos de redes compartidas, ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4. En Linux, \u00bfcu\u00e1l es la finalidad del comando modprobe? ",
+            "options": [
+                {
+                    "text": "b) A\u00f1ade o elimina m\u00f3dulos del kernel de Linux. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) La versi\u00f3n 3 del protocolo permite el uso de AES (Advanced Encryption Standard). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Entornos de redes compartidas, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) postfix ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "5. El protocolo que protege contra la falsificaci\u00f3n de direcciones en el env\u00edo de correo electr\u00f3nico identificando a los servidores de correo SMTP auterizados para el transporte de los mensajes a trav\u00e9s de los registros de nombres de dominio (DNS) es: ",
+            "options": [
+                {
+                    "text": "b) SPF ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Test de integraci\u00f3n de las aplicaciones. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 100.96.0.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Los XML-Firewall analizan mensajes XML, por lo que son especialmente indicados para arquitecturas basadas en servicios web. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "6. La RFC 2142 recopila las llamadas Well Known Mailboxes, se\u00f1ale de entre las siguientes, cu\u00e1l NO es una direcci\u00f3n recogida en dicho documento: ",
+            "options": [
+                {
+                    "text": "a) Host: para notificaciones sobre DNS. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Los XML-Firewall analizan mensajes XML, por lo que son especialmente indicados para arquitecturas basadas en servicios web. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Hacen referencia al \u00edndice de zona, esta direcci\u00f3n se ha obtenido de un sistema Windows ya que el identificador que sigue al signo de porcentaje es un n\u00famero, que indica el interface al que corresponde la direcci\u00f3n IP. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) circuitos: los paquetes llegar en orden. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "7. En Tecnolog\u00edas de la Informaci\u00f3n, se habla del modo promiscuo en el contexto: ",
+            "options": [
+                {
+                    "text": "d) Entornos de redes compartidas, ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 192.168.255.25 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Puppet ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Es un consorcio de roaming WIFI global, que ofrece a los miembros de la comunidad educativa y de investigaci\u00f3n acceso a Internet gratis utilizando las credenciales de su instituci\u00f3n de origen.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "8. Cu\u00e1l de las siguientes direcciones IPv4 permite direccionar un host? ",
+            "options": [
+                {
+                    "text": "d) 192.168.255.25 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 100.96.0.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) IEEE 802.11p ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SPF ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "9. En relaci\u00f3n al protocolo Simple Network Management Protocol (SNMP), se\u00f1ale la afirmaci\u00f3n VERDADERA:",
+            "options": [
+                {
+                    "text": "c) La versi\u00f3n 3 del protocolo permite el uso de AES (Advanced Encryption Standard). ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) IEEE 802.15.7 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Hacen referencia al \u00edndice de zona, esta direcci\u00f3n se ha obtenido de un sistema Windows ya que el identificador que sigue al signo de porcentaje es un n\u00famero, que indica el interface al que corresponde la direcci\u00f3n IP. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 192.168.255.25 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "10. En un sistema UNIX el comando \"iw dev <interface name>\" (<interface name> es uno de los posibles dispositivos existentes en la m\u00e1quina), muestra al administrador de redes la informaci\u00f3n de la configuraci\u00f3n de: ",
+            "options": [
+                {
+                    "text": "d) la interfaz inal\u00e1mbrica en la m\u00e1quina. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 8 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 100.96.0.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Test de integraci\u00f3n de las aplicaciones. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11. En el \u00e1mbito de la seguridad, \u00bfqu\u00e9 se conoce como IP Splicing-Hijacking? ",
+            "options": [
+                {
+                    "text": "a) Secuestro de sesi\u00f3n: El atacante espera a que la v\u00edctima se identifique ante el sistema y tras ello le suplanta como usuario autorizado",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) la interfaz inal\u00e1mbrica en la m\u00e1quina. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SPF ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) El n\u00famero de l\u00edneas que tiene fichero. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12. Los conectores ST y SC se utilizan para conexiones de: ",
+            "options": [
+                {
+                    "text": "a) Fibra \u00f3ptica. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) A\u00f1ade o elimina m\u00f3dulos del kernel de Linux. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) hora.roa.es ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 192.168.255.25 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. Indique la respuesta correcta, en un sistema de comunicaciones basado en conmutaci\u00f3n de: ",
+            "options": [
+                {
+                    "text": "c) circuitos: los paquetes llegar en orden. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) La versi\u00f3n 3 del protocolo permite el uso de AES (Advanced Encryption Standard). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Secuestro de sesi\u00f3n: El atacante espera a que la v\u00edctima se identifique ante el sistema y tras ello le suplanta como usuario autorizado",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Entornos de redes compartidas, ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14. De las siguientes opciones, \u00bfcu\u00e1l es una t\u00e9cnica de transmisi\u00f3n de se\u00f1ales a trav\u00e9s de fibra \u00f3ptica? ",
+            "options": [
+                {
+                    "text": "a) DWDM ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 192.168.255.25 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Secuestro de sesi\u00f3n: El atacante espera a que la v\u00edctima se identifique ante el sistema y tras ello le suplanta como usuario autorizado",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) la interfaz inal\u00e1mbrica en la m\u00e1quina. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15. El est\u00e1ndar que define las comunicaciones VLC (Visible Light Communication) es: ",
+            "options": [
+                {
+                    "text": "c) IEEE 802.15.7 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) IEEE 802.11p ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) A\u00f1ade o elimina m\u00f3dulos del kernel de Linux. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) OpenVPN ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. Eduroam es:",
+            "options": [
+                {
+                    "text": "d) Es un consorcio de roaming WIFI global, que ofrece a los miembros de la comunidad educativa y de investigaci\u00f3n acceso a Internet gratis utilizando las credenciales de su instituci\u00f3n de origen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Puppet ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) hora.roa.es ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Multicast ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17. Versi\u00f3n del est\u00e1ndar IEEE 802.11 que se ha dise\u00f1ado para permitir el intercambio de datos entre veh\u00edculos y entre autom\u00f3viles e infraestructuras en carretera: ",
+            "options": [
+                {
+                    "text": "c) IEEE 802.11p ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) SPF ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Entornos de redes compartidas, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Los XML-Firewall analizan mensajes XML, por lo que son especialmente indicados para arquitecturas basadas en servicios web. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18. En una m\u00e1quina conectada a la red ejecutamos el comando ipconfig o ifconfig y nos encontramos con la siguiente direcci\u00f3n IP: fe80::9d03:62a4:a670:911e%3 \u00bfCu\u00e1l es el significado de los caracteres \"%3\" en dicha direcci\u00f3n IP? ",
+            "options": [
+                {
+                    "text": "c) Hacen referencia al \u00edndice de zona, esta direcci\u00f3n se ha obtenido de un sistema Windows ya que el identificador que sigue al signo de porcentaje es un n\u00famero, que indica el interface al que corresponde la direcci\u00f3n IP. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) postfix ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Servicio no disponible. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Multicast ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "19. La direcci\u00f3n de red asociada a la IP 100.100.14.35 con m\u00e1scara de red 255.240.0.0 es: ",
+            "options": [
+                {
+                    "text": "c) 100.96.0.0 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Los XML-Firewall analizan mensajes XML, por lo que son especialmente indicados para arquitecturas basadas en servicios web. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SPF ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Multicast ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "20. En IPv6, las direcciones FF00::\/8 son: ",
+            "options": [
+                {
+                    "text": "b) Multicast ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) aparentemente vulnerables (reales o simulados) cuya intenci\u00f3n es atraer a los atacantes. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) IEEE 802.11p ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Los XML-Firewall analizan mensajes XML, por lo que son especialmente indicados para arquitecturas basadas en servicios web. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "21. Tras una solicitud HTTP, el c\u00f3digo de respuesta 503 indica: ",
+            "options": [
+                {
+                    "text": "c) Servicio no disponible. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Es un consorcio de roaming WIFI global, que ofrece a los miembros de la comunidad educativa y de investigaci\u00f3n acceso a Internet gratis utilizando las credenciales de su instituci\u00f3n de origen.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) El n\u00famero de l\u00edneas que tiene fichero. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) IEEE 802.11p ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. \u00bfCu\u00e1l de los siguientes es un servidor de correo en distribuciones Linux? ",
+            "options": [
+                {
+                    "text": "c) postfix ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Test de integraci\u00f3n de las aplicaciones. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Puppet ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) hora.roa.es ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. Una de las posibles difusiones de la hora legal espa\u00f1ola se realiza mediante el uso del protocolo NTP. De entre las siguientes opciones, \u00bfcu\u00e1l es el servidor oficial a trav\u00e9s del que se debe realizar dicha petici\u00f3n? ",
+            "options": [
+                {
+                    "text": "d) hora.roa.es ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Test de integraci\u00f3n de las aplicaciones. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SPF ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 8 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. La soluci\u00f3n VPN, que es open source y hace uso del est\u00e1ndar SSL\/TLS se denomina:",
+            "options": [
+                {
+                    "text": "c) OpenVPN ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) hora.roa.es ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Servicio no disponible. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Test de integraci\u00f3n de las aplicaciones. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. Se\u00f1ale la afirmaci\u00f3n verdadera: ",
+            "options": [
+                {
+                    "text": "a) Los XML-Firewall analizan mensajes XML, por lo que son especialmente indicados para arquitecturas basadas en servicios web. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Test de integraci\u00f3n de las aplicaciones. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) IEEE 802.15.7 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) circuitos: los paquetes llegar en orden. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. \u00bfCu\u00e1l es el tama\u00f1o en bits del campo Next Header en una cabecera del protocolo AH de IPSEC? ",
+            "options": [
+                {
+                    "text": "a) 8 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) SPF ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Host: para notificaciones sobre DNS. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Entornos de redes compartidas, ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2. La Gu\u00eda CCN-STIC-461 sobre seguridad en Drupal, recomienda una vez instalado cambiar ei usuario  administrador de la base de datos MySQL, \u00bfcu\u00e1l ser\u00eda ese comando para una versi\u00f3n de MySQL superior a la  5.0.2? ",
+            "options": [
+                {
+                    "text": "c) RENAME USER root TO nuevo_user ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) OpenVPN ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 100.96.0.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Hacen referencia al \u00edndice de zona, esta direcci\u00f3n se ha obtenido de un sistema Windows ya que el identificador que sigue al signo de porcentaje es un n\u00famero, que indica el interface al que corresponde la direcci\u00f3n IP. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 3. En el \u00e1mbito de la seguridad de los sistemas inform\u00e1ticos, los sistemas \"honeypots\u201d son sistemas: ",
+            "options": [
+                {
+                    "text": "a) aparentemente vulnerables (reales o simulados) cuya intenci\u00f3n es atraer a los atacantes. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) DWDM ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Hacen referencia al \u00edndice de zona, esta direcci\u00f3n se ha obtenido de un sistema Windows ya que el identificador que sigue al signo de porcentaje es un n\u00famero, que indica el interface al que corresponde la direcci\u00f3n IP. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) RENAME USER root TO nuevo_user ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

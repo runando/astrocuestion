@@ -1,0 +1,775 @@
+{
+    "title": "Administraci\u00f3n Bases de Datos",
+    "type": "bloque2",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "Con cu\u00e1l de los siguientes comandos podemos saber la versi\u00f3n de una base de datos Oracle?",
+            "options": [
+                {
+                    "text": "SELECT version, version_full FROM v$instance;",
+                    "isCorrect": true
+                },
+                {
+                    "text": "root",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "BCP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "LOAD DATA INFILE",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Con cu\u00e1l de los siguientes comandos podemos saber la versi\u00f3n de una base de datos Oracle?",
+            "options": [
+                {
+                    "text": "SELECT * FROM PRODUCT_COMPONENT_VERSION;",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SQL Server Management Studio (SSMS)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "GRANT OPTION",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "rman",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Una pieza crucial en cualquier sistema inform\u00e1tico son las BBDD. Le han informado que tanto la DCM como la CHT utilizan Oracle, pero no le han dicho la versi\u00f3n. \u00bfQu\u00e9 consulta podr\u00eda hacer en la base de datos para conocer esta informaci\u00f3n?",
+            "options": [
+                {
+                    "text": "SELECT * FROM V$VERSION",
+                    "isCorrect": true
+                },
+                {
+                    "text": "flashback_time",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "SELECT * FROM PRODUCT_COMPONENT_VERSION;",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "root",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Le envian un correo electr\u00f3nico con la nueva cadena de conexi\u00f3n a la base de datos Oracle, \u00bfen que fichero ha de configurarlo?",
+            "options": [
+                {
+                    "text": "tnsnames.ora",
+                    "isCorrect": true
+                },
+                {
+                    "text": "select postgres_version from server_info",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Oracle Enterprise Manager Cloud Control",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "mysqladmin",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Indique qu\u00e9 par\u00e1metro de \u201cexpdp\" debemos utilizar para que un proceso de exportaci\u00f3n de datos en Oracle sea consistente en el tiempo",
+            "options": [
+                {
+                    "text": "flashback_time",
+                    "isCorrect": true
+                },
+                {
+                    "text": "createdb",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "COPY",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "pg_restore se utiliza para restaurar copias de seguridad generadas por pg_dump. Psql puede restaurar una copia de seguridad l\u00f3gica generada por pg_dump solo si la copia de seguridad est\u00e1 en formato de texto plano.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Para hacer una copia de seguridad f\u00edsica en Oracle, usaremos la herramienta:",
+            "options": [
+                {
+                    "text": "rman",
+                    "isCorrect": true
+                },
+                {
+                    "text": "pg_dump",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "root",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "SELECT * FROM V$VERSION",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Para hacer una copia de seguridad l\u00f3gica de uno o m\u00e1s esquemas de base de datos en Oracle, usaremos la herramienta:",
+            "options": [
+                {
+                    "text": "expdp",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SELECT version, version_full FROM v$instance;",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "SYS y SYSTEM",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "LOAD DATA INFILE",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Como elemento clave en la infraestructura, las actuales bases de datos Oracle requieren una atenci\u00f3n extra con respecto al resto de sistemas. \u00bfQu\u00e9 software instalar\u00eda para tener un mayor control sobre las mismas?",
+            "options": [
+                {
+                    "text": "Oracle Enterprise Manager Cloud Control",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SELECT * FROM V$VERSION",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "GRANT ALL ON base_de_datos.* TO 'usuario'@'host';",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "postgres",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Con qu\u00e9 herramienta haremos una copia de seguridad l\u00f3gica en mysql?",
+            "options": [
+                {
+                    "text": "mysqldump",
+                    "isCorrect": true
+                },
+                {
+                    "text": "rman",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "createdb",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Oracle Enterprise Manager Cloud Control",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Con que herramienta haremos una copia de seguridad l\u00f3gica en PostrgeSQL?",
+            "options": [
+                {
+                    "text": "pg_dump",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SELECT * FROM PRODUCT_COMPONENT_VERSION;",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "BULK INSERT",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "REVOKE ALL ON base_de_datos FROM 'usuario'@'host';",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Qu\u00e9 herramienta de l\u00ednea de comandos  puede ser utilizada para realizar copias de seguridad l\u00f3gicas de una tabla o vista espec\u00edfica mediante la exportaci\u00f3n de los datos a un archivo en SQL Server?",
+            "options": [
+                {
+                    "text": "BCP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "GRANT ALL ON base_de_datos.* TO 'usuario'@'host';",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "GRANT OPTION",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "No se crea ning\u00fan usuario por defecto",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Como ser\u00eda el comando correcto para importar una copia de seguridad l\u00f3gica creada con pg_dump en PostgreSQL?",
+            "options": [
+                {
+                    "text": "pg_restore -U username -d mydatabase mydatabase.backup",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mysqldump --all-databases -u u_mysql -pxyz > \/tmp\/backup.sql",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "sqlldr (SQL*Loader)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "LOAD DATA INFILE",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Como ser\u00eda el comando correcto para importar una copia de seguridad l\u00f3gica en mysql?",
+            "options": [
+                {
+                    "text": " mysql -u username -p mydatabase < mydatabase.sql",
+                    "isCorrect": true
+                },
+                {
+                    "text": "pg_restore se utiliza para restaurar copias de seguridad generadas por pg_dump. Psql puede restaurar una copia de seguridad l\u00f3gica generada por pg_dump solo si la copia de seguridad est\u00e1 en formato de texto plano.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "tnsnames.ora",
+                    "isCorrect": false,
+                    "hint": "Una cadena de conexi\u00f3n es una cadena que contiene informaci\u00f3n acerca de una fuente de datos (generalmente un motor de base de datos), adem\u00e1s de incluir la informaci\u00f3n necesaria para conectarse a la misma. "
+                },
+                {
+                    "text": "GRANT ALL ON base_de_datos.* TO 'usuario'@'host';",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Qu\u00e9 diferencia hay en PostgreSQL entre importar una base de datos con pg_restore y  psql?",
+            "options": [
+                {
+                    "text": "pg_restore se utiliza para restaurar copias de seguridad generadas por pg_dump. Psql puede restaurar una copia de seguridad l\u00f3gica generada por pg_dump solo si la copia de seguridad est\u00e1 en formato de texto plano.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "expdp",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "mysqldump --all-databases -u u_mysql -pxyz > \/tmp\/backup.sql",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "BULK INSERT",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Se le pide que se haga un backup de todas las bases de datos, indique cu\u00e1l es el comando para realizarlo:",
+            "options": [
+                {
+                    "text": "mysqldump --all-databases -u u_mysql -pxyz > \/tmp\/backup.sql",
+                    "isCorrect": true
+                },
+                {
+                    "text": "root",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "mysql --release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "pg_restore se utiliza para restaurar copias de seguridad generadas por pg_dump. Psql puede restaurar una copia de seguridad l\u00f3gica generada por pg_dump solo si la copia de seguridad est\u00e1 en formato de texto plano.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Para realizar un backup de todas las bases de datos que est\u00e1n en el servidor antiguo, desde el usuario postgres, es el comando:",
+            "options": [
+                {
+                    "text": "pg_dumpall > ficherosalida ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "BCP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "mysql --release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "mysqladmin",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "En postgreSQL, \u00bfqu\u00e9 comando permite desde consola, en la m\u00e1quina Linux y con el usuario postgres, crear una base de datos? ",
+            "options": [
+                {
+                    "text": "createdb",
+                    "isCorrect": true
+                },
+                {
+                    "text": "GRANT OPTION",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": " mysql -u username -p mydatabase < mydatabase.sql",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "mysqladmin",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Para asignar privilegios a un usuario en MySQL usaremos...",
+            "options": [
+                {
+                    "text": "GRANT ALL ON base_de_datos.* TO 'usuario'@'host';",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mysql --release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": " mysql -u username -p mydatabase < mydatabase.sql",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "expdp",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Como se quitar\u00edan todos los privilegios a un usaurio en mysql?",
+            "options": [
+                {
+                    "text": "REVOKE ALL ON base_de_datos FROM 'usuario'@'host';",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SYS y SYSTEM",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "LOAD DATA INFILE",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "GRANT ALL ON base_de_datos.* TO 'usuario'@'host';",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "En MySQL, si usamos \"GRANT ALL\" en un usuario, hay un permiso que a\u00fan as\u00ed no se asigna, ya que se debe asignar explicitamente. Cu\u00e1l es?",
+            "options": [
+                {
+                    "text": "GRANT OPTION",
+                    "isCorrect": true
+                },
+                {
+                    "text": "pg_dumpall > ficherosalida ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "GRANT ALL ON base_de_datos.* TO 'usuario'@'host';",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "rman",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Que usuarios se crean por defecto en Oracle Database?",
+            "options": [
+                {
+                    "text": "SYS y SYSTEM",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Oracle Enterprise Manager Cloud Control",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "BCP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "mysqldump --all-databases -u u_mysql -pxyz > \/tmp\/backup.sql",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Que usuario se crea por defecto en MySQL?",
+            "options": [
+                {
+                    "text": "root",
+                    "isCorrect": true
+                },
+                {
+                    "text": "LOAD DATA INFILE",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "BCP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "COPY",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Que usuario se crea por defecto en PostgreSQL?",
+            "options": [
+                {
+                    "text": "postgres",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mysqldump --all-databases -u u_mysql -pxyz > \/tmp\/backup.sql",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "SQL Server Management Studio (SSMS)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "createdb",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Que usuario se crea por defecto en SQL Server?",
+            "options": [
+                {
+                    "text": "No se crea ning\u00fan usuario por defecto",
+                    "isCorrect": true
+                },
+                {
+                    "text": "rman",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "mysql --release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "GRANT OPTION",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Como se llama el entorno integrado para administrar SQL Server?",
+            "options": [
+                {
+                    "text": "SQL Server Management Studio (SSMS)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "BCP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "GRANT OPTION",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "No se crea ning\u00fan usuario por defecto",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Como se llama la herramienta de linea de comandos que se utiliza para realizar diversas tareas de administraci\u00f3n y monitoreo de un servidor de base de datos MySQL?",
+            "options": [
+                {
+                    "text": "mysqladmin",
+                    "isCorrect": true
+                },
+                {
+                    "text": "GRANT ALL ON base_de_datos.* TO 'usuario'@'host';",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "COPY",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "SELECT * FROM V$VERSION",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Cu\u00e1l de las siguientes NO es una forma v\u00e1lida de descubrir la veris\u00f3n de MySQL?",
+            "options": [
+                {
+                    "text": "mysql --release",
+                    "isCorrect": true
+                },
+                {
+                    "text": "root",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "REVOKE ALL ON base_de_datos FROM 'usuario'@'host';",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "LOAD DATA INFILE",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Cu\u00e1l NO es un comando v\u00e1lido para averiguar la versi\u00f3n de PostgreSQL?",
+            "options": [
+                {
+                    "text": "select postgres_version from server_info",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Oracle Enterprise Manager Cloud Control",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "tnsnames.ora",
+                    "isCorrect": false,
+                    "hint": "Una cadena de conexi\u00f3n es una cadena que contiene informaci\u00f3n acerca de una fuente de datos (generalmente un motor de base de datos), adem\u00e1s de incluir la informaci\u00f3n necesaria para conectarse a la misma. "
+                },
+                {
+                    "text": "SELECT version, version_full FROM v$instance;",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Como se llama en PostgreSQL el comando que se utiliza para copiar datos entre una tabla y un archivo externo en formato de texto o binario?",
+            "options": [
+                {
+                    "text": "COPY",
+                    "isCorrect": true
+                },
+                {
+                    "text": "No se crea ning\u00fan usuario por defecto",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "mysqladmin",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Oracle Enterprise Manager Cloud Control",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": " Que comando se utiliza para importar datos desde un archivo de texto o CSV a una tabla MySQL existente?",
+            "options": [
+                {
+                    "text": "LOAD DATA INFILE",
+                    "isCorrect": true
+                },
+                {
+                    "text": "select postgres_version from server_info",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "SYS y SYSTEM",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "pg_dumpall > ficherosalida ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Que comando se usa en Oracle para cargar datos desde un archivo de datos externo en una tabla de Oracle existente?",
+            "options": [
+                {
+                    "text": "sqlldr (SQL*Loader)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mysqldump",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "postgres",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "BULK INSERT",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Qu\u00e9 comando se usa en SQL Server para cargar datos desde un archivo de datos externo en una tabla existente?",
+            "options": [
+                {
+                    "text": "BULK INSERT",
+                    "isCorrect": true
+                },
+                {
+                    "text": "flashback_time",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "expdp",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "SELECT version, version_full FROM v$instance;",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

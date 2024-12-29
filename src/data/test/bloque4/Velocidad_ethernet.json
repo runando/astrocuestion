@@ -1,0 +1,175 @@
+{
+    "title": "Velocidad ethernet",
+    "type": "bloque4",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "Cat 5",
+            "options": [
+                {
+                    "text": "100 Mbps \/ 100 MHz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "10.000 Mbps \/ 500 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 6A"
+                },
+                {
+                    "text": "1.000 Mbps \/ 100 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 5e"
+                },
+                {
+                    "text": "1.000 Mbps \/ 250 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 6"
+                }
+            ]
+        },
+        {
+            "question": "Cat 5e",
+            "options": [
+                {
+                    "text": "1.000 Mbps \/ 100 Mhz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "100 Mbps \/ 100 MHz",
+                    "isCorrect": false,
+                    "hint": "Cat 5"
+                },
+                {
+                    "text": "10.000 Mbps \/ 500 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 6A"
+                },
+                {
+                    "text": "1.000 Mbps \/ 250 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 6"
+                }
+            ]
+        },
+        {
+            "question": "Cat 6",
+            "options": [
+                {
+                    "text": "1.000 Mbps \/ 250 Mhz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "10.000 Mbps \/ 500 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 6A"
+                },
+                {
+                    "text": "40.000 Mbps \/ 2.000 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 8"
+                },
+                {
+                    "text": "1.000 Mbps \/ 100 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 5e"
+                }
+            ]
+        },
+        {
+            "question": "Cat 6A",
+            "options": [
+                {
+                    "text": "10.000 Mbps \/ 500 Mhz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1.000 Mbps \/ 250 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 6"
+                },
+                {
+                    "text": "40.000 Mbps \/ 2.000 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 8"
+                },
+                {
+                    "text": "10.000 Mbps \/ 1.000 MHz",
+                    "isCorrect": false,
+                    "hint": "Cat 7a (no est\u00e1ndar ieee)"
+                }
+            ]
+        },
+        {
+            "question": "Cat 7 (no est\u00e1ndar ieee)",
+            "options": [
+                {
+                    "text": "10.000 Mbps \/ 600 Mhz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1.000 Mbps \/ 100 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 5e"
+                },
+                {
+                    "text": "1.000 Mbps \/ 250 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 6"
+                },
+                {
+                    "text": "40.000 Mbps \/ 2.000 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 8"
+                }
+            ]
+        },
+        {
+            "question": "Cat 7a (no est\u00e1ndar ieee)",
+            "options": [
+                {
+                    "text": "10.000 Mbps \/ 1.000 MHz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1.000 Mbps \/ 100 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 5e"
+                },
+                {
+                    "text": "10.000 Mbps \/ 600 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 7 (no est\u00e1ndar ieee)"
+                },
+                {
+                    "text": "40.000 Mbps \/ 2.000 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 8"
+                }
+            ]
+        },
+        {
+            "question": "Cat 8",
+            "options": [
+                {
+                    "text": "40.000 Mbps \/ 2.000 Mhz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "10.000 Mbps \/ 500 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 6A"
+                },
+                {
+                    "text": "1.000 Mbps \/ 100 Mhz",
+                    "isCorrect": false,
+                    "hint": "Cat 5e"
+                },
+                {
+                    "text": "10.000 Mbps \/ 1.000 MHz",
+                    "isCorrect": false,
+                    "hint": "Cat 7a (no est\u00e1ndar ieee)"
+                }
+            ]
+        }
+    ]
+}

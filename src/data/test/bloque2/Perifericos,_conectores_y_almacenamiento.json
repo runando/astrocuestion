@@ -1,0 +1,199 @@
+{
+    "title": "Perifericos, conectores y almacenamiento",
+    "type": "bloque2",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "Cu\u00e1ntos pines tiene Thunderbolt 3 y 4?",
+            "options": [
+                {
+                    "text": "24",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mini DisplayPort",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "En Thunderbolt 3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "20",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Cu\u00e1ntos pines tiene Thunderbolt 1 y 2?",
+            "options": [
+                {
+                    "text": "20",
+                    "isCorrect": true
+                },
+                {
+                    "text": "64 Gbits \/ 7,5 Gb\/s",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "40 GB\/s",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "En Thunderbolt 3",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Qu\u00e9 conector usa Thunderbolt 3 y 4?",
+            "options": [
+                {
+                    "text": "UBC-C",
+                    "isCorrect": true
+                },
+                {
+                    "text": "64 Gbits \/ 7,5 Gb\/s",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "24",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "20",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Qu\u00e9 conector usa Thunderbolt 1 y 2?",
+            "options": [
+                {
+                    "text": "Mini DisplayPort",
+                    "isCorrect": true
+                },
+                {
+                    "text": "En Thunderbolt 3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "64 Gbits \/ 7,5 Gb\/s",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "20",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Velocidad Thunderbol 4",
+            "options": [
+                {
+                    "text": "40 GB\/s",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mini DisplayPort",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "UBC-C",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "64 Gbits \/ 7,5 Gb\/s",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Velocidad Thunderbol 3",
+            "options": [
+                {
+                    "text": "40 GB\/s",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mini DisplayPort",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "En Thunderbolt 3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "UBC-C",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "En qu\u00e9 estandard se basa USB 4",
+            "options": [
+                {
+                    "text": "En Thunderbolt 3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "24",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "20",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "64 Gbits \/ 7,5 Gb\/s",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "PCI Express Ancho de banda (Por carril \/ X1)",
+            "options": [
+                {
+                    "text": "64 Gbits \/ 7,5 Gb\/s",
+                    "isCorrect": true
+                },
+                {
+                    "text": "40 GB\/s",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "24",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "UBC-C",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

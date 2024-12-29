@@ -1,0 +1,1063 @@
+{
+    "title": "IEEE 802",
+    "type": "bloque4",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "WiMax",
+            "options": [
+                {
+                    "text": "802.16",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3z",
+                    "isCorrect": false,
+                    "hint": "Gigabit Ethernet (Fibra)"
+                },
+                {
+                    "text": "802.11n",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 4 (Introduce MiMo)"
+                },
+                {
+                    "text": "802.15.4",
+                    "isCorrect": false,
+                    "hint": "ZigBee"
+                }
+            ]
+        },
+        {
+            "question": "Control de enlace l\u00f3gico (LLC)",
+            "options": [
+                {
+                    "text": "802.2",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.5",
+                    "isCorrect": false,
+                    "hint": " Token ring LAN"
+                },
+                {
+                    "text": "802.11ah",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi HaLow (poc consum, per IoT)"
+                },
+                {
+                    "text": "802.11b",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 1"
+                }
+            ]
+        },
+        {
+            "question": "WPAN",
+            "options": [
+                {
+                    "text": "802.15",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3",
+                    "isCorrect": false,
+                    "hint": "ETHERNET"
+                },
+                {
+                    "text": "802.11r",
+                    "isCorrect": false,
+                    "hint": "WLAN Fast Roaming"
+                },
+                {
+                    "text": "802.11",
+                    "isCorrect": false,
+                    "hint": "WLAN WiFi"
+                }
+            ]
+        },
+        {
+            "question": "MAN (fibra \u00f3ptica)",
+            "options": [
+                {
+                    "text": "802.6",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.4",
+                    "isCorrect": false,
+                    "hint": "Token bus LAN"
+                },
+                {
+                    "text": "802.16",
+                    "isCorrect": false,
+                    "hint": "WiMax"
+                },
+                {
+                    "text": "802.11v",
+                    "isCorrect": false,
+                    "hint": "Wireless network management "
+                }
+            ]
+        },
+        {
+            "question": "ETHERNET",
+            "options": [
+                {
+                    "text": "802.3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.4",
+                    "isCorrect": false,
+                    "hint": "Token bus LAN"
+                },
+                {
+                    "text": "802.11b",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 1"
+                },
+                {
+                    "text": "802.11g",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 3"
+                }
+            ]
+        },
+        {
+            "question": "WLAN WiFi",
+            "options": [
+                {
+                    "text": "802.11",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.15.1",
+                    "isCorrect": false,
+                    "hint": "Bluetooth"
+                },
+                {
+                    "text": "802.11g",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 3"
+                },
+                {
+                    "text": "802.11a",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 2"
+                }
+            ]
+        },
+        {
+            "question": " Token ring LAN",
+            "options": [
+                {
+                    "text": "802.5",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3an",
+                    "isCorrect": false,
+                    "hint": "10 Gigabit Ethernet (Cobre)"
+                },
+                {
+                    "text": "802.11g",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 3"
+                },
+                {
+                    "text": "802.3bt",
+                    "isCorrect": false,
+                    "hint": "PoE 60W\/100W (type 3\/4)"
+                }
+            ]
+        },
+        {
+            "question": "Token bus LAN",
+            "options": [
+                {
+                    "text": "802.4",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.11ac",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 5 (introduce Multiple MiMo)"
+                },
+                {
+                    "text": "802.11r",
+                    "isCorrect": false,
+                    "hint": "WLAN Fast Roaming"
+                },
+                {
+                    "text": "802.1AE",
+                    "isCorrect": false,
+                    "hint": "MACsec"
+                }
+            ]
+        },
+        {
+            "question": " Autenticaci\u00f3n en redes LAN",
+            "options": [
+                {
+                    "text": "802.1X",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3an",
+                    "isCorrect": false,
+                    "hint": "10 Gigabit Ethernet (Cobre)"
+                },
+                {
+                    "text": "802.3at",
+                    "isCorrect": false,
+                    "hint": "PoE 30W (type2)"
+                },
+                {
+                    "text": "802.3",
+                    "isCorrect": false,
+                    "hint": "ETHERNET"
+                }
+            ]
+        },
+        {
+            "question": "Virtual Local Area Networks (VLAN)",
+            "options": [
+                {
+                    "text": "802.1Q",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3az ",
+                    "isCorrect": false,
+                    "hint": "Ethernet Energ\u00e9ticamente Eficiente"
+                },
+                {
+                    "text": "802.11b",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 1"
+                },
+                {
+                    "text": "802.3z",
+                    "isCorrect": false,
+                    "hint": "Gigabit Ethernet (Fibra)"
+                }
+            ]
+        },
+        {
+            "question": "Link Agreggation Control Protocol (LACP)",
+            "options": [
+                {
+                    "text": "802.1ax",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3ca ",
+                    "isCorrect": false,
+                    "hint": "100G-EPON \u2013 25 Gb\/s, 50 Gb\/s, y 100 Gb\/s sobre redes \u00f3pticas pasivas. "
+                },
+                {
+                    "text": "802.3bw ",
+                    "isCorrect": false,
+                    "hint": "100BASE-T1 \u2013 Ethernet a 100 Mbit\/s sobre par trenzado para aplicaciones del sector del autom\u00f3vil "
+                },
+                {
+                    "text": "802.3bz",
+                    "isCorrect": false,
+                    "hint": "2.5 y 5 Gigabit Ethernet"
+                }
+            ]
+        },
+        {
+            "question": "PoE 30W (type2)",
+            "options": [
+                {
+                    "text": "802.3at",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.11v",
+                    "isCorrect": false,
+                    "hint": "Wireless network management "
+                },
+                {
+                    "text": "802.3ca ",
+                    "isCorrect": false,
+                    "hint": "100G-EPON \u2013 25 Gb\/s, 50 Gb\/s, y 100 Gb\/s sobre redes \u00f3pticas pasivas. "
+                },
+                {
+                    "text": "802.11i",
+                    "isCorrect": false,
+                    "hint": "Wifi Enhanced security"
+                }
+            ]
+        },
+        {
+            "question": "PoE 60W\/100W (type 3\/4)",
+            "options": [
+                {
+                    "text": "802.3bt",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3at",
+                    "isCorrect": false,
+                    "hint": "PoE 30W (type2)"
+                },
+                {
+                    "text": "802.3az ",
+                    "isCorrect": false,
+                    "hint": "Ethernet Energ\u00e9ticamente Eficiente"
+                },
+                {
+                    "text": "802.21",
+                    "isCorrect": false,
+                    "hint": "Media-independent handover"
+                }
+            ]
+        },
+        {
+            "question": "Ethernet Energ\u00e9ticamente Eficiente",
+            "options": [
+                {
+                    "text": "802.3az ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3z",
+                    "isCorrect": false,
+                    "hint": "Gigabit Ethernet (Fibra)"
+                },
+                {
+                    "text": "802.16",
+                    "isCorrect": false,
+                    "hint": "WiMax"
+                },
+                {
+                    "text": "802.4",
+                    "isCorrect": false,
+                    "hint": "Token bus LAN"
+                }
+            ]
+        },
+        {
+            "question": "PoE 15W (type 1)",
+            "options": [
+                {
+                    "text": "802.3af",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3az ",
+                    "isCorrect": false,
+                    "hint": "Ethernet Energ\u00e9ticamente Eficiente"
+                },
+                {
+                    "text": "802.3ab",
+                    "isCorrect": false,
+                    "hint": "Gigabit Ethernet (Par Trenzado)"
+                },
+                {
+                    "text": "802.15",
+                    "isCorrect": false,
+                    "hint": "WPAN"
+                }
+            ]
+        },
+        {
+            "question": "Wifi Enhanced security",
+            "options": [
+                {
+                    "text": "802.11i",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.21",
+                    "isCorrect": false,
+                    "hint": "Media-independent handover"
+                },
+                {
+                    "text": "802.3az ",
+                    "isCorrect": false,
+                    "hint": "Ethernet Energ\u00e9ticamente Eficiente"
+                },
+                {
+                    "text": "802.15.4",
+                    "isCorrect": false,
+                    "hint": "ZigBee"
+                }
+            ]
+        },
+        {
+            "question": "Wi-Fi 4 (Introduce MiMo)",
+            "options": [
+                {
+                    "text": "802.11n",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3af",
+                    "isCorrect": false,
+                    "hint": "PoE 15W (type 1)"
+                },
+                {
+                    "text": "802.3at",
+                    "isCorrect": false,
+                    "hint": "PoE 30W (type2)"
+                },
+                {
+                    "text": "802.3bt",
+                    "isCorrect": false,
+                    "hint": "PoE 60W\/100W (type 3\/4)"
+                }
+            ]
+        },
+        {
+            "question": "Wireless Access for the Vehicular Environment",
+            "options": [
+                {
+                    "text": "802.11p",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3bt",
+                    "isCorrect": false,
+                    "hint": "PoE 60W\/100W (type 3\/4)"
+                },
+                {
+                    "text": "802.1Q",
+                    "isCorrect": false,
+                    "hint": "Virtual Local Area Networks (VLAN)"
+                },
+                {
+                    "text": "802.3bz",
+                    "isCorrect": false,
+                    "hint": "2.5 y 5 Gigabit Ethernet"
+                }
+            ]
+        },
+        {
+            "question": "Wireless MESH",
+            "options": [
+                {
+                    "text": "802.11s",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.1ax",
+                    "isCorrect": false,
+                    "hint": "Link Agreggation Control Protocol (LACP)"
+                },
+                {
+                    "text": "802.4",
+                    "isCorrect": false,
+                    "hint": "Token bus LAN"
+                },
+                {
+                    "text": "802.11",
+                    "isCorrect": false,
+                    "hint": "WLAN WiFi"
+                }
+            ]
+        },
+        {
+            "question": "Wireless network management ",
+            "options": [
+                {
+                    "text": "802.11v",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.1ax",
+                    "isCorrect": false,
+                    "hint": "Link Agreggation Control Protocol (LACP)"
+                },
+                {
+                    "text": "802.11ac",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 5 (introduce Multiple MiMo)"
+                },
+                {
+                    "text": "802.15",
+                    "isCorrect": false,
+                    "hint": "WPAN"
+                }
+            ]
+        },
+        {
+            "question": "Wi-Fi 5 (introduce Multiple MiMo)",
+            "options": [
+                {
+                    "text": "802.11ac",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.11",
+                    "isCorrect": false,
+                    "hint": "WLAN WiFi"
+                },
+                {
+                    "text": "802.1X",
+                    "isCorrect": false,
+                    "hint": " Autenticaci\u00f3n en redes LAN"
+                },
+                {
+                    "text": "802.15.6",
+                    "isCorrect": false,
+                    "hint": "Body Area Network"
+                }
+            ]
+        },
+        {
+            "question": "WLAN Fast Roaming",
+            "options": [
+                {
+                    "text": "802.11r",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3u",
+                    "isCorrect": false,
+                    "hint": "Fast Ethernet"
+                },
+                {
+                    "text": "802.1Q",
+                    "isCorrect": false,
+                    "hint": "Virtual Local Area Networks (VLAN)"
+                },
+                {
+                    "text": "802.3az ",
+                    "isCorrect": false,
+                    "hint": "Ethernet Energ\u00e9ticamente Eficiente"
+                }
+            ]
+        },
+        {
+            "question": "Enhancements for Next Generation vehicle-to-X (v2x)",
+            "options": [
+                {
+                    "text": "802.11bd",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3bt",
+                    "isCorrect": false,
+                    "hint": "PoE 60W\/100W (type 3\/4)"
+                },
+                {
+                    "text": "802.3az ",
+                    "isCorrect": false,
+                    "hint": "Ethernet Energ\u00e9ticamente Eficiente"
+                },
+                {
+                    "text": "802.1Q",
+                    "isCorrect": false,
+                    "hint": "Virtual Local Area Networks (VLAN)"
+                }
+            ]
+        },
+        {
+            "question": "MACsec",
+            "options": [
+                {
+                    "text": "802.1AE",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.2",
+                    "isCorrect": false,
+                    "hint": "Control de enlace l\u00f3gico (LLC)"
+                },
+                {
+                    "text": "802.15.4",
+                    "isCorrect": false,
+                    "hint": "ZigBee"
+                },
+                {
+                    "text": "802.11bd",
+                    "isCorrect": false,
+                    "hint": "Enhancements for Next Generation vehicle-to-X (v2x)"
+                }
+            ]
+        },
+        {
+            "question": "Wi-Fi 6 (OFDMA)",
+            "options": [
+                {
+                    "text": "802.11ax",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.15.7",
+                    "isCorrect": false,
+                    "hint": "Visible Light Communication"
+                },
+                {
+                    "text": "802.11r",
+                    "isCorrect": false,
+                    "hint": "WLAN Fast Roaming"
+                },
+                {
+                    "text": "802.11ah",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi HaLow (poc consum, per IoT)"
+                }
+            ]
+        },
+        {
+            "question": "Wi-Fi 1",
+            "options": [
+                {
+                    "text": "802.11b",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3u",
+                    "isCorrect": false,
+                    "hint": "Fast Ethernet"
+                },
+                {
+                    "text": "802.11a",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 2"
+                },
+                {
+                    "text": "802.3ae",
+                    "isCorrect": false,
+                    "hint": "10 Gigabit Ethernet (Fibra)"
+                }
+            ]
+        },
+        {
+            "question": "Wi-Fi 2",
+            "options": [
+                {
+                    "text": "802.11a",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.11n",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 4 (Introduce MiMo)"
+                },
+                {
+                    "text": "802.16",
+                    "isCorrect": false,
+                    "hint": "WiMax"
+                },
+                {
+                    "text": "802.15.4",
+                    "isCorrect": false,
+                    "hint": "ZigBee"
+                }
+            ]
+        },
+        {
+            "question": "Wi-Fi 3",
+            "options": [
+                {
+                    "text": "802.11g",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3bp",
+                    "isCorrect": false,
+                    "hint": "1000BASE-T1 - Gigabit Ethernet sobre par trenzado, en entornos del sector del autom\u00f3vil e industrial"
+                },
+                {
+                    "text": "802.6",
+                    "isCorrect": false,
+                    "hint": "MAN (fibra \u00f3ptica)"
+                },
+                {
+                    "text": "802.2",
+                    "isCorrect": false,
+                    "hint": "Control de enlace l\u00f3gico (LLC)"
+                }
+            ]
+        },
+        {
+            "question": "Wi-Fi 7",
+            "options": [
+                {
+                    "text": "802.11be",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.11",
+                    "isCorrect": false,
+                    "hint": "WLAN WiFi"
+                },
+                {
+                    "text": "802.15.6",
+                    "isCorrect": false,
+                    "hint": "Body Area Network"
+                },
+                {
+                    "text": "802.11i",
+                    "isCorrect": false,
+                    "hint": "Wifi Enhanced security"
+                }
+            ]
+        },
+        {
+            "question": "Wi-Fi HaLow (poc consum, per IoT)",
+            "options": [
+                {
+                    "text": "802.11ah",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.11be",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 7"
+                },
+                {
+                    "text": "802.1Q",
+                    "isCorrect": false,
+                    "hint": "Virtual Local Area Networks (VLAN)"
+                },
+                {
+                    "text": "802.4",
+                    "isCorrect": false,
+                    "hint": "Token bus LAN"
+                }
+            ]
+        },
+        {
+            "question": "Media-independent handover",
+            "options": [
+                {
+                    "text": "802.21",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3bw ",
+                    "isCorrect": false,
+                    "hint": "100BASE-T1 \u2013 Ethernet a 100 Mbit\/s sobre par trenzado para aplicaciones del sector del autom\u00f3vil "
+                },
+                {
+                    "text": "802.3u",
+                    "isCorrect": false,
+                    "hint": "Fast Ethernet"
+                },
+                {
+                    "text": "802.3bp",
+                    "isCorrect": false,
+                    "hint": "1000BASE-T1 - Gigabit Ethernet sobre par trenzado, en entornos del sector del autom\u00f3vil e industrial"
+                }
+            ]
+        },
+        {
+            "question": "ZigBee",
+            "options": [
+                {
+                    "text": "802.15.4",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.6",
+                    "isCorrect": false,
+                    "hint": "MAN (fibra \u00f3ptica)"
+                },
+                {
+                    "text": "802.1Q",
+                    "isCorrect": false,
+                    "hint": "Virtual Local Area Networks (VLAN)"
+                },
+                {
+                    "text": "802.11n",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 4 (Introduce MiMo)"
+                }
+            ]
+        },
+        {
+            "question": "Body Area Network",
+            "options": [
+                {
+                    "text": "802.15.6",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3az ",
+                    "isCorrect": false,
+                    "hint": "Ethernet Energ\u00e9ticamente Eficiente"
+                },
+                {
+                    "text": "802.3bz",
+                    "isCorrect": false,
+                    "hint": "2.5 y 5 Gigabit Ethernet"
+                },
+                {
+                    "text": "802.6",
+                    "isCorrect": false,
+                    "hint": "MAN (fibra \u00f3ptica)"
+                }
+            ]
+        },
+        {
+            "question": "Visible Light Communication",
+            "options": [
+                {
+                    "text": "802.15.7",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.5",
+                    "isCorrect": false,
+                    "hint": " Token ring LAN"
+                },
+                {
+                    "text": "802.11v",
+                    "isCorrect": false,
+                    "hint": "Wireless network management "
+                },
+                {
+                    "text": "802.2",
+                    "isCorrect": false,
+                    "hint": "Control de enlace l\u00f3gico (LLC)"
+                }
+            ]
+        },
+        {
+            "question": "1000BASE-T1 - Gigabit Ethernet sobre par trenzado, en entornos del sector del autom\u00f3vil e industrial",
+            "options": [
+                {
+                    "text": "802.3bp",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.1AE",
+                    "isCorrect": false,
+                    "hint": "MACsec"
+                },
+                {
+                    "text": "802.3bt",
+                    "isCorrect": false,
+                    "hint": "PoE 60W\/100W (type 3\/4)"
+                },
+                {
+                    "text": "802.11bd",
+                    "isCorrect": false,
+                    "hint": "Enhancements for Next Generation vehicle-to-X (v2x)"
+                }
+            ]
+        },
+        {
+            "question": "100BASE-T1 \u2013 Ethernet a 100 Mbit\/s sobre par trenzado para aplicaciones del sector del autom\u00f3vil ",
+            "options": [
+                {
+                    "text": "802.3bw ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.11n",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 4 (Introduce MiMo)"
+                },
+                {
+                    "text": "802.6",
+                    "isCorrect": false,
+                    "hint": "MAN (fibra \u00f3ptica)"
+                },
+                {
+                    "text": "802.3at",
+                    "isCorrect": false,
+                    "hint": "PoE 30W (type2)"
+                }
+            ]
+        },
+        {
+            "question": "100G-EPON \u2013 25 Gb\/s, 50 Gb\/s, y 100 Gb\/s sobre redes \u00f3pticas pasivas. ",
+            "options": [
+                {
+                    "text": "802.3ca ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.21",
+                    "isCorrect": false,
+                    "hint": "Media-independent handover"
+                },
+                {
+                    "text": "802.3z",
+                    "isCorrect": false,
+                    "hint": "Gigabit Ethernet (Fibra)"
+                },
+                {
+                    "text": "802.11n",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 4 (Introduce MiMo)"
+                }
+            ]
+        },
+        {
+            "question": "Bluetooth",
+            "options": [
+                {
+                    "text": "802.15.1",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.11ah",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi HaLow (poc consum, per IoT)"
+                },
+                {
+                    "text": "802.21",
+                    "isCorrect": false,
+                    "hint": "Media-independent handover"
+                },
+                {
+                    "text": "802.11s",
+                    "isCorrect": false,
+                    "hint": "Wireless MESH"
+                }
+            ]
+        },
+        {
+            "question": "Fast Ethernet",
+            "options": [
+                {
+                    "text": "802.3u",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.5",
+                    "isCorrect": false,
+                    "hint": " Token ring LAN"
+                },
+                {
+                    "text": "802.2",
+                    "isCorrect": false,
+                    "hint": "Control de enlace l\u00f3gico (LLC)"
+                },
+                {
+                    "text": "802.15",
+                    "isCorrect": false,
+                    "hint": "WPAN"
+                }
+            ]
+        },
+        {
+            "question": "Gigabit Ethernet (Par Trenzado)",
+            "options": [
+                {
+                    "text": "802.3ab",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.15.4",
+                    "isCorrect": false,
+                    "hint": "ZigBee"
+                },
+                {
+                    "text": "802.11be",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 7"
+                },
+                {
+                    "text": "802.11s",
+                    "isCorrect": false,
+                    "hint": "Wireless MESH"
+                }
+            ]
+        },
+        {
+            "question": "10 Gigabit Ethernet (Fibra)",
+            "options": [
+                {
+                    "text": "802.3ae",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3ca ",
+                    "isCorrect": false,
+                    "hint": "100G-EPON \u2013 25 Gb\/s, 50 Gb\/s, y 100 Gb\/s sobre redes \u00f3pticas pasivas. "
+                },
+                {
+                    "text": "802.3z",
+                    "isCorrect": false,
+                    "hint": "Gigabit Ethernet (Fibra)"
+                },
+                {
+                    "text": "802.15.7",
+                    "isCorrect": false,
+                    "hint": "Visible Light Communication"
+                }
+            ]
+        },
+        {
+            "question": "Gigabit Ethernet (Fibra)",
+            "options": [
+                {
+                    "text": "802.3z",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3bp",
+                    "isCorrect": false,
+                    "hint": "1000BASE-T1 - Gigabit Ethernet sobre par trenzado, en entornos del sector del autom\u00f3vil e industrial"
+                },
+                {
+                    "text": "802.3an",
+                    "isCorrect": false,
+                    "hint": "10 Gigabit Ethernet (Cobre)"
+                },
+                {
+                    "text": "802.15",
+                    "isCorrect": false,
+                    "hint": "WPAN"
+                }
+            ]
+        },
+        {
+            "question": "10 Gigabit Ethernet (Cobre)",
+            "options": [
+                {
+                    "text": "802.3an",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.1Q",
+                    "isCorrect": false,
+                    "hint": "Virtual Local Area Networks (VLAN)"
+                },
+                {
+                    "text": "802.11bd",
+                    "isCorrect": false,
+                    "hint": "Enhancements for Next Generation vehicle-to-X (v2x)"
+                },
+                {
+                    "text": "802.15.6",
+                    "isCorrect": false,
+                    "hint": "Body Area Network"
+                }
+            ]
+        },
+        {
+            "question": "2.5 y 5 Gigabit Ethernet",
+            "options": [
+                {
+                    "text": "802.3bz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "802.3",
+                    "isCorrect": false,
+                    "hint": "ETHERNET"
+                },
+                {
+                    "text": "802.3bw ",
+                    "isCorrect": false,
+                    "hint": "100BASE-T1 \u2013 Ethernet a 100 Mbit\/s sobre par trenzado para aplicaciones del sector del autom\u00f3vil "
+                },
+                {
+                    "text": "802.11ac",
+                    "isCorrect": false,
+                    "hint": "Wi-Fi 5 (introduce Multiple MiMo)"
+                }
+            ]
+        }
+    ]
+}

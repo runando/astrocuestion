@@ -1,0 +1,247 @@
+{
+    "title": "Prefijos IPV6",
+    "type": "ptype",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "Prefijo de red Global (se utiliza para identificar redes p\u00fablicas en Internet)",
+            "options": [
+                {
+                    "text": "2000::\/3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "::\/80",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "::1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "ff00::\/8",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Loopback",
+            "options": [
+                {
+                    "text": "::1",
+                    "isCorrect": true
+                },
+                {
+                    "text": "::\/80",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "24 Primeros Bits MAC inviertiendo el s\u00e9ptimo bit + FFFE + 24 \u00daltimos Bits MAC. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "ff02::1:ff00:0\/104",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Prefijo Unique Local Address (red privada)",
+            "options": [
+                {
+                    "text": "fc00::\/7",
+                    "isCorrect": true
+                },
+                {
+                    "text": " FF02::2 y FF02::1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "2000::\/3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "El bloque fc00::\/8  que no ha sido definido a\u00fan i el bloque fd00::\/8",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "El bloque de direcciones fc00::\/7 est\u00e1 dividido en 2 grupos \/8. Cu\u00e1les son estos bloques?",
+            "options": [
+                {
+                    "text": "El bloque fc00::\/8  que no ha sido definido a\u00fan i el bloque fd00::\/8",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ff00::\/8",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "::\/80",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "24 Primeros Bits MAC inviertiendo el s\u00e9ptimo bit + FFFE + 24 \u00daltimos Bits MAC. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Prefijo Link Local",
+            "options": [
+                {
+                    "text": "fe80::\/10",
+                    "isCorrect": true
+                },
+                {
+                    "text": " FF02::2 y FF02::1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "ff02::1:ff00:0\/104",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "24 Primeros Bits MAC inviertiendo el s\u00e9ptimo bit + FFFE + 24 \u00daltimos Bits MAC. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Prefijo Multicast Assigned",
+            "options": [
+                {
+                    "text": "ff00::\/8",
+                    "isCorrect": true
+                },
+                {
+                    "text": "El bloque fc00::\/8  que no ha sido definido a\u00fan i el bloque fd00::\/8",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": " FF02::2 y FF02::1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "ff02::1:ff00:0\/104",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "La direcci\u00f3n Multicast solicited node se crea tomando los 24 bits menos significativos de una direcci\u00f3n unicast o anycast y a\u00f1adi\u00e9ndolos al prefijo...",
+            "options": [
+                {
+                    "text": "ff02::1:ff00:0\/104",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ff00::\/8",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "::1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "El bloque fc00::\/8  que no ha sido definido a\u00fan i el bloque fd00::\/8",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Como se forma la EUI-64 para construir ipv6 a partir de una MAC?",
+            "options": [
+                {
+                    "text": "24 Primeros Bits MAC inviertiendo el s\u00e9ptimo bit + FFFE + 24 \u00daltimos Bits MAC. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "fc00::\/7",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "ff00::\/8",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": " FF02::2 y FF02::1",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Prefijo Embedded IPv4",
+            "options": [
+                {
+                    "text": "::\/80",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ff00::\/8",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": " FF02::2 y FF02::1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "fc00::\/7",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Direcci\u00f3n Multicast \"Link Local All Routers\" y \"Link Local All Nodes\" (respectivamente)",
+            "options": [
+                {
+                    "text": " FF02::2 y FF02::1",
+                    "isCorrect": true
+                },
+                {
+                    "text": "fc00::\/7",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "::1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "2000::\/3",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

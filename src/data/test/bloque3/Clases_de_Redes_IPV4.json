@@ -1,0 +1,223 @@
+{
+    "title": "Clases de Redes IPV4",
+    "type": "ptype",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "Rango p\u00fablico clase A",
+            "options": [
+                {
+                    "text": "1.0.0.0 a 127.0.0.0",
+                    "isCorrect": true
+                },
+                {
+                    "text": "192.0.0.0 a 223.255.255.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "172.16.0.0 a 172.31.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "224.0.0.0 a 239.255.255.255 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Rango p\u00fablico clase B",
+            "options": [
+                {
+                    "text": "128.0.0.0 a 191.255.0.0 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "169.254.0.1 a 169.254.255.254 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "10.0.0.0 a 10.255.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "172.16.0.0 a 172.31.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Rango p\u00fablico clase C",
+            "options": [
+                {
+                    "text": "192.0.0.0 a 223.255.255.0 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1.0.0.0 a 127.0.0.0",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "10.0.0.0 a 10.255.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "192.168.0.0 a 192.168.255.255 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Rango p\u00fablico clase D",
+            "options": [
+                {
+                    "text": "224.0.0.0 a 239.255.255.255 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "240.0.0.0 a 255.255.255.255 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "172.16.0.0 a 172.31.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "192.0.0.0 a 223.255.255.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Rango p\u00fablico clase E",
+            "options": [
+                {
+                    "text": "240.0.0.0 a 255.255.255.255 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "192.168.0.0 a 192.168.255.255 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "192.0.0.0 a 223.255.255.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "1.0.0.0 a 127.0.0.0",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Rango privado clase A",
+            "options": [
+                {
+                    "text": "10.0.0.0 a 10.255.255.255",
+                    "isCorrect": true
+                },
+                {
+                    "text": "192.168.0.0 a 192.168.255.255 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "128.0.0.0 a 191.255.0.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "192.0.0.0 a 223.255.255.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Rango privado clase B",
+            "options": [
+                {
+                    "text": "172.16.0.0 a 172.31.255.255",
+                    "isCorrect": true
+                },
+                {
+                    "text": "169.254.0.1 a 169.254.255.254 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "192.0.0.0 a 223.255.255.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "240.0.0.0 a 255.255.255.255 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Rango privado clase C",
+            "options": [
+                {
+                    "text": "192.168.0.0 a 192.168.255.255 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "169.254.0.1 a 169.254.255.254 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "224.0.0.0 a 239.255.255.255 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "10.0.0.0 a 10.255.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Rango Clase B Privado APIPA",
+            "options": [
+                {
+                    "text": "169.254.0.1 a 169.254.255.254 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "192.0.0.0 a 223.255.255.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "172.16.0.0 a 172.31.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "192.168.0.0 a 192.168.255.255 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,367 @@
+{
+    "title": "CUESTIONARIO 15-TAI\u2013PI - Supuesto II",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1. \u00bfCu\u00e1l de las siguientes configuraciones del fichero de DNS (resolv.conf) es la correcta si el servidor de DNS del proyecto tiene la IP 82.0.0.90?",
+            "options": [
+                {
+                    "text": "a) nameserver 82.0.0.90 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) OpenVPN",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) \/etc\/sysconfig\/network-scripts",
+                    "isCorrect": false,
+                    "hint": "\/etc\/sysconfig\/network-scripts es la ubicaci\u00f3n donde se almacenan los scripts de configuraci\u00f3n de red en sistemas operativos basados en Red Hat."
+                },
+                {
+                    "text": "b) \u00a1TOP",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2. Con respecto a la seguridad l\u00f3gica, se quiere crear un usuario \u201coperador\u201d perteneciente al grupo \u201cinvestigadores\u201d donde se especifique la shell que usar\u00e1 y su home. \u00bfCu\u00e1l ser\u00eda la manera correcta?",
+            "options": [
+                {
+                    "text": "b) useradd -g investigadores -s \/bin\/bash -d \/home\/operador operador",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) La potencia el\u00e9ctrica total del CPD entre potencia el\u00e9ctrica total consumida por los equipos IT.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) OpenVPN",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) snmpd.conf ",
+                    "isCorrect": false,
+                    "hint": "Las comunidades SNMP son un tipo de autenticaci\u00f3n utilizada en el protocolo SNMP para permitir el acceso a la informaci\u00f3n de los dispositivos de red. En Nagios, puedes agregar una comunidad SNMP en el archivo snmpd.conf"
+                }
+            ]
+        },
+        {
+            "question": "3. Las investigaciones son almacenadas en ficheros en la carpeta \u201c\/proyectos\u201d que son propiedad de un usuario llamado \u201cinvestigador\u201d. Se quiere evitar que por error el usuario \u201coperador\u201d pueda borrar estos ficheros, \u00bfcu\u00e1l es la manera correcta de hacerlo?",
+            "options": [
+                {
+                    "text": "a) chmod 644 \/proyectos\/* ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) La potencia el\u00e9ctrica total del CPD entre potencia el\u00e9ctrica total consumida por los equipos IT.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) nameserver 82.0.0.90 ",
+                    "isCorrect": false,
+                    "hint": "La sintaxis correcta es nameserver [IP del servidor DNS], las otras ociones no s\u00f3n v\u00e1lidas."
+                },
+                {
+                    "text": "d) 82.0.0.95",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4. OBSOLETA Como elemento clave en la infraestructura, las actuales bases de datos Oracle requieren una atenci\u00f3n extra con respecto al resto de sistemas. \u00bfQu\u00e9 software instalar\u00eda para tener un mayor control sobre las mismas?",
+            "options": [
+                {
+                    "text": "c) Grid control",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) snmpd.conf ",
+                    "isCorrect": false,
+                    "hint": "Las comunidades SNMP son un tipo de autenticaci\u00f3n utilizada en el protocolo SNMP para permitir el acceso a la informaci\u00f3n de los dispositivos de red. En Nagios, puedes agregar una comunidad SNMP en el archivo snmpd.conf"
+                },
+                {
+                    "text": "a) nameserver 82.0.0.90 ",
+                    "isCorrect": false,
+                    "hint": "La sintaxis correcta es nameserver [IP del servidor DNS], las otras ociones no s\u00f3n v\u00e1lidas."
+                },
+                {
+                    "text": "b) com2sec notConfigUser default investigador",
+                    "isCorrect": false,
+                    "hint": "La sintaxis correcta para definir una comunidad SNMP es com2sec [securityName] [source] [community]. notConfigUser es un securityName predeterminado de para definir una comunidad SNMP que no est\u00e1 asociada con un usuario configurado en el sistema. "
+                }
+            ]
+        },
+        {
+            "question": "5. Al ser una iniciativa muy relacionada con el medio ambiente el concepto de Green CPD est\u00e1 muy avanzado y, por ello, cuidan mucho el valor de la Power Usage Effectiveness (PUE). Dicho valor se calcula dividiendo:",
+            "options": [
+                {
+                    "text": "d) La potencia el\u00e9ctrica total del CPD entre potencia el\u00e9ctrica total consumida por los equipos IT.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) M\u00e1scara clase C.",
+                    "isCorrect": false,
+                    "hint": "Clase C es un \/24"
+                },
+                {
+                    "text": "a) snmpd.conf ",
+                    "isCorrect": false,
+                    "hint": "Las comunidades SNMP son un tipo de autenticaci\u00f3n utilizada en el protocolo SNMP para permitir el acceso a la informaci\u00f3n de los dispositivos de red. En Nagios, puedes agregar una comunidad SNMP en el archivo snmpd.conf"
+                },
+                {
+                    "text": "c) Grid control",
+                    "isCorrect": false,
+                    "hint": "Grid Control es una herramienta de gesti\u00f3n de bases de datos de Oracle que permite supervisar y gestionar m\u00faltiples bases de datos Oracle desde una \u00fanica consola. REMPLAZADO POR ORACLE ENTERPRISE MANAGER CLOUD CONTROL"
+                }
+            ]
+        },
+        {
+            "question": "6. Tras una asesor\u00eda de seguridad, se ha decidido utilizar la herramienta Nagios y, para ello, es necesario configurar una nueva comunidad SNMP. \u00bfQu\u00e9 fichero es el que permite realizar esta configuraci\u00f3n?",
+            "options": [
+                {
+                    "text": "a) snmpd.conf ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Roles de usuarios.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Grid control",
+                    "isCorrect": false,
+                    "hint": "Grid Control es una herramienta de gesti\u00f3n de bases de datos de Oracle que permite supervisar y gestionar m\u00faltiples bases de datos Oracle desde una \u00fanica consola. REMPLAZADO POR ORACLE ENTERPRISE MANAGER CLOUD CONTROL"
+                },
+                {
+                    "text": "b) com2sec notConfigUser default investigador",
+                    "isCorrect": false,
+                    "hint": "La sintaxis correcta para definir una comunidad SNMP es com2sec [securityName] [source] [community]. notConfigUser es un securityName predeterminado de para definir una comunidad SNMP que no est\u00e1 asociada con un usuario configurado en el sistema. "
+                }
+            ]
+        },
+        {
+            "question": "Durante la asesor\u00eda de seguridad, se ha decidido que no se debe utilizar la comunidad \u201cpublic\u201d y que ha de ser sustituida por una comunidad SNMP llamada \u201cinvestigador\u201d a la que se quiere dar acceso a todas las ramas de la MIB. \u00bfCu\u00e1l es la l\u00ednea que ha de usarse en el fichero de configuraci\u00f3n del SNMP?",
+            "options": [
+                {
+                    "text": "b) com2sec notConfigUser default investigador",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) useradd -g investigadores -s \/bin\/bash -d \/home\/operador operador",
+                    "isCorrect": false,
+                    "hint": "Las opciones a) y c) no son correctas porque utilizan el comando createuser, que no es un comando v\u00e1lido para crear usuarios en sistemas operativos Linux\/Unix. La opci\u00f3n d) no es correcta porque utiliza la opci\u00f3n -h en lugar de -d para especificar el directorio home del usuario. La opci\u00f3n -h no es una opci\u00f3n v\u00e1lida para el comando useradd"
+                },
+                {
+                    "text": "d) 82.0.0.95",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La potencia el\u00e9ctrica total del CPD entre potencia el\u00e9ctrica total consumida por los equipos IT.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "8. La seguridad f\u00edsica es otro aspecto fundamental debido a la informaci\u00f3n que se trata en las investigaciones y para ello se van a implantar varios sistemas. \u00bfCu\u00e1l de los siguientes NO est\u00e1 relacionado con la seguridad f\u00edsica?",
+            "options": [
+                {
+                    "text": "c) Roles de usuarios.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) nameserver 82.0.0.90 ",
+                    "isCorrect": false,
+                    "hint": "La sintaxis correcta es nameserver [IP del servidor DNS], las otras ociones no s\u00f3n v\u00e1lidas."
+                },
+                {
+                    "text": "b) useradd -g investigadores -s \/bin\/bash -d \/home\/operador operador",
+                    "isCorrect": false,
+                    "hint": "Las opciones a) y c) no son correctas porque utilizan el comando createuser, que no es un comando v\u00e1lido para crear usuarios en sistemas operativos Linux\/Unix. La opci\u00f3n d) no es correcta porque utiliza la opci\u00f3n -h en lugar de -d para especificar el directorio home del usuario. La opci\u00f3n -h no es una opci\u00f3n v\u00e1lida para el comando useradd"
+                },
+                {
+                    "text": "c) M\u00e1scara clase C.",
+                    "isCorrect": false,
+                    "hint": "Clase C es un \/24"
+                }
+            ]
+        },
+        {
+            "question": "9. En una primera aproximaci\u00f3n de la arquitectura de redes, se est\u00e1 planteando usar una m\u00e1scara gen\u00e9rica por centro y al ser un n\u00famero reducido de investigadores por centro se deber\u00eda usar la que menos hosts permita. \u00bfCu\u00e1l de las siguientes mascaras es de la que estamos hablando?",
+            "options": [
+                {
+                    "text": "c) M\u00e1scara clase C.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) La potencia el\u00e9ctrica total del CPD entre potencia el\u00e9ctrica total consumida por los equipos IT.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) OpenVPN",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Roles de usuarios.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "10. Finalmente se ha decidido hacer un subnetting y usar una m\u00e1scara \/28 para cada centro. Si a uno de los centros se le asigna la direcci\u00f3n IP de red 82.0.0.80. \u00bfCu\u00e1l ser\u00eda el rango de hosts?",
+            "options": [
+                {
+                    "text": "a) 82.0.0.81 - 82.0.0.94",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) useradd -g investigadores -s \/bin\/bash -d \/home\/operador operador",
+                    "isCorrect": false,
+                    "hint": "Las opciones a) y c) no son correctas porque utilizan el comando createuser, que no es un comando v\u00e1lido para crear usuarios en sistemas operativos Linux\/Unix. La opci\u00f3n d) no es correcta porque utiliza la opci\u00f3n -h en lugar de -d para especificar el directorio home del usuario. La opci\u00f3n -h no es una opci\u00f3n v\u00e1lida para el comando useradd"
+                },
+                {
+                    "text": "c) M\u00e1scara clase C.",
+                    "isCorrect": false,
+                    "hint": "Clase C es un \/24"
+                },
+                {
+                    "text": "b) \u00a1TOP",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "\u00bfCu\u00e1l ser\u00eda la direcci\u00f3n de broadcast del centro con la direcci\u00f3n IP de red 82.0.0.80\/28?",
+            "options": [
+                {
+                    "text": "d) 82.0.0.95",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) fabric",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La potencia el\u00e9ctrica total del CPD entre potencia el\u00e9ctrica total consumida por los equipos IT.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) \/etc\/sysconfig\/network-scripts",
+                    "isCorrect": false,
+                    "hint": "\/etc\/sysconfig\/network-scripts es la ubicaci\u00f3n donde se almacenan los scripts de configuraci\u00f3n de red en sistemas operativos basados en Red Hat."
+                }
+            ]
+        },
+        {
+            "question": "12. Para la interconexi\u00f3n de los centros a trav\u00e9s de la red se ha decidido utilizar redes privadas virtuales (VPN). \u00bfQu\u00e9 herramienta permite crear conexiones VPN?",
+            "options": [
+                {
+                    "text": "c) OpenVPN",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) useradd -g investigadores -s \/bin\/bash -d \/home\/operador operador",
+                    "isCorrect": false,
+                    "hint": "Las opciones a) y c) no son correctas porque utilizan el comando createuser, que no es un comando v\u00e1lido para crear usuarios en sistemas operativos Linux\/Unix. La opci\u00f3n d) no es correcta porque utiliza la opci\u00f3n -h en lugar de -d para especificar el directorio home del usuario. La opci\u00f3n -h no es una opci\u00f3n v\u00e1lida para el comando useradd"
+                },
+                {
+                    "text": "c) Grid control",
+                    "isCorrect": false,
+                    "hint": "Grid Control es una herramienta de gesti\u00f3n de bases de datos de Oracle que permite supervisar y gestionar m\u00faltiples bases de datos Oracle desde una \u00fanica consola. REMPLAZADO POR ORACLE ENTERPRISE MANAGER CLOUD CONTROL"
+                },
+                {
+                    "text": "b) com2sec notConfigUser default investigador",
+                    "isCorrect": false,
+                    "hint": "La sintaxis correcta para definir una comunidad SNMP es com2sec [securityName] [source] [community]. notConfigUser es un securityName predeterminado de para definir una comunidad SNMP que no est\u00e1 asociada con un usuario configurado en el sistema. "
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. Debido al gran n\u00famero de m\u00e1quinas destinadas a la computaci\u00f3n de los proyectos que carecen de interfaz de usuario, se han generado unas plantillas con la configuraci\u00f3n de red con el objetivo de desplegarlas y luego personalizarlas. \u00bfCu\u00e1l es el path correcto para realizar esta operativa?",
+            "options": [
+                {
+                    "text": "b) \/etc\/sysconfig\/network-scripts",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 82.0.0.81 - 82.0.0.94",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Roles de usuarios.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La potencia el\u00e9ctrica total del CPD entre potencia el\u00e9ctrica total consumida por los equipos IT.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2. El almacenamiento en los CPD se realiza mediante una red SAN en la cual hay dos cabinas de discos conectadas mediantes switches de fibra \u00f3ptica. \u00bfEn una red SAN como se llama a cada uno de los caminos que garantizan la redundancia?",
+            "options": [
+                {
+                    "text": "d) fabric",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) useradd -g investigadores -s \/bin\/bash -d \/home\/operador operador",
+                    "isCorrect": false,
+                    "hint": "Las opciones a) y c) no son correctas porque utilizan el comando createuser, que no es un comando v\u00e1lido para crear usuarios en sistemas operativos Linux\/Unix. La opci\u00f3n d) no es correcta porque utiliza la opci\u00f3n -h en lugar de -d para especificar el directorio home del usuario. La opci\u00f3n -h no es una opci\u00f3n v\u00e1lida para el comando useradd"
+                },
+                {
+                    "text": "c) Roles de usuarios.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) OpenVPN",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "La gesti\u00f3n de incidencias de los sistemas de informaci\u00f3n, gesti\u00f3n del cambio e inventario se quiere llevar a cabo con herramientas open source. \u00bfCu\u00e1l de las siguientes elegir\u00eda?",
+            "options": [
+                {
+                    "text": "b) \u00a1TOP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) com2sec notConfigUser default investigador",
+                    "isCorrect": false,
+                    "hint": "La sintaxis correcta para definir una comunidad SNMP es com2sec [securityName] [source] [community]. notConfigUser es un securityName predeterminado de para definir una comunidad SNMP que no est\u00e1 asociada con un usuario configurado en el sistema. "
+                },
+                {
+                    "text": "a) 82.0.0.81 - 82.0.0.94",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) snmpd.conf ",
+                    "isCorrect": false,
+                    "hint": "Las comunidades SNMP son un tipo de autenticaci\u00f3n utilizada en el protocolo SNMP para permitir el acceso a la informaci\u00f3n de los dispositivos de red. En Nagios, puedes agregar una comunidad SNMP en el archivo snmpd.conf"
+                }
+            ]
+        }
+    ]
+}

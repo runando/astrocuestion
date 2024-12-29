@@ -1,0 +1,64 @@
+{
+    "title": "Versiones Linux",
+    "type": "bloque2",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "\u00bfCu\u00e1l de las siguientes NO es una forma de averiguar la versi\u00f3n del kernel en un sistema Linux?",
+            "options": [
+                {
+                    "text": "cat \/etc\/*version",
+                    "isCorrect": true
+                },
+                {
+                    "text": "uname -r",
+                    "isCorrect": false,
+                    "hint": "Muestra la version del kernel"
+                },
+                {
+                    "text": "dmesg --kernel | grep \"Linux version\"",
+                    "isCorrect": false,
+                    "hint": "Esta herramienta muestra el buffer de mensajes del kernel."
+                }
+            ]
+        },
+        {
+            "question": "Entre los comandos que podemos ejecutar desde Linux y que nos muestran la versi\u00f3n del sistema operativo NO se encontrar\u00eda por tener otra finalidad el siguiente:",
+            "options": [
+                {
+                    "text": "uname -r",
+                    "isCorrect": true
+                },
+                {
+                    "text": "dmesg --kernel | grep \"Linux version\"",
+                    "isCorrect": false,
+                    "hint": "Esta herramienta muestra el buffer de mensajes del kernel."
+                },
+                {
+                    "text": "cat \/etc\/*version",
+                    "isCorrect": false,
+                    "hint": "Este comando nos mostrar\u00e1 la versi\u00f3n del sistema operativa (ubuntu 20.04 por ejemplo), pero no la versi\u00f3n del Kernel"
+                }
+            ]
+        },
+        {
+            "question": "Como podr\u00edamos averigual la versi\u00f3n del kernel de Linux usando el comadno dmesg?",
+            "options": [
+                {
+                    "text": "dmesg --kernel | grep \"Linux version\"",
+                    "isCorrect": true
+                },
+                {
+                    "text": "uname -r",
+                    "isCorrect": false,
+                    "hint": "Muestra la version del kernel"
+                },
+                {
+                    "text": "cat \/etc\/*version",
+                    "isCorrect": false,
+                    "hint": "Este comando nos mostrar\u00e1 la versi\u00f3n del sistema operativa (ubuntu 20.04 por ejemplo), pero no la versi\u00f3n del Kernel"
+                }
+            ]
+        }
+    ]
+}

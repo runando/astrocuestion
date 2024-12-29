@@ -1,0 +1,367 @@
+{
+    "title": "CUESTIONARIO 14-TAI\u2013PI - Supuesto II",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1.  Con el objetivo de facilitar la gesti\u00f3n se ha optado por utilizar un direccionamiento privado \/16 de manera que la facultad 1 tendr\u00e1 la direcci\u00f3n de red 10.1.0.0 y consecutivamente el resto hasta la facultad 9, que tendr\u00e1 la 10.9.0.0. \u00bfCu\u00e1l es el n\u00famero de hosts que se conseguir\u00edan por subred?",
+            "options": [
+                {
+                    "text": "c) (2^16) - 2",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 802.11n",
+                    "isCorrect": false,
+                    "hint": "ste protocolo proporciona un mayor rendimiento y una mayor cobertura que otros protocolos anteriores como 802.11g"
+                },
+                {
+                    "text": "a) NRPE. ",
+                    "isCorrect": false,
+                    "hint": "Adem\u00e1s de SNMP, Nagios tambi\u00e9n puede utilizar el protocolo NRPE (Nagios Remote Plugin Executor) para la monitorizaci\u00f3n. NRPE permite a Nagios ejecutar plugins en hosts remotos y obtener informaci\u00f3n espec\u00edfica sobre esos hosts."
+                },
+                {
+                    "text": "a) netstat -nr ",
+                    "isCorrect": false,
+                    "hint": "El comando netstat es una herramienta de diagn\u00f3stico que muestra varias estad\u00edsticas de la red, incluyendo la tabla de rutas del sistema. El argumento -r indica a netstat que muestre la tabla de rutas. El argumento -n hace que las direcciones se muestren en formato num\u00e9rico en lugar de resolverse en nombres de host."
+                }
+            ]
+        },
+        {
+            "question": "2 El nuevo proyecto de cableado ya ha resuelto el problema de las distancias entre facultades, pero respecto a la velocidad, \u00bfqu\u00e9 categor\u00eda ser\u00eda necesario como m\u00ednimo para alcanzar 1 Gbps como se especifica en el proyecto?",
+            "options": [
+                {
+                    "text": "b) Categor\u00eda 6",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) sed -i 's\/plantilla\/servidor1\/g' \/etc\/sysconfig\/network",
+                    "isCorrect": false,
+                    "hint": "    s\/ es la opci\u00f3n para realizar una sustituci\u00f3n.     plantilla es el texto que se quiere reemplazar.     servidor1 es el texto por el que se quiere reemplazar.     g es para realizar la sustituci\u00f3n en todas las ocurrencias del archivo.  Las opciones a), b) y c) contienen errores de sintaxis o de orden en la especificaci\u00f3n de las opciones, por lo que no son correctas."
+                },
+                {
+                    "text": "c) \/etc\/resolv.conf",
+                    "isCorrect": false,
+                    "hint": "El archivo \/etc\/resolv.conf es el archivo de configuraci\u00f3n de resoluci\u00f3n de nombres en sistemas operativos basados en Unix\/Linux, incluyendo RedHat 6. Este archivo contiene informaci\u00f3n sobre los servidores DNS a los que el sistema debe consultar para resolver los nombres de dominio en direcciones IP."
+                },
+                {
+                    "text": "a) NRPE. ",
+                    "isCorrect": false,
+                    "hint": "Adem\u00e1s de SNMP, Nagios tambi\u00e9n puede utilizar el protocolo NRPE (Nagios Remote Plugin Executor) para la monitorizaci\u00f3n. NRPE permite a Nagios ejecutar plugins en hosts remotos y obtener informaci\u00f3n espec\u00edfica sobre esos hosts."
+                }
+            ]
+        },
+        {
+            "question": "3. El proyecto incluye la implantaci\u00f3n de una red wifi que permita conectarse a los alumnos. Se ha decidido que la configuraci\u00f3n remota de los clientes es algo imprescindible y por tanto la red ha de soportar:",
+            "options": [
+                {
+                    "text": "d) 802.11v",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) NRPE. ",
+                    "isCorrect": false,
+                    "hint": "Adem\u00e1s de SNMP, Nagios tambi\u00e9n puede utilizar el protocolo NRPE (Nagios Remote Plugin Executor) para la monitorizaci\u00f3n. NRPE permite a Nagios ejecutar plugins en hosts remotos y obtener informaci\u00f3n espec\u00edfica sobre esos hosts."
+                },
+                {
+                    "text": "a) Medioambiental.",
+                    "isCorrect": false,
+                    "hint": "De acuerdo con el est\u00e1ndar TIA-942-A, la infraestructura de soporte de un Data Center estar\u00e1 compuesta por cuatro subsistemas: Telecomunicaciones, Arquitectura, Sistema el\u00e9ctrico y Sistema mec\u00e1nico."
+                },
+                {
+                    "text": "b) MGCP",
+                    "isCorrect": false,
+                    "hint": "MGCP (Protocolo de control de puerta multimedia) es un protocolo utilizado para establecer y controlar las conexiones de telefon\u00eda IP en una red"
+                }
+            ]
+        },
+        {
+            "question": "4. De cara a obtener el mayor throughput y la mayor cobertura posibles, \u00bfcu\u00e1l de los siguientes protocolos utilizar\u00eda para la red wifi?",
+            "options": [
+                {
+                    "text": "b) 802.11n",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) NRPE. ",
+                    "isCorrect": false,
+                    "hint": "Adem\u00e1s de SNMP, Nagios tambi\u00e9n puede utilizar el protocolo NRPE (Nagios Remote Plugin Executor) para la monitorizaci\u00f3n. NRPE permite a Nagios ejecutar plugins en hosts remotos y obtener informaci\u00f3n espec\u00edfica sobre esos hosts."
+                },
+                {
+                    "text": "b) Categor\u00eda 6",
+                    "isCorrect": false,
+                    "hint": "1.000 Mbps \/ 250 MHz"
+                },
+                {
+                    "text": "b) 25",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "5. Para la conexi\u00f3n remota de los docentes, se va a habilitar el uso de VPN. \u00bfCu\u00e1l de los siguientes protocolos NO proporciona seguridad en las redes VPN?",
+            "options": [
+                {
+                    "text": "b) MGCP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) netstat -nr ",
+                    "isCorrect": false,
+                    "hint": "El comando netstat es una herramienta de diagn\u00f3stico que muestra varias estad\u00edsticas de la red, incluyendo la tabla de rutas del sistema. El argumento -r indica a netstat que muestre la tabla de rutas. El argumento -n hace que las direcciones se muestren en formato num\u00e9rico en lugar de resolverse en nombres de host."
+                },
+                {
+                    "text": "d) 802.11v",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) NRPE. ",
+                    "isCorrect": false,
+                    "hint": "Adem\u00e1s de SNMP, Nagios tambi\u00e9n puede utilizar el protocolo NRPE (Nagios Remote Plugin Executor) para la monitorizaci\u00f3n. NRPE permite a Nagios ejecutar plugins en hosts remotos y obtener informaci\u00f3n espec\u00edfica sobre esos hosts."
+                }
+            ]
+        },
+        {
+            "question": "6. El nuevo CPD ha de cumplir la reciente norma TIA-942-A la cual establece 4 \u00e1reas o sistemas a tener en cuenta en el dise\u00f1o del CPD. \u00bfCu\u00e1l NO es una de estas \u00e1reas\/sistemas?",
+            "options": [
+                {
+                    "text": "a) Medioambiental.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) MGCP",
+                    "isCorrect": false,
+                    "hint": "MGCP (Protocolo de control de puerta multimedia) es un protocolo utilizado para establecer y controlar las conexiones de telefon\u00eda IP en una red"
+                },
+                {
+                    "text": "b) Categor\u00eda 6",
+                    "isCorrect": false,
+                    "hint": "1.000 Mbps \/ 250 MHz"
+                },
+                {
+                    "text": "c) Los sistemas de refrigeraci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": "CRAC (Unidades de Aire Acondicionado de Refrigeraci\u00f3n por Compresi\u00f3n) son sistemas de refrigeraci\u00f3n utilizados para mantener la temperatura y la humedad en un CPD en los niveles adecuados para el funcionamiento \u00f3ptimo de los equipos y sistemas."
+                }
+            ]
+        },
+        {
+            "question": "El nuevo CPD est\u00e1 orientado hac\u00eda el concepto de Green CPD y, por lo tanto, las unidades CRAC han de ser muy eficientes. \u00bfA qu\u00e9 unidades nos estamos refiriendo?",
+            "options": [
+                {
+                    "text": "c) Los sistemas de refrigeraci\u00f3n. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) (2^16) - 2",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) snmpwalk \u2013v 2c \u2013c universidad 10.1.1.25 system",
+                    "isCorrect": false,
+                    "hint": "El comando snmpwalk es utilizado para realizar una consulta de tipo walk en la MIB de un dispositivo SNMP, y el par\u00e1metro system indica que se desea obtener la informaci\u00f3n de la rama system de la MIB."
+                },
+                {
+                    "text": "b) MGCP",
+                    "isCorrect": false,
+                    "hint": "MGCP (Protocolo de control de puerta multimedia) es un protocolo utilizado para establecer y controlar las conexiones de telefon\u00eda IP en una red"
+                }
+            ]
+        },
+        {
+            "question": "8. Otro aspecto fundamental a cubrir es el de la seguridad, y para ello se est\u00e1 planteando la compra de equipos espec\u00edficos. \u00bfCu\u00e1l de los siguientes elementos NO es un elemento de seguridad inform\u00e1tica?",
+            "options": [
+                {
+                    "text": "d) PDU",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) NRPE. ",
+                    "isCorrect": false,
+                    "hint": "Adem\u00e1s de SNMP, Nagios tambi\u00e9n puede utilizar el protocolo NRPE (Nagios Remote Plugin Executor) para la monitorizaci\u00f3n. NRPE permite a Nagios ejecutar plugins en hosts remotos y obtener informaci\u00f3n espec\u00edfica sobre esos hosts."
+                },
+                {
+                    "text": "d) 802.11v",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Copy and safe",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "9. \u00bfQu\u00e9 puerto de entre los siguientes est\u00e1 asignado por IANA para el Simple Mail Transfer Protocol (SMTP)?",
+            "options": [
+                {
+                    "text": "b) 25",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) (2^16) - 2",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Los sistemas de refrigeraci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": "CRAC (Unidades de Aire Acondicionado de Refrigeraci\u00f3n por Compresi\u00f3n) son sistemas de refrigeraci\u00f3n utilizados para mantener la temperatura y la humedad en un CPD en los niveles adecuados para el funcionamiento \u00f3ptimo de los equipos y sistemas."
+                },
+                {
+                    "text": "b) 802.11n",
+                    "isCorrect": false,
+                    "hint": "ste protocolo proporciona un mayor rendimiento y una mayor cobertura que otros protocolos anteriores como 802.11g"
+                }
+            ]
+        },
+        {
+            "question": "10. Se crear\u00e1n 2 zonas diferenciadas, una dedicada a los alumnos y otra al personal, cada una con un servidor DNS diferente, por tanto en las m\u00e1quinas clonadas de la plantilla RedHat 6 habr\u00e1 que modificar el fichero que contiene los DNS. \u00bfDe qu\u00e9 fichero estamos hablando?",
+            "options": [
+                {
+                    "text": "c) \/etc\/resolv.conf",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Copy and safe",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) netstat -nr ",
+                    "isCorrect": false,
+                    "hint": "El comando netstat es una herramienta de diagn\u00f3stico que muestra varias estad\u00edsticas de la red, incluyendo la tabla de rutas del sistema. El argumento -r indica a netstat que muestre la tabla de rutas. El argumento -n hace que las direcciones se muestren en formato num\u00e9rico en lugar de resolverse en nombres de host."
+                },
+                {
+                    "text": "b) snmpwalk \u2013v 2c \u2013c universidad 10.1.1.25 system",
+                    "isCorrect": false,
+                    "hint": "El comando snmpwalk es utilizado para realizar una consulta de tipo walk en la MIB de un dispositivo SNMP, y el par\u00e1metro system indica que se desea obtener la informaci\u00f3n de la rama system de la MIB."
+                }
+            ]
+        },
+        {
+            "question": "11. La nueva infraestructura requerir\u00e1 configurar rutas en los diferentes servidores. \u00bfCu\u00e1l de los siguientes comandos tendr\u00e1 que usarse en las m\u00e1quinas clonadas para mostrar la tabla de rutas?",
+            "options": [
+                {
+                    "text": "a) netstat -nr ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) NRPE. ",
+                    "isCorrect": false,
+                    "hint": "Adem\u00e1s de SNMP, Nagios tambi\u00e9n puede utilizar el protocolo NRPE (Nagios Remote Plugin Executor) para la monitorizaci\u00f3n. NRPE permite a Nagios ejecutar plugins en hosts remotos y obtener informaci\u00f3n espec\u00edfica sobre esos hosts."
+                },
+                {
+                    "text": "b) Categor\u00eda 6",
+                    "isCorrect": false,
+                    "hint": "1.000 Mbps \/ 250 MHz"
+                },
+                {
+                    "text": "d) sed -i 's\/plantilla\/servidor1\/g' \/etc\/sysconfig\/network",
+                    "isCorrect": false,
+                    "hint": "    s\/ es la opci\u00f3n para realizar una sustituci\u00f3n.     plantilla es el texto que se quiere reemplazar.     servidor1 es el texto por el que se quiere reemplazar.     g es para realizar la sustituci\u00f3n en todas las ocurrencias del archivo.  Las opciones a), b) y c) contienen errores de sintaxis o de orden en la especificaci\u00f3n de las opciones, por lo que no son correctas."
+                }
+            ]
+        },
+        {
+            "question": "12. Por \u00faltimo se desea cubrir el backup de los sistemas m\u00e1s importantes y para ello se est\u00e1n barajando varias alternativas, \u00bfCu\u00e1l de las siguientes opciones NO es un software de backup?",
+            "options": [
+                {
+                    "text": "d) Copy and safe",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) netstat -nr ",
+                    "isCorrect": false,
+                    "hint": "El comando netstat es una herramienta de diagn\u00f3stico que muestra varias estad\u00edsticas de la red, incluyendo la tabla de rutas del sistema. El argumento -r indica a netstat que muestre la tabla de rutas. El argumento -n hace que las direcciones se muestren en formato num\u00e9rico en lugar de resolverse en nombres de host."
+                },
+                {
+                    "text": "b) 802.11n",
+                    "isCorrect": false,
+                    "hint": "ste protocolo proporciona un mayor rendimiento y una mayor cobertura que otros protocolos anteriores como 802.11g"
+                },
+                {
+                    "text": "d) sed -i 's\/plantilla\/servidor1\/g' \/etc\/sysconfig\/network",
+                    "isCorrect": false,
+                    "hint": "    s\/ es la opci\u00f3n para realizar una sustituci\u00f3n.     plantilla es el texto que se quiere reemplazar.     servidor1 es el texto por el que se quiere reemplazar.     g es para realizar la sustituci\u00f3n en todas las ocurrencias del archivo.  Las opciones a), b) y c) contienen errores de sintaxis o de orden en la especificaci\u00f3n de las opciones, por lo que no son correctas."
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. Para la monitorizaci\u00f3n de la infraestructura se ha decidido contar con una herramienta de software libre y, Nagios ha sido la elegida. Adem\u00e1s del protocolo SNMP, \u00bfcon qu\u00e9 otro m\u00e9todo permite Nagios realizar la monitorizaci\u00f3n?",
+            "options": [
+                {
+                    "text": "a) NRPE. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) netstat -nr ",
+                    "isCorrect": false,
+                    "hint": "El comando netstat es una herramienta de diagn\u00f3stico que muestra varias estad\u00edsticas de la red, incluyendo la tabla de rutas del sistema. El argumento -r indica a netstat que muestre la tabla de rutas. El argumento -n hace que las direcciones se muestren en formato num\u00e9rico en lugar de resolverse en nombres de host."
+                },
+                {
+                    "text": "c) Los sistemas de refrigeraci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": "CRAC (Unidades de Aire Acondicionado de Refrigeraci\u00f3n por Compresi\u00f3n) son sistemas de refrigeraci\u00f3n utilizados para mantener la temperatura y la humedad en un CPD en los niveles adecuados para el funcionamiento \u00f3ptimo de los equipos y sistemas."
+                },
+                {
+                    "text": "d) Copy and safe",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2. La nueva infraestructura tendr\u00e1 una parte virtualizada y, en ocasiones, se usar\u00e1 una m\u00e1quina virtual con RedHat 6 como plantilla que se clonar\u00e1 m\u00faltiples veces lo que supone tener que modificar ficheros de configuraci\u00f3n. \u00bfCu\u00e1l de las siguientes sentencias del comando sed (Stream EDitor) es la correcta para cambiar el nombre \"plantilla\" por el de \"servidor1\" en un fichero?",
+            "options": [
+                {
+                    "text": "d) sed -i 's\/plantilla\/servidor1\/g' \/etc\/sysconfig\/network",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 802.11v",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Copy and safe",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) \/etc\/resolv.conf",
+                    "isCorrect": false,
+                    "hint": "El archivo \/etc\/resolv.conf es el archivo de configuraci\u00f3n de resoluci\u00f3n de nombres en sistemas operativos basados en Unix\/Linux, incluyendo RedHat 6. Este archivo contiene informaci\u00f3n sobre los servidores DNS a los que el sistema debe consultar para resolver los nombres de dominio en direcciones IP."
+                }
+            ]
+        },
+        {
+            "question": "Durante la instalaci\u00f3n de Nagios se requiere hacer algunas pruebas, una de ellas consiste en recuperar manualmente la rama system de la MIB (Management Information Base) de una de las m\u00e1quinas desplegadas. La IP de la m\u00e1quina es la 10.1.1.25, la comunidad SNMP es \"universidad\" y la versi\u00f3n del protocolo es la 2c. \u00bfQu\u00e9 comando habr\u00eda que utilizar?",
+            "options": [
+                {
+                    "text": "b) snmpwalk \u2013v 2c \u2013c universidad 10.1.1.25 system",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) sed -i 's\/plantilla\/servidor1\/g' \/etc\/sysconfig\/network",
+                    "isCorrect": false,
+                    "hint": "    s\/ es la opci\u00f3n para realizar una sustituci\u00f3n.     plantilla es el texto que se quiere reemplazar.     servidor1 es el texto por el que se quiere reemplazar.     g es para realizar la sustituci\u00f3n en todas las ocurrencias del archivo.  Las opciones a), b) y c) contienen errores de sintaxis o de orden en la especificaci\u00f3n de las opciones, por lo que no son correctas."
+                },
+                {
+                    "text": "b) MGCP",
+                    "isCorrect": false,
+                    "hint": "MGCP (Protocolo de control de puerta multimedia) es un protocolo utilizado para establecer y controlar las conexiones de telefon\u00eda IP en una red"
+                },
+                {
+                    "text": "b) Categor\u00eda 6",
+                    "isCorrect": false,
+                    "hint": "1.000 Mbps \/ 250 MHz"
+                }
+            ]
+        }
+    ]
+}

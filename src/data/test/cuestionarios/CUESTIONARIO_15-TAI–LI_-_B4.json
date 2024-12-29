@@ -1,0 +1,1255 @@
+{
+    "title": "CUESTIONARIO 15-TAI\u2013LI - B4",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1. En Windows PowerShell, los comandos que se ejecutan se denominan: ",
+            "options": [
+                {
+                    "text": "d) cmdlets ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Cuando un protocolo de nivel superior env\u00eda un datagrama dirigido a una 1P de esta red se le devuelve al remitente sin  que llegue a los niveles inferiores de la capa OSI, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) LTE Advanced",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Permite ordenar l\u00edneas de archivos",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2. Se\u00f1ale la respuesta correcta, Microsoft Exchange Server es un: ",
+            "options": [
+                {
+                    "text": "a) servidor de correo electr\u00f3nico al que puede accederse mediante un navegador web y es compatible con aplicaciones  cliente como Microsoft Outlook, ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Es un elemento de seguridad perimetral. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) activa y pasiva",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Un fallo en el concentrador incapacita a toda la red. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. En un sistema operativo Linux en cuanto a las instalaciones y desinstalaciones de software: ",
+            "options": [
+                {
+                    "text": "b) Los gestores de paquetes para la instalaci\u00f3n de software como apt, rpm, urpmi necesitan definir una serie de fuentes o  repositorios desde donde descargar los paquetes de instalaci\u00f3n, para ello, cada gestor de paquetes cuenta con comandos  orientados a",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) inofensivo, normalmente distribuido por correo electr\u00f3nico, que alerta de un problema inform\u00e1tico que realmente no existe  para causar, mediante una serie de instrucciones, problemas en el sistema. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 4 tiers o niveles. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) MX ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4. Cu\u00e1l es el significado del comando sort de UNIX?",
+            "options": [
+                {
+                    "text": "d) Permite ordenar l\u00edneas de archivos",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Protecci\u00f3n de sistemas de correo electr\u00f3nico. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IEEE 802.11r ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) GRE: Generic Routing Encapsulation ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "5.Seg\u00fan la REC 5321 referida al Simple Mail Transfer Protocol, una implementaci\u00f3n m\u00ednima de este protocolo debe  contar con la siguiente lista de comandos implementada en todos los receptores para cumplir con la  especificaci\u00f3n: ",
+            "options": [
+                {
+                    "text": "d) EHLO, HELO, MAIL, RCPT, DATA, RSET, NOOP, QUIT, VRFY ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) de la red que se leer\u00e1n del fichero \"listado.txt\". ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 600 Mbps ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La soluci\u00f3n de encriptado del protocolo de transmisi\u00f3n de registros es asim\u00e9trica.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "6. Los posibles estados de una base de datos contenida en un DAG (Database Availability Group) de Microsoft  Exchange 2013 son: ",
+            "options": [
+                {
+                    "text": "a) activa y pasiva",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) servidor de correo electr\u00f3nico al que puede accederse mediante un navegador web y es compatible con aplicaciones  cliente como Microsoft Outlook, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Nagios. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 62 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "8. \u00bfCu\u00e1l de las siguientes \u00f3rdenes del protocolo SMTP (Simple Mail Transfer Protocol) se utiliza para indicar el  desinatario del mensaje? ",
+            "options": [
+                {
+                    "text": "c) RCPT TO ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Es un elemento de seguridad perimetral. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Atrav\u00e9s de la consola cmd con el comando ipconfig. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) activa y pasiva",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "9. \u00bfCu\u00e1l de los siguientes NO es un protocolo de correo electr\u00f3nico? ",
+            "options": [
+                {
+                    "text": "a) SNMP ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Un fallo en el concentrador incapacita a toda la red. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 0.15.255.255 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IEEE 802.11r ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "10. De entre los siguientes, \u00bfqu\u00e9 software permite la monitorizaci\u00f3n de las infraestructuras de Tecnolog\u00edas de la  Informaci\u00f3n en una organizaci\u00f3n? ",
+            "options": [
+                {
+                    "text": "c) Nagios. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Los gestores de paquetes para la instalaci\u00f3n de software como apt, rpm, urpmi necesitan definir una serie de fuentes o  repositorios desde donde descargar los paquetes de instalaci\u00f3n, para ello, cada gestor de paquetes cuenta con comandos  orientados a",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 802.15",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Atrav\u00e9s de la consola cmd con el comando ipconfig. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11. Si se utilizan 5 bits en el protocolo IP para identificar los hosts de una subred, \u00bfcu\u00e1ntos hosts pueden direccionarse? ",
+            "options": [
+                {
+                    "text": "b) 30 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 23 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IPSEC ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 802.15",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12. \u00bfCu\u00e1ntos hosts puede direccionar la subred 172.16.1.0\/26? ",
+            "options": [
+                {
+                    "text": "a) 62 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Se utiliza para garantizar la integridad de un mensaje. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Protecci\u00f3n de sistemas de correo electr\u00f3nico. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) OSPF ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. \u00bfPara qu\u00e9 sirve el protocolo SNMP? ",
+            "options": [
+                {
+                    "text": "b) Para comunicar informaci\u00f3n de gesti\u00f3n de la red entre las estaciones de gesti\u00f3n y los agentes. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Un protocolo de autenticaci\u00f3n de red creado por el MIT, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Protecci\u00f3n de sistemas de correo electr\u00f3nico. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Atrav\u00e9s de la consola cmd con el comando ipconfig. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14. Si trabajamos con sistemas Windows y se ha configurado la obtenci\u00f3n autom\u00e1tica de direcciones IP para  acceder a una LAN, \u00bfc\u00f3mo podemos saber la IP concreta que tenemos asignada en nuestro equipo? ",
+            "options": [
+                {
+                    "text": "c) Atrav\u00e9s de la consola cmd con el comando ipconfig. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) GRE: Generic Routing Encapsulation ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Es un elemento de seguridad perimetral. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Permite ordenar l\u00edneas de archivos",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15. Seg\u00fan el est\u00e1ndar TIA 942, los CPD's se pueden certificar en: ",
+            "options": [
+                {
+                    "text": "b) 4 tiers o niveles. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Es un elemento de seguridad perimetral. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 600 Mbps ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) TLS1.2 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. AppLocker es:",
+            "options": [
+                {
+                    "text": "c) Una caracter\u00edstica disponible en algunos sistemas Windows que permite especificar los usuarios o grupos que pueden  ejecutar determinadas aplicaciones. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Protecci\u00f3n de sistemas de correo electr\u00f3nico. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) TLS1.2 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) GRE: Generic Routing Encapsulation ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17. En el \u00e1mbito de la seguridad inform\u00e1tica, Hoax es un mensaje: ",
+            "options": [
+                {
+                    "text": "a) inofensivo, normalmente distribuido por correo electr\u00f3nico, que alerta de un problema inform\u00e1tico que realmente no existe  para causar, mediante una serie de instrucciones, problemas en el sistema. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 0.15.255.255 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) GRE: Generic Routing Encapsulation ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 62 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18. \u00bfCu\u00e1l de las siguientes afirmaciones sobre la funci\u00f3n hash es verdadera? ",
+            "options": [
+                {
+                    "text": "d) Se utiliza para garantizar la integridad de un mensaje. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) SNMP ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Permite ordenar l\u00edneas de archivos",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Protegen a las personas de electrocuci\u00f3n por un eventual contacto a un equipo con un problema de aislamiento el\u00e9ctrico. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "19. \u00bfCu\u00e1l de las siguientes opciones incluye \u00fanicamente algoritmos de cifrado asim\u00e9trico?",
+            "options": [
+                {
+                    "text": "a) RSA y Diffie-Hellman. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Nagios. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) OSPF ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) DSA ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "20. En los cuadros el\u00e9ctricos de un CPD, los interruptores diferenciales: ",
+            "options": [
+                {
+                    "text": "b) Protegen a las personas de electrocuci\u00f3n por un eventual contacto a un equipo con un problema de aislamiento el\u00e9ctrico. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Atrav\u00e9s de la consola cmd con el comando ipconfig. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 53 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) DSA ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "21. Kerberos es: ",
+            "options": [
+                {
+                    "text": "c) Un protocolo de autenticaci\u00f3n de red creado por el MIT, ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) inofensivo, normalmente distribuido por correo electr\u00f3nico, que alerta de un problema inform\u00e1tico que realmente no existe  para causar, mediante una serie de instrucciones, problemas en el sistema. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 8. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Es un elemento de seguridad perimetral. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. \u00bfCu\u00e1l de las siguientes afirmaciones sobre el protocolo de encaminamiento OSPF es verdadera? ",
+            "options": [
+                {
+                    "text": "b) Utiliza el algoritmo Dijkstra para encontrar el trayecto m\u00e1s corto.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) servidor de correo electr\u00f3nico al que puede accederse mediante un navegador web y es compatible con aplicaciones  cliente como Microsoft Outlook, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Una caracter\u00edstica disponible en algunos sistemas Windows que permite especificar los usuarios o grupos que pueden  ejecutar determinadas aplicaciones. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La soluci\u00f3n de encriptado del protocolo de transmisi\u00f3n de registros es asim\u00e9trica.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. El ancho de banda del cable de pares trenzados CAT6 empleado en el cableado de redes locales, es de: ",
+            "options": [
+                {
+                    "text": "c) Hasta 250 MHz. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Permite ordenar l\u00edneas de archivos",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) cmdlets ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Se intercambian los pares TX y RX solamente. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. Si queremos dise\u00f1ar un enlace de 10Gbps \u00bfqu\u00e9 medio de transmisi\u00f3n nos permite alcanzar la m\u00e1xima longitud  del enlace? ",
+            "options": [
+                {
+                    "text": "b) Fibra \u00f3ptica monomodo tipo OS2. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) LTE Advanced",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 0.15.255.255 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) cmdlets ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. \u00bfCu\u00e1l de los siguientes grupos de trabajo del IEEE se refiere a las redes PAN (Personal Area Network)  inal\u00e1mbricas? ",
+            "options": [
+                {
+                    "text": "b) 802.15",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) SNMP ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) LACNIC ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Es un elemento de seguridad perimetral. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "26. \u00bfCu\u00e1l de las siguientes t\u00e9cnicas de comunicaci\u00f3n se considera incluido dentro de la telefon\u00eda m\u00f3vil 4G? ",
+            "options": [
+                {
+                    "text": "d) LTE Advanced",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) EHLO, HELO, MAIL, RCPT, DATA, RSET, NOOP, QUIT, VRFY ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IEEE 802.11r ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Hasta 250 MHz. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "27. Indique la velocidad m\u00e1xima que puede proporcionar una red inal\u00e1mbrica que cumpla el est\u00e1ndar 802.11n: ",
+            "options": [
+                {
+                    "text": "c) 600 Mbps ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Permite ordenar l\u00edneas de archivos",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Se utiliza para garantizar la integridad de un mensaje. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) activa y pasiva",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "28. El protocolo de acceso inal\u00e1mbrico a una red de \u00e1rea local, que opera en la banda de los 5 GHz y que consigue  velocidades m\u00e1ximas te\u00f3ricas de hasta 7 Gbps es: ",
+            "options": [
+                {
+                    "text": "b) 802.11ac ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Un protocolo de autenticaci\u00f3n de red creado por el MIT, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) inofensivo, normalmente distribuido por correo electr\u00f3nico, que alerta de un problema inform\u00e1tico que realmente no existe  para causar, mediante una serie de instrucciones, problemas en el sistema. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) MX ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "29. Cu\u00e1ntos bits tiene el campo Clase de Tr\u00e1fico en IPv6? ",
+            "options": [
+                {
+                    "text": "c) 8. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Un fallo en el concentrador incapacita a toda la red. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Se intercambian los pares TX y RX solamente. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) LTE Advanced",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "30. \u00bfCu\u00e1l es la direcci\u00f3n de red asociada a la IP 113.128.14.35 con m\u00e1scara de red 255.192.0.0? ",
+            "options": [
+                {
+                    "text": "a) 113.128.0.0 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Permite ordenar l\u00edneas de archivos",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Se utiliza para garantizar la integridad de un mensaje. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) activa y pasiva",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la wildcard de la direcci\u00f3n de red asociada a la que pertenece el host con IP 123.132.14.35 y con  m\u00e1scara de red 255.240.0.0? ",
+            "options": [
+                {
+                    "text": "b) 0.15.255.255 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) SNMP ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Los gestores de paquetes para la instalaci\u00f3n de software como apt, rpm, urpmi necesitan definir una serie de fuentes o  repositorios desde donde descargar los paquetes de instalaci\u00f3n, para ello, cada gestor de paquetes cuenta con comandos  orientados a",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) LTE Advanced",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "32. Indique cu\u00e1l de las siguientes afirmaciones sobre la red clase A 127.0.0.0 es VERDADERA: ",
+            "options": [
+                {
+                    "text": "c) Cuando un protocolo de nivel superior env\u00eda un datagrama dirigido a una 1P de esta red se le devuelve al remitente sin  que llegue a los niveles inferiores de la capa OSI, ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Fibra \u00f3ptica monomodo tipo OS2. ",
+                    "isCorrect": false,
+                    "hint": "ideal para largas distancias y puede alcanzar velocidades de hasta 100 Gbps."
+                },
+                {
+                    "text": "b) 802.11ac ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) servidor de correo electr\u00f3nico al que puede accederse mediante un navegador web y es compatible con aplicaciones  cliente como Microsoft Outlook, ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "33. Indique cu\u00e1l de las siguientes afirmaciones sobre el protocolo TLS 1.2 descrito en la RFC 5246 es FALSA: ",
+            "options": [
+                {
+                    "text": "b) La soluci\u00f3n de encriptado del protocolo de transmisi\u00f3n de registros es asim\u00e9trica.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Se utiliza para garantizar la integridad de un mensaje. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) No repudio. ",
+                    "isCorrect": false,
+                    "hint": "Solo autentica al servidor y no al cliente."
+                },
+                {
+                    "text": "b) IEEE 802.11r ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "34. Se\u00f1ale la respuesta correcta. La longitud de una direcci\u00f3n IP en la versi\u00f3n: ",
+            "options": [
+                {
+                    "text": "c) IPv6 es de 128 bits.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 600 Mbps ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 802.11ac ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Nagios. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "35. \u00bfCu\u00e1l es puerto est\u00e1ndar asociado al protocolo Telnet? ",
+            "options": [
+                {
+                    "text": "c) 23 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) LTE Advanced",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IPSEC ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Protecci\u00f3n de sistemas de correo electr\u00f3nico. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "36. Indique la caracter\u00edstica que NO proporciona el protocolo SSL: ",
+            "options": [
+                {
+                    "text": "a) No repudio. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Los gestores de paquetes para la instalaci\u00f3n de software como apt, rpm, urpmi necesitan definir una serie de fuentes o  repositorios desde donde descargar los paquetes de instalaci\u00f3n, para ello, cada gestor de paquetes cuenta con comandos  orientados a",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Protegen a las personas de electrocuci\u00f3n por un eventual contacto a un equipo con un problema de aislamiento el\u00e9ctrico. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) cmdlets ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37. \u00bfQu\u00e9 nos indica un error 502 en el protocolo de comunicaciones HTTP? ",
+            "options": [
+                {
+                    "text": "a) El servidor, actuando como gateway o proxy, recibi\u00f3 una respuesta inv\u00e1lida desde un servidor de flujo ascendente al cu\u00e1l  accedi\u00f3 para intentar completar la solicitud. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Protecci\u00f3n de sistemas de correo electr\u00f3nico. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Se utiliza para garantizar la integridad de un mensaje. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 8. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "38. Si en un entorno de red sobre un sistema operativo Windows nos encontramos con una sentencia como la  siguiente #> wget -r -l2 -i listado.txt lo interpretaremos como la recuperaci\u00f3n de una serie de documentos: ",
+            "options": [
+                {
+                    "text": "b) de la red que se leer\u00e1n del fichero \"listado.txt\". ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) cmdlets ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 62 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Permite ordenar l\u00edneas de archivos",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39. \u00bfCu\u00e1l es el n\u00famero de puerto usado por DNS? ",
+            "options": [
+                {
+                    "text": "a) 53 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Utiliza el algoritmo Dijkstra para encontrar el trayecto m\u00e1s corto.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Para comunicar informaci\u00f3n de gesti\u00f3n de la red entre las estaciones de gesti\u00f3n y los agentes. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) LTE Advanced",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "40. \u00bfCu\u00e1l es el tipo de registro de DNS que proporciona informaci\u00f3n del servidor de correo para un dominio dado? ",
+            "options": [
+                {
+                    "text": "b) MX ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Los gestores de paquetes para la instalaci\u00f3n de software como apt, rpm, urpmi necesitan definir una serie de fuentes o  repositorios desde donde descargar los paquetes de instalaci\u00f3n, para ello, cada gestor de paquetes cuenta con comandos  orientados a",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Un protocolo de autenticaci\u00f3n de red creado por el MIT, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) servidor de correo electr\u00f3nico al que puede accederse mediante un navegador web y es compatible con aplicaciones  cliente como Microsoft Outlook, ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "41. El RIR (Regional Internet Registry) responsable de las direcciones 1P de Am\u00e9rica Latina y algunas islas del  Caribe es: ",
+            "options": [
+                {
+                    "text": "b) LACNIC ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Un protocolo de autenticaci\u00f3n de red creado por el MIT, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SNMP ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) activa y pasiva",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "42. Se\u00f1ale el algoritmo de clave asim\u00e9trica entre los siguientes: ",
+            "options": [
+                {
+                    "text": "a) DSA ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Cuando un protocolo de nivel superior env\u00eda un datagrama dirigido a una 1P de esta red se le devuelve al remitente sin  que llegue a los niveles inferiores de la capa OSI, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 30 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Atrav\u00e9s de la consola cmd con el comando ipconfig. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "43. La suite de cifrado HMAC-SHA256 fue introducida en: ",
+            "options": [
+                {
+                    "text": "d) TLS1.2 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Un fallo en el concentrador incapacita a toda la red. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Protecci\u00f3n de sistemas de correo electr\u00f3nico. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) inofensivo, normalmente distribuido por correo electr\u00f3nico, que alerta de un problema inform\u00e1tico que realmente no existe  para causar, mediante una serie de instrucciones, problemas en el sistema. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "44. De entre los siguientes, \u00bfqu\u00e9 protocolo es utilizado para implantar Redes Privadas Virtuales? ",
+            "options": [
+                {
+                    "text": "b) IPSEC ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 30 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 0.15.255.255 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) MX ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "45. Cuando hablamos de IronPort o Sophos nos estamos refiriendo a: ",
+            "options": [
+                {
+                    "text": "a) Protecci\u00f3n de sistemas de correo electr\u00f3nico. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 802.11ac ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) LACNIC ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) OSPF ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "46 \u00bfCu\u00e1l de los siguientes es un protocolo de tunneling? ",
+            "options": [
+                {
+                    "text": "d) GRE: Generic Routing Encapsulation ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 30 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SNMP ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 113.128.0.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "47. En una arquitectura de red, un firewall o cortafuegos: ",
+            "options": [
+                {
+                    "text": "a) Es un elemento de seguridad perimetral. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Un protocolo de autenticaci\u00f3n de red creado por el MIT, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La soluci\u00f3n de encriptado del protocolo de transmisi\u00f3n de registros es asim\u00e9trica.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) No repudio. ",
+                    "isCorrect": false,
+                    "hint": "Solo autentica al servidor y no al cliente."
+                }
+            ]
+        },
+        {
+            "question": "48. Indica cu\u00e1l de los siguientes es un m\u00e9todo de control de acceso al medio controlado y centralizado: ",
+            "options": [
+                {
+                    "text": "b) Mecanismos de encuesta.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Previene la formaci\u00f3n de bucles en la red. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) servidor de correo electr\u00f3nico al que puede accederse mediante un navegador web y es compatible con aplicaciones  cliente como Microsoft Outlook, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Es un elemento de seguridad perimetral. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "49. En el contexto de las redes de \u00e1rea local, se\u00f1ale la afirmaci\u00f3n FALSA con respecto a la topolog\u00eda en bus: ",
+            "options": [
+                {
+                    "text": "d) Un fallo en el concentrador incapacita a toda la red. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Hasta 250 MHz. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) LTE Advanced",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 0.15.255.255 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "50. El est\u00e1ndar IEEE 802.1d (Spanning Tree Protocol):",
+            "options": [
+                {
+                    "text": "a) Previene la formaci\u00f3n de bucles en la red. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Fibra \u00f3ptica monomodo tipo OS2. ",
+                    "isCorrect": false,
+                    "hint": "ideal para largas distancias y puede alcanzar velocidades de hasta 100 Gbps."
+                },
+                {
+                    "text": "c) Nagios. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Para comunicar informaci\u00f3n de gesti\u00f3n de la red entre las estaciones de gesti\u00f3n y los agentes. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. \u00bfCu\u00e1l de los siguientes est\u00e1ndares de la serie IEEE 802.11 se conoce como Fast Basic Service Set Transition, el  cual est\u00e1 enfocado a permitir la conexi\u00f3n continua de clientes en movimiento? ",
+            "options": [
+                {
+                    "text": "b) IEEE 802.11r ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 8. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) de la red que se leer\u00e1n del fichero \"listado.txt\". ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Mecanismos de encuesta.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2. Se\u00f1ale el protocolo de estado de enlace: ",
+            "options": [
+                {
+                    "text": "c) OSPF ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Fibra \u00f3ptica monomodo tipo OS2. ",
+                    "isCorrect": false,
+                    "hint": "ideal para largas distancias y puede alcanzar velocidades de hasta 100 Gbps."
+                },
+                {
+                    "text": "c) 23 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Previene la formaci\u00f3n de bucles en la red. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. En los conectores RJ45 de un cable de red cruzado empleado en una conexi\u00f3n 10BASE-T para conectar dos  equipos: ",
+            "options": [
+                {
+                    "text": "a) Se intercambian los pares TX y RX solamente. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) IPv6 es de 128 bits.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Hasta 250 MHz. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 62 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

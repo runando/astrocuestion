@@ -1,0 +1,367 @@
+{
+    "title": "Agenda Espa\u00f1a 2030",
+    "type": "bloque1",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "Es una dimensi\u00f3n de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "Infraestructuras y tecnolog\u00eda",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cienca y nuevas tecnologías",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Infraestructuras y telecomunicaciones",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Tecnología industrial y ciencia",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una dimensi\u00f3n de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "Econom\u00eda",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Inversiones",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Ahorro económico",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Mercado de valores",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una dimensi\u00f3n de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "Personas",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Tercera edad y nuevas generaciones",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Jovenes y Ancianos",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Ciudadanos",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una eje de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "Conectividad digital",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Acceso a la red digital",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Acceso a Internet",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Conectividad digital y analogica",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una eje de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "Impulso a la Tecnolog\u00eda 5G",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Inversión en Redes 5G",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Desarrollo de la Tecnología 5G",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Adopción de Tecnologías 5G",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una eje de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "Ciberseguridad",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Seguridad Cibernética",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Seguridad en Red",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Respuesta al Cibercrimen",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una eje de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "Econom\u00eda del dato e Inteligencia Artificial. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Transformación económica impulsada por datos y AI.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Desarrollo de la economía basada en datos y la Inteligencia Artificial.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Inteligencia Artificial y Machine Learning",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una eje de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "Transformaci\u00f3n digital del sector p\u00fablico.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Digitalización de las instituciones del sector público",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Modernización digital del sector público.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Avance hacia la digitalización en el sector público.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una eje de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "Transformaci\u00f3n digital de la empresa y emprendimiento digital",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Adaptación de la empresa a la era digital y fomento del emprendimiento",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Adaptación de las empresas al futuro digital y nuevos negocios",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Transición tecnológica de la empresa y nuevos emprendedores",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una eje de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "Transformaci\u00f3n digital sectorial y sostenible",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Modernización digital de sectores con enfoque en la sostenibilidad",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Avance hacia la digitalización en sectores de manera sostenible",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Transformación de industrias con un enfoque sostenible y digital.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una eje de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "Espa\u00f1a, hub audiovisual",
+                    "isCorrect": true
+                },
+                {
+                    "text": "España, nexo de industrias digitales.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "España, punto de encuentro de producción audiovisual.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "España, centro de la industria audiovisual.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una eje de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "Competencias digitales",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Aptitudes digitales",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Habilidades digitales",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Capacidades digitales",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una eje de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "Derechos digitales",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Derechos en línea",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Derechos en el entorno digital",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Libertad y privacidad en red",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una eje transversal de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "PERTE: Proyectos Estrat\u00e9gicos para la Recuperaci\u00f3n y Transformaci\u00f3n Econ\u00f3mica.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "PERTE: Proyectos Económicos para la Recuperación y Transformación Empresarial.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "PERTE: Proyectos Económicos para la Recuperación y Transformación Económica.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "PERTE: Planes Estratégicos para la Recuperación y Transformación Empresarial.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una eje transversal de la Agenda Espa\u00f1a 2030",
+            "options": [
+                {
+                    "text": "RETECH: Redes Territoriales de Especializaci\u00f3n Tecnol\u00f3gica. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "RETECH: Redes Territoriales de Emancipación Tecnológica.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "RETECH: Redes Empresariales de Especialización Tecnológica.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "RETECH: Redes Territoriales de Transición Tecnológica.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

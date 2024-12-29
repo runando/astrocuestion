@@ -1,0 +1,1255 @@
+{
+    "title": "Catalogo de servicios",
+    "type": "bloque4",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "Identidad electr\u00f3nica para las Administraciones",
+            "options": [
+                {
+                    "text": "Cl@ve",
+                    "isCorrect": true
+                },
+                {
+                    "text": "FIRe",
+                    "isCorrect": false,
+                    "hint": "Soluci\u00f3n Integral de Firma electr\u00f3nica"
+                },
+                {
+                    "text": "datos.gob.es",
+                    "isCorrect": false,
+                    "hint": "Reutilizacion de la informaci\u00f3n p\u00fablica"
+                },
+                {
+                    "text": "Stork",
+                    "isCorrect": false,
+                    "hint": "Reconocimiento paneuropeo de las identidades electr\u00f3nicas (DNIe)"
+                }
+            ]
+        },
+        {
+            "question": "Firma criptogr\u00e1fica basada en certificados centralizados",
+            "options": [
+                {
+                    "text": "Cl@ve Firma",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cortino",
+                    "isCorrect": false,
+                    "hint": "Comunicaciones Electr\u00f3nicas Seguras"
+                },
+                {
+                    "text": "Registro Electr\u00f3nico Com\u00fan",
+                    "isCorrect": false,
+                    "hint": "rec.redsara.es"
+                },
+                {
+                    "text": "CISE",
+                    "isCorrect": false,
+                    "hint": "Centro de Interoperabilidad Sem\u00e1ntica"
+                }
+            ]
+        },
+        {
+            "question": "Plataforma de validaci\u00f3n de certificados y firmas",
+            "options": [
+                {
+                    "text": "@firma",
+                    "isCorrect": true
+                },
+                {
+                    "text": "OAW",
+                    "isCorrect": false,
+                    "hint": "Servicio de diagn\u00f3stico en l\u00ednea"
+                },
+                {
+                    "text": "VALIDe",
+                    "isCorrect": false,
+                    "hint": "Validaci\u00f3n de firmas y certificados electr\u00f3nicos"
+                },
+                {
+                    "text": "OBSAE",
+                    "isCorrect": false,
+                    "hint": "Observatorio Administracion Electronica"
+                }
+            ]
+        },
+        {
+            "question": "Soluci\u00f3n Integral de Firma electr\u00f3nica",
+            "options": [
+                {
+                    "text": "FIRe",
+                    "isCorrect": true
+                },
+                {
+                    "text": "TRAMA",
+                    "isCorrect": false,
+                    "hint": "Tramitaci\u00f3n de permisos e incidencias"
+                },
+                {
+                    "text": "InSiDe",
+                    "isCorrect": false,
+                    "hint": "Infraestructura y Sistemas de Documentaci\u00f3n Electr\u00f3nica"
+                },
+                {
+                    "text": "SIGP",
+                    "isCorrect": false,
+                    "hint": "Sistema Integrado de Gesti\u00f3n de Personal"
+                }
+            ]
+        },
+        {
+            "question": "Plataforma de sellado de tiempo",
+            "options": [
+                {
+                    "text": "TS@",
+                    "isCorrect": true
+                },
+                {
+                    "text": "FIRe",
+                    "isCorrect": false,
+                    "hint": "Soluci\u00f3n Integral de Firma electr\u00f3nica"
+                },
+                {
+                    "text": "OAW",
+                    "isCorrect": false,
+                    "hint": "Servicio de diagn\u00f3stico en l\u00ednea"
+                },
+                {
+                    "text": "CIRCABC",
+                    "isCorrect": false,
+                    "hint": "Herramienta de trabajo en grupo para intercambio de informaci\u00f3n y trabajo colaborativo."
+                }
+            ]
+        },
+        {
+            "question": "Validaci\u00f3n de firmas y certificados electr\u00f3nicos",
+            "options": [
+                {
+                    "text": "VALIDe",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cortino",
+                    "isCorrect": false,
+                    "hint": "Comunicaciones Electr\u00f3nicas Seguras"
+                },
+                {
+                    "text": "Red SARA",
+                    "isCorrect": false,
+                    "hint": "Conjunto de infraestructuras de comunicaciones y servicios b\u00e1sicos que conecta las redes de las AAPP espa\u00f1olas e Instituciones europeas "
+                },
+                {
+                    "text": "Apodera",
+                    "isCorrect": false,
+                    "hint": "Registro electr\u00f3nico de Apoderamientos de la Administraci\u00f3n General del Estado"
+                }
+            ]
+        },
+        {
+            "question": "Cliente de Firma electr\u00f3nica de @Firma",
+            "options": [
+                {
+                    "text": "Cliente",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SIGP",
+                    "isCorrect": false,
+                    "hint": "Sistema Integrado de Gesti\u00f3n de Personal"
+                },
+                {
+                    "text": "Stork",
+                    "isCorrect": false,
+                    "hint": "Reconocimiento paneuropeo de las identidades electr\u00f3nicas (DNIe)"
+                },
+                {
+                    "text": "PID",
+                    "isCorrect": false,
+                    "hint": "Plataforma de Intermediaci\u00f3n de Datos"
+                }
+            ]
+        },
+        {
+            "question": "Firma electr\u00f3nica de empleado p\u00fablico",
+            "options": [
+                {
+                    "text": "Port@firmas",
+                    "isCorrect": true
+                },
+                {
+                    "text": "datos.gob.es",
+                    "isCorrect": false,
+                    "hint": "Reutilizacion de la informaci\u00f3n p\u00fablica"
+                },
+                {
+                    "text": "PID",
+                    "isCorrect": false,
+                    "hint": "Plataforma de Intermediaci\u00f3n de Datos"
+                },
+                {
+                    "text": "nubeSARA",
+                    "isCorrect": false,
+                    "hint": "Servicios de computaci\u00f3n y almacenamiento en nube h\u00edbrida para la AGE y sus OO.PP"
+                }
+            ]
+        },
+        {
+            "question": "Autenticaci\u00f3n de empleado p\u00fablico",
+            "options": [
+                {
+                    "text": "Atuentica",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ORVE",
+                    "isCorrect": false,
+                    "hint": "Oficina de Registro Virtual"
+                },
+                {
+                    "text": "InSiDe",
+                    "isCorrect": false,
+                    "hint": "Infraestructura y Sistemas de Documentaci\u00f3n Electr\u00f3nica"
+                },
+                {
+                    "text": "Cl@ve Firma",
+                    "isCorrect": false,
+                    "hint": "Firma criptogr\u00e1fica basada en certificados centralizados"
+                }
+            ]
+        },
+        {
+            "question": "Sistema europeo de reconocimiento de identidades electr\u00f3nicas",
+            "options": [
+                {
+                    "text": "eIDAS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SIR",
+                    "isCorrect": false,
+                    "hint": "Sistema de Interconexi\u00f3n de Registros"
+                },
+                {
+                    "text": "OBSAE",
+                    "isCorrect": false,
+                    "hint": "Observatorio Administracion Electronica"
+                },
+                {
+                    "text": "SIRES",
+                    "isCorrect": false,
+                    "hint": "portal de intercambio de ficheros entre el Registro Central de Personal y otros organismos de la AGE"
+                }
+            ]
+        },
+        {
+            "question": "Sistema de Interconexi\u00f3n de Registros",
+            "options": [
+                {
+                    "text": "SIR",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SCSP v3",
+                    "isCorrect": false,
+                    "hint": "Sustitucion de certificados en soporte papel"
+                },
+                {
+                    "text": "Habilit@",
+                    "isCorrect": false,
+                    "hint": "Registro de Funcionarios Habilitados"
+                },
+                {
+                    "text": "FIRe",
+                    "isCorrect": false,
+                    "hint": "Soluci\u00f3n Integral de Firma electr\u00f3nica"
+                }
+            ]
+        },
+        {
+            "question": "Gesti\u00f3n Integral de Servicios de Registr",
+            "options": [
+                {
+                    "text": "GEISER",
+                    "isCorrect": true
+                },
+                {
+                    "text": "InSiDe",
+                    "isCorrect": false,
+                    "hint": "Infraestructura y Sistemas de Documentaci\u00f3n Electr\u00f3nica"
+                },
+                {
+                    "text": "@firma",
+                    "isCorrect": false,
+                    "hint": "Plataforma de validaci\u00f3n de certificados y firmas"
+                },
+                {
+                    "text": "ALMAC\u00c9N",
+                    "isCorrect": false,
+                    "hint": "Env\u00edo y recepci\u00f3n de ficheros de gran tama\u00f1o"
+                }
+            ]
+        },
+        {
+            "question": "rec.redsara.es",
+            "options": [
+                {
+                    "text": "Registro Electr\u00f3nico Com\u00fan",
+                    "isCorrect": true
+                },
+                {
+                    "text": "eVisor",
+                    "isCorrect": false,
+                    "hint": "generaci\u00f3n de copia aut\u00e9ntica en papel de documento electr\u00f3nico firmado."
+                },
+                {
+                    "text": "Apodera",
+                    "isCorrect": false,
+                    "hint": "Registro electr\u00f3nico de Apoderamientos de la Administraci\u00f3n General del Estado"
+                },
+                {
+                    "text": "SIR",
+                    "isCorrect": false,
+                    "hint": "Sistema de Interconexi\u00f3n de Registros"
+                }
+            ]
+        },
+        {
+            "question": "Oficina de Registro Virtual",
+            "options": [
+                {
+                    "text": "ORVE",
+                    "isCorrect": true
+                },
+                {
+                    "text": "RE\u00daNETE",
+                    "isCorrect": false,
+                    "hint": "Servicio Com\u00fan de Reuniones Virtuales"
+                },
+                {
+                    "text": "PAG",
+                    "isCorrect": false,
+                    "hint": "Punto de Acceso General"
+                },
+                {
+                    "text": "Stork",
+                    "isCorrect": false,
+                    "hint": "Reconocimiento paneuropeo de las identidades electr\u00f3nicas (DNIe)"
+                }
+            ]
+        },
+        {
+            "question": "Registro electr\u00f3nico de Apoderamientos de la Administraci\u00f3n General del Estado",
+            "options": [
+                {
+                    "text": "Apodera",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Acceda",
+                    "isCorrect": false,
+                    "hint": "Sede y gesti\u00f3n electr\u00f3nica de procedimientos"
+                },
+                {
+                    "text": "CTT",
+                    "isCorrect": false,
+                    "hint": "Centro de Transferencia de Tecnolog\u00eda"
+                },
+                {
+                    "text": "@firma",
+                    "isCorrect": false,
+                    "hint": "Plataforma de validaci\u00f3n de certificados y firmas"
+                }
+            ]
+        },
+        {
+            "question": "Registro de Funcionarios Habilitados",
+            "options": [
+                {
+                    "text": "Habilit@",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SCSP v3",
+                    "isCorrect": false,
+                    "hint": "Sustitucion de certificados en soporte papel"
+                },
+                {
+                    "text": "Archive",
+                    "isCorrect": false,
+                    "hint": "Archivo definitivo de expedientes y documentos"
+                },
+                {
+                    "text": "TRAMA",
+                    "isCorrect": false,
+                    "hint": "Tramitaci\u00f3n de permisos e incidencias"
+                }
+            ]
+        },
+        {
+            "question": "Punto com\u00fan para la validaci\u00f3n de la habilitaci\u00f3n y representaci\u00f3n de personas f\u00edsicas o jur\u00eddicas.",
+            "options": [
+                {
+                    "text": "Representa",
+                    "isCorrect": true
+                },
+                {
+                    "text": "OBSAE",
+                    "isCorrect": false,
+                    "hint": "Observatorio de Administraci\u00f3n Electr\u00f3nica."
+                },
+                {
+                    "text": "Cl@ve",
+                    "isCorrect": false,
+                    "hint": "Identidad electr\u00f3nica para las Administraciones"
+                },
+                {
+                    "text": "CTT",
+                    "isCorrect": false,
+                    "hint": "Centro de Transferencia de Tecnolog\u00eda"
+                }
+            ]
+        },
+        {
+            "question": "Punto de Acceso General",
+            "options": [
+                {
+                    "text": "PAG",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Port@firmas",
+                    "isCorrect": false,
+                    "hint": "Firma electr\u00f3nica de empleado p\u00fablico"
+                },
+                {
+                    "text": "TRAMA",
+                    "isCorrect": false,
+                    "hint": "Tramitaci\u00f3n de permisos e incidencias"
+                },
+                {
+                    "text": "Atuentica",
+                    "isCorrect": false,
+                    "hint": "Autenticaci\u00f3n de empleado p\u00fablico"
+                }
+            ]
+        },
+        {
+            "question": "Servicio centrado en el ciudadano que le facilita su relaci\u00f3n con las Administraciones P\u00fablicas",
+            "options": [
+                {
+                    "text": "Carpeta ciudadana",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Pagos",
+                    "isCorrect": false,
+                    "hint": "Pasarela de pagos"
+                },
+                {
+                    "text": "VALIDe",
+                    "isCorrect": false,
+                    "hint": "Validaci\u00f3n de firmas y certificados electr\u00f3nicos"
+                },
+                {
+                    "text": "Stork",
+                    "isCorrect": false,
+                    "hint": "Reconocimiento paneuropeo de las identidades electr\u00f3nicas (DNIe)"
+                }
+            ]
+        },
+        {
+            "question": "Plataforma de Intermediaci\u00f3n de Datos",
+            "options": [
+                {
+                    "text": "PID",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SIRES",
+                    "isCorrect": false,
+                    "hint": "portal de intercambio de ficheros entre el Registro Central de Personal y otros organismos de la AGE"
+                },
+                {
+                    "text": "InSiDe",
+                    "isCorrect": false,
+                    "hint": "Infraestructura y Sistemas de Documentaci\u00f3n Electr\u00f3nica"
+                },
+                {
+                    "text": "Representa",
+                    "isCorrect": false,
+                    "hint": "Punto com\u00fan para la validaci\u00f3n de la habilitaci\u00f3n y representaci\u00f3n de personas f\u00edsicas o jur\u00eddicas."
+                }
+            ]
+        },
+        {
+            "question": "Sustitucion de certificados en soporte papel",
+            "options": [
+                {
+                    "text": "SCSP v3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cliente",
+                    "isCorrect": false,
+                    "hint": "Cliente de Firma electr\u00f3nica de @Firma"
+                },
+                {
+                    "text": "ALMAC\u00c9N",
+                    "isCorrect": false,
+                    "hint": "Env\u00edo y recepci\u00f3n de ficheros de gran tama\u00f1o"
+                },
+                {
+                    "text": "PAG",
+                    "isCorrect": false,
+                    "hint": "Punto de Acceso General"
+                }
+            ]
+        },
+        {
+            "question": "Comunicaciones Electr\u00f3nicas Seguras",
+            "options": [
+                {
+                    "text": "Cortino",
+                    "isCorrect": true
+                },
+                {
+                    "text": "RE\u00daNETE",
+                    "isCorrect": false,
+                    "hint": "Servicio Com\u00fan de Reuniones Virtuales"
+                },
+                {
+                    "text": "CISE",
+                    "isCorrect": false,
+                    "hint": "Centro de Interoperabilidad Sem\u00e1ntica"
+                },
+                {
+                    "text": "InSiDe",
+                    "isCorrect": false,
+                    "hint": "Infraestructura y Sistemas de Documentaci\u00f3n Electr\u00f3nica"
+                }
+            ]
+        },
+        {
+            "question": "Directorio Com\u00fan de Unidades",
+            "options": [
+                {
+                    "text": "DIR3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Archive",
+                    "isCorrect": false,
+                    "hint": "Archivo definitivo de expedientes y documentos"
+                },
+                {
+                    "text": "Registro Electr\u00f3nico Com\u00fan",
+                    "isCorrect": false,
+                    "hint": "rec.redsara.es"
+                },
+                {
+                    "text": "@firma",
+                    "isCorrect": false,
+                    "hint": "Plataforma de validaci\u00f3n de certificados y firmas"
+                }
+            ]
+        },
+        {
+            "question": "Gesti\u00f3n de notificaciones",
+            "options": [
+                {
+                    "text": "Notifica",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CIRCABC",
+                    "isCorrect": false,
+                    "hint": "Herramienta de trabajo en grupo para intercambio de informaci\u00f3n y trabajo colaborativo."
+                },
+                {
+                    "text": "SNE",
+                    "isCorrect": false,
+                    "hint": "Notificaciones electr\u00f3nicas"
+                },
+                {
+                    "text": "InSiDe",
+                    "isCorrect": false,
+                    "hint": "Infraestructura y Sistemas de Documentaci\u00f3n Electr\u00f3nica"
+                }
+            ]
+        },
+        {
+            "question": "Notificaciones electr\u00f3nicas",
+            "options": [
+                {
+                    "text": "SNE",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Registro Electr\u00f3nico Com\u00fan",
+                    "isCorrect": false,
+                    "hint": "rec.redsara.es"
+                },
+                {
+                    "text": "FUNCIONA",
+                    "isCorrect": false,
+                    "hint": "Portal del Empleado P\u00fablico"
+                },
+                {
+                    "text": "OBSAE",
+                    "isCorrect": false,
+                    "hint": "Observatorio de Administraci\u00f3n Electr\u00f3nica."
+                }
+            ]
+        },
+        {
+            "question": "Plataforma de Mensajer\u00eda",
+            "options": [
+                {
+                    "text": "SIM",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Port@firmas",
+                    "isCorrect": false,
+                    "hint": "Firma electr\u00f3nica de empleado p\u00fablico"
+                },
+                {
+                    "text": "FIRe",
+                    "isCorrect": false,
+                    "hint": "Soluci\u00f3n Integral de Firma electr\u00f3nica"
+                },
+                {
+                    "text": "OAW",
+                    "isCorrect": false,
+                    "hint": "Servicio de diagn\u00f3stico en l\u00ednea"
+                }
+            ]
+        },
+        {
+            "question": "Infraestructura y Sistemas de Documentaci\u00f3n Electr\u00f3nica",
+            "options": [
+                {
+                    "text": "InSiDe",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SERVINOMINA",
+                    "isCorrect": false,
+                    "hint": "Servicio de Visualizaci\u00f3n de N\u00f3mina en el Portal Funciona"
+                },
+                {
+                    "text": "SCSP v3",
+                    "isCorrect": false,
+                    "hint": "Sustitucion de certificados en soporte papel"
+                },
+                {
+                    "text": "Representa",
+                    "isCorrect": false,
+                    "hint": "Punto com\u00fan para la validaci\u00f3n de la habilitaci\u00f3n y representaci\u00f3n de personas f\u00edsicas o jur\u00eddicas."
+                }
+            ]
+        },
+        {
+            "question": "Archivo definitivo de expedientes y documentos",
+            "options": [
+                {
+                    "text": "Archive",
+                    "isCorrect": true
+                },
+                {
+                    "text": "NEDAES",
+                    "isCorrect": false,
+                    "hint": "N\u00f3mina Est\u00e1ndar Descentralizada de la Administraci\u00f3n del Estado"
+                },
+                {
+                    "text": "Atuentica",
+                    "isCorrect": false,
+                    "hint": "Autenticaci\u00f3n de empleado p\u00fablico"
+                },
+                {
+                    "text": "PLATA",
+                    "isCorrect": false,
+                    "hint": "Plataforma de Traducci\u00f3n Autom\u00e1tica"
+                }
+            ]
+        },
+        {
+            "question": "Sede y gesti\u00f3n electr\u00f3nica de procedimientos",
+            "options": [
+                {
+                    "text": "Acceda",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CTT",
+                    "isCorrect": false,
+                    "hint": "Centro de Transferencia de Tecnolog\u00eda"
+                },
+                {
+                    "text": "Registro Electr\u00f3nico Com\u00fan",
+                    "isCorrect": false,
+                    "hint": "rec.redsara.es"
+                },
+                {
+                    "text": "nubeSARA",
+                    "isCorrect": false,
+                    "hint": "Servicios de computaci\u00f3n y almacenamiento en nube h\u00edbrida para la AGE y sus OO.PP"
+                }
+            ]
+        },
+        {
+            "question": "Pasarela de pagos",
+            "options": [
+                {
+                    "text": "Pagos",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ALMAC\u00c9N",
+                    "isCorrect": false,
+                    "hint": "Env\u00edo y recepci\u00f3n de ficheros de gran tama\u00f1o"
+                },
+                {
+                    "text": "NEDAES",
+                    "isCorrect": false,
+                    "hint": "N\u00f3mina Est\u00e1ndar Descentralizada de la Administraci\u00f3n del Estado"
+                },
+                {
+                    "text": "CISE",
+                    "isCorrect": false,
+                    "hint": "Centro de Interoperabilidad Sem\u00e1ntica"
+                }
+            ]
+        },
+        {
+            "question": "Portal de Administraci\u00f3n Electr\u00f3nica",
+            "options": [
+                {
+                    "text": "PAe",
+                    "isCorrect": true
+                },
+                {
+                    "text": "OAW",
+                    "isCorrect": false,
+                    "hint": "Servicio de diagn\u00f3stico en l\u00ednea"
+                },
+                {
+                    "text": "Pagos",
+                    "isCorrect": false,
+                    "hint": "Pasarela de pagos"
+                },
+                {
+                    "text": "Apodera",
+                    "isCorrect": false,
+                    "hint": "Registro electr\u00f3nico de Apoderamientos de la Administraci\u00f3n General del Estado"
+                }
+            ]
+        },
+        {
+            "question": "Observatorio de Administraci\u00f3n Electr\u00f3nica.",
+            "options": [
+                {
+                    "text": "OBSAE",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SIRES",
+                    "isCorrect": false,
+                    "hint": "portal de intercambio de ficheros entre el Registro Central de Personal y otros organismos de la AGE"
+                },
+                {
+                    "text": "Port@firmas",
+                    "isCorrect": false,
+                    "hint": "Firma electr\u00f3nica de empleado p\u00fablico"
+                },
+                {
+                    "text": "NEDAES",
+                    "isCorrect": false,
+                    "hint": "N\u00f3mina Est\u00e1ndar Descentralizada de la Administraci\u00f3n del Estado"
+                }
+            ]
+        },
+        {
+            "question": "Centro de Transferencia de Tecnolog\u00eda",
+            "options": [
+                {
+                    "text": "CTT",
+                    "isCorrect": true
+                },
+                {
+                    "text": "GEISER",
+                    "isCorrect": false,
+                    "hint": "Gesti\u00f3n Integral de Servicios de Registr"
+                },
+                {
+                    "text": "Representa",
+                    "isCorrect": false,
+                    "hint": "Punto com\u00fan para la validaci\u00f3n de la habilitaci\u00f3n y representaci\u00f3n de personas f\u00edsicas o jur\u00eddicas."
+                },
+                {
+                    "text": "SIM",
+                    "isCorrect": false,
+                    "hint": "Plataforma de Mensajer\u00eda"
+                }
+            ]
+        },
+        {
+            "question": "Centro de Interoperabilidad Sem\u00e1ntica",
+            "options": [
+                {
+                    "text": "CISE",
+                    "isCorrect": true
+                },
+                {
+                    "text": "DIR3",
+                    "isCorrect": false,
+                    "hint": "Directorio Com\u00fan de Unidades"
+                },
+                {
+                    "text": "NEDAES",
+                    "isCorrect": false,
+                    "hint": "N\u00f3mina Est\u00e1ndar Descentralizada de la Administraci\u00f3n del Estado"
+                },
+                {
+                    "text": "Notifica",
+                    "isCorrect": false,
+                    "hint": "Gesti\u00f3n de notificaciones"
+                }
+            ]
+        },
+        {
+            "question": "Reutilizacion de la informaci\u00f3n p\u00fablica",
+            "options": [
+                {
+                    "text": "datos.gob.es",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Notifica",
+                    "isCorrect": false,
+                    "hint": "Gesti\u00f3n de notificaciones"
+                },
+                {
+                    "text": "ALMAC\u00c9N",
+                    "isCorrect": false,
+                    "hint": "Env\u00edo y recepci\u00f3n de ficheros de gran tama\u00f1o"
+                },
+                {
+                    "text": "eIDAS",
+                    "isCorrect": false,
+                    "hint": "Sistema europeo de reconocimiento de identidades electr\u00f3nicas"
+                }
+            ]
+        },
+        {
+            "question": "Plataforma de Traducci\u00f3n Autom\u00e1tica",
+            "options": [
+                {
+                    "text": "PLATA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CIRCABC",
+                    "isCorrect": false,
+                    "hint": "Herramienta de trabajo en grupo para intercambio de informaci\u00f3n y trabajo colaborativo."
+                },
+                {
+                    "text": "Pagos",
+                    "isCorrect": false,
+                    "hint": "Pasarela de pagos"
+                },
+                {
+                    "text": "Archive",
+                    "isCorrect": false,
+                    "hint": "Archivo definitivo de expedientes y documentos"
+                }
+            ]
+        },
+        {
+            "question": "Servicio de diagn\u00f3stico en l\u00ednea",
+            "options": [
+                {
+                    "text": "OAW",
+                    "isCorrect": true
+                },
+                {
+                    "text": "DIR3",
+                    "isCorrect": false,
+                    "hint": "Directorio Com\u00fan de Unidades"
+                },
+                {
+                    "text": "FIRe",
+                    "isCorrect": false,
+                    "hint": "Soluci\u00f3n Integral de Firma electr\u00f3nica"
+                },
+                {
+                    "text": "Pagos",
+                    "isCorrect": false,
+                    "hint": "Pasarela de pagos"
+                }
+            ]
+        },
+        {
+            "question": "Formularios para publicaci\u00f3n web",
+            "options": [
+                {
+                    "text": "FORMA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CISE",
+                    "isCorrect": false,
+                    "hint": "Centro de Interoperabilidad Sem\u00e1ntica"
+                },
+                {
+                    "text": "RE\u00daNETE",
+                    "isCorrect": false,
+                    "hint": "Servicio Com\u00fan de Reuniones Virtuales"
+                },
+                {
+                    "text": "NEDAES",
+                    "isCorrect": false,
+                    "hint": "N\u00f3mina Est\u00e1ndar Descentralizada de la Administraci\u00f3n del Estado"
+                }
+            ]
+        },
+        {
+            "question": "Servicio Com\u00fan de Reuniones Virtuales",
+            "options": [
+                {
+                    "text": "RE\u00daNETE",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SIRES",
+                    "isCorrect": false,
+                    "hint": "portal de intercambio de ficheros entre el Registro Central de Personal y otros organismos de la AGE"
+                },
+                {
+                    "text": "FIRe",
+                    "isCorrect": false,
+                    "hint": "Soluci\u00f3n Integral de Firma electr\u00f3nica"
+                },
+                {
+                    "text": "Pagos",
+                    "isCorrect": false,
+                    "hint": "Pasarela de pagos"
+                }
+            ]
+        },
+        {
+            "question": "Env\u00edo y recepci\u00f3n de ficheros de gran tama\u00f1o",
+            "options": [
+                {
+                    "text": "ALMAC\u00c9N",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Registro Electr\u00f3nico Com\u00fan",
+                    "isCorrect": false,
+                    "hint": "rec.redsara.es"
+                },
+                {
+                    "text": "Representa",
+                    "isCorrect": false,
+                    "hint": "Punto com\u00fan para la validaci\u00f3n de la habilitaci\u00f3n y representaci\u00f3n de personas f\u00edsicas o jur\u00eddicas."
+                },
+                {
+                    "text": "Stork",
+                    "isCorrect": false,
+                    "hint": "Reconocimiento paneuropeo de las identidades electr\u00f3nicas (DNIe)"
+                }
+            ]
+        },
+        {
+            "question": "N\u00f3mina Est\u00e1ndar Descentralizada de la Administraci\u00f3n del Estado",
+            "options": [
+                {
+                    "text": "NEDAES",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cortino",
+                    "isCorrect": false,
+                    "hint": "Comunicaciones Electr\u00f3nicas Seguras"
+                },
+                {
+                    "text": "Notifica",
+                    "isCorrect": false,
+                    "hint": "Gesti\u00f3n de notificaciones"
+                },
+                {
+                    "text": "FIRe",
+                    "isCorrect": false,
+                    "hint": "Soluci\u00f3n Integral de Firma electr\u00f3nica"
+                }
+            ]
+        },
+        {
+            "question": "Sistema Integrado de Gesti\u00f3n de Personal",
+            "options": [
+                {
+                    "text": "SIGP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "nubeSARA",
+                    "isCorrect": false,
+                    "hint": "Servicios de computaci\u00f3n y almacenamiento en nube h\u00edbrida para la AGE y sus OO.PP"
+                },
+                {
+                    "text": "Red SARA",
+                    "isCorrect": false,
+                    "hint": "Conjunto de infraestructuras de comunicaciones y servicios b\u00e1sicos que conecta las redes de las AAPP espa\u00f1olas e Instituciones europeas "
+                },
+                {
+                    "text": "Registro Electr\u00f3nico Com\u00fan",
+                    "isCorrect": false,
+                    "hint": "rec.redsara.es"
+                }
+            ]
+        },
+        {
+            "question": "Portal del Empleado P\u00fablico",
+            "options": [
+                {
+                    "text": "FUNCIONA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "NEDAES",
+                    "isCorrect": false,
+                    "hint": "N\u00f3mina Est\u00e1ndar Descentralizada de la Administraci\u00f3n del Estado"
+                },
+                {
+                    "text": "FORMA",
+                    "isCorrect": false,
+                    "hint": "Formularios para publicaci\u00f3n web"
+                },
+                {
+                    "text": "Cl@ve Firma",
+                    "isCorrect": false,
+                    "hint": "Firma criptogr\u00e1fica basada en certificados centralizados"
+                }
+            ]
+        },
+        {
+            "question": "Servicio de Visualizaci\u00f3n de N\u00f3mina en el Portal Funciona",
+            "options": [
+                {
+                    "text": "SERVINOMINA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "OBSAE",
+                    "isCorrect": false,
+                    "hint": "Observatorio Administracion Electronica"
+                },
+                {
+                    "text": "Red SARA",
+                    "isCorrect": false,
+                    "hint": "Conjunto de infraestructuras de comunicaciones y servicios b\u00e1sicos que conecta las redes de las AAPP espa\u00f1olas e Instituciones europeas "
+                },
+                {
+                    "text": "Notifica",
+                    "isCorrect": false,
+                    "hint": "Gesti\u00f3n de notificaciones"
+                }
+            ]
+        },
+        {
+            "question": "portal de intercambio de ficheros entre el Registro Central de Personal y otros organismos de la AGE",
+            "options": [
+                {
+                    "text": "SIRES",
+                    "isCorrect": true
+                },
+                {
+                    "text": "PAe",
+                    "isCorrect": false,
+                    "hint": "Portal de Administraci\u00f3n Electr\u00f3nica"
+                },
+                {
+                    "text": "nubeSARA",
+                    "isCorrect": false,
+                    "hint": "Servicios de computaci\u00f3n y almacenamiento en nube h\u00edbrida para la AGE y sus OO.PP"
+                },
+                {
+                    "text": "Notifica",
+                    "isCorrect": false,
+                    "hint": "Gesti\u00f3n de notificaciones"
+                }
+            ]
+        },
+        {
+            "question": "Tramitaci\u00f3n de permisos e incidencias",
+            "options": [
+                {
+                    "text": "TRAMA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Habilit@",
+                    "isCorrect": false,
+                    "hint": "Registro de Funcionarios Habilitados"
+                },
+                {
+                    "text": "Archive",
+                    "isCorrect": false,
+                    "hint": "Archivo definitivo de expedientes y documentos"
+                },
+                {
+                    "text": "ORVE",
+                    "isCorrect": false,
+                    "hint": "Oficina de Registro Virtual"
+                }
+            ]
+        },
+        {
+            "question": "Herramienta de trabajo en grupo para intercambio de informaci\u00f3n y trabajo colaborativo.",
+            "options": [
+                {
+                    "text": "CIRCABC",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Pagos",
+                    "isCorrect": false,
+                    "hint": "Pasarela de pagos"
+                },
+                {
+                    "text": "eVisor",
+                    "isCorrect": false,
+                    "hint": "generaci\u00f3n de copia aut\u00e9ntica en papel de documento electr\u00f3nico firmado."
+                },
+                {
+                    "text": "datos.gob.es",
+                    "isCorrect": false,
+                    "hint": "Reutilizacion de la informaci\u00f3n p\u00fablica"
+                }
+            ]
+        },
+        {
+            "question": "Conjunto de infraestructuras de comunicaciones y servicios b\u00e1sicos que conecta las redes de las AAPP espa\u00f1olas e Instituciones europeas ",
+            "options": [
+                {
+                    "text": "Red SARA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ORVE",
+                    "isCorrect": false,
+                    "hint": "Oficina de Registro Virtual"
+                },
+                {
+                    "text": "FIRe",
+                    "isCorrect": false,
+                    "hint": "Soluci\u00f3n Integral de Firma electr\u00f3nica"
+                },
+                {
+                    "text": "SIRES",
+                    "isCorrect": false,
+                    "hint": "portal de intercambio de ficheros entre el Registro Central de Personal y otros organismos de la AGE"
+                }
+            ]
+        },
+        {
+            "question": "Servicios de computaci\u00f3n y almacenamiento en nube h\u00edbrida para la AGE y sus OO.PP",
+            "options": [
+                {
+                    "text": "nubeSARA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "datos.gob.es",
+                    "isCorrect": false,
+                    "hint": "Reutilizacion de la informaci\u00f3n p\u00fablica"
+                },
+                {
+                    "text": "Carpeta ciudadana",
+                    "isCorrect": false,
+                    "hint": "Servicio centrado en el ciudadano que le facilita su relaci\u00f3n con las Administraciones P\u00fablicas"
+                },
+                {
+                    "text": "DIR3",
+                    "isCorrect": false,
+                    "hint": "Directorio Com\u00fan de Unidades"
+                }
+            ]
+        },
+        {
+            "question": "Observatorio Administracion Electronica",
+            "options": [
+                {
+                    "text": "OBSAE",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cliente",
+                    "isCorrect": false,
+                    "hint": "Cliente de Firma electr\u00f3nica de @Firma"
+                },
+                {
+                    "text": "SIM",
+                    "isCorrect": false,
+                    "hint": "Plataforma de Mensajer\u00eda"
+                },
+                {
+                    "text": "Registro Electr\u00f3nico Com\u00fan",
+                    "isCorrect": false,
+                    "hint": "rec.redsara.es"
+                }
+            ]
+        },
+        {
+            "question": "Reconocimiento paneuropeo de las identidades electr\u00f3nicas (DNIe)",
+            "options": [
+                {
+                    "text": "Stork",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cliente",
+                    "isCorrect": false,
+                    "hint": "Cliente de Firma electr\u00f3nica de @Firma"
+                },
+                {
+                    "text": "DIR3",
+                    "isCorrect": false,
+                    "hint": "Directorio Com\u00fan de Unidades"
+                },
+                {
+                    "text": "CISE",
+                    "isCorrect": false,
+                    "hint": "Centro de Interoperabilidad Sem\u00e1ntica"
+                }
+            ]
+        },
+        {
+            "question": "generaci\u00f3n de copia aut\u00e9ntica en papel de documento electr\u00f3nico firmado.",
+            "options": [
+                {
+                    "text": "eVisor",
+                    "isCorrect": true
+                },
+                {
+                    "text": "TRAMA",
+                    "isCorrect": false,
+                    "hint": "Tramitaci\u00f3n de permisos e incidencias"
+                },
+                {
+                    "text": "FUNCIONA",
+                    "isCorrect": false,
+                    "hint": "Portal del Empleado P\u00fablico"
+                },
+                {
+                    "text": "Cl@ve",
+                    "isCorrect": false,
+                    "hint": "Identidad electr\u00f3nica para las Administraciones"
+                }
+            ]
+        }
+    ]
+}

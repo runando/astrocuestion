@@ -1,0 +1,367 @@
+{
+    "title": "CUESTIONARIO 17-TAI\u2013PI - Supuesto II",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1.\tUno de los primeros cambios a realizar seria configurar el DNS, los servidores del GRR utilizan Linux Red Hat, \u00bfque fichero habr\u00eda que modificar?",
+            "options": [
+                {
+                    "text": "a)\t\/etc\/resolv.conf",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d)\tntpdc -c loopinfo",
+                    "isCorrect": false,
+                    "hint": "COMANDO OBSOLETO, ntpdc es un comando obsoleto que ya no se usa para verificar el estado de sincronizaci\u00f3n de NTP. En su lugar, se recomienda usar los comandos ntpq, ntpstat o timedatectl para verificar si NTP se ha sincronizado correctamente. "
+                },
+                {
+                    "text": "d)\tIPADDR en el fichero \/etc\/sysconfig\/network-scripts\/ifcfg-eth0",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\tmigracion ALL=(ALL:ALL) ALL al fiehero \/etc\/sudoers",
+                    "isCorrect": false,
+                    "hint": "El archivo \/etc\/sudoers es un archivo de configuraci\u00f3n para el comando sudo. Este archivo define qu\u00e9 usuarios pueden ejecutar qu\u00e9 comandos y en qu\u00e9 hosts utilizando sudo. El archivo \/etc\/sudoers se utiliza para otorgar privilegios elevados a usuarios espec\u00edficos sin tener que compartir la contrase\u00f1a de root.  El archivo \/etc\/sudoers contiene una lista de reglas. Cada regla tiene el formato usuario host=(usuario:grupo) comando. Esto significa que el usuario especificado puede ejecutar el comando especificado en el host especificado como el usuario y grupo especificados utilizando sudo."
+                }
+            ]
+        },
+        {
+            "question": "2.\tEl comando que utilizar\u00eda para comprobar que el nuevo servidor de DNS resuelve bien la direcci\u00f3n \"www.grr.es\" es el siguiente:",
+            "options": [
+                {
+                    "text": "b)\tnslookup www.grr.es",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d)\tuseradd migracion -g temporales",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\tFibra \u00f3ptica",
+                    "isCorrect": false,
+                    "hint": "FDDI son las siglas de Fiber Distributed Data Interface"
+                },
+                {
+                    "text": "d)\tIPADDR en el fichero \/etc\/sysconfig\/network-scripts\/ifcfg-eth0",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3.\tEl siguiente elemento a reconfigurar es el NTP en los servidores Red Hat, \u00bfque fichero deber\u00e1 modificar para especificar la IP de los nuevos servidores?",
+            "options": [
+                {
+                    "text": "c)\t\/etc\/ntp.conf",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a)\ttnsnames.ora",
+                    "isCorrect": false,
+                    "hint": "Una cadena de conexi\u00f3n es una cadena que contiene informaci\u00f3n acerca de una fuente de datos (generalmente un motor de base de datos), adem\u00e1s de incluir la informaci\u00f3n necesaria para conectarse a la misma. El archivo utilizado para configurar la cadena de conexi\u00f3n es tnsnames.ora y no tnsnames.conf, tns.ora o tns.conf."
+                },
+                {
+                    "text": "d)\tIPADDR en el fichero \/etc\/sysconfig\/network-scripts\/ifcfg-eth0",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\tmigracion ALL=(ALL:ALL) ALL al fiehero \/etc\/sudoers",
+                    "isCorrect": false,
+                    "hint": "El archivo \/etc\/sudoers es un archivo de configuraci\u00f3n para el comando sudo. Este archivo define qu\u00e9 usuarios pueden ejecutar qu\u00e9 comandos y en qu\u00e9 hosts utilizando sudo. El archivo \/etc\/sudoers se utiliza para otorgar privilegios elevados a usuarios espec\u00edficos sin tener que compartir la contrase\u00f1a de root.  El archivo \/etc\/sudoers contiene una lista de reglas. Cada regla tiene el formato usuario host=(usuario:grupo) comando. Esto significa que el usuario especificado puede ejecutar el comando especificado en el host especificado como el usuario y grupo especificados utilizando sudo."
+                }
+            ]
+        },
+        {
+            "question": "4.\tUna vez configurado el NTP, \u00bfc\u00f3mo comprobar\u00eda si ya se ha sincronizado? OBSOLETA",
+            "options": [
+                {
+                    "text": "d)\tntpdc -c loopinfo",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tmigracion ALL=(ALL:ALL) ALL al fiehero \/etc\/sudoers",
+                    "isCorrect": false,
+                    "hint": "El archivo \/etc\/sudoers es un archivo de configuraci\u00f3n para el comando sudo. Este archivo define qu\u00e9 usuarios pueden ejecutar qu\u00e9 comandos y en qu\u00e9 hosts utilizando sudo. El archivo \/etc\/sudoers se utiliza para otorgar privilegios elevados a usuarios espec\u00edficos sin tener que compartir la contrase\u00f1a de root.  El archivo \/etc\/sudoers contiene una lista de reglas. Cada regla tiene el formato usuario host=(usuario:grupo) comando. Esto significa que el usuario especificado puede ejecutar el comando especificado en el host especificado como el usuario y grupo especificados utilizando sudo."
+                },
+                {
+                    "text": "b)\tnslookup www.grr.es",
+                    "isCorrect": false,
+                    "hint": "nslookup es un comando de l\u00ednea de comandos que se utiliza para obtener informaci\u00f3n sobre registros DNS (Domain Name System)"
+                },
+                {
+                    "text": "d)\tThin",
+                    "isCorrect": false,
+                    "hint": "Hay 4 tipos de driver para conectarse a bases de datos: Driver Tipo 1 o driver puente JDBC-ODBC: Este driver utiliza un driver ODBC para conectarse a la base de datos. Act\u00faa como un puente entre la aplicaci\u00f3n Java y el driver ODBC. Driver Tipo 2 o driver API-Nativo: Este driver convierte las llamadas JDBC en llamadas a la API nativa del sistema operativo en el que se ejecuta la aplicaci\u00f3n Java. Driver Tipo 3 o driver de Protocolo de Red: Este driver traduce las llamadas JDBC en una forma independiente del sistema operativo y del protocolo de red y las env\u00eda a un servidor intermediario que las traduce en llamadas espec\u00edficas de la base de datos. Driver Tipo 4 o driver Thin: Este driver convierte directamente las llamadas JDBC en llamadas espec\u00edficas de la base de datos y se comunica directamente con la base de datos utilizando el protocolo nativo proporcionado por el proveedor de la base de datos."
+                }
+            ]
+        },
+        {
+            "question": "5.\tSe le ha asignado el nuevo direccionamiento 10.253.113.0\/25 y c\u00f3mo el GRR tiene 8 departamentos independientes con necesidad de 10 IP cada uno, la subm\u00e1scara ser\u00e1 de 28 bits, sabiendo esto, indique cu\u00e1l ser\u00eda la direcci\u00f3n de broadcast de la tercera subred:",
+            "options": [
+                {
+                    "text": "c)\t10.253.113.47",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a)\ttnsnames.ora",
+                    "isCorrect": false,
+                    "hint": "Una cadena de conexi\u00f3n es una cadena que contiene informaci\u00f3n acerca de una fuente de datos (generalmente un motor de base de datos), adem\u00e1s de incluir la informaci\u00f3n necesaria para conectarse a la misma. El archivo utilizado para configurar la cadena de conexi\u00f3n es tnsnames.ora y no tnsnames.conf, tns.ora o tns.conf."
+                },
+                {
+                    "text": "d)\tnetsh wlan add filter permission=block ssid=\"SSID_WiFi\" networktype=infrastructure",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\t\/etc\/resolv.conf",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "6.\tDesde el Ministerio le indican que hay un servidor Red Hat al que NO pueden acceder remotamente para configurar la nueva IP y que lo debe hacer usted, \u00bfqu\u00e9 par\u00e1metro deber\u00e1 modificar para configurar la interfaz 0?",
+            "options": [
+                {
+                    "text": "d)\tIPADDR en el fichero \/etc\/sysconfig\/network-scripts\/ifcfg-eth0",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tFibra \u00f3ptica",
+                    "isCorrect": false,
+                    "hint": "FDDI son las siglas de Fiber Distributed Data Interface"
+                },
+                {
+                    "text": "a)\t\/etc\/resolv.conf",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\ttnsnames.ora",
+                    "isCorrect": false,
+                    "hint": "Una cadena de conexi\u00f3n es una cadena que contiene informaci\u00f3n acerca de una fuente de datos (generalmente un motor de base de datos), adem\u00e1s de incluir la informaci\u00f3n necesaria para conectarse a la misma. El archivo utilizado para configurar la cadena de conexi\u00f3n es tnsnames.ora y no tnsnames.conf, tns.ora o tns.conf."
+                }
+            ]
+        },
+        {
+            "question": "7.\tLe indican que, por \u00faltimo, hay que cambiar los certificados en Apache para las conexiones SSL, \u00bfqu\u00e9 valores hay que modificar?",
+            "options": [
+                {
+                    "text": "d)\tSSLCertificateFile y SSLCertificateKeyFile",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a)\t\/etc\/resolv.conf",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\tnslookup www.grr.es",
+                    "isCorrect": false,
+                    "hint": "nslookup es un comando de l\u00ednea de comandos que se utiliza para obtener informaci\u00f3n sobre registros DNS (Domain Name System)"
+                },
+                {
+                    "text": "d)\tThin",
+                    "isCorrect": false,
+                    "hint": "Hay 4 tipos de driver para conectarse a bases de datos: Driver Tipo 1 o driver puente JDBC-ODBC: Este driver utiliza un driver ODBC para conectarse a la base de datos. Act\u00faa como un puente entre la aplicaci\u00f3n Java y el driver ODBC. Driver Tipo 2 o driver API-Nativo: Este driver convierte las llamadas JDBC en llamadas a la API nativa del sistema operativo en el que se ejecuta la aplicaci\u00f3n Java. Driver Tipo 3 o driver de Protocolo de Red: Este driver traduce las llamadas JDBC en una forma independiente del sistema operativo y del protocolo de red y las env\u00eda a un servidor intermediario que las traduce en llamadas espec\u00edficas de la base de datos. Driver Tipo 4 o driver Thin: Este driver convierte directamente las llamadas JDBC en llamadas espec\u00edficas de la base de datos y se comunica directamente con la base de datos utilizando el protocolo nativo proporcionado por el proveedor de la base de datos."
+                }
+            ]
+        },
+        {
+            "question": "8.\tSe le pide crear un usuario en Linux para la migraci\u00f3n, que se llame \"migracion\" y que pertenezca al grupo \"temporales\", \u00bfc\u00f3mo lo har\u00eda?",
+            "options": [
+                {
+                    "text": "d)\tuseradd migracion -g temporales",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tnc -zc 10.1.45.88 567",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\t\/etc\/resolv.conf",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\t\/etc\/ntp.conf",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "9.\tLlegado a un punto, le indican que el usuario denominado \"migracion\" tiene que tener privilegios de root, para ello, hay que afiadir la linea:",
+            "options": [
+                {
+                    "text": "b)\tmigracion ALL=(ALL:ALL) ALL al fiehero \/etc\/sudoers",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\t\/etc\/ntp.conf",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d)\tThin",
+                    "isCorrect": false,
+                    "hint": "Hay 4 tipos de driver para conectarse a bases de datos: Driver Tipo 1 o driver puente JDBC-ODBC: Este driver utiliza un driver ODBC para conectarse a la base de datos. Act\u00faa como un puente entre la aplicaci\u00f3n Java y el driver ODBC. Driver Tipo 2 o driver API-Nativo: Este driver convierte las llamadas JDBC en llamadas a la API nativa del sistema operativo en el que se ejecuta la aplicaci\u00f3n Java. Driver Tipo 3 o driver de Protocolo de Red: Este driver traduce las llamadas JDBC en una forma independiente del sistema operativo y del protocolo de red y las env\u00eda a un servidor intermediario que las traduce en llamadas espec\u00edficas de la base de datos. Driver Tipo 4 o driver Thin: Este driver convierte directamente las llamadas JDBC en llamadas espec\u00edficas de la base de datos y se comunica directamente con la base de datos utilizando el protocolo nativo proporcionado por el proveedor de la base de datos."
+                },
+                {
+                    "text": "d)\tSSLCertificateFile y SSLCertificateKeyFile",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "10.\tLe envian un correo electr\u00f3nico con la nueva cadena de conexi\u00f3n a la base de datos Oracle, \u00bfen que fichero ha de configurarlo?",
+            "options": [
+                {
+                    "text": "a)\ttnsnames.ora",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d)\tnetsh wlan add filter permission=block ssid=\"SSID_WiFi\" networktype=infrastructure",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d)\tThin",
+                    "isCorrect": false,
+                    "hint": "Hay 4 tipos de driver para conectarse a bases de datos: Driver Tipo 1 o driver puente JDBC-ODBC: Este driver utiliza un driver ODBC para conectarse a la base de datos. Act\u00faa como un puente entre la aplicaci\u00f3n Java y el driver ODBC. Driver Tipo 2 o driver API-Nativo: Este driver convierte las llamadas JDBC en llamadas a la API nativa del sistema operativo en el que se ejecuta la aplicaci\u00f3n Java. Driver Tipo 3 o driver de Protocolo de Red: Este driver traduce las llamadas JDBC en una forma independiente del sistema operativo y del protocolo de red y las env\u00eda a un servidor intermediario que las traduce en llamadas espec\u00edficas de la base de datos. Driver Tipo 4 o driver Thin: Este driver convierte directamente las llamadas JDBC en llamadas espec\u00edficas de la base de datos y se comunica directamente con la base de datos utilizando el protocolo nativo proporcionado por el proveedor de la base de datos."
+                },
+                {
+                    "text": "d)\tSSLCertificateFile y SSLCertificateKeyFile",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11.\tPara finalizar la migraci\u00f3n se va a sustituir el cableado m\u00e1s obsoleto para que la copia de datos sea lo m\u00e1s r\u00e1pida posible, le llegan conectores FDDI, \u00bfde qu\u00e9 tipo de media de transmisi\u00f3n estamos hablando?",
+            "options": [
+                {
+                    "text": "c)\tFibra \u00f3ptica",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d)\tnetsh wlan add filter permission=block ssid=\"SSID_WiFi\" networktype=infrastructure",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\tmigracion ALL=(ALL:ALL) ALL al fiehero \/etc\/sudoers",
+                    "isCorrect": false,
+                    "hint": "El archivo \/etc\/sudoers es un archivo de configuraci\u00f3n para el comando sudo. Este archivo define qu\u00e9 usuarios pueden ejecutar qu\u00e9 comandos y en qu\u00e9 hosts utilizando sudo. El archivo \/etc\/sudoers se utiliza para otorgar privilegios elevados a usuarios espec\u00edficos sin tener que compartir la contrase\u00f1a de root.  El archivo \/etc\/sudoers contiene una lista de reglas. Cada regla tiene el formato usuario host=(usuario:grupo) comando. Esto significa que el usuario especificado puede ejecutar el comando especificado en el host especificado como el usuario y grupo especificados utilizando sudo."
+                },
+                {
+                    "text": "d)\tuseradd migracion -g temporales",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12.\tEl GRR est\u00e1 en un \u00e1rea con muchos routers WiFi activos, y salvo a personal autorizado, no se permite conexi\u00f3n a redes inal\u00e1mbricas no corporativas desde los equipos con Windows 10, \u00bfque comando utilizaremos para bloquear una red WiFi de nombre SSID_WiFi?",
+            "options": [
+                {
+                    "text": "d)\tnetsh wlan add filter permission=block ssid=\"SSID_WiFi\" networktype=infrastructure",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\t\/etc\/ntp.conf",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\tFibra \u00f3ptica",
+                    "isCorrect": false,
+                    "hint": "FDDI son las siglas de Fiber Distributed Data Interface"
+                },
+                {
+                    "text": "d)\tThin",
+                    "isCorrect": false,
+                    "hint": "Hay 4 tipos de driver para conectarse a bases de datos: Driver Tipo 1 o driver puente JDBC-ODBC: Este driver utiliza un driver ODBC para conectarse a la base de datos. Act\u00faa como un puente entre la aplicaci\u00f3n Java y el driver ODBC. Driver Tipo 2 o driver API-Nativo: Este driver convierte las llamadas JDBC en llamadas a la API nativa del sistema operativo en el que se ejecuta la aplicaci\u00f3n Java. Driver Tipo 3 o driver de Protocolo de Red: Este driver traduce las llamadas JDBC en una forma independiente del sistema operativo y del protocolo de red y las env\u00eda a un servidor intermediario que las traduce en llamadas espec\u00edficas de la base de datos. Driver Tipo 4 o driver Thin: Este driver convierte directamente las llamadas JDBC en llamadas espec\u00edficas de la base de datos y se comunica directamente con la base de datos utilizando el protocolo nativo proporcionado por el proveedor de la base de datos."
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1.\tUna vez que la red est\u00e1 configurada, le piden que pruebe en Linux si llega al puerto 567 de la maquina 10.1.45.88 pues contiene una importante aplicaci\u00f3n, \u00bfc\u00f3mo lo har\u00eda?",
+            "options": [
+                {
+                    "text": "b)\tnc -zc 10.1.45.88 567",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d)\tnetsh wlan add filter permission=block ssid=\"SSID_WiFi\" networktype=infrastructure",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\tnslookup www.grr.es",
+                    "isCorrect": false,
+                    "hint": "nslookup es un comando de l\u00ednea de comandos que se utiliza para obtener informaci\u00f3n sobre registros DNS (Domain Name System)"
+                },
+                {
+                    "text": "c)\t10.253.113.47",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2.\tEl driver que necesita para conectarse a la base de datos es el fichero ojdbc8.jar, \u00bfqu\u00e9 tipo de driver se est\u00e1 utilizando?",
+            "options": [
+                {
+                    "text": "d)\tThin",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tnslookup www.grr.es",
+                    "isCorrect": false,
+                    "hint": "nslookup es un comando de l\u00ednea de comandos que se utiliza para obtener informaci\u00f3n sobre registros DNS (Domain Name System)"
+                },
+                {
+                    "text": "d)\tuseradd migracion -g temporales",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d)\tnetsh wlan add filter permission=block ssid=\"SSID_WiFi\" networktype=infrastructure",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3.\tPara la reconfiguraci\u00f3n de los sistemas Windows 10, se necesita conectar a los equipos por Escritorio Remoto desde el Ministerio, \u00bfque puerto utiliza por defecto?",
+            "options": [
+                {
+                    "text": "c) 3389",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tnc -zc 10.1.45.88 567",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d)\tnetsh wlan add filter permission=block ssid=\"SSID_WiFi\" networktype=infrastructure",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\tFibra \u00f3ptica",
+                    "isCorrect": false,
+                    "hint": "FDDI son las siglas de Fiber Distributed Data Interface"
+                }
+            ]
+        }
+    ]
+}

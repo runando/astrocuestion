@@ -1,0 +1,199 @@
+{
+    "title": "Normas T\u00e9cnicas Interoperabilidad",
+    "type": "bloque1",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "Es una NTI",
+            "options": [
+                {
+                    "text": "Cat\u00e1logo de est\u00e1ndares",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Registro de estándares",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Listado de normas y especificaciones",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Catálogo de directrices técnicas",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una NTI",
+            "options": [
+                {
+                    "text": "Documento electr\u00f3nico",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Archivo digital",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Registro de información en formato digital",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Documento en formato electrónico",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una NTI",
+            "options": [
+                {
+                    "text": "Digitalizaci\u00f3n de documentos",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Captura digital de documentos",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Conversión de documentos a formato digital",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Proceso de transformación a formato electrónico",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una NTI",
+            "options": [
+                {
+                    "text": "Expediente electr\u00f3nico",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Archivo en línea de expedientes",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Registro electrónico de trámites",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Registro digital de documentos relacionados",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una NTI",
+            "options": [
+                {
+                    "text": "Pol\u00edtica de firma y sellos electr\u00f3nicos y de certificados de la Administraci\u00f3n",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Normativas sobre autenticación digital",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Directrices para el uso de firmas y sellos electrónicos y certificados",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Políticas de seguridad de certificados digitales",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una NTI",
+            "options": [
+                {
+                    "text": "Protocolos de intermediaci\u00f3n de datos",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Protocolos de comunicación de datos",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Directrices de intercambio de información",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Normas para la transferencia de información entre sistemas",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una NTI",
+            "options": [
+                {
+                    "text": "Relaci\u00f3n de modelos de datos",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Listado de esquemas de datos utilizados",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Catálogo de modelos de datos",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Registro de estructuras de datos",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es una NTI",
+            "options": [
+                {
+                    "text": "Pol\u00edtica de gesti\u00f3n de documentos electr\u00f3nicos",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Políticas de archivo digital",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Normativas de manejo de documentos en formato electrónico",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Directrices para la administración de archivos digitales",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

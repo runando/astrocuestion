@@ -1,0 +1,703 @@
+{
+    "title": "CUESTIONARIO 15-TAI\u2013LI - B2",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "21. En el registro de instrucciones de la unidad central de proceso, tenemos la informaci\u00f3n referente a: ",
+            "options": [
+                {
+                    "text": "d) La instrucci\u00f3n que se est\u00e1 ejecutando. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Fragmentaci\u00f3n interna. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) hace uso de \"quantum\" o \"time-slice\", ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) M\u00e1ximo grado de los nodos del \u00e1rbol. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. El tipo de datos de entrada de una ALU (Unidad Aritm\u00e9tico L\u00f3gica) son: ",
+            "options": [
+                {
+                    "text": "b) Operandos. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) de tambor. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Emplea dos colas, una para los procesos nuevos y otra para los procesos antiguos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Mostrar el directorio de trabajo actual. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. Cuatro nibble, como unidad de informaci\u00f3n en un ordenador, equivalen a: ",
+            "options": [
+                {
+                    "text": "c) 2 bytes. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 10Gbps ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La instrucci\u00f3n que se est\u00e1 ejecutando. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Todas las anteriores son correctas. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. Ordene de menor a mayor seg\u00fan la capacidad de almacenamiento: ",
+            "options": [
+                {
+                    "text": "b) Petabyte, Exabyte, Zettabyte, Yottabyte. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) de tambor. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) hace uso de \"quantum\" o \"time-slice\", ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Emplea dos colas, una para los procesos nuevos y otra para los procesos antiguos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. Indica con qu\u00e9 capacidad de almacenamiento total disponemos en un ordenador si \u00e9ste cuenta con dos discos  duros, uno con capacidad de 1 GB y otro de 1.024 KB: ",
+            "options": [
+                {
+                    "text": "b) 1.025 MB ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Operandos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Mapa. ",
+                    "isCorrect": false,
+                    "hint": "PARA MI ES NULA. Mapa y diccionario son lo mismo."
+                },
+                {
+                    "text": "c) :q!",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "26. En cuanto a los perif\u00e9ricos de entrada y, en concreto, los teclados, se\u00f1ale la distribuci\u00f3n de teclado que se utiliza  principalmente en regiones germanohablantes: ",
+            "options": [
+                {
+                    "text": "b) QWERTZ ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) EX2 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) M\u00e1ximo grado de los nodos del \u00e1rbol. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) ART (Android Runtime). ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "27. \u00bfC\u00f3mo se denomina a los esc\u00e1neres que son de gran tama\u00f1o y permiten escaneos por modelos de color CYMK o  RGB, y que debido principalmente a su gran resoluci\u00f3n \u00f3ptica son muy utilizados en estudios de dise\u00f1o gr\u00e1fico o  art\u00edstico? ",
+            "options": [
+                {
+                    "text": "d) de tambor. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 1.025 MB ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 10Gbps ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) ART (Android Runtime). ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "28. De entre los siguientes, \u00bfqu\u00e9 nivel de RAID utiliza el denominado \"disk mirroring\u201d como mecanismo de  tolerancia a fallos?",
+            "options": [
+                {
+                    "text": "b) RAID 1 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Operandos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Acceso total al due\u00f1o del fichero, acceso de lectura y ejecuci\u00f3n al grupo y acceso de lectura al resto de usuarios. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) M\u00e1ximo grado de los nodos del \u00e1rbol. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "29. \u00bfCu\u00e1l es la velocidad de transmisi\u00f3n de datos de Thunderbolt 2? ",
+            "options": [
+                {
+                    "text": "c) 20Gbps ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) de tambor. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 10Gbps ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) EX2 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "30. Indique cu\u00e1l es la velocidad de transmisi\u00f3n de datos del est\u00e1ndar de interconexi\u00f3n de dispositivos USB 3.1 Gen  2: ",
+            "options": [
+                {
+                    "text": "c) 10Gbps ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Petabyte, Exabyte, Zettabyte, Yottabyte. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 20Gbps ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Emplea dos colas, una para los procesos nuevos y otra para los procesos antiguos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "31. Los dispositivos de almacenamiento SSD (Solid State Drive):",
+            "options": [
+                {
+                    "text": "d) Todas las anteriores son correctas. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) .swf ",
+                    "isCorrect": false,
+                    "hint": "Este formato de archivo se utiliza principalmente para archivos multimedia interactivos y animaciones, y no es muy adecuado para almacenar grandes cantidades de datos."
+                },
+                {
+                    "text": "c) :q!",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) hace uso de \"quantum\" o \"time-slice\", ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "32. \u00bfCu\u00e1l de los siguientes tipos abstractos de datos NO tienen un orden definido? ",
+            "options": [
+                {
+                    "text": "d) Mapa. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Zope. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 20Gbps ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La instrucci\u00f3n que se est\u00e1 ejecutando. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "33. De entre los siguientes formatos de archivo, se\u00f1ale cu\u00e1l NO se utiliza para realizar exportaciones o  importaciones de datos: ",
+            "options": [
+                {
+                    "text": "b) .swf ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) de tambor. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) less ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Petabyte, Exabyte, Zettabyte, Yottabyte. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "34. Indique cu\u00e1l de los siguientes algoritmos utilizan urnas para depositar en ellas los registros en el proceso de  ordenaci\u00f3n: ",
+            "options": [
+                {
+                    "text": "a) Radix sort ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 2 bytes. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Mapa. ",
+                    "isCorrect": false,
+                    "hint": "PARA MI ES NULA. Mapa y diccionario son lo mismo."
+                },
+                {
+                    "text": "b) Operandos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "35. Cu\u00e1l de los siguientes sistemas de archivos NO fue creado para Windows: ",
+            "options": [
+                {
+                    "text": "d) EX2 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) hace uso de \"quantum\" o \"time-slice\", ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Java ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) .swf ",
+                    "isCorrect": false,
+                    "hint": "Este formato de archivo se utiliza principalmente para archivos multimedia interactivos y animaciones, y no es muy adecuado para almacenar grandes cantidades de datos."
+                }
+            ]
+        },
+        {
+            "question": "36. El grado de un \u00e1rbol es: ",
+            "options": [
+                {
+                    "text": "d) M\u00e1ximo grado de los nodos del \u00e1rbol. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 2 bytes. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Zope. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) PostgreSQL. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37. Seleccione la respuesta correcta con respecto al algoritmo de planificaci\u00f3n Round Robin, es un algoritmo que\u201d",
+            "options": [
+                {
+                    "text": "b) hace uso de \"quantum\" o \"time-slice\", ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Fragmentaci\u00f3n interna. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) PostgreSQL. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) EX2 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39. En relaci\u00f3n con el gestor de arranque en sistemas Linux, se\u00f1ale la respuesta correcta: ",
+            "options": [
+                {
+                    "text": "d) GRUB 2 ha reemplazado a lo que se conoc\u00eda hasta entonces como GRUB, pasando \u00e9sta a denominarse GRUB Legacy. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Fragmentaci\u00f3n interna. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) de tambor. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 2 bytes. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39. Dado un sistema de ficheros de tipo UNIX, \u00bfcu\u00e1l de las siguientes opciones NO forma parte de la lista de  elementos de informaci\u00f3n almacenados en cada inodo (inode)? ",
+            "options": [
+                {
+                    "text": "b) Nombre del fichero. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) de tambor. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Emplea dos colas, una para los procesos nuevos y otra para los procesos antiguos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Petabyte, Exabyte, Zettabyte, Yottabyte. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "40. \u00bfCu\u00e1l es la plataforma de ejecuci\u00f3n de aplicaciones, o m\u00e1quina virtual, sobre la que ejecutan las aplicaciones y  diversos servicios de sistema en las versiones a partir de KitKat (Android 4.4) de los sistemas operativos de tipo  Android? ",
+            "options": [
+                {
+                    "text": "c) ART (Android Runtime). ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Java ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 10Gbps ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Zope. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "41. Relacionado con la gesti\u00f3n de memoria, la t\u00e9cnica de paginaci\u00f3n puede provocar: ",
+            "options": [
+                {
+                    "text": "b) Fragmentaci\u00f3n interna. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Nombre del fichero. ",
+                    "isCorrect": false,
+                    "hint": "En su lugar, el nombre del fichero se almacena en una entrada de directorio que apunta al inodo correspondiente"
+                },
+                {
+                    "text": "d) Todas las anteriores son correctas. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) GRUB 2 ha reemplazado a lo que se conoc\u00eda hasta entonces como GRUB, pasando \u00e9sta a denominarse GRUB Legacy. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "42. En UNIX, si utilizo el comando \"chmod 754\" para modificar los permisos a un fichero, \u00bfqu\u00e9 permisos le estar\u00e9  asignando? ",
+            "options": [
+                {
+                    "text": "b) Acceso total al due\u00f1o del fichero, acceso de lectura y ejecuci\u00f3n al grupo y acceso de lectura al resto de usuarios. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Java ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 1.025 MB ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Radix sort ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "43. El algoritmo de panificaci\u00f3n SRR (Selfish Round Robin) es una variante del algoritmo Round Robin, la cual  consiste en que: ",
+            "options": [
+                {
+                    "text": "a) Emplea dos colas, una para los procesos nuevos y otra para los procesos antiguos. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) EX2 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 20Gbps ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 1.025 MB ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "44. Indique cu\u00e1l de los siguientes comandos Unix muestra un archivo de texto de manera interactiva, permitiendo  navegar en \u00e9l y realizar b\u00fasquedas:",
+            "options": [
+                {
+                    "text": "a) less ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Operandos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) PostgreSQL. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Radix sort ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "45. \u00bfCu\u00e1l de los siguientes es el lenguaje de programaci\u00f3n empleado para desarrollar aplicaciones nativas para  Android? ",
+            "options": [
+                {
+                    "text": "b) Java ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Petabyte, Exabyte, Zettabyte, Yottabyte. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 20Gbps ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) PostgreSQL. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "46. En el editor de texto 'vi' de Unix, el comando para salir sin guardar el fichero que se est\u00e1 editando es: ",
+            "options": [
+                {
+                    "text": "c) :q!",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Java ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Nombre del fichero. ",
+                    "isCorrect": false,
+                    "hint": "En su lugar, el nombre del fichero se almacena en una entrada de directorio que apunta al inodo correspondiente"
+                },
+                {
+                    "text": "c) 10Gbps ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "48. El comando pwd en UNIX sirve para: ",
+            "options": [
+                {
+                    "text": "a) Mostrar el directorio de trabajo actual. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 1.025 MB ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) QWERTZ ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) M\u00e1ximo grado de los nodos del \u00e1rbol. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "49. \u00bfCu\u00e1l de los siguientes sistemas de bases de datos es orientado a objetos? ",
+            "options": [
+                {
+                    "text": "c) Zope. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Emplea dos colas, una para los procesos nuevos y otra para los procesos antiguos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Radix sort ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) hace uso de \"quantum\" o \"time-slice\", ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "50. Se\u00f1ale, de entre los siguientes, cual es un gestor de base de datos relacional: ",
+            "options": [
+                {
+                    "text": "a) PostgreSQL. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Acceso total al due\u00f1o del fichero, acceso de lectura y ejecuci\u00f3n al grupo y acceso de lectura al resto de usuarios. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Fragmentaci\u00f3n interna. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Mapa. ",
+                    "isCorrect": false,
+                    "hint": "PARA MI ES NULA. Mapa y diccionario son lo mismo."
+                }
+            ]
+        }
+    ]
+}

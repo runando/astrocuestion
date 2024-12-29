@@ -1,0 +1,127 @@
+{
+    "title": "Patrones de Dise\u00f1o - Creacionales",
+    "type": "bloque3",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "Proporciona una interfaz para crear objetos en una superclase, mientras permite a las subclases alterar el tipo de objetos que se crear\u00e1n.",
+            "options": [
+                {
+                    "text": "Factory Method",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Prototype",
+                    "isCorrect": false,
+                    "hint": "Permite copiar objetos existentes sin que el c\u00f3digo dependa de sus clases."
+                },
+                {
+                    "text": "Builder",
+                    "isCorrect": false,
+                    "hint": "Permite construir objetos complejos paso a paso. El patr\u00f3n nos permite producir distintos tipos y representaciones de un objeto empleando el mismo c\u00f3digo de construcci\u00f3n."
+                },
+                {
+                    "text": "Singleton",
+                    "isCorrect": false,
+                    "hint": "Permite asegurarnos de que una clase tenga una \u00fanica instancia, a la vez que proporciona un punto de acceso global a dicha instancia."
+                }
+            ]
+        },
+        {
+            "question": "Permite producir familias de objetos relacionados sin especificar sus clases concretas.",
+            "options": [
+                {
+                    "text": "Abstract Factory",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Factory Method",
+                    "isCorrect": false,
+                    "hint": "Proporciona una interfaz para crear objetos en una superclase, mientras permite a las subclases alterar el tipo de objetos que se crear\u00e1n."
+                },
+                {
+                    "text": "Prototype",
+                    "isCorrect": false,
+                    "hint": "Permite copiar objetos existentes sin que el c\u00f3digo dependa de sus clases."
+                },
+                {
+                    "text": "Singleton",
+                    "isCorrect": false,
+                    "hint": "Permite asegurarnos de que una clase tenga una \u00fanica instancia, a la vez que proporciona un punto de acceso global a dicha instancia."
+                }
+            ]
+        },
+        {
+            "question": "Permite construir objetos complejos paso a paso. El patr\u00f3n nos permite producir distintos tipos y representaciones de un objeto empleando el mismo c\u00f3digo de construcci\u00f3n.",
+            "options": [
+                {
+                    "text": "Builder",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Singleton",
+                    "isCorrect": false,
+                    "hint": "Permite asegurarnos de que una clase tenga una \u00fanica instancia, a la vez que proporciona un punto de acceso global a dicha instancia."
+                },
+                {
+                    "text": "Prototype",
+                    "isCorrect": false,
+                    "hint": "Permite copiar objetos existentes sin que el c\u00f3digo dependa de sus clases."
+                },
+                {
+                    "text": "Abstract Factory",
+                    "isCorrect": false,
+                    "hint": "Permite producir familias de objetos relacionados sin especificar sus clases concretas."
+                }
+            ]
+        },
+        {
+            "question": "Permite copiar objetos existentes sin que el c\u00f3digo dependa de sus clases.",
+            "options": [
+                {
+                    "text": "Prototype",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Factory Method",
+                    "isCorrect": false,
+                    "hint": "Proporciona una interfaz para crear objetos en una superclase, mientras permite a las subclases alterar el tipo de objetos que se crear\u00e1n."
+                },
+                {
+                    "text": "Builder",
+                    "isCorrect": false,
+                    "hint": "Permite construir objetos complejos paso a paso. El patr\u00f3n nos permite producir distintos tipos y representaciones de un objeto empleando el mismo c\u00f3digo de construcci\u00f3n."
+                },
+                {
+                    "text": "Abstract Factory",
+                    "isCorrect": false,
+                    "hint": "Permite producir familias de objetos relacionados sin especificar sus clases concretas."
+                }
+            ]
+        },
+        {
+            "question": "Permite asegurarnos de que una clase tenga una \u00fanica instancia, a la vez que proporciona un punto de acceso global a dicha instancia.",
+            "options": [
+                {
+                    "text": "Singleton",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Builder",
+                    "isCorrect": false,
+                    "hint": "Permite construir objetos complejos paso a paso. El patr\u00f3n nos permite producir distintos tipos y representaciones de un objeto empleando el mismo c\u00f3digo de construcci\u00f3n."
+                },
+                {
+                    "text": "Abstract Factory",
+                    "isCorrect": false,
+                    "hint": "Permite producir familias de objetos relacionados sin especificar sus clases concretas."
+                },
+                {
+                    "text": "Factory Method",
+                    "isCorrect": false,
+                    "hint": "Proporciona una interfaz para crear objetos en una superclase, mientras permite a las subclases alterar el tipo de objetos que se crear\u00e1n."
+                }
+            ]
+        }
+    ]
+}

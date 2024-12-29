@@ -1,0 +1,751 @@
+{
+    "title": "CUESTIONARIO 18-TAI\u2013LI - B3",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "40. Seg\u00fan M\u00e9trica v3, en el modelo Entidad\/Relaci\u00f3n extendido las relaciones se definen por:",
+            "options": [
+                {
+                    "text": "d) Cardinalidad, nombre, tipo de correspondencia.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Durabilidad",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Javax.ejb",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) \/list",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "41. En un Diagrama de Flujo de Datos (DFD), indique cu\u00e1l de las siguientes afirmaciones es FALSA:",
+            "options": [
+                {
+                    "text": "c) Un almac\u00e9n no puede aparecer varias veces en el diagrama.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Diagrama de paquetes.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) git tag",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Las entidades externas deben descomponerse en cada explosi\u00f3n del DFD al igual que el resto de los elementos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "42. Se\u00f1ale la INCORRECTA con respecto a la comprobaci\u00f3n de la consistencia de un DFD resultado de una explosi\u00f3n:",
+            "options": [
+                {
+                    "text": "d) Las entidades externas deben descomponerse en cada explosi\u00f3n del DFD al igual que el resto de los elementos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) EXEC getEmployees @LastName = N'Rojas', N'Pilar';",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Permiten crear instant\u00e1neas de un momento temporal determinado permitiendo. entre otros, la generaci\u00f3n de informes a partir de los datos contenidos en las mismas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) &ltprogress>",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "43. En la teor\u00eda de normalizaci\u00f3n cuando una relaci\u00f3n puede ser reconstruida sin p\u00e9rdida de informaci\u00f3n a partir de una combinaci\u00f3n de algunas de sus proyecciones se dice que tiene una:",
+            "options": [
+                {
+                    "text": "a) Dependencia de reuni\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Team Foundation Server",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SELECT lugar, Count(*) AS numPersonas FROM Personal GROUP BY lugar HAVING Count(*)>10",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Diagrama de paquetes.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "44. En el contexto del modelo relacional, \u00bfqu\u00e9 regla de integridad determina que los atributos de la clave primaria de una relaci\u00f3n no puedan tener valores nulos?",
+            "options": [
+                {
+                    "text": "c) Integridad de entidad.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Ataques epil\u00e9pticos: No dise\u00f1ar contenido que pueda causar ataques epil\u00e9pticos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Javax.ejb",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Title",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "45. Se\u00f1ale cu\u00e1l NO es una opci\u00f3n a la hora de desarrollar una aplicaci\u00f3n m\u00f3vil:",
+            "options": [
+                {
+                    "text": "d) Desarrollo de aplicaciones web graduales.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Title",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Integridad de entidad.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) One-way.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "46. \u00bfCu\u00e1l de las siguientes opciones NO representa un tipo de datos primitivo de Java?",
+            "options": [
+                {
+                    "text": "b) simple.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) A pesar de la gran variedad de tipos de datos que podemos mandar con REST, no es posible utilizar el formato XML.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SELECT lugar, Count(*) AS numPersonas FROM Personal GROUP BY lugar HAVING Count(*)>10",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Diagrama de paquetes.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "47. En PostgreSQL 9.2, una vez conectado al terminal interactivo de PostgreSQL mediante el comando psql, \u00bfqu\u00e9 opci\u00f3n se puede ejecutar para obtener las bases de datos disponibles?",
+            "options": [
+                {
+                    "text": "b) \/list",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Team Foundation Server",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) One-way.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Soluci\u00f3n dise\u00f1ada para realizar an\u00e1lisis din\u00e1mico del c\u00f3digo fuente de manera autom\u00e1tica.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "48. Dada una tabla 'Personal' con una columna \"lugar\", se quiere obtener el n\u00famero de personas en cada lugar, cuando haya m\u00e1s de 10 personas en el mismo. Se\u00f1ale la sentencia SQL correcta:",
+            "options": [
+                {
+                    "text": "a) SELECT lugar, Count(*) AS numPersonas FROM Personal GROUP BY lugar HAVING Count(*)>10",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) EXEC getEmployees @LastName = N'Rojas', N'Pilar';",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Una plataforma que permite el desarrollo de aplicaciones web \"autocontenidas\u201d que llevan embebido el contenedor de servlets.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Las sentencias de tipo DCL permiten la definici\u00f3n de estructuras de datos mediante CREATE TABLE o DROP TABLE.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "49. En relaci\u00f3n a las sentencias utilizadas en SQL y su tipolog\u00eda, indique la afirmaci\u00f3n INCORRECTA:",
+            "options": [
+                {
+                    "text": "c) Las sentencias de tipo DCL permiten la definici\u00f3n de estructuras de datos mediante CREATE TABLE o DROP TABLE.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) No es posible automatizar las pruebas de regresi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Desde la clase en la que se ha definido, sus subclases, y desde las clases dentro del mismo paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) &ltprogress>",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "50. Dado un procedimiento almacenado en SQL Server con la cabecera CREATE PROCEDURE getEmployees @LastName varchar(50), @FirstName nvarchar(50) \u00bfCu\u00e1l NO ser\u00eda una instrucci\u00f3n v\u00e1lida para ejecutar dicho procedimiento?",
+            "options": [
+                {
+                    "text": "d) EXEC getEmployees @LastName = N'Rojas', N'Pilar';",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Cardinalidad, nombre, tipo de correspondencia.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Desde la clase en la que se ha definido, sus subclases, y desde las clases dentro del mismo paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Title",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "51. De entre las siguientes, se\u00f1ale cu\u00e1l es una ventaja de las instant\u00e1neas de Base de Datos (snapshot) en SQLSERVER:",
+            "options": [
+                {
+                    "text": "c) Permiten crear instant\u00e1neas de un momento temporal determinado permitiendo. entre otros, la generaci\u00f3n de informes a partir de los datos contenidos en las mismas.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) \/list",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) git tag",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Diagrama de paquetes.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "52.En UML 2.5, \u00bfcu\u00e1l de los siguientes diagramas pertenece a la categor\u00eda de diagramas de estructura?",
+            "options": [
+                {
+                    "text": "a) Diagrama de paquetes.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Singleton",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Title",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Ataques epil\u00e9pticos: No dise\u00f1ar contenido que pueda causar ataques epil\u00e9pticos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "53. \u00bfCu\u00e1l de los siguientes NO es una de las caracter\u00edsticas del modelo orientado a objetos?",
+            "options": [
+                {
+                    "text": "c) Durabilidad",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Singleton",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Soluci\u00f3n dise\u00f1ada para realizar an\u00e1lisis din\u00e1mico del c\u00f3digo fuente de manera autom\u00e1tica.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Desarrollo de aplicaciones web graduales.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "54. Indique cu\u00e1l de los siguientes es un patr\u00f3n de tipo creacional:",
+            "options": [
+                {
+                    "text": "d) Singleton",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Cardinalidad, nombre, tipo de correspondencia.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Team Foundation Server",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) One-way.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "55. En el contexto de Java EE (ahora Jakarta EE), \u00bfen qu\u00e9 paquete se encuentran las clases e interfaces de Enterprise JavaBeans?",
+            "options": [
+                {
+                    "text": "b) Javax.ejb",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Integridad de entidad.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) No es posible automatizar las pruebas de regresi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Ataques epil\u00e9pticos: No dise\u00f1ar contenido que pueda causar ataques epil\u00e9pticos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "56. Cu\u00e1l de las siguientes opciones sobre ADO.NET y los proveedores de datos del framework .NET es FALSA?",
+            "options": [
+                {
+                    "text": "c) El objeto Operation permite invocar peticiones para recuperaci\u00f3n y\/o modificaci\u00f3n de informaci\u00f3n sobre la fuente de datos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) simple.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Desarrollo de aplicaciones web graduales.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) No es posible automatizar las pruebas de regresi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "57. En Java, una variable definida con el modificador de acceso protected, es accesible:",
+            "options": [
+                {
+                    "text": "d) Desde la clase en la que se ha definido, sus subclases, y desde las clases dentro del mismo paquete.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Soluci\u00f3n dise\u00f1ada para realizar an\u00e1lisis din\u00e1mico del c\u00f3digo fuente de manera autom\u00e1tica.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Diagrama de paquetes.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Un almac\u00e9n no puede aparecer varias veces en el diagrama.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "58. Spring Boot es:",
+            "options": [
+                {
+                    "text": "b) Una plataforma que permite el desarrollo de aplicaciones web \"autocontenidas\u201d que llevan embebido el contenedor de servlets.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) &ltprogress>",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SELECT lugar, Count(*) AS numPersonas FROM Personal GROUP BY lugar HAVING Count(*)>10",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Integridad de entidad.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "59. En un documento WSDL, \u00bfc\u00f3mo se denomina la operaci\u00f3n que describe un servicio en el que se recibe un mensaje pero no se responde?",
+            "options": [
+                {
+                    "text": "a) One-way.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Integridad de entidad.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Desarrollo de aplicaciones web graduales.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Diagrama de paquetes.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "60. En cuanto a la tecnolog\u00eda REST utilizada para la construcci\u00f3n de sistemas con arquitectura orientada a servicios, indique la opci\u00f3n INCORRECTA:",
+            "options": [
+                {
+                    "text": "d) A pesar de la gran variedad de tipos de datos que podemos mandar con REST, no es posible utilizar el formato XML.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Una plataforma que permite el desarrollo de aplicaciones web \"autocontenidas\u201d que llevan embebido el contenedor de servlets.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Desarrollo de aplicaciones web graduales.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) No es posible automatizar las pruebas de regresi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "61. \u00bfCu\u00e1l de los siguientes NO es un elemento en el esqueleto base de un mensaje SOAP 1.2?",
+            "options": [
+                {
+                    "text": "d) Title",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Una plataforma que permite el desarrollo de aplicaciones web \"autocontenidas\u201d que llevan embebido el contenedor de servlets.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) &ltprogress>",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Integridad de entidad.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "62. En Python 3.7, indique qu\u00e9 resultado se obtiene al ejecutar print(\"Java\"*4+\"Linux\u201d)",
+            "options": [
+                {
+                    "text": "d) JavaJavaJavaJavaLinux",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Team Foundation Server",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) A pesar de la gran variedad de tipos de datos que podemos mandar con REST, no es posible utilizar el formato XML.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Durabilidad",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "63. \u00bfCu\u00e1l de las siguientes opciones representa una de las nuevas etiquetas introducidas por HTML5?",
+            "options": [
+                {
+                    "text": "a) &ltprogress>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) JavaJavaJavaJavaLinux",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) One-way.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) simple.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "63. Considerando como premisa la existencia del archivo foto.jpg en la misma ubicaci\u00f3n que el archivo que contiene el c\u00f3digo HTML indicado a continuaci\u00f3n, \u00bfqu\u00e9 mostrar\u00eda en pantalla el siguiente c\u00f3digo? &lta href=\"https:\/\/www.boe.es\" >&ltimg src=\"foto.jpg\" alt=\"Acceso al BOE\"\/>&lt\/a>",
+            "options": [
+                {
+                    "text": "a) Mostrar\u00eda la imagen foto.jpg siendo esta un hiperv\u00ednculo a la p\u00e1gina https:\/\/www.boe.es",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Title",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) \/list",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Singleton",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "65. Se\u00f1ale cual NO es una pauta del Principio Perceptible de WCAG 2.1:",
+            "options": [
+                {
+                    "text": "d) Ataques epil\u00e9pticos: No dise\u00f1ar contenido que pueda causar ataques epil\u00e9pticos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) SELECT lugar, Count(*) AS numPersonas FROM Personal GROUP BY lugar HAVING Count(*)>10",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) EXEC getEmployees @LastName = N'Rojas', N'Pilar';",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Una plataforma que permite el desarrollo de aplicaciones web \"autocontenidas\u201d que llevan embebido el contenedor de servlets.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "66. Las pruebas cuya finalidad es verificar que los distintos componentes del sistema interact\u00faan correctamente a trav\u00e9s de sus interfaces se denominan:",
+            "options": [
+                {
+                    "text": "b) Pruebas de integraci\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) No es posible automatizar las pruebas de regresi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Singleton",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) EXEC getEmployees @LastName = N'Rojas', N'Pilar';",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "67. Dado un proyecto git, \u00bfcon qu\u00e9 comando puedo listar las etiquetas?",
+            "options": [
+                {
+                    "text": "a) git tag",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Team Foundation Server",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Las sentencias de tipo DCL permiten la definici\u00f3n de estructuras de datos mediante CREATE TABLE o DROP TABLE.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Dependencia de reuni\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "68. La plataforma de control de versiones de Microsoft es:",
+            "options": [
+                {
+                    "text": "c) Team Foundation Server",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Una plataforma que permite el desarrollo de aplicaciones web \"autocontenidas\u201d que llevan embebido el contenedor de servlets.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Desarrollo de aplicaciones web graduales.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) No es posible automatizar las pruebas de regresi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "68. Con respecto a SonarQube, se\u00f1ale la INCORRECTA:",
+            "options": [
+                {
+                    "text": "a) Soluci\u00f3n dise\u00f1ada para realizar an\u00e1lisis din\u00e1mico del c\u00f3digo fuente de manera autom\u00e1tica.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Mostrar\u00eda la imagen foto.jpg siendo esta un hiperv\u00ednculo a la p\u00e1gina https:\/\/www.boe.es",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Durabilidad",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) simple.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "70. Con respecto a las pruebas de regresi\u00f3n, se\u00f1ale la INCORRECTA:",
+            "options": [
+                {
+                    "text": "d) No es posible automatizar las pruebas de regresi\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Un almac\u00e9n no puede aparecer varias veces en el diagrama.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) JavaJavaJavaJavaLinux",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Desarrollo de aplicaciones web graduales.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

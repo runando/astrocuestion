@@ -1,0 +1,199 @@
+{
+    "title": "Velocidades USB",
+    "type": "bloque4",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "USB 1.0",
+            "options": [
+                {
+                    "text": "1,5 Mbits\/s",
+                    "isCorrect": true
+                },
+                {
+                    "text": "20 Gbps",
+                    "isCorrect": false,
+                    "hint": "USB 3.2 (Gen 2x2)"
+                },
+                {
+                    "text": "80 Gbps",
+                    "isCorrect": false,
+                    "hint": "USB 4v2"
+                },
+                {
+                    "text": "480 Mbps",
+                    "isCorrect": false,
+                    "hint": "USB 2.0"
+                }
+            ]
+        },
+        {
+            "question": "USB 1.1",
+            "options": [
+                {
+                    "text": "12 Mbps",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1,5 Mbits\/s",
+                    "isCorrect": false,
+                    "hint": "USB 1.0"
+                },
+                {
+                    "text": "10 Gbps",
+                    "isCorrect": false,
+                    "hint": "USB 3.1 Gen 2"
+                },
+                {
+                    "text": "480 Mbps",
+                    "isCorrect": false,
+                    "hint": "USB 2.0"
+                }
+            ]
+        },
+        {
+            "question": "USB 2.0",
+            "options": [
+                {
+                    "text": "480 Mbps",
+                    "isCorrect": true
+                },
+                {
+                    "text": "5 Gbps",
+                    "isCorrect": false,
+                    "hint": "USB 3.0 (USB 3.1 Gen 1)"
+                },
+                {
+                    "text": "1,5 Mbits\/s",
+                    "isCorrect": false,
+                    "hint": "USB 1.0"
+                },
+                {
+                    "text": "20 Gbps",
+                    "isCorrect": false,
+                    "hint": "USB 3.2 (Gen 2x2)"
+                }
+            ]
+        },
+        {
+            "question": "USB 3.0 (USB 3.1 Gen 1)",
+            "options": [
+                {
+                    "text": "5 Gbps",
+                    "isCorrect": true
+                },
+                {
+                    "text": "12 Mbps",
+                    "isCorrect": false,
+                    "hint": "USB 1.1"
+                },
+                {
+                    "text": "1,5 Mbits\/s",
+                    "isCorrect": false,
+                    "hint": "USB 1.0"
+                },
+                {
+                    "text": "20 Gbps",
+                    "isCorrect": false,
+                    "hint": "USB 3.2 (Gen 2x2)"
+                }
+            ]
+        },
+        {
+            "question": "USB 3.1 Gen 2",
+            "options": [
+                {
+                    "text": "10 Gbps",
+                    "isCorrect": true
+                },
+                {
+                    "text": "5 Gbps",
+                    "isCorrect": false,
+                    "hint": "USB 3.0 (USB 3.1 Gen 1)"
+                },
+                {
+                    "text": "12 Mbps",
+                    "isCorrect": false,
+                    "hint": "USB 1.1"
+                },
+                {
+                    "text": "80 Gbps",
+                    "isCorrect": false,
+                    "hint": "USB 4v2"
+                }
+            ]
+        },
+        {
+            "question": "USB 3.2 (Gen 2x2)",
+            "options": [
+                {
+                    "text": "20 Gbps",
+                    "isCorrect": true
+                },
+                {
+                    "text": "5 Gbps",
+                    "isCorrect": false,
+                    "hint": "USB 3.0 (USB 3.1 Gen 1)"
+                },
+                {
+                    "text": "12 Mbps",
+                    "isCorrect": false,
+                    "hint": "USB 1.1"
+                },
+                {
+                    "text": "40 Gbps",
+                    "isCorrect": false,
+                    "hint": "USB 4.0"
+                }
+            ]
+        },
+        {
+            "question": "USB 4.0",
+            "options": [
+                {
+                    "text": "40 Gbps",
+                    "isCorrect": true
+                },
+                {
+                    "text": "20 Gbps",
+                    "isCorrect": false,
+                    "hint": "USB 3.2 (Gen 2x2)"
+                },
+                {
+                    "text": "480 Mbps",
+                    "isCorrect": false,
+                    "hint": "USB 2.0"
+                },
+                {
+                    "text": "1,5 Mbits\/s",
+                    "isCorrect": false,
+                    "hint": "USB 1.0"
+                }
+            ]
+        },
+        {
+            "question": "USB 4v2",
+            "options": [
+                {
+                    "text": "80 Gbps",
+                    "isCorrect": true
+                },
+                {
+                    "text": "5 Gbps",
+                    "isCorrect": false,
+                    "hint": "USB 3.0 (USB 3.1 Gen 1)"
+                },
+                {
+                    "text": "12 Mbps",
+                    "isCorrect": false,
+                    "hint": "USB 1.1"
+                },
+                {
+                    "text": "480 Mbps",
+                    "isCorrect": false,
+                    "hint": "USB 2.0"
+                }
+            ]
+        }
+    ]
+}

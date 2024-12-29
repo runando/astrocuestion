@@ -1,0 +1,367 @@
+{
+    "title": "CUESTIONARIO 18-TAI\u2013PI - Supuesto II",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1.\tEn el nuevo CPD tenemos un servidor con Linux Ilamado \"servidor_del_trasIado\" y se ha decidido crear un usuario especifico que se Ilamar\u00e1 \"traslado\" con contrase\u00f1a \"zzzz\", que pertenezca al grupo ya existente \"migracion\" y cuyo directorio principal (HOME_DIR) sea \/trasIado\/respaIdo \u00bfC\u00f3mo Io haria",
+            "options": [
+                {
+                    "text": "b)\tuseradd -d \/traslado\/respaldo -g migracion -p zzzz traslado",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a)\tSSLSessionCacheTimeout\t",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d)\troute add -net 10.254.252.4 netmask 255.255.255.0 gw 10.253.1.254",
+                    "isCorrect": false,
+                    "hint": "la sintaxis correcta para agregar una ruta en un servidor Linux es: route add -net [DESTINO] netmask [M\u00c1SCARA] gw [GATEWAY]"
+                },
+                {
+                    "text": "c)\tarp -a",
+                    "isCorrect": false,
+                    "hint": "arp -a para obtener todas las entrada ARP de la tabla , arp -d nombre_de_la_m\u00e1quina para suprimir una entrada de la tabla, arp -s nombre_de_la_m\u00e1quina direcci\u00f3n_mac para a\u00f1adir una nueva entrada en la tabla"
+                }
+            ]
+        },
+        {
+            "question": "2.\tPara ver que todo es correcto, compruebe remotamente el uid y el gid del usuario \"traslado\" en el \"servidor_del_traslado\", que se ha creado anteriormente.",
+            "options": [
+                {
+                    "text": "d)\tssh servidor_del_trasIado -l traslado id",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d)\troute add -net 10.254.252.4 netmask 255.255.255.0 gw 10.253.1.254",
+                    "isCorrect": false,
+                    "hint": "la sintaxis correcta para agregar una ruta en un servidor Linux es: route add -net [DESTINO] netmask [M\u00c1SCARA] gw [GATEWAY]"
+                },
+                {
+                    "text": "b)\tuseradd -d \/traslado\/respaldo -g migracion -p zzzz traslado",
+                    "isCorrect": false,
+                    "hint": "-d indica el directorio, -g el grupo y -p la contrase\u00f1a. Realmente -p pediria la contrase\u00f1a cifrada y no directamente. Se podr\u00eda hacer con \"openssl passwd\""
+                },
+                {
+                    "text": "b)\t10.1.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3.\tLe piden que en el servidor Linux a\u00f1ada una ruta que permita ir al destino 10.254.252.4 a trav\u00e9s del gateway 10.253.1.254 que est\u00e1 conectado a un firewall. \u00bfC\u00f3mo la har\u00eda?",
+            "options": [
+                {
+                    "text": "d)\troute add -net 10.254.252.4 netmask 255.255.255.0 gw 10.253.1.254",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\ttar -czvf configuraciones.tar.gz \/backup\/tomcat\/",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\tOpenstack",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El m\u00e9todo solicitado es conocido por el servidor pero ha sido deshabilitado y no puede ser utilizado.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4.\t\u00bfC\u00f3mo podr\u00eda listar las rutas existentes y as\u00ed cerciorarse de que la ruta anterior est\u00e1 bien a\u00f1adida ?",
+            "options": [
+                {
+                    "text": "b)\tip route list",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tuseradd -d \/traslado\/respaldo -g migracion -p zzzz traslado",
+                    "isCorrect": false,
+                    "hint": "-d indica el directorio, -g el grupo y -p la contrase\u00f1a. Realmente -p pediria la contrase\u00f1a cifrada y no directamente. Se podr\u00eda hacer con \"openssl passwd\""
+                },
+                {
+                    "text": "c)\ttar -czvf configuraciones.tar.gz \/backup\/tomcat\/",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\tEl atacante env\u00eda una gran cantidad de tr\u00e1fico de solicitudes \"echo UDP\" a una direcci\u00f3n IP de Difusi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": "Un ataque Fraggle es un tipo de ataque de Denegaci\u00f3n de Servicio (DoS) en el que los atacantes utilizan tr\u00e1fico UDP falsificado para hacer que un sistema o recurso de red objetivo no est\u00e9 disponible para sus usuarios previstos. Si usara paquetes ICMP seria un ataque SMURF."
+                }
+            ]
+        },
+        {
+            "question": "5.\tSe va a dar un nuevo direccionamiento temporal para la migraci\u00f3n. Se trata de la red 10.1.248.0 \/ 21. \u00bfCu\u00e1l es la direcci\u00f3n de broadcast?",
+            "options": [
+                {
+                    "text": "b)\t10.1.255.255",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\t25",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\tuseradd -d \/traslado\/respaldo -g migracion -p zzzz traslado",
+                    "isCorrect": false,
+                    "hint": "-d indica el directorio, -g el grupo y -p la contrase\u00f1a. Realmente -p pediria la contrase\u00f1a cifrada y no directamente. Se podr\u00eda hacer con \"openssl passwd\""
+                },
+                {
+                    "text": "c)\tarp -a",
+                    "isCorrect": false,
+                    "hint": "arp -a para obtener todas las entrada ARP de la tabla , arp -d nombre_de_la_m\u00e1quina para suprimir una entrada de la tabla, arp -s nombre_de_la_m\u00e1quina direcci\u00f3n_mac para a\u00f1adir una nueva entrada en la tabla"
+                }
+            ]
+        },
+        {
+            "question": "6.\tParece que hay problemas a nivel 2 debido a unas MAC antiguas. \u00bfqu\u00e9 par\u00e1metro del comando ARP hay que usar para mostrar la tabla ARP?",
+            "options": [
+                {
+                    "text": "c)\tarp -a",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tCortafuegos de capa de red.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\tEl atacante env\u00eda una gran cantidad de tr\u00e1fico de solicitudes \"echo UDP\" a una direcci\u00f3n IP de Difusi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": "Un ataque Fraggle es un tipo de ataque de Denegaci\u00f3n de Servicio (DoS) en el que los atacantes utilizan tr\u00e1fico UDP falsificado para hacer que un sistema o recurso de red objetivo no est\u00e9 disponible para sus usuarios previstos. Si usara paquetes ICMP seria un ataque SMURF."
+                },
+                {
+                    "text": "c)\ttar -czvf configuraciones.tar.gz \/backup\/tomcat\/",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "7.\tSe va a instalar el protocolo SMTP en un servidor y debe indicar qu\u00e9 puerto por defecto deber\u00eda abrirse en el firewall.",
+            "options": [
+                {
+                    "text": "c)\t25",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tEl atacante env\u00eda una gran cantidad de tr\u00e1fico de solicitudes \"echo UDP\" a una direcci\u00f3n IP de Difusi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": "Un ataque Fraggle es un tipo de ataque de Denegaci\u00f3n de Servicio (DoS) en el que los atacantes utilizan tr\u00e1fico UDP falsificado para hacer que un sistema o recurso de red objetivo no est\u00e9 disponible para sus usuarios previstos. Si usara paquetes ICMP seria un ataque SMURF."
+                },
+                {
+                    "text": "d)\troute add -net 10.254.252.4 netmask 255.255.255.0 gw 10.253.1.254",
+                    "isCorrect": false,
+                    "hint": "la sintaxis correcta para agregar una ruta en un servidor Linux es: route add -net [DESTINO] netmask [M\u00c1SCARA] gw [GATEWAY]"
+                },
+                {
+                    "text": "c)\tarp -a",
+                    "isCorrect": false,
+                    "hint": "arp -a para obtener todas las entrada ARP de la tabla , arp -d nombre_de_la_m\u00e1quina para suprimir una entrada de la tabla, arp -s nombre_de_la_m\u00e1quina direcci\u00f3n_mac para a\u00f1adir una nueva entrada en la tabla"
+                }
+            ]
+        },
+        {
+            "question": "8.\tEn el nuevo CPD se est\u00e1 valorando la instalaci\u00f3n de un Cloud Computing de software libre. \u00bfCu\u00e1l podr\u00eda utilizarse?",
+            "options": [
+                {
+                    "text": "a)\tOpenstack",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tVirtual Desktop Infrastructure.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\t10.1.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\tSSLSessionCacheTimeout\t",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "9.\tLe han solicitado informaci\u00f3n sabre virtualizaci\u00f3n, \u00bfa qu\u00e9 se refieren las siglas VDI?",
+            "options": [
+                {
+                    "text": "c)\tVirtual Desktop Infrastructure.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\t10.1.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d)\tssh servidor_del_trasIado -l traslado id",
+                    "isCorrect": false,
+                    "hint": "el flag \"-l\" indica el usuario que har\u00e1 login. Es equivalente a \"ssh traslado@servidor_del_traslado 'id'\". "
+                },
+                {
+                    "text": "c)\tEl atacante env\u00eda una gran cantidad de tr\u00e1fico de solicitudes \"echo UDP\" a una direcci\u00f3n IP de Difusi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": "Un ataque Fraggle es un tipo de ataque de Denegaci\u00f3n de Servicio (DoS) en el que los atacantes utilizan tr\u00e1fico UDP falsificado para hacer que un sistema o recurso de red objetivo no est\u00e9 disponible para sus usuarios previstos. Si usara paquetes ICMP seria un ataque SMURF."
+                }
+            ]
+        },
+        {
+            "question": "10.\tPara evitar problemas debido a las latencias, se ha decidido aumentar en el Apache a 500 el n\u00famero de segundos antes de que la sesion SSL expire en la Cache de Sesi\u00f3n. \u00bfQu\u00e9 variable habr\u00eda que modificar?",
+            "options": [
+                {
+                    "text": "a)\tSSLSessionCacheTimeout\t",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a)\tOpenstack",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\ttar -czvf configuraciones.tar.gz \/backup\/tomcat\/",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\tip route list",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11.\tLe informan de que se est\u00e1 obteniendo un c\u00f3digo 405 al intentar conectarse a ciertos servicios migrados. \u00bfQu\u00e9 significa este c\u00f3digo de estado de respuesta http?",
+            "options": [
+                {
+                    "text": "c) El m\u00e9todo solicitado es conocido por el servidor pero ha sido deshabilitado y no puede ser utilizado.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\t10.1.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d)\tssh servidor_del_trasIado -l traslado id",
+                    "isCorrect": false,
+                    "hint": "el flag \"-l\" indica el usuario que har\u00e1 login. Es equivalente a \"ssh traslado@servidor_del_traslado 'id'\". "
+                },
+                {
+                    "text": "a)\tOpenstack",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12.\tLe han enviado una alerta de seguridad sobre un posible ataque de Fraggle. \u00bfEn qu\u00e9 consiste?",
+            "options": [
+                {
+                    "text": "c)\tEl atacante env\u00eda una gran cantidad de tr\u00e1fico de solicitudes \"echo UDP\" a una direcci\u00f3n IP de Difusi\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d)\troute add -net 10.254.252.4 netmask 255.255.255.0 gw 10.253.1.254",
+                    "isCorrect": false,
+                    "hint": "la sintaxis correcta para agregar una ruta en un servidor Linux es: route add -net [DESTINO] netmask [M\u00c1SCARA] gw [GATEWAY]"
+                },
+                {
+                    "text": "b)\tip route list",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\tlsof -i :777",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1.\tAntes de comenzar a apagar servidores se quiere hacer, a modo de backup local, un tar.gz de las configuraciones de los servidores ubicadas en la carpeta \/backup\/tomcat \u00bfC\u00f3mo lo har\u00eda?",
+            "options": [
+                {
+                    "text": "c)\ttar -czvf configuraciones.tar.gz \/backup\/tomcat\/",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\t25",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\t10.1.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\tip route list",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2.\tLe indican que no se Ilega al servidor por el puerto 777 y las comunicaciones ya est\u00e1n comprobadas. \u00bfC\u00f3mo podr\u00eda saber si el servidor est\u00e1 escuchando por el puerto 777?",
+            "options": [
+                {
+                    "text": "c)\tlsof -i :777",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tEl atacante env\u00eda una gran cantidad de tr\u00e1fico de solicitudes \"echo UDP\" a una direcci\u00f3n IP de Difusi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": "Un ataque Fraggle es un tipo de ataque de Denegaci\u00f3n de Servicio (DoS) en el que los atacantes utilizan tr\u00e1fico UDP falsificado para hacer que un sistema o recurso de red objetivo no est\u00e9 disponible para sus usuarios previstos. Si usara paquetes ICMP seria un ataque SMURF."
+                },
+                {
+                    "text": "c)\tVirtual Desktop Infrastructure.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\t25",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3.\tLa seguridad es clave y por ello le han dicho que hay que securizar las redes filtrando las conexiones por IP y puerto. \u00bfQu\u00e9 hardware necesita?",
+            "options": [
+                {
+                    "text": "b)\tCortafuegos de capa de red.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\t10.1.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\tuseradd -d \/traslado\/respaldo -g migracion -p zzzz traslado",
+                    "isCorrect": false,
+                    "hint": "-d indica el directorio, -g el grupo y -p la contrase\u00f1a. Realmente -p pediria la contrase\u00f1a cifrada y no directamente. Se podr\u00eda hacer con \"openssl passwd\""
+                },
+                {
+                    "text": "c)\tEl atacante env\u00eda una gran cantidad de tr\u00e1fico de solicitudes \"echo UDP\" a una direcci\u00f3n IP de Difusi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": "Un ataque Fraggle es un tipo de ataque de Denegaci\u00f3n de Servicio (DoS) en el que los atacantes utilizan tr\u00e1fico UDP falsificado para hacer que un sistema o recurso de red objetivo no est\u00e9 disponible para sus usuarios previstos. Si usara paquetes ICMP seria un ataque SMURF."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,727 @@
+{
+    "title": "CUESTIONARIO 16-TAI\u2013LI - B2",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "21. Seg\u00fan la arquitectura de Von Neumann, la unidad del ordenador que se encarga de supervisar la transferencia de  informaci\u00f3n e indica a la unidad aritm\u00e9tica l\u00f3gica cual operaci\u00f3n debe ejecutar es: ",
+            "options": [
+                {
+                    "text": "b) Unidad de Control. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) RAM-CMOS ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) dd ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La complejidad algor\u00edtmica representa la cantidad de recursos que necesita un algoritmo para resolver un problema. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. Se\u00f1ale cu\u00e1l de las siguientes es un tipo de memoria est\u00e1tica de acceso aleatorio (RAM):",
+            "options": [
+                {
+                    "text": "d) NVRAM ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Altavoz ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 1226 en sistema octal. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) RAID 0",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. Indique de entre los sigulentes n\u00fameros cu\u00e1l es el menor: ",
+            "options": [
+                {
+                    "text": "b) 1226 en sistema octal. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 7 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) dd ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Altavoz ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. Cuando se habla de un procesador de dos n\u00facleos significa que: ",
+            "options": [
+                {
+                    "text": "a) Hay dos chips que est\u00e1n trabajando independientemente y al mismo tiempo. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) din\u00e1mica cuyo recorrido se puede realizar en amplitud y en profundidad. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Kilimanjaro ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Azure ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. \u00bfQu\u00e9 nombre recibe la memoria encargada de almacenar la configuraci\u00f3n b\u00e1sica del equipo?",
+            "options": [
+                {
+                    "text": "c) RAM-CMOS ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Trisquel 7.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Hay dos chips que est\u00e1n trabajando independientemente y al mismo tiempo. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) dd ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "26. Se\u00f1ale el valor en hexadecimal del n\u00famero binario 10100101: ",
+            "options": [
+                {
+                    "text": "a) A5 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SATA ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) N-1 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) dd ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "27. En cuanto a impresoras de impacto, hay varios tipos principales, se\u00f1ale cu\u00e1l NO es correcto: ",
+            "options": [
+                {
+                    "text": "c) de inyecci\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) chmod 416 fich.txt",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) N-1 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Honeycomb ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "28. \u00bfCu\u00e1l de los siguientes est\u00e1ndares se basa en una comunicaci\u00f3n en serie? ",
+            "options": [
+                {
+                    "text": "c) SATA ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 7 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Utilizan el calor para la transferencia de la tinta al soporte de la impresi\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La copia y duplicaci\u00f3n de archivos en un disco SSD es m\u00e1s lenta que en un disco HDD. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "29. \u00bfCu\u00e1l de las siguientes opciones describe la Impresi\u00f3n con tecnolog\u00eda de sublimaci\u00f3n de tinta? ",
+            "options": [
+                {
+                    "text": "a) Utilizan el calor para la transferencia de la tinta al soporte de la impresi\u00f3n. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Unidad de Control. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SATA ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) du ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "30. Indique cu\u00e1l de las siguientes afirmaciones acerca de los algoritmos es correcta: ",
+            "options": [
+                {
+                    "text": "b) La complejidad algor\u00edtmica representa la cantidad de recursos que necesita un algoritmo para resolver un problema. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Azure ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) N-1 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) RAID 0",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "31. \u00bfCu\u00e1l de las siguientes afirmaciones sobre los discos SSD es INCORRECTA? ",
+            "options": [
+                {
+                    "text": "c) La copia y duplicaci\u00f3n de archivos en un disco SSD es m\u00e1s lenta que en un disco HDD. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Los m\u00e9todos principales para la resoluci\u00f3n de colisiones: hashing abierto y hashing cerrado. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) dd ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) RAID 0",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "32. En relaci\u00f3n con los sistemas RAID, \u00bfen qu\u00e9 configuraci\u00f3n o nivel la informaci\u00f3n se fracciona por bloques y se  almacena de forma alternativa en todos los discos del conjunto sin informaci\u00f3n de paridad? ",
+            "options": [
+                {
+                    "text": "a) RAID 0",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Hay dos chips que est\u00e1n trabajando independientemente y al mismo tiempo. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) de inyecci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Unidad de Control. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "33. Cu\u00e1l de las siguientes configuraciones RAID crea una copia espejo de datos en dos o m\u00e1s discos? ",
+            "options": [
+                {
+                    "text": "b) RAID 1 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) UID ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Kilimanjaro ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) dd ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "34. Cu\u00e1l de los siguientes perif\u00e9ricos NO es un perif\u00e9rico de entrada? ",
+            "options": [
+                {
+                    "text": "d) Altavoz ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) RAID 1 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) chmod 416 fich.txt",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Unidad de Control. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "35. En el contexto de las estructuras de datos, seleccione la respuesta correcta, un \u00e1rbol es una estructura: ",
+            "options": [
+                {
+                    "text": "d) din\u00e1mica cuyo recorrido se puede realizar en amplitud y en profundidad. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Honeycomb ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) de inyecci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Altavoz ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "36. \u00bfCu\u00e1ntas pasadas como m\u00e1ximo hay que realizar a un array para ordenarlo mediante el m\u00e9todo de la burbuja (slendo N el n\u00famero de elementos del array)? ",
+            "options": [
+                {
+                    "text": "a) N-1 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SATA ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) RAID 0",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 1226 en sistema octal. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37. Si el resultado al recorrer un \u00e1rbol binario en preorden es el siguiente: 7, 8, 2, 1, 5, 6, 9, 0, indique cu\u00e1l es la ra\u00edz dei \u00e1rbol: ",
+            "options": [
+                {
+                    "text": "a) 7 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SATA ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) .apk ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Hay dos chips que est\u00e1n trabajando independientemente y al mismo tiempo. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "38. Con respecto a la resoluci\u00f3n de colisiones que se pueden producir cuando se utilizan tablas de dispersi\u00f3n (tablas hash): ",
+            "options": [
+                {
+                    "text": "c) Los m\u00e9todos principales para la resoluci\u00f3n de colisiones: hashing abierto y hashing cerrado. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SATA ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) El atributo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Unidad de Control. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39. Teniendo el fichero fich.bd, se\u00f1ale el comando Linux correcto para darle permisos de lectura a su propietario, permisos de lectura y escritura a otros usuarios, y permisos de ejecuci\u00f3n a su grupo. ",
+            "options": [
+                {
+                    "text": "b) chmod 416 fich.txt",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) La complejidad algor\u00edtmica representa la cantidad de recursos que necesita un algoritmo para resolver un problema. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) RAM-CMOS ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Independencia conceptual. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "40. Cu\u00e1l de las sigulentes extensiones de ficheros pertenece a un fichero de tipo hoja de c\u00e1lculo? ",
+            "options": [
+                {
+                    "text": "c) ods ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Trisquel 7.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La complejidad algor\u00edtmica representa la cantidad de recursos que necesita un algoritmo para resolver un problema. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Independencia conceptual. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "41. En Android las aplicaciones se distribuyen en paquetes con extensi\u00f3n: ",
+            "options": [
+                {
+                    "text": "b) .apk ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) RAID 0",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Hay dos chips que est\u00e1n trabajando independientemente y al mismo tiempo. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) chmod 416 fich.txt",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "42. Se\u00f1ale cu\u00e1l de las siguientes NO es una distribuci\u00f3n de Linux: ",
+            "options": [
+                {
+                    "text": "d) Kilimanjaro ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) de inyecci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Hay dos chips que est\u00e1n trabajando independientemente y al mismo tiempo. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Honeycomb ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "43. \u00bfCu\u00e1l de las siguientes es una distribuci\u00f3n de GNU\/Linux basada en Ubuntu? ",
+            "options": [
+                {
+                    "text": "d) Trisquel 7.0 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Altavoz ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Independencia conceptual. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) dd ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "44. \u00bfC\u00f3mo se denomina la plataforma inform\u00e1tica en la nube de Microsoft? ",
+            "options": [
+                {
+                    "text": "c) Azure ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 7 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) din\u00e1mica cuyo recorrido se puede realizar en amplitud y en profundidad. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SATA ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "45. En relaci\u00f3n al programa de edici\u00f3n de ficheros \"vi\u201d de UNIX, estando en el modo de comandos, para eliminar la l\u00ednea sobre la que est\u00e1 el cursor, se usar\u00e1 la funci\u00f3n: ",
+            "options": [
+                {
+                    "text": "b) dd ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) de inyecci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Trisquel 7.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) N-1 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "46. Al ejecutar el comando \"ps \u2014ef\" en Linux podemos ver el estado de los procesos, la columna que indica el propietario es: ",
+            "options": [
+                {
+                    "text": "d) UID ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Trisquel 7.0 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Altavoz ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Utilizan el calor para la transferencia de la tinta al soporte de la impresi\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "47. \u00bfQu\u00e9 versi\u00f3n de Android fue ideada en exclusiva para tablets? ",
+            "options": [
+                {
+                    "text": "c) Honeycomb ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) din\u00e1mica cuyo recorrido se puede realizar en amplitud y en profundidad. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) dd ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SATA ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "48. \u00bfCu\u00e1l de los siguientes comandos se utiliza en el sistema operativo Linux para ver la cantidad de disco usado por el directorio y todos los subdirectorios que cuelgan del directorio especificado? ",
+            "options": [
+                {
+                    "text": "b) du ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Utilizan el calor para la transferencia de la tinta al soporte de la impresi\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La complejidad algor\u00edtmica representa la cantidad de recursos que necesita un algoritmo para resolver un problema. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) UID ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "49. Cu\u00e1l de las siguientes NO es un objetivo perseguido por Codd en la presentaci\u00f3n de su modelo relacional?",
+            "options": [
+                {
+                    "text": "b) Independencia conceptual. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) RAID 0",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) du ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) ods ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "50. Enrelaci\u00f3n a los sistemas de gesti\u00f3n de bases de datos relacionales, la unidad de informaci\u00f3n que est\u00e1 asociada a  un dominio del que toma sus valores es: ",
+            "options": [
+                {
+                    "text": "a) El atributo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Utilizan el calor para la transferencia de la tinta al soporte de la impresi\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) RAID 1 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Kilimanjaro ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

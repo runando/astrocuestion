@@ -1,0 +1,679 @@
+{
+    "title": "CUESTIONARIO 17-TAI\u2013PI - B2-4",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "10. Es una tecnolog\u00eda de impresi\u00f3n 3D",
+            "options": [
+                {
+                    "text": "a) Inyecci\u00f3n de aglutinante.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Luc\u00eda",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) ansible",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) AMPS, GSM, GPRS, HSDPA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11. El formato de archivo OGG Media (OGM) es un formato:",
+            "options": [
+                {
+                    "text": "d) libre de audio y video.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Inyecci\u00f3n de aglutinante.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SOA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Se actualizan las marcas temporales (time stamps) de! fichero.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12. Cu\u00e1l de las siguientes afirmaciones sobre las diferencias entre discos HDD (Hard Disk Drive) y SSD (Solid State Drive) es correcta:",
+            "options": [
+                {
+                    "text": "d) Los SSD presentan una relaci\u00f3n precio\/capacidad de almacenamiento m\u00e1s alta que los HDD.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) c",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) oneM2M",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Sector es cada uno de los lados un plato.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. Cu\u00e1l de los siguientes conjuntos de instrucciones de una CPU NO corresponde al tipo de instrucciones \u201cde salto\u201d?",
+            "options": [
+                {
+                    "text": "d) Desplazamientos",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) ansible",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) el piggybacking.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Se actualizan las marcas temporales (time stamps) de! fichero.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14. Hablando de zonas de un disco duro, se\u00f1ale la FALSA:",
+            "options": [
+                {
+                    "text": "c) Sector es cada uno de los lados un plato.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) oneM2M",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Los SSD presentan una relaci\u00f3n precio\/capacidad de almacenamiento m\u00e1s alta que los HDD.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Impide que un mensaje est\u00e9 dando vueltas indefinidamente por la red.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15. Los algoritmos que se caracterizan por resolver un problema mediante \u00a1teraciones, seleccionando en cada iteraci\u00f3n la soluci\u00f3n localmente \u00f3ptima se denominan algoritmos:",
+            "options": [
+                {
+                    "text": "a) voraces (greedy algorithms).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Impide que un mensaje est\u00e9 dando vueltas indefinidamente por la red.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Sector es cada uno de los lados un plato.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) c",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. \u00bfCu\u00e1l de los siguientes NO es un sistema operativo para un dispositivo m\u00f3vil?",
+            "options": [
+                {
+                    "text": "b) Kotlin",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) c",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) SNMPv2 mejora SNMP al incorporar servicios de autenticaci\u00f3n y privacidad basados en usuario, y servicios de control de acceso basado en vistas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) renice",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17. Con qu\u00e9 comando Linux puedes concatenar ficheros y mostrarlos a la inversa?",
+            "options": [
+                {
+                    "text": "c) tac",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Sector es cada uno de los lados un plato.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) ESP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 301",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18. El comando Linux que permite cambiar la prioridad de un proceso que est\u00e1 en ejecuci\u00f3n es:",
+            "options": [
+                {
+                    "text": "c) renice",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) c",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) voraces (greedy algorithms).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) oneM2M",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "29. El protocolo HTTP tiene un c\u00f3digo de estado para indicar que el contenido solicitado ha sido trasladado de forma permanente a otra ubicaci\u00f3n, \u00bfcu\u00e1l de los siguientes valores representa ese estado?",
+            "options": [
+                {
+                    "text": "a) 301",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Los SSD presentan una relaci\u00f3n precio\/capacidad de almacenamiento m\u00e1s alta que los HDD.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) SNMPv2 mejora SNMP al incorporar servicios de autenticaci\u00f3n y privacidad basados en usuario, y servicios de control de acceso basado en vistas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) ESP",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "35. \u00bfCu\u00e1l de los siguientes comandos se emplea para convertir un paquete rpm de Red Hat en un paquete deb de Debian?",
+            "options": [
+                {
+                    "text": "a) alien",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) MDM",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Kotlin",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Forma parte del est\u00e1ndar 802.11n",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "36. En un servidor con sistema operativo Linux, \u00bfqu\u00e9 ocurre al ejecutar desde consola: \"touch fichero\", si fichero ya exist\u00eda previamente y ten\u00eda contenido?",
+            "options": [
+                {
+                    "text": "d) Se actualizan las marcas temporales (time stamps) de! fichero.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) tac",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) renice",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) c",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37. El tipo de registro DNS d\u00f3nde aparece la direcci\u00f3n de correo electr\u00f3nico del administrador de zona del dominio es:",
+            "options": [
+                {
+                    "text": "a) SOA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) AMPS, GSM, GPRS, HSDPA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) MDM",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 3a generaci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "38. De entre las siguientes, \u00bfqu\u00e9 sentencia permite a los administradores de bases de datos conceder privilegios a cuentas de usuarios?",
+            "options": [
+                {
+                    "text": "c) grant",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) c",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) SNMPv2 mejora SNMP al incorporar servicios de autenticaci\u00f3n y privacidad basados en usuario, y servicios de control de acceso basado en vistas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) oneM2M",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39. Se\u00f1ale la afirmaci\u00f3n FALSA con respecto al protocolo de administraci\u00f3n de redes SNMP:",
+            "options": [
+                {
+                    "text": "d) SNMPv2 mejora SNMP al incorporar servicios de autenticaci\u00f3n y privacidad basados en usuario, y servicios de control de acceso basado en vistas.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Kotlin",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) AMPS, GSM, GPRS, HSDPA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Forma parte del est\u00e1ndar 802.11n",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "40. El nombre por el que se conoce de forma gen\u00e9rica a las soluciones que permiten gestionar, monitorizar y administrar dispositivos m\u00f3viles de forma remota es:",
+            "options": [
+                {
+                    "text": "a) MDM",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) alien",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Sector es cada uno de los lados un plato.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) c",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "41. El campo TTL de los datagramas 1P:",
+            "options": [
+                {
+                    "text": "a) Impide que un mensaje est\u00e9 dando vueltas indefinidamente por la red.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Kotlin",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 301",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Sector es cada uno de los lados un plato.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "42. De las siguientes soluciones, \u00bfcu\u00e1l facilita la automatizaci\u00f3n IT y permite desplegar aplicaciones en servidores Linux?",
+            "options": [
+                {
+                    "text": "c) ansible",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) AMPS, GSM, GPRS, HSDPA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) MDM",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Se actualizan las marcas temporales (time stamps) de! fichero.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "43. El nombre de la herramienta creada por el CCN para la gesti\u00f3n de incidentes de ciberseguridad es:",
+            "options": [
+                {
+                    "text": "b) Luc\u00eda",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) SOA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) libre de audio y video.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) c",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "44. \u00bfCu\u00e1l de las siguientes afirmaciones es FALSA con respecto a la tecnolog\u00eda MU-MIMO (Multi-User Multiple Input Multiple Output)?",
+            "options": [
+                {
+                    "text": "b) Forma parte del est\u00e1ndar 802.11n",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 301",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Desplazamientos",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Kotlin",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "45. De las siguientes listas de tecnolog\u00edas de telefon\u00eda m\u00f3vil, indique la que est\u00e1 ordenada correctamente de menor a mayor generaci\u00f3n:",
+            "options": [
+                {
+                    "text": "a) AMPS, GSM, GPRS, HSDPA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) libre de audio y video.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) oneM2M",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Desplazamientos",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "47. \u00bfCu\u00e1l de las siguientes direcciones IP NO es asignable a un equipo en una red?",
+            "options": [
+                {
+                    "text": "c) 137.4.0.0",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) S\/PDIF",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) SNMPv2 mejora SNMP al incorporar servicios de autenticaci\u00f3n y privacidad basados en usuario, y servicios de control de acceso basado en vistas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) renice",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "48. La iniciativa de estandarizaci\u00f3n global para las comunicaciones M2M (Machine to Machine) y la IoT (Internet of Things) es:",
+            "options": [
+                {
+                    "text": "a) oneM2M",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) SNMPv2 mejora SNMP al incorporar servicios de autenticaci\u00f3n y privacidad basados en usuario, y servicios de control de acceso basado en vistas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 301",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) ansible",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "49. Del os protocolos que forman IPSec, \u00bfcu\u00e1l proporciona confidencialidad?",
+            "options": [
+                {
+                    "text": "b) ESP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) AMPS, GSM, GPRS, HSDPA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) S\/PDIF",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Desplazamientos",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "50. En un centro de proceso de datos (CPD) se dispone de una serie de medidas de seguridad f\u00edsicas como el sistema de doble puerta (mantrap), con este sistema se pretende evitar principalmente:",
+            "options": [
+                {
+                    "text": "b) el piggybacking.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) MDM",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) renice",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 3a generaci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. Se\u00f1ale la respuesta FALSA, el modelo de procesador Intel Core \u00a13-7100U pertenece a la:",
+            "options": [
+                {
+                    "text": "b) 3a generaci\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Inyecci\u00f3n de aglutinante.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) oneM2M",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) tac",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2. De estos tipos de conexi\u00f3n, \u00bfcu\u00e1l es de audio solamente?",
+            "options": [
+                {
+                    "text": "d) S\/PDIF",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) SOA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) renice",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Se actualizan las marcas temporales (time stamps) de! fichero.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. En UNIX los permisos de los ficheros se representan por una serie de 10 caracteres, si el fichero hace referencia a un dispositivo, el primer car\u00e1cter deber\u00e1 ser:",
+            "options": [
+                {
+                    "text": "b) c",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) libre de audio y video.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Kotlin",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Desplazamientos",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

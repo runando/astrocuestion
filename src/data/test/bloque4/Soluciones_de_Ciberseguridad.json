@@ -1,0 +1,583 @@
+{
+    "title": "Soluciones de Ciberseguridad",
+    "type": "bloque4",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "Implantaci\u00f3n de seguridad y conformidad del ENS",
+            "options": [
+                {
+                    "text": "AMPARO",
+                    "isCorrect": true
+                },
+                {
+                    "text": "GLORIA",
+                    "isCorrect": false,
+                    "hint": "Gestor de logs para responder ante incidentes y amenazas"
+                },
+                {
+                    "text": "LORETO",
+                    "isCorrect": false,
+                    "hint": "Almacenamiento en la nube"
+                },
+                {
+                    "text": "ROCIO",
+                    "isCorrect": false,
+                    "hint": "Inspecci\u00f3n de Operaci\u00f3n. Auditor\u00eda de configuraciones de dispositivos de red"
+                }
+            ]
+        },
+        {
+            "question": "Automatizaci\u00f3n y normalizaci\u00f3n de auditor\u00edas",
+            "options": [
+                {
+                    "text": "ANA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CCNDroid",
+                    "isCorrect": false,
+                    "hint": "Seguridad para Android"
+                },
+                {
+                    "text": "PILAR",
+                    "isCorrect": false,
+                    "hint": "An\u00e1lisis y Gesti\u00f3n de Riesgos"
+                },
+                {
+                    "text": "VANESA",
+                    "isCorrect": false,
+                    "hint": "Grabaciones y emisiones de v\u00eddeo en streaming"
+                }
+            ]
+        },
+        {
+            "question": "Protecci\u00f3n y trazabilidad del dato",
+            "options": [
+                {
+                    "text": "CARLA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CCNDroid",
+                    "isCorrect": false,
+                    "hint": "Seguridad para Android"
+                },
+                {
+                    "text": "OLVIDO",
+                    "isCorrect": false,
+                    "hint": "Borrado seguro de datos"
+                },
+                {
+                    "text": "AMPARO",
+                    "isCorrect": false,
+                    "hint": "Implantaci\u00f3n de seguridad y conformidad del ENS"
+                }
+            ]
+        },
+        {
+            "question": "Defensa de ataques avanzados\/APT",
+            "options": [
+                {
+                    "text": "CARMEN",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ROCIO",
+                    "isCorrect": false,
+                    "hint": "Inspecci\u00f3n de Operaci\u00f3n. Auditor\u00eda de configuraciones de dispositivos de red"
+                },
+                {
+                    "text": "REYES",
+                    "isCorrect": false,
+                    "hint": "Intercambio de Informaci\u00f3n de Ciberamenazas"
+                },
+                {
+                    "text": "CARLA",
+                    "isCorrect": false,
+                    "hint": "Protecci\u00f3n y trazabilidad del dato"
+                }
+            ]
+        },
+        {
+            "question": "Seguridad para Android",
+            "options": [
+                {
+                    "text": "CCNDroid",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ELENA",
+                    "isCorrect": false,
+                    "hint": "Simulador de T\u00e9cnicas de Cibervigilancia"
+                },
+                {
+                    "text": "REYES",
+                    "isCorrect": false,
+                    "hint": "Intercambio de Informaci\u00f3n de Ciberamenazas"
+                },
+                {
+                    "text": "CLARA",
+                    "isCorrect": false,
+                    "hint": "Auditor\u00eda de Cumplimiento ENS\/STIC en Sistemas Windows"
+                }
+            ]
+        },
+        {
+            "question": "Auditor\u00eda de Cumplimiento ENS\/STIC en Sistemas Windows",
+            "options": [
+                {
+                    "text": "CLARA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "OLVIDO",
+                    "isCorrect": false,
+                    "hint": "Borrado seguro de datos"
+                },
+                {
+                    "text": "ROCIO",
+                    "isCorrect": false,
+                    "hint": "Inspecci\u00f3n de Operaci\u00f3n. Auditor\u00eda de configuraciones de dispositivos de red"
+                },
+                {
+                    "text": "EMMA",
+                    "isCorrect": false,
+                    "hint": "Visibilidad y control sobre la red"
+                }
+            ]
+        },
+        {
+            "question": "Herramienta para la detecci\u00f3n de amenazas complejas en el puesto de usuario",
+            "options": [
+                {
+                    "text": "CLAUDIA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ELENA",
+                    "isCorrect": false,
+                    "hint": "Simulador de T\u00e9cnicas de Cibervigilancia"
+                },
+                {
+                    "text": "INES",
+                    "isCorrect": false,
+                    "hint": "Informe de Estado de Seguridad en el ENS"
+                },
+                {
+                    "text": "CCNDroid",
+                    "isCorrect": false,
+                    "hint": "Seguridad para Android"
+                }
+            ]
+        },
+        {
+            "question": "Centro de vacunaci\u00f3n",
+            "options": [
+                {
+                    "text": "microCLAUDIA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "MARGA",
+                    "isCorrect": false,
+                    "hint": "Elaboraci\u00f3n de la Documentaci\u00f3n de Seguridad"
+                },
+                {
+                    "text": "REYES",
+                    "isCorrect": false,
+                    "hint": "Intercambio de Informaci\u00f3n de Ciberamenazas"
+                },
+                {
+                    "text": "ELENA",
+                    "isCorrect": false,
+                    "hint": "Simulador de T\u00e9cnicas de Cibervigilancia"
+                }
+            ]
+        },
+        {
+            "question": "Simulador de T\u00e9cnicas de Cibervigilancia",
+            "options": [
+                {
+                    "text": "ELENA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "GLORIA",
+                    "isCorrect": false,
+                    "hint": "Gestor de logs para responder ante incidentes y amenazas"
+                },
+                {
+                    "text": "MARTA",
+                    "isCorrect": false,
+                    "hint": "An\u00e1lisis avanzados de ficheros"
+                },
+                {
+                    "text": "REYES",
+                    "isCorrect": false,
+                    "hint": "Intercambio de Informaci\u00f3n de Ciberamenazas"
+                }
+            ]
+        },
+        {
+            "question": "Visibilidad y control sobre la red",
+            "options": [
+                {
+                    "text": "EMMA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ANA",
+                    "isCorrect": false,
+                    "hint": "Automatizaci\u00f3n y normalizaci\u00f3n de auditor\u00edas"
+                },
+                {
+                    "text": "VANESA",
+                    "isCorrect": false,
+                    "hint": "Grabaciones y emisiones de v\u00eddeo en streaming"
+                },
+                {
+                    "text": "ELENA",
+                    "isCorrect": false,
+                    "hint": "Simulador de T\u00e9cnicas de Cibervigilancia"
+                }
+            ]
+        },
+        {
+            "question": "Gestor de logs para responder ante incidentes y amenazas",
+            "options": [
+                {
+                    "text": "GLORIA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CARLA",
+                    "isCorrect": false,
+                    "hint": "Protecci\u00f3n y trazabilidad del dato"
+                },
+                {
+                    "text": "CLAUDIA",
+                    "isCorrect": false,
+                    "hint": "Herramienta para la detecci\u00f3n de amenazas complejas en el puesto de usuario"
+                },
+                {
+                    "text": "MARGA",
+                    "isCorrect": false,
+                    "hint": "Elaboraci\u00f3n de la Documentaci\u00f3n de Seguridad"
+                }
+            ]
+        },
+        {
+            "question": "Informe de Estado de Seguridad en el ENS",
+            "options": [
+                {
+                    "text": "INES",
+                    "isCorrect": true
+                },
+                {
+                    "text": "REYES",
+                    "isCorrect": false,
+                    "hint": "Intercambio de Informaci\u00f3n de Ciberamenazas"
+                },
+                {
+                    "text": "AMPARO",
+                    "isCorrect": false,
+                    "hint": "Implantaci\u00f3n de seguridad y conformidad del ENS"
+                },
+                {
+                    "text": "MARGA",
+                    "isCorrect": false,
+                    "hint": "Elaboraci\u00f3n de la Documentaci\u00f3n de Seguridad"
+                }
+            ]
+        },
+        {
+            "question": "Estado de la ciberseguridad",
+            "options": [
+                {
+                    "text": "IRIS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "MARTA",
+                    "isCorrect": false,
+                    "hint": "An\u00e1lisis avanzados de ficheros"
+                },
+                {
+                    "text": "CARMEN",
+                    "isCorrect": false,
+                    "hint": "Defensa de ataques avanzados\/APT"
+                },
+                {
+                    "text": "EMMA",
+                    "isCorrect": false,
+                    "hint": "Visibilidad y control sobre la red"
+                }
+            ]
+        },
+        {
+            "question": "Almacenamiento en la nube",
+            "options": [
+                {
+                    "text": "LORETO",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CARLA",
+                    "isCorrect": false,
+                    "hint": "Protecci\u00f3n y trazabilidad del dato"
+                },
+                {
+                    "text": "CLAUDIA",
+                    "isCorrect": false,
+                    "hint": "Herramienta para la detecci\u00f3n de amenazas complejas en el puesto de usuario"
+                },
+                {
+                    "text": "PILAR",
+                    "isCorrect": false,
+                    "hint": "An\u00e1lisis y Gesti\u00f3n de Riesgos"
+                }
+            ]
+        },
+        {
+            "question": "Sistemas de Gesti\u00f3n Federada de Tickets",
+            "options": [
+                {
+                    "text": "LUCIA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "M\u00d3NICA",
+                    "isCorrect": false,
+                    "hint": "Gesti\u00f3n de eventos e informaci\u00f3n de seguridad"
+                },
+                {
+                    "text": "ELENA",
+                    "isCorrect": false,
+                    "hint": "Simulador de T\u00e9cnicas de Cibervigilancia"
+                },
+                {
+                    "text": "ATENEA",
+                    "isCorrect": false,
+                    "hint": "Plataforma de desaf\u00edos de seguridad"
+                }
+            ]
+        },
+        {
+            "question": "An\u00e1lisis avanzados de ficheros",
+            "options": [
+                {
+                    "text": "MARTA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "GLORIA",
+                    "isCorrect": false,
+                    "hint": "Gestor de logs para responder ante incidentes y amenazas"
+                },
+                {
+                    "text": "MARGA",
+                    "isCorrect": false,
+                    "hint": "Elaboraci\u00f3n de la Documentaci\u00f3n de Seguridad"
+                },
+                {
+                    "text": "AMPARO",
+                    "isCorrect": false,
+                    "hint": "Implantaci\u00f3n de seguridad y conformidad del ENS"
+                }
+            ]
+        },
+        {
+            "question": "Gesti\u00f3n de eventos e informaci\u00f3n de seguridad",
+            "options": [
+                {
+                    "text": "M\u00d3NICA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ANA",
+                    "isCorrect": false,
+                    "hint": "Automatizaci\u00f3n y normalizaci\u00f3n de auditor\u00edas"
+                },
+                {
+                    "text": "LUCIA",
+                    "isCorrect": false,
+                    "hint": "Sistemas de Gesti\u00f3n Federada de Tickets"
+                },
+                {
+                    "text": "MARTA",
+                    "isCorrect": false,
+                    "hint": "An\u00e1lisis avanzados de ficheros"
+                }
+            ]
+        },
+        {
+            "question": "Borrado seguro de datos",
+            "options": [
+                {
+                    "text": "OLVIDO",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CLAUDIA",
+                    "isCorrect": false,
+                    "hint": "Herramienta para la detecci\u00f3n de amenazas complejas en el puesto de usuario"
+                },
+                {
+                    "text": "ANA",
+                    "isCorrect": false,
+                    "hint": "Automatizaci\u00f3n y normalizaci\u00f3n de auditor\u00edas"
+                },
+                {
+                    "text": "INES",
+                    "isCorrect": false,
+                    "hint": "Informe de Estado de Seguridad en el ENS"
+                }
+            ]
+        },
+        {
+            "question": "An\u00e1lisis y Gesti\u00f3n de Riesgos",
+            "options": [
+                {
+                    "text": "PILAR",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CCNDroid",
+                    "isCorrect": false,
+                    "hint": "Seguridad para Android"
+                },
+                {
+                    "text": "EMMA",
+                    "isCorrect": false,
+                    "hint": "Visibilidad y control sobre la red"
+                },
+                {
+                    "text": "OLVIDO",
+                    "isCorrect": false,
+                    "hint": "Borrado seguro de datos"
+                }
+            ]
+        },
+        {
+            "question": "Intercambio de Informaci\u00f3n de Ciberamenazas",
+            "options": [
+                {
+                    "text": "REYES",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ANA",
+                    "isCorrect": false,
+                    "hint": "Automatizaci\u00f3n y normalizaci\u00f3n de auditor\u00edas"
+                },
+                {
+                    "text": "ROCIO",
+                    "isCorrect": false,
+                    "hint": "Inspecci\u00f3n de Operaci\u00f3n. Auditor\u00eda de configuraciones de dispositivos de red"
+                },
+                {
+                    "text": "CARMEN",
+                    "isCorrect": false,
+                    "hint": "Defensa de ataques avanzados\/APT"
+                }
+            ]
+        },
+        {
+            "question": "Inspecci\u00f3n de Operaci\u00f3n. Auditor\u00eda de configuraciones de dispositivos de red",
+            "options": [
+                {
+                    "text": "ROCIO",
+                    "isCorrect": true
+                },
+                {
+                    "text": "microCLAUDIA",
+                    "isCorrect": false,
+                    "hint": "Centro de vacunaci\u00f3n"
+                },
+                {
+                    "text": "LORETO",
+                    "isCorrect": false,
+                    "hint": "Almacenamiento en la nube"
+                },
+                {
+                    "text": "CARMEN",
+                    "isCorrect": false,
+                    "hint": "Defensa de ataques avanzados\/APT"
+                }
+            ]
+        },
+        {
+            "question": "Grabaciones y emisiones de v\u00eddeo en streaming",
+            "options": [
+                {
+                    "text": "VANESA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "M\u00d3NICA",
+                    "isCorrect": false,
+                    "hint": "Gesti\u00f3n de eventos e informaci\u00f3n de seguridad"
+                },
+                {
+                    "text": "ELENA",
+                    "isCorrect": false,
+                    "hint": "Simulador de T\u00e9cnicas de Cibervigilancia"
+                },
+                {
+                    "text": "CLARA",
+                    "isCorrect": false,
+                    "hint": "Auditor\u00eda de Cumplimiento ENS\/STIC en Sistemas Windows"
+                }
+            ]
+        },
+        {
+            "question": "Elaboraci\u00f3n de la Documentaci\u00f3n de Seguridad",
+            "options": [
+                {
+                    "text": "MARGA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ATENEA",
+                    "isCorrect": false,
+                    "hint": "Plataforma de desaf\u00edos de seguridad"
+                },
+                {
+                    "text": "ROCIO",
+                    "isCorrect": false,
+                    "hint": "Inspecci\u00f3n de Operaci\u00f3n. Auditor\u00eda de configuraciones de dispositivos de red"
+                },
+                {
+                    "text": "LUCIA",
+                    "isCorrect": false,
+                    "hint": "Sistemas de Gesti\u00f3n Federada de Tickets"
+                }
+            ]
+        },
+        {
+            "question": "Plataforma de desaf\u00edos de seguridad",
+            "options": [
+                {
+                    "text": "ATENEA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CARLA",
+                    "isCorrect": false,
+                    "hint": "Protecci\u00f3n y trazabilidad del dato"
+                },
+                {
+                    "text": "AMPARO",
+                    "isCorrect": false,
+                    "hint": "Implantaci\u00f3n de seguridad y conformidad del ENS"
+                },
+                {
+                    "text": "INES",
+                    "isCorrect": false,
+                    "hint": "Informe de Estado de Seguridad en el ENS"
+                }
+            ]
+        }
+    ]
+}

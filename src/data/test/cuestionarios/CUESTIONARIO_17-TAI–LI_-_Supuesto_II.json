@@ -1,0 +1,799 @@
+{
+    "title": "CUESTIONARIO 17-TAI\u2013LI - Supuesto II",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1. Necesita saber si en el servidor Linux, que est\u00e1 actualmente en funcionamiento, est\u00e1 instalado el paquete que env\u00eda an\u00f3nimamente estad\u00edsticas a los desarrolladores sabre los paquetes que m\u00e1s se usan en el servidor. \u00bfCu\u00e1i es el nombre del paquete para poder localizarlo?",
+            "options": [
+                {
+                    "text": "b) popularity-contest",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) createuser",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Get-WmiObject win32_product",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) ps -U postgres -u postgres u",
+                    "isCorrect": false,
+                    "hint": "El par\u00e1metro -U especifica el usuario propietario de los procesos y el par\u00e1metro -u especifica el usuario que est\u00e1 ejecutando los procesos. El par\u00e1metro final u indica que se debe mostrar informaci\u00f3n detallada sobre cada proceso."
+                }
+            ]
+        },
+        {
+            "question": "2. En la nueva m\u00e1quina Linux, reci\u00e9n instalada, le indican que NO est\u00e1 instalado el servidor de SSH. Indique el comando para proceder a su instalaci\u00f3n:",
+            "options": [
+                {
+                    "text": "a) apt-get install ssh",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Get-WmiObject win32_product",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) systemctl restart zabbix-agent",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) lvcreate",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. \u00bfQu\u00e9 paquete en Linux, equivalente al htop que muestra el uso de CPU, permite mostrar informaci\u00f3n de E\/S del disco?",
+            "options": [
+                {
+                    "text": "b) iotop",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) createuser",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) pg_dumpall > ficherosalida",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 5432",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4. Tras instalar postgreSQL en el nuevo servidor Linux, usando el paquete \"postgresql-all\". \u00bfQu\u00e9 comando le permitir\u00e1 comprobar que el servidor postgres est\u00e1 ejecut\u00e1ndose, usando el usuario postgres?",
+            "options": [
+                {
+                    "text": "c) ps -U postgres -u postgres u",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) rsync",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) mysqI_secure_instaIIation",
+                    "isCorrect": false,
+                    "hint": "El script te pedir\u00e1 que establezcas una contrase\u00f1a para el usuario root de MariaDB y eliminar\u00e1 algunos usuarios y bases de datos de prueba inseguros. Tambi\u00e9n desactivar\u00e1 el inicio de sesi\u00f3n remoto para el usuario root y actualizar\u00e1 las reglas del cortafuegos para permitir solo conexiones locales a MariaDB."
+                }
+            ]
+        },
+        {
+            "question": "5. Para establecer las reglas de firewall oportunas, necesitamos conocer el puerto por defecto en el que escucha par defecto el servidor de postgreSQL, \u00bfCu\u00e1l de las siguientes es?",
+            "options": [
+                {
+                    "text": "b) 5432",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) pg_dumpall > ficherosalida",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) createuser",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) iotop",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "6. El comando del sistema, desde el usuario postgres, que se puede usar para crear usuarios en postgreSQL es:",
+            "options": [
+                {
+                    "text": "a) createuser",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) ss -l | grep mysql",
+                    "isCorrect": false,
+                    "hint": "ss = socket statistics"
+                },
+                {
+                    "text": "d) 3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 10.31.93.135",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "7. Para realizar un backup de todas las bases de datos que est\u00e1n en el servidor antiguo, desde el usuario postgres, es el comando:",
+            "options": [
+                {
+                    "text": "a) pg_dumpall > ficherosalida",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) High Sierra",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) mysqI_secure_instaIIation",
+                    "isCorrect": false,
+                    "hint": "El script te pedir\u00e1 que establezcas una contrase\u00f1a para el usuario root de MariaDB y eliminar\u00e1 algunos usuarios y bases de datos de prueba inseguros. Tambi\u00e9n desactivar\u00e1 el inicio de sesi\u00f3n remoto para el usuario root y actualizar\u00e1 las reglas del cortafuegos para permitir solo conexiones locales a MariaDB."
+                },
+                {
+                    "text": "d) 3",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "8. Se Ie ha solicitado configurar un RAID 5, \u00bfcu\u00e1l es el n\u00famero m\u00ednimo de discos requerido para ser implementada esta configuraci\u00f3n?",
+            "options": [
+                {
+                    "text": "d) 3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Anti-spoof",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 10.31.93.24\/29",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 00001010.00011111.01011101.10000001",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "9. Le solicitan que recomiende una soluci\u00f3n que proporcione un entorno de virtualizaci\u00f3n. \u00bfCu\u00e1l de las siguientes propuestas elegir\u00eda?",
+            "options": [
+                {
+                    "text": "b) Proxmox VE",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Get-WmiObject win32_product",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) mysqI_secure_instaIIation",
+                    "isCorrect": false,
+                    "hint": "El script te pedir\u00e1 que establezcas una contrase\u00f1a para el usuario root de MariaDB y eliminar\u00e1 algunos usuarios y bases de datos de prueba inseguros. Tambi\u00e9n desactivar\u00e1 el inicio de sesi\u00f3n remoto para el usuario root y actualizar\u00e1 las reglas del cortafuegos para permitir solo conexiones locales a MariaDB."
+                },
+                {
+                    "text": "a) \/etc\/hosts.allow",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "10. Se ha seleccionado Zabbix para monitorizar los elementos de la red. Como requisito para Zabbix, se necesita instalar mariaDB en la m\u00e1quina Linux. Una vez ha instalado el paquete con la orden apt correspondiente, \u00bfqu\u00e9 comando debe ejecutar para lanzar el script de securizaci\u00f3n de mariaDB?",
+            "options": [
+                {
+                    "text": "a) mysqI_secure_instaIIation",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) systemctl restart zabbix-agent",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) whereis zabbix",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) pg_dumpall > ficherosalida",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11. \u00bfCon qu\u00e9 comando reiniciar\u00eda el agente de Zabbix, con los privilegios adecuados?",
+            "options": [
+                {
+                    "text": "c) systemctl restart zabbix-agent",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Proxmox VE",
+                    "isCorrect": false,
+                    "hint": "Proxmox VE es una plataforma de gesti\u00f3n de virtualizaci\u00f3n de servidores de c\u00f3digo abierto. Integra estrechamente el hipervisor KVM y los contenedores Linux (LXC), la funcionalidad de almacenamiento y redes definidas por software en una sola plataforma."
+                },
+                {
+                    "text": "a) psql acceda < acceda",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Anti-spoof",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12. Necesita verificar que en el servidor de Zabbix, su base de datos est\u00e1 escuchando por el puerto de mysql. \u00bfQu\u00e9 opci\u00f3n de las siguientes le permitir\u00eda obtener esta informaci\u00f3n?",
+            "options": [
+                {
+                    "text": "b) ss -l | grep mysql",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) \/etc\/hosts.allow",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) apt-get install ssh",
+                    "isCorrect": false,
+                    "hint": ". El comando apt-get install ssh instalar\u00e1 el paquete ssh, que incluye tanto el cliente como el servidor de SSH. El paquete del servidor de SSH se llama openssh-server, pero tambi\u00e9n se puede instalar utilizando el metapaquete ssh."
+                },
+                {
+                    "text": "a) cat \/etc\/group | grep usuarios_ssh",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. En el shell Bash del servidor Linux, \u00bfqu\u00e9 variable interna permite mostrar el directorio actual de trabajo?",
+            "options": [
+                {
+                    "text": "b) $PWD",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) cat \/etc\/group | grep usuarios_ssh",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Proxmox VE",
+                    "isCorrect": false,
+                    "hint": "Proxmox VE es una plataforma de gesti\u00f3n de virtualizaci\u00f3n de servidores de c\u00f3digo abierto. Integra estrechamente el hipervisor KVM y los contenedores Linux (LXC), la funcionalidad de almacenamiento y redes definidas por software en una sola plataforma."
+                },
+                {
+                    "text": "c) Get-WmiObject win32_product",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14. A las medidas para prevenir el abuso de datas de identificaci\u00f3n y autenticaci\u00f3n, impidiendo que alguien se haga pasar par quien no es, se les denomina:",
+            "options": [
+                {
+                    "text": "b) Anti-spoof",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) deluser u usuarios_ssh",
+                    "isCorrect": false,
+                    "hint": "Si se invoca con dos argumentos que no son opciones, deluser eliminar\u00e1 a un usuario de un grupo espec\u00edfico."
+                },
+                {
+                    "text": "a) \/etc\/hosts.allow",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Get-History",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15. \u00bfC\u00f3mo podr\u00edamos localizar los ficheros binarios, fuentes o p\u00e1ginas de manual para un comando dado, por ejemplo, para el comando llamado zabbix?",
+            "options": [
+                {
+                    "text": "d) whereis zabbix",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) createuser",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 00001010.00011111.01011101.10000001",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) vgcreate",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. Durante la instalaci\u00f3n del nuevo servidor de bases de datas en Linux, se necesita sincronizar de forma peri\u00f3dica ciertas carpetas del servidor antiguo en el nuevo hasta que se haga el cambio. \u00bfQu\u00e9 comando de Linux deber\u00eda ejecutarse?",
+            "options": [
+                {
+                    "text": "b) rsync",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Get-Service",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) uname -n",
+                    "isCorrect": false,
+                    "hint": "Muestra el nodename (hostname)"
+                },
+                {
+                    "text": "a) \/etc\/hosts.allow",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17. Dada la siguiente direcci\u00f3n IP, 10.31.93.128\/29, indique cu\u00e1l es su direcci\u00f3n de broadcast:",
+            "options": [
+                {
+                    "text": "b) 10.31.93.135",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) pg_dumpall > ficherosalida",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) createdb",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Get-Service",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18 \u00bfCu\u00e1l es, en binario, la primera IP disponible para asignar en la red 10.31.93.128\/29?",
+            "options": [
+                {
+                    "text": "c) 00001010.00011111.01011101.10000001",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Get-WmiObject win32_product",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) iotop",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) createdb",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "19. \u00bfA qu\u00e9 red pertenece el equipo 10.31.93.25\/29? ",
+            "options": [
+                {
+                    "text": "a) 10.31.93.24\/29",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) apt-get install ssh",
+                    "isCorrect": false,
+                    "hint": ". El comando apt-get install ssh instalar\u00e1 el paquete ssh, que incluye tanto el cliente como el servidor de SSH. El paquete del servidor de SSH se llama openssh-server, pero tambi\u00e9n se puede instalar utilizando el metapaquete ssh."
+                },
+                {
+                    "text": "a) vgcreate",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) systemctl restart zabbix-agent",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "20. Entre los comandos que podemos ejecutar desde Linux y que nos muestran la versi\u00f3n del sistema operativo NO se encontrar\u00eda por tener otra finalidad el siguiente:",
+            "options": [
+                {
+                    "text": "b) uname -n",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) whereis zabbix",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) $PWD",
+                    "isCorrect": false,
+                    "hint": "print working directory"
+                },
+                {
+                    "text": "c) 00001010.00011111.01011101.10000001",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "21. SSH permite restringir el acceso a un conjunto de usuarios, o a un determinado grupo, utilizando determinadas directivas desde su fichero de configuraci\u00f3n. \u00bfCu\u00e1l de los siguientes comandos, le permite conocer que usuarios pertenecen a un grupo llamado usuarios_ssh?",
+            "options": [
+                {
+                    "text": "a) cat \/etc\/group | grep usuarios_ssh",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Anti-spoof",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Proxmox VE",
+                    "isCorrect": false,
+                    "hint": "Proxmox VE es una plataforma de gesti\u00f3n de virtualizaci\u00f3n de servidores de c\u00f3digo abierto. Integra estrechamente el hipervisor KVM y los contenedores Linux (LXC), la funcionalidad de almacenamiento y redes definidas por software en una sola plataforma."
+                },
+                {
+                    "text": "c) 00001010.00011111.01011101.10000001",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. En la m\u00e1quina Linux, \u00bfc\u00f3mo eliminar\u00eda al usuario denominado \"u\" de un grupo de usuarios denominado \"usuarios_ssh\"?",
+            "options": [
+                {
+                    "text": "a) deluser u usuarios_ssh",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) vgextend",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) popularity-contest",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) pg_dumpall > ficherosalida",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. En el servidor Linux, \u00bfqu\u00e9 fichero permite comprobar el acceso a hosts concretos at sistema?",
+            "options": [
+                {
+                    "text": "a) \/etc\/hosts.allow",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 5432",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) lvcreate",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Get-History",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. \u00bfCon qu\u00e9 comando se puede crear un nuevo grupo de volumen de LVM en el servidor Linux?",
+            "options": [
+                {
+                    "text": "a) vgcreate",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) vgextend",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) ss -l | grep mysql",
+                    "isCorrect": false,
+                    "hint": "ss = socket statistics"
+                },
+                {
+                    "text": "a) cat \/etc\/group | grep usuarios_ssh",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. En el servidor Linux en LVM, \u00bfcon qu\u00e9 comando podemos crear un volumen l\u00f3gico?",
+            "options": [
+                {
+                    "text": "c) lvcreate",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Proxmox VE",
+                    "isCorrect": false,
+                    "hint": "Proxmox VE es una plataforma de gesti\u00f3n de virtualizaci\u00f3n de servidores de c\u00f3digo abierto. Integra estrechamente el hipervisor KVM y los contenedores Linux (LXC), la funcionalidad de almacenamiento y redes definidas por software en una sola plataforma."
+                },
+                {
+                    "text": "c) Get-WmiObject win32_product",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Get-Service",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "26. En el puesto Windows de usuario final, usando Powershell, se quiere obtener un listado del software instalado con Windows Installer en cada uno de los puestos cliente que est\u00e1n usando Windows 7. \u00bfC\u00f3mo podr\u00eda obtener esta informaci\u00f3n?",
+            "options": [
+                {
+                    "text": "c) Get-WmiObject win32_product",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 10.31.93.24\/29",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Proxmox VE",
+                    "isCorrect": false,
+                    "hint": "Proxmox VE es una plataforma de gesti\u00f3n de virtualizaci\u00f3n de servidores de c\u00f3digo abierto. Integra estrechamente el hipervisor KVM y los contenedores Linux (LXC), la funcionalidad de almacenamiento y redes definidas por software en una sola plataforma."
+                }
+            ]
+        },
+        {
+            "question": "27. En el puesto Windows de usuario final, \u00bfqu\u00e9 comando de Powershell nos permitir\u00e1 obtener el historial de comandos introducidos?",
+            "options": [
+                {
+                    "text": "b) Get-History",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) deluser u usuarios_ssh",
+                    "isCorrect": false,
+                    "hint": "Si se invoca con dos argumentos que no son opciones, deluser eliminar\u00e1 a un usuario de un grupo espec\u00edfico."
+                },
+                {
+                    "text": "b) Proxmox VE",
+                    "isCorrect": false,
+                    "hint": "Proxmox VE es una plataforma de gesti\u00f3n de virtualizaci\u00f3n de servidores de c\u00f3digo abierto. Integra estrechamente el hipervisor KVM y los contenedores Linux (LXC), la funcionalidad de almacenamiento y redes definidas por software en una sola plataforma."
+                },
+                {
+                    "text": "c) systemctl restart zabbix-agent",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "28. En el puesto Windows de usuario final, usando Powershell, \u00bfcu\u00e1l ser\u00eda el comando para poder obtener el listado de servicios en el puesto?",
+            "options": [
+                {
+                    "text": "a) Get-Service",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Anti-spoof",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) systemctl restart zabbix-agent",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 10.31.93.135",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "29. Es una herramienta desarrollada par el CCN-CERT para la gesti\u00f3n de ciberincidentes en las entidades del \u00e1mbito de aplicaci\u00f3n del ENS, con ella se pretende mejorar la coordinaci\u00f3n entre el CERT y los distintos organismos y organizaciones con las que colabora:",
+            "options": [
+                {
+                    "text": "c) LUCIA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) psql acceda < acceda",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 10.31.93.24\/29",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) uname -n",
+                    "isCorrect": false,
+                    "hint": "Muestra el nodename (hostname)"
+                }
+            ]
+        },
+        {
+            "question": "30. En postgreSQL, \u00bfqu\u00e9 comando permite desde consola, en la m\u00e1quina Linux y con el usuario postgres, crear una base de datos? ",
+            "options": [
+                {
+                    "text": "a) createdb",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Get-History",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) ps -U postgres -u postgres u",
+                    "isCorrect": false,
+                    "hint": "El par\u00e1metro -U especifica el usuario propietario de los procesos y el par\u00e1metro -u especifica el usuario que est\u00e1 ejecutando los procesos. El par\u00e1metro final u indica que se debe mostrar informaci\u00f3n detallada sobre cada proceso."
+                },
+                {
+                    "text": "b) Anti-spoof",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. Siendo \"acceda\" el nombre del backup realizado, y \"acceda\" el nombre de la base de datos en la que se quiere hacer una restauraci\u00f3n de una copia previa. Indique cu\u00e1l es el comando para realizar dicha restauraci\u00f3n:",
+            "options": [
+                {
+                    "text": "a) psql acceda < acceda",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) whereis zabbix",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) popularity-contest",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 10.31.93.135",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2. En Linux, \u00bfqu\u00e9 comando deber\u00eda usar para a\u00f1adir un volumen f\u00edsico ya inicializado a un grupo de vol\u00famenes existente en LVM?",
+            "options": [
+                {
+                    "text": "a) vgextend",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) systemctl restart zabbix-agent",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) psql acceda < acceda",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 3",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 3. Si la versi\u00f3n del sistema operativo de los macOS de la unidad administrativa es \"ProductVersion:10.13.4\". \u00bfCon qu\u00e9 nombre de versi\u00f3n, entre las que siguen, se corresponde?",
+            "options": [
+                {
+                    "text": "d) High Sierra",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) $PWD",
+                    "isCorrect": false,
+                    "hint": "print working directory"
+                },
+                {
+                    "text": "b) ss -l | grep mysql",
+                    "isCorrect": false,
+                    "hint": "ss = socket statistics"
+                },
+                {
+                    "text": "a) createdb",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

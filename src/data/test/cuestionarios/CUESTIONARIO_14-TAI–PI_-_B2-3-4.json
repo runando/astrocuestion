@@ -1,0 +1,1015 @@
+{
+    "title": "CUESTIONARIO 14-TAI\u2013PI - B2-3-4",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "11. La forma de acceso a la memoria principal de un ordenador es:",
+            "options": [
+                {
+                    "text": "b) Acceso aleatorio.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Nyquist.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Ninguna es correcta",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) iostat",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12. El tipo de esc\u00e1ner que se utiliza para hacer copias digitales de libros o documentos que, por ser antiguos o muy valiosos, no se les quiere deteriorar durante el proceso, se le conoce con el nombre de:",
+            "options": [
+                {
+                    "text": "d) cenital.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Topolog\u00eda l\u00f3gica en anillo y topolog\u00eda f\u00edsica en bus.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Acceso aleatorio.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) RAID 0. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. \u00bfQu\u00e9 n\u00famero en sistema octal corresponde al decimal 53?",
+            "options": [
+                {
+                    "text": "a) 65 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Sinclair.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Un emisor y un receptor en un grupo de posibles receptores.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Lectura fantasma",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14. En relaci\u00f3n a la estructura f\u00edsica de un disco duro, \u00bfqu\u00e9 es un sector?",
+            "options": [
+                {
+                    "text": "b) Cada una de las divisiones de una pista.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 65 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) <Esc> ZZ ",
+                    "isCorrect": false,
+                    "hint": "es equivalente a :wq"
+                },
+                {
+                    "text": "a) AJAX.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15. Respecto a la estructura l\u00f3gica de un disco duro y sus caracter\u00edsticas, \u00bfqu\u00e9 se entiende por latencia media?",
+            "options": [
+                {
+                    "text": "d) Tiempo medio que tarda la aguja en situarse en el sector deseado",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 110",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Nyquist.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) En el que se suplanta la identidad de una entidad de confianza para solicitar a la v\u00edctima datos personales que le permitan  realizar un fraude.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. \u00bfCu\u00e1l de las siguientes capacidades puede contener una mayor cantidad de informaci\u00f3n?",
+            "options": [
+                {
+                    "text": "c) 1042 Megabytes.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Un emisor y un receptor en un grupo de posibles receptores.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 65 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Sinclair.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17. Indicar qu\u00e9 caracter\u00edstica se puede asociar al algoritmo de la burbuja:",
+            "options": [
+                {
+                    "text": "c) Algoritmo de ordenaci\u00f3n de complejidad cuadr\u00e1tica.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SNMP v2.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Un emisor y un receptor en un grupo de posibles receptores.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Simple Network Management Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18. De los siguientes sistemas RAID, \u00bfcu\u00e1l NO se considera redundante?",
+            "options": [
+                {
+                    "text": "a) RAID 0. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) En el que se suplanta la identidad de una entidad de confianza para solicitar a la v\u00edctima datos personales que le permitan  realizar un fraude.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Un emisor y un receptor en un grupo de posibles receptores.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Simple Network Management Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "19. Se\u00f1ale la t\u00e9cnica de compresi\u00f3n con p\u00e9rdida:",
+            "options": [
+                {
+                    "text": "c) Joint Photographic Experts Group (JPEG).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) RSA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 1042 Megabytes.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Engloba las configuraciones de software, hardware, etc. de todas las cuentas de usuario en una m\u00e1quina.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "21. Se\u00f1ale qu\u00e9 orden se debe usar para cambiar las propiedades de un fichero y conseguir que \u00e9ste tenga los siguientes permisos en UNIX: para el propietario lectura, ejecuci\u00f3n y escritura; para el grupo lectura y ejecuci\u00f3n; para el resto de usuarios lectura.",
+            "options": [
+                {
+                    "text": "d) chmod 754",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Sinclair.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) net use",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) El usuario paco est\u00e1 realizando una copia del fichero host del servidor almendro en el servidor abedul.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. Se\u00f1ale la sentencia correcta referida a la clave del registro de Windows 7 \"HKEY_LOCAL_MACHINE\":",
+            "options": [
+                {
+                    "text": "b) Engloba las configuraciones de software, hardware, etc. de todas las cuentas de usuario en una m\u00e1quina.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Un TRAP SNMP es una comunicaci\u00f3n as\u00edncrona por la que un agente SNMP notifica a la estaci\u00f3n de gesti\u00f3n de un evento  significativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Ruido blanco",
+                    "isCorrect": false,
+                    "hint": "El ruido blanco es una se\u00f1al aleatoria que se superpone a la se\u00f1al original durante la transmisi\u00f3n de datos. Este ruido se produce debido a diversas fuentes, como la interferencia electromagn\u00e9tica, la atenuaci\u00f3n de la se\u00f1al durante la transmisi\u00f3n y la amplificaci\u00f3n de la se\u00f1al por los dispositivos de recepci\u00f3n."
+                },
+                {
+                    "text": "d) Ninguna de las anteriores es cierta.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. \u00bfCu\u00e1l de las siguientes NO es una versi\u00f3n del sistema operativo Android?",
+            "options": [
+                {
+                    "text": "d) Sinclair.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Ruido blanco",
+                    "isCorrect": false,
+                    "hint": "El ruido blanco es una se\u00f1al aleatoria que se superpone a la se\u00f1al original durante la transmisi\u00f3n de datos. Este ruido se produce debido a diversas fuentes, como la interferencia electromagn\u00e9tica, la atenuaci\u00f3n de la se\u00f1al durante la transmisi\u00f3n y la amplificaci\u00f3n de la se\u00f1al por los dispositivos de recepci\u00f3n."
+                },
+                {
+                    "text": "c) Nyquist.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) LTO-3: 400 GB, LTO-4: 800 GB, LTO-5: 1,5 TB, LTO-6: 2,5 TB",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. \u00bfCu\u00e1l es el comando utilizado en sistemas Microsoft que permite conectarse a una carpeta compartida de red y asignar una letra de unidad a la propia conexi\u00f3n?",
+            "options": [
+                {
+                    "text": "b) net use",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Simple Network Management Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Cada una de las divisiones de una pista.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Rijndael.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. \u00bfC\u00f3mo se denomina la interfaz de usuario en Windows 8?",
+            "options": [
+                {
+                    "text": "c) Metro UI. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) En el que se suplanta la identidad de una entidad de confianza para solicitar a la v\u00edctima datos personales que le permitan  realizar un fraude.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Nyquist.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Rijndael.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "1. En un sistema operativo UNIX, \u00bfqu\u00e9 hace la siguiente cadena de comandos? $ scp paco@almendro.admin.org:\/etc\/hosts paco@abedul.admin.org:\/etc\/hosts",
+            "options": [
+                {
+                    "text": "b) El usuario paco est\u00e1 realizando una copia del fichero host del servidor almendro en el servidor abedul.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) En el que se suplanta la identidad de una entidad de confianza para solicitar a la v\u00edctima datos personales que le permitan  realizar un fraude.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) LTO-3: 400 GB, LTO-4: 800 GB, LTO-5: 1,5 TB, LTO-6: 2,5 TB",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 4",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2. Indique cu\u00e1l de los siguientes comandos UNIX muestra el % del uso de CPU:",
+            "options": [
+                {
+                    "text": "c) iostat",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) RAID 0. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Simple Network Management Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Lectura fantasma",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. De los siguientes comandos\/<combinaci\u00f3n de teclas>, indique cu\u00e1l permite salir del editor Vi salvando los cambios del fichero que se est\u00e1 editando:",
+            "options": [
+                {
+                    "text": "a) <Esc> ZZ ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) AJAX.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Un emisor y un receptor en un grupo de posibles receptores.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) iostat",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4. Cuando una transacci\u00f3n devuelve un conjunto de filas que satisfacen una condici\u00f3n de b\u00fasqueda pero alguna de esas filas no exist\u00eda cuando se inici\u00f3 la transacci\u00f3n, estamos hablando de:",
+            "options": [
+                {
+                    "text": "b) Lectura fantasma",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Metro UI. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Ninguna de las anteriores es cierta.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) RAID 0. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "5. En el sistema de gesti\u00f3n de base de datos Oracle, indique cu\u00e1l de las siguientes afirmaciones es FALSA en  relaci\u00f3n al comando EXPLAIN PLAN:",
+            "options": [
+                {
+                    "text": "c) Permite determinar el rendimiento del comando DROP TABLE",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Cada una de las divisiones de una pista.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Metro UI. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Lectura fantasma",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "6. Indique el puerto que utiliza el protocolo Post Office Protocol - version 3",
+            "options": [
+                {
+                    "text": "b) 110",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Ninguna de las anteriores es cierta.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) On-Demand Mail Relay (ODMR).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SNMP v2.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "7. C\u00f3mo se denomina la extensi\u00f3n de SMTP, estandarizada en la RFC 2645, que permite que el correo electr\u00f3nico  sea transmitido a receptores que se conectan de forma intermitente despu\u00e9s de que hayan sido autenticados:",
+            "options": [
+                {
+                    "text": "d) On-Demand Mail Relay (ODMR).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 110",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Joint Photographic Experts Group (JPEG).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Un TRAP SNMP es una comunicaci\u00f3n as\u00edncrona por la que un agente SNMP notifica a la estaci\u00f3n de gesti\u00f3n de un evento  significativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "8. SNMP es un protocolo de gesti\u00f3n de dispositivos de red significa:",
+            "options": [
+                {
+                    "text": "d) Simple Network Management Protocol.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Tiempo medio que tarda la aguja en situarse en el sector deseado",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Ninguna de las anteriores es cierta.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) On-Demand Mail Relay (ODMR).",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "9. \u00bfCu\u00e1l de las siguientes es una herramienta de monitorizaci\u00f3n de red?",
+            "options": [
+                {
+                    "text": "b) OpenView.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Capa 2 y capa 3.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Simple Network Management Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 65 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "10. El protocolo de gesti\u00f3n de red SNMP:",
+            "options": [
+                {
+                    "text": "b) Un TRAP SNMP es una comunicaci\u00f3n as\u00edncrona por la que un agente SNMP notifica a la estaci\u00f3n de gesti\u00f3n de un evento  significativo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Cada una de las divisiones de una pista.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SIGTERM",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SNMP v2.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11. Se\u00f1ale en qu\u00e9 versi\u00f3n del protocolo de gesti\u00f3n de redes SNMP se a\u00f1ade por primera vez la instrucci\u00f3n GetBulk:",
+            "options": [
+                {
+                    "text": "c) SNMP v2.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Ninguna es correcta",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Un TRAP SNMP es una comunicaci\u00f3n as\u00edncrona por la que un agente SNMP notifica a la estaci\u00f3n de gesti\u00f3n de un evento  significativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) En el que se suplanta la identidad de una entidad de confianza para solicitar a la v\u00edctima datos personales que le permitan  realizar un fraude.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12. Queremos utilizar RSA para asegurar la confidencialidad entre 4 personas. \u00bfCu\u00e1ntas claves necesita conocer  cada usuario?",
+            "options": [
+                {
+                    "text": "b) 4",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Ninguna es correcta",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) El usuario paco est\u00e1 realizando una copia del fichero host del servidor almendro en el servidor abedul.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) OpenView.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. \u00bfEn qu\u00e9 algoritmo se basa el est\u00e1ndar AES (Advanced Encryption Standard)",
+            "options": [
+                {
+                    "text": "b) Rijndael.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) <Esc> ZZ ",
+                    "isCorrect": false,
+                    "hint": "es equivalente a :wq"
+                },
+                {
+                    "text": "d) On-Demand Mail Relay (ODMR).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 503 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15. Se\u00f1ale cu\u00e1l de las siguientes NO es una codificaci\u00f3n en banda base:",
+            "options": [
+                {
+                    "text": "c) Nyquist.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SNMP v2.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) LTO-3: 400 GB, LTO-4: 800 GB, LTO-5: 1,5 TB, LTO-6: 2,5 TB",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Engloba las configuraciones de software, hardware, etc. de todas las cuentas de usuario en una m\u00e1quina.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14. \u00bfCu\u00e1l de los siguientes problemas afecta a los medios de transmisi\u00f3n de se\u00f1ales?",
+            "options": [
+                {
+                    "text": "b) Ruido blanco",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Engloba las configuraciones de software, hardware, etc. de todas las cuentas de usuario en una m\u00e1quina.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La velocidad m\u00e1xima de transmisi\u00f3n es 54 Mbps.",
+                    "isCorrect": false,
+                    "hint": "La velocidad m\u00e1xima de transmisi\u00f3n es de hasta 600 Mbps: esta es una velocidad te\u00f3rica m\u00e1xima que se puede lograr en condiciones ideales con configuraciones avanzadas, como la agregaci\u00f3n de canales y la modulaci\u00f3n espacial."
+                },
+                {
+                    "text": "b) OpenView.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. De los siguientes modos de comunicaci\u00f3n \u00bfcu\u00e1l se corresponde con la comunicaci\u00f3n Anycast?",
+            "options": [
+                {
+                    "text": "d) Un emisor y un receptor en un grupo de posibles receptores.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) RSA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Simple Network Management Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Permite determinar el rendimiento del comando DROP TABLE",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17. Indique cu\u00e1l de las siguientes afirmaciones es FALSA respecto al est\u00e1ndar 802.11n:",
+            "options": [
+                {
+                    "text": "b) La velocidad m\u00e1xima de transmisi\u00f3n es 54 Mbps.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Engloba las configuraciones de software, hardware, etc. de todas las cuentas de usuario en una m\u00e1quina.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Las direcciones IPv6 tienen 128 bits.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Un TRAP SNMP es una comunicaci\u00f3n as\u00edncrona por la que un agente SNMP notifica a la estaci\u00f3n de gesti\u00f3n de un evento  significativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18. Se\u00f1alar la afirmaci\u00f3n cierta sobre la cabecera de un paquete IPv6:",
+            "options": [
+                {
+                    "text": "c) Las direcciones IPv6 tienen 128 bits.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El usuario paco est\u00e1 realizando una copia del fichero host del servidor almendro en el servidor abedul.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Cada una de las divisiones de una pista.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Ruido blanco",
+                    "isCorrect": false,
+                    "hint": "El ruido blanco es una se\u00f1al aleatoria que se superpone a la se\u00f1al original durante la transmisi\u00f3n de datos. Este ruido se produce debido a diversas fuentes, como la interferencia electromagn\u00e9tica, la atenuaci\u00f3n de la se\u00f1al durante la transmisi\u00f3n y la amplificaci\u00f3n de la se\u00f1al por los dispositivos de recepci\u00f3n."
+                }
+            ]
+        },
+        {
+            "question": "19. Se\u00f1ale a qu\u00e9 se corresponde la siguiente definici\u00f3n \"t\u00e9cnica de desarrollo web para crear aplicaciones que se  ejecutan en el cliente, mientras se mantiene la comunicaci\u00f3n as\u00edncrona con el servidor en segundo plano\":",
+            "options": [
+                {
+                    "text": "a) AJAX.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Permite determinar el rendimiento del comando DROP TABLE",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) En el que se suplanta la identidad de una entidad de confianza para solicitar a la v\u00edctima datos personales que le permitan  realizar un fraude.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La velocidad m\u00e1xima de transmisi\u00f3n es 54 Mbps.",
+                    "isCorrect": false,
+                    "hint": "La velocidad m\u00e1xima de transmisi\u00f3n es de hasta 600 Mbps: esta es una velocidad te\u00f3rica m\u00e1xima que se puede lograr en condiciones ideales con configuraciones avanzadas, como la agregaci\u00f3n de canales y la modulaci\u00f3n espacial."
+                }
+            ]
+        },
+        {
+            "question": "20. En relaci\u00f3n con el protocolo HTTP, \u00bfcu\u00e1l es el c\u00f3digo STATUS asociado al Error: \"Service unavailable\"?",
+            "options": [
+                {
+                    "text": "c) 503 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) LTO-3: 400 GB, LTO-4: 800 GB, LTO-5: 1,5 TB, LTO-6: 2,5 TB",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) OpenView.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SIGTERM",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "21. El est\u00e1ndar IEEE 802.4 (Token Bus) tiene:",
+            "options": [
+                {
+                    "text": "a) Topolog\u00eda l\u00f3gica en anillo y topolog\u00eda f\u00edsica en bus.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Joint Photographic Experts Group (JPEG).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La velocidad m\u00e1xima de transmisi\u00f3n es 54 Mbps.",
+                    "isCorrect": false,
+                    "hint": "La velocidad m\u00e1xima de transmisi\u00f3n es de hasta 600 Mbps: esta es una velocidad te\u00f3rica m\u00e1xima que se puede lograr en condiciones ideales con configuraciones avanzadas, como la agregaci\u00f3n de canales y la modulaci\u00f3n espacial."
+                },
+                {
+                    "text": "b) En el que se suplanta la identidad de una entidad de confianza para solicitar a la v\u00edctima datos personales que le permitan  realizar un fraude.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. Con respecto a los ataques a las redes de comunicaciones, \u00bfcu\u00e1l de las siguientes afirmaciones es cierta?",
+            "options": [
+                {
+                    "text": "d) Ninguna de las anteriores es cierta.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Sinclair.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Un TRAP SNMP es una comunicaci\u00f3n as\u00edncrona por la que un agente SNMP notifica a la estaci\u00f3n de gesti\u00f3n de un evento  significativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Nyquist.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. Cu\u00e1l de los siguientes algoritmos de cifrado NO es un algoritmo de cifrado sim\u00e9trico:",
+            "options": [
+                {
+                    "text": "a) RSA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Un TRAP SNMP es una comunicaci\u00f3n as\u00edncrona por la que un agente SNMP notifica a la estaci\u00f3n de gesti\u00f3n de un evento  significativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Sinclair.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Algoritmo de ordenaci\u00f3n de complejidad cuadr\u00e1tica.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. Un ataque de \"phishing\" consiste en un ataque:",
+            "options": [
+                {
+                    "text": "b) En el que se suplanta la identidad de una entidad de confianza para solicitar a la v\u00edctima datos personales que le permitan  realizar un fraude.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) AJAX.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) On-Demand Mail Relay (ODMR).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Un TRAP SNMP es una comunicaci\u00f3n as\u00edncrona por la que un agente SNMP notifica a la estaci\u00f3n de gesti\u00f3n de un evento  significativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. Seg\u00fan el RFC 4026, una VPN (Virtual Private Network), \u00bfen qu\u00e9 capas del modelo de referencia OSI se puede  establecer?",
+            "options": [
+                {
+                    "text": "b) Capa 2 y capa 3.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) AJAX.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Topolog\u00eda l\u00f3gica en anillo y topolog\u00eda f\u00edsica en bus.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SNMP v2.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. En Linux\/Unix \u00bfqu\u00e9 se\u00f1al, de las definidas en el <signal.h>, provoca la finalizaci\u00f3n ordenada de un proceso?",
+            "options": [
+                {
+                    "text": "a) SIGTERM",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Rijndael.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) chmod 754",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Cada una de las divisiones de una pista.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2. La capacidad nativa de la tecnolog\u00eda LTO (Linear Tape-Open) Ultrium es, por cada generaci\u00f3n:",
+            "options": [
+                {
+                    "text": "b) LTO-3: 400 GB, LTO-4: 800 GB, LTO-5: 1,5 TB, LTO-6: 2,5 TB",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) cenital.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) AJAX.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) RAID 0. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 3. Las unidades de informaci\u00f3n que maneja el nivel de presentaci\u00f3n del modelo OSI se denominan:",
+            "options": [
+                {
+                    "text": "d) Ninguna es correcta",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Un TRAP SNMP es una comunicaci\u00f3n as\u00edncrona por la que un agente SNMP notifica a la estaci\u00f3n de gesti\u00f3n de un evento  significativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Engloba las configuraciones de software, hardware, etc. de todas las cuentas de usuario en una m\u00e1quina.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 1042 Megabytes.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

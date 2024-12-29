@@ -1,0 +1,679 @@
+{
+    "title": "CUESTIONARIO 15-TAI\u2013PI - B4",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1. En relaci\u00f3n a los servicios de OSI, \u00bfcu\u00e1l de las siguientes definiciones es FALSA? ",
+            "options": [
+                {
+                    "text": "c) Es un conjunto de reglas que rigen el formato y el significado de los paquetes o mensajes que se intercambian las  entidades iguales en una capa. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) cmdlets ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 20GB. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) MAIL FROM, RCPT TO y DATA. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2. En Windows PowerShell, los comandos que se ejecutan se denominan: ",
+            "options": [
+                {
+                    "text": "d) cmdlets ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) El protocolo LDAP est\u00e1 descrito usando ASN.1. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 23 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Permite ordenar l\u00edneas de archivos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. Cu\u00e1l es el significado del comando sort de UNIX? ",
+            "options": [
+                {
+                    "text": "d) Permite ordenar l\u00edneas de archivos. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Dada la clave p\u00fablica es posible obtener la privada. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) cmdlets ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) LTE Advanced ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4. De los siguientes, \u00bfqu\u00e9 documento sirve para detallar las funciones y responsabilidades, as\u00ed como los objetivos a  los que se compromete un proveedor al proporcionar un servicio inform\u00e1tico? ",
+            "options": [
+                {
+                    "text": "b) SLA ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) \/etc\/shadow ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": ") Cuando el campo alcanza el valor cero el paquete se descarta. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) red: 132.27.31.64\/26 y broadcast: 132.27.31.127 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "5. En el sistema operativo UNIX, tas contrase\u00f1as de los usuarios se guardan encriptadas en el fichero: ",
+            "options": [
+                {
+                    "text": "b) \/etc\/shadow ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Mediante la modificaci\u00f3n en el DNS, enviar al usuario a una web falsa. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) CMIP ",
+                    "isCorrect": false,
+                    "hint": "Protocolo de administraci\u00f3n de informaci\u00f3n com\u00fan"
+                },
+                {
+                    "text": "c) La sintaxis de la petici\u00f3n es incorrecta. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "5. Seg\u00fan RFC 5321, una transacci\u00f3n SMTP se compone de estos comandos: ",
+            "options": [
+                {
+                    "text": "b) MAIL FROM, RCPT TO y DATA. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Es un conjunto de reglas que rigen el formato y el significado de los paquetes o mensajes que se intercambian las  entidades iguales en una capa. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Un sistema de monitorizaci\u00f3n de infraestructuras de tecnolog\u00edas de la Informaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Mediante la modificaci\u00f3n en el DNS, enviar al usuario a una web falsa. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "7. Se\u00f1ale cu\u00e1l de las siguientes NO es una Protocol Data Unit (PDU) del protocolo SNMP v2\/v3: ",
+            "options": [
+                {
+                    "text": "b) SETRESPONSE PDU ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) NFC ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Un sistema de monitorizaci\u00f3n de infraestructuras de tecnolog\u00edas de la Informaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) IEEE 802.3ae ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "8. Indique cu\u00e1l de los siguientes protocolos es un protocolo de gesti\u00f3n de red: ",
+            "options": [
+                {
+                    "text": "a) CMIP ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) La sintaxis de la petici\u00f3n es incorrecta. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) IEEE 802.3ae ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) cmdlets ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "9. Indique qu\u00e9 afirmaci\u00f3n en relaci\u00f3n al protocolo LDAP es VERDADERA: ",
+            "options": [
+                {
+                    "text": "d) El protocolo LDAP est\u00e1 descrito usando ASN.1. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Se puede calcular a partir de la direcci\u00f3n MAC del dispositivo. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Confidencialidad. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) MAIL FROM, RCPT TO y DATA. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "10. Nagios es: ",
+            "options": [
+                {
+                    "text": "a) Un sistema de monitorizaci\u00f3n de infraestructuras de tecnolog\u00edas de la Informaci\u00f3n. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) \/etc\/shadow ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Es un conjunto de reglas que rigen el formato y el significado de los paquetes o mensajes que se intercambian las  entidades iguales en una capa. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SETRESPONSE PDU ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11. Si disponemos de 2 discos en RAID 0, el primero es una unidad de 10 GB y la segunda unidad tiene una  capacidad 27 GB, se crear\u00e1 una unidad l\u00f3gica resultante de: ",
+            "options": [
+                {
+                    "text": "c) 20GB. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Un sistema de monitorizaci\u00f3n de infraestructuras de tecnolog\u00edas de la Informaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SLA ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Utiliza varias antenas para la recepci\u00f3n y emisi\u00f3n, lo que permite aumentar la capacidad de transmisi\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12. La vulnerabilidad conocida como heartbleed afecta a: ",
+            "options": [
+                {
+                    "text": "c) al software criptogr\u00e1fico OpenSSL. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Dispositivo de seguridad que proporciona integradas diferentes soluciones de seguridad perimetral. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Permite ordenar l\u00edneas de archivos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SLA ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. En relaci\u00f3n a la fibra \u00f3ptica, \u00bfcu\u00e1l de las siguientes afirmaciones es correcta?",
+            "options": [
+                {
+                    "text": "c) Existen tres ventanas de transmisi\u00f3n, la primera ventana con una longitud de onda de 820 nm, la segunda ventana de  1.310 nm y la tercera de 1.550 nm. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Se puede calcular a partir de la direcci\u00f3n MAC del dispositivo. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Mediante la modificaci\u00f3n en el DNS, enviar al usuario a una web falsa. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Confidencialidad. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14. \u00bfCu\u00e1l es la tecnolog\u00eda empleada en los smartphones o tablets para realizar comunicaciones sin contacto entre  dos dispositivos sin necesidad de emparejamiento entre ellos? ",
+            "options": [
+                {
+                    "text": "a) NFC ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) red: 132.27.31.64\/26 y broadcast: 132.27.31.127 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SLA ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Dada la clave p\u00fablica es posible obtener la privada. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15. En una infraestructura de fibra \u00f3ptica FTTH (Fiber To The Home), el dispositivo terminal que da acceso a la  vivienda y que finaliza la infraestructura sobre fibra se denomina: ",
+            "options": [
+                {
+                    "text": "b) ONT (Optical Network Termination). ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Dada la clave p\u00fablica es posible obtener la privada. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) red: 132.27.31.64\/26 y broadcast: 132.27.31.127 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La sintaxis de la petici\u00f3n es incorrecta. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. Indique cu\u00e1l de los siguientes est\u00e1ndares corresponde a telefon\u00eda m\u00f3vil de 4a generaci\u00f3n: ",
+            "options": [
+                {
+                    "text": "b) LTE Advanced ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) al software criptogr\u00e1fico OpenSSL. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SETRESPONSE PDU ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Mediante la modificaci\u00f3n en el DNS, enviar al usuario a una web falsa. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17. Indicar las direcciones IP de red y de broadcast para la siguiente subred 132.27.31.77\/26: ",
+            "options": [
+                {
+                    "text": "c) red: 132.27.31.64\/26 y broadcast: 132.27.31.127 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Dispositivo de seguridad que proporciona integradas diferentes soluciones de seguridad perimetral. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 23 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) al software criptogr\u00e1fico OpenSSL. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18. \u00bfCu\u00e1l de las siguientes afirmaciones sobre el campo TTL de un paquete 1P es verdadera? ",
+            "options": [
+                {
+                    "text": ") Cuando el campo alcanza el valor cero el paquete se descarta. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 20GB. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Un sistema de monitorizaci\u00f3n de infraestructuras de tecnolog\u00edas de la Informaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) NFC ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "19. Seg\u00fan la RFC 2616, cuando una petici\u00f3n HTTP recibe una respuesta \"400 Bad Request\" significa que: ",
+            "options": [
+                {
+                    "text": "c) La sintaxis de la petici\u00f3n es incorrecta. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) De recuperaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": ") Cuando el campo alcanza el valor cero el paquete se descarta. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Se puede calcular a partir de la direcci\u00f3n MAC del dispositivo. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "20. Seg\u00fan la entidad IANA, \u00bfqu\u00e9 n\u00famero de puerto TCP est\u00e1 reservado para Telnet? ",
+            "options": [
+                {
+                    "text": "d) 23 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) NFC ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SETRESPONSE PDU ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Un sistema de monitorizaci\u00f3n de infraestructuras de tecnolog\u00edas de la Informaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "21. La gesti\u00f3n unificada de amenazas (UTM) se refiere a un: ",
+            "options": [
+                {
+                    "text": "c) Dispositivo de seguridad que proporciona integradas diferentes soluciones de seguridad perimetral. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Utiliza varias antenas para la recepci\u00f3n y emisi\u00f3n, lo que permite aumentar la capacidad de transmisi\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) al software criptogr\u00e1fico OpenSSL. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) cmdlets ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. Indique, de las siguientes, cu\u00e1l NO es una caracter\u00edstica de los sistemas de clave p\u00fablica:",
+            "options": [
+                {
+                    "text": "b) Dada la clave p\u00fablica es posible obtener la privada. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Un sistema de monitorizaci\u00f3n de infraestructuras de tecnolog\u00edas de la Informaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Dispositivo de seguridad que proporciona integradas diferentes soluciones de seguridad perimetral. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 20GB. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. \u00bfA qu\u00e9 \u00e1mbito de la seguridad afecta un ataque realizado con un sniffer? ",
+            "options": [
+                {
+                    "text": "d) Confidencialidad. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 20GB. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) LTE Advanced ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) MAIL FROM, RCPT TO y DATA. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. \u00bfCon qu\u00e9 tipo de mecanismo de seguridad se corresponde un an\u00e1lisis forense? ",
+            "options": [
+                {
+                    "text": "a) De recuperaci\u00f3n. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) SLA ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Utiliza varias antenas para la recepci\u00f3n y emisi\u00f3n, lo que permite aumentar la capacidad de transmisi\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) El protocolo LDAP est\u00e1 descrito usando ASN.1. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. El ataque inform\u00e1tico denominado \u201cpharming\u201d consiste en: ",
+            "options": [
+                {
+                    "text": "d) Mediante la modificaci\u00f3n en el DNS, enviar al usuario a una web falsa. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) red: 132.27.31.64\/26 y broadcast: 132.27.31.127 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) LTE Advanced ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Se puede calcular a partir de la direcci\u00f3n MAC del dispositivo. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. \u00bfQu\u00e9 est\u00e1ndar define 10-Gigabit Ethernet? ",
+            "options": [
+                {
+                    "text": "a) IEEE 802.3ae ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) red: 132.27.31.64\/26 y broadcast: 132.27.31.127 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) al software criptogr\u00e1fico OpenSSL. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Permite ordenar l\u00edneas de archivos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2. En una direcci\u00f3n IPv6 unicast, el identificador de interfaz: ",
+            "options": [
+                {
+                    "text": "c) Se puede calcular a partir de la direcci\u00f3n MAC del dispositivo. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Existen tres ventanas de transmisi\u00f3n, la primera ventana con una longitud de onda de 820 nm, la segunda ventana de  1.310 nm y la tercera de 1.550 nm. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Confidencialidad. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Un sistema de monitorizaci\u00f3n de infraestructuras de tecnolog\u00edas de la Informaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. La tecnolog\u00eda MIMO en el \u00e1mbito de las redes inal\u00e1mbricas: ",
+            "options": [
+                {
+                    "text": "c) Utiliza varias antenas para la recepci\u00f3n y emisi\u00f3n, lo que permite aumentar la capacidad de transmisi\u00f3n. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) LTE Advanced ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) IEEE 802.3ae ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 23 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

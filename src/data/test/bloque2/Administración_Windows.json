@@ -1,0 +1,16 @@
+{
+    "title": "Administraci\u00f3n Windows",
+    "type": "bloque2",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "Para evitar problemas de resoluci\u00f3n de nombres en estos equipos Windows donde se est\u00e1 configurando el cliente de\r\ncorreo, han decidido limpiar la cach\u00e9 DNS. \u00bfCu\u00e1l ser\u00eda el comando adecuado?",
+            "options": [
+                {
+                    "text": "ipconfig \/flushdns",
+                    "isCorrect": true
+                }
+            ]
+        }
+    ]
+}

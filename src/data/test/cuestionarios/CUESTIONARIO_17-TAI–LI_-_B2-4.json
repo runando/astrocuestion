@@ -1,0 +1,1183 @@
+{
+    "title": "CUESTIONARIO 17-TAI\u2013LI - B2-4",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "18. Se\u00f1ale la respuesta correcta sobre el sistema de archivos ReFS: ",
+            "options": [
+                {
+                    "text": "c) El tama\u00f1o m\u00e1ximo de archivo es 18 EB (exabytes). ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) e2fsck",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) getmac (en Windows).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Indica el nivel de ejecuci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "19. El \u201ccontador de programa\u201d de una CPU contiene la:",
+            "options": [
+                {
+                    "text": "c) direcci\u00f3n de la instrucci\u00f3n a ejecutar.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) e2fsck",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Gesti\u00f3n de Contenedores.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SMTP, puerto 27.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "20. Respecto a los distintos tipos de memoria ROM podemos decir:",
+            "options": [
+                {
+                    "text": "c) EEPROM: puede ser borrada y grabada repetidas veces el\u00e9ctricamente.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 34.255.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El tama\u00f1o m\u00e1ximo de archivo es 18 EB (exabytes). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Devuelve al proceso hijo el ID del proceso padre.",
+                    "isCorrect": false,
+                    "hint": "fork() returns 0 in the child process and positive integer in the parent process"
+                }
+            ]
+        },
+        {
+            "question": "21. La unidad de medida de la potencia de un microprocesador es:",
+            "options": [
+                {
+                    "text": "b) Flops",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Windows Update",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) OSPF versi\u00f3n 3 soporta IPv6.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SQL injection",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. El valor decimal del n\u00famero hexadecimal 1C9 es:",
+            "options": [
+                {
+                    "text": "c) 457",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 213.114.93.63",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IP Masquerade",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) which",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. Hablando de zonas de un disco duro, se\u00f1ale la FALSA:",
+            "options": [
+                {
+                    "text": "c) Sector es cada uno de los lados un plato.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Indica el nivel de ejecuci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Debian",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) ordenaci\u00f3n que recorre un vector de elementos e intercambia en cada recorrido un elemento con su sucesor si no est\u00e1n en orden.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. Seg\u00fan la nueva especificaci\u00f3n de la interface USB, denominada USB-PD (Power Delivery), la potencia M\u00c1XIMA que es capaz de alcanzar es:",
+            "options": [
+                {
+                    "text": "d) 100",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Debian",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) MeeGo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Jelly Bean",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. Es un algoritmo de la teor\u00eda de grafos para encontrar un \u00e1rbol recubridor m\u00ednimo en un grafo conexo y ponderado:",
+            "options": [
+                {
+                    "text": "b) Kruskal",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Contiene ficheros ejecutables y algunas utilidades del sistema operativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) MeeGo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Se env\u00eda para comprobar si la conexi\u00f3n con otro dispositivo est\u00e1 activa.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "26. La estructura de datos que permite inserciones por un extremo y borrados por los dos es una:",
+            "options": [
+                {
+                    "text": "b) Bicola de entrada restringida.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) que est\u00e1 ejecutando el usuario actual.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SQL injection",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 100",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "27. Entre los m\u00e9todos para la compresi\u00f3n de im\u00e1genes con p\u00e9rdidas se encuentra:",
+            "options": [
+                {
+                    "text": "d) Codificaci\u00f3n por transformaci\u00f3n (como TDC).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) which",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) OSPF versi\u00f3n 3 soporta IPv6.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Contiene ficheros ejecutables y algunas utilidades del sistema operativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "28. \u00bfQu\u00e9 formato de fichero es de gr\u00e1ficos vectoriales?",
+            "options": [
+                {
+                    "text": "a) SVG",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Kruskal",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) init 3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) e2fsck",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "29. El m\u00e9todo del intercambio directo o algoritmo de la burbuja, es un algoritmo cl\u00e1sico de:",
+            "options": [
+                {
+                    "text": "a) ordenaci\u00f3n que recorre un vector de elementos e intercambia en cada recorrido un elemento con su sucesor si no est\u00e1n en orden.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) La disponibilidad se ve afectada por la interrupci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IP Masquerade",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Ataque: evento que puede originar un incidente produciendo da\u00f1os materiales o p\u00e9rdidas inmateriales.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "30. En UNIX una llamada fork(), se\u00f1ale la FALSA:",
+            "options": [
+                {
+                    "text": "d) Devuelve al proceso hijo el ID del proceso padre.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) MeeGo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 408 Request Timeout.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) grep -c Autor libro.txt",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "31. El comando UNIX: ps -ef | grep $USER, muestra todos los procesos:",
+            "options": [
+                {
+                    "text": "c) que est\u00e1 ejecutando el usuario actual.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Jelly Bean",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Gesti\u00f3n de Contenedores.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Codificaci\u00f3n por transformaci\u00f3n (como TDC).",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "32. En Linux, la carpeta \/bin: ",
+            "options": [
+                {
+                    "text": "b) Contiene ficheros ejecutables y algunas utilidades del sistema operativo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 100",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 213.114.93.63",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) ordenaci\u00f3n que recorre un vector de elementos e intercambia en cada recorrido un elemento con su sucesor si no est\u00e1n en orden.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "33. Haciendo uso del comando de Linux grep, indique cu\u00e1l de las siguientes opciones devuelve el n\u00famero total de l\u00edneas en que aparece la palabra \u201cAutor\u201d en el fichero \u201clibro.txt\u201d:",
+            "options": [
+                {
+                    "text": "d) grep -c Autor libro.txt",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Devuelve al proceso hijo el ID del proceso padre.",
+                    "isCorrect": false,
+                    "hint": "fork() returns 0 in the child process and positive integer in the parent process"
+                },
+                {
+                    "text": "c) 457",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SNMP",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "34. Indique cu\u00e1l de los siguientes es un sistema operativo para m\u00f3viles:",
+            "options": [
+                {
+                    "text": "c) MeeGo",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SQL injection",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) HSTS",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 213.114.93.63",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "35. La versi\u00f3n 4.1 del sistema operativo Android es:",
+            "options": [
+                {
+                    "text": "b) Jelly Bean",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) EEPROM: puede ser borrada y grabada repetidas veces el\u00e9ctricamente.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SNMP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Sector es cada uno de los lados un plato.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "72. El t\u00e9rmino \"kubernetes\u201d est\u00e1 relacionado con:",
+            "options": [
+                {
+                    "text": "b) Gesti\u00f3n de Contenedores.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) ordenaci\u00f3n que recorre un vector de elementos e intercambia en cada recorrido un elemento con su sucesor si no est\u00e1n en orden.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El tama\u00f1o m\u00e1ximo de archivo es 18 EB (exabytes). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 100",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "73. De entre las siguientes, \u00bfcu\u00e1l es una plataforma de contenedores?",
+            "options": [
+                {
+                    "text": "a) OpenShift",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Windows Update",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Topolog\u00eda de anillo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Bicola de entrada restringida.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "74. En el \u00e1mbito de los sistemas operativos de Microsoft, la extensi\u00f3n que permite mantener actualizado el sistema operativo es:",
+            "options": [
+                {
+                    "text": "b) Windows Update",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Debian",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Jelly Bean",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Kruskal",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "75. Con qu\u00e9 comando de Linux se puede comprobar la integridad de un sistema de ficheros ext3?",
+            "options": [
+                {
+                    "text": "b) e2fsck",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SMTP, puerto 27.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Bicola de entrada restringida.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) CLARA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "76. El comando de Linux que permite conocer la ruta completa de un comando es:",
+            "options": [
+                {
+                    "text": "a) which",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) init 3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Ataque: evento que puede originar un incidente produciendo da\u00f1os materiales o p\u00e9rdidas inmateriales.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La disponibilidad se ve afectada por la interrupci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "77. De los siguientes comandos Linux, \u00bfcu\u00e1l permite cambiar el sistema al nivel de ejecuci\u00f3n 32",
+            "options": [
+                {
+                    "text": "d) init 3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Topolog\u00eda de anillo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SVG",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 34.255.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "78. Advanced Package Tool (APT) es un sistema de gesti\u00f3n de paquetes creado por el proyecto:",
+            "options": [
+                {
+                    "text": "a) Debian",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SQL injection",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Codificaci\u00f3n por transformaci\u00f3n (como TDC).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Contiene ficheros ejecutables y algunas utilidades del sistema operativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "79. El c\u00f3digo devuelto por un servidor SMTP para indicar que la transmisi\u00f3n del mensaje ha finalizado es:",
+            "options": [
+                {
+                    "text": "a) 250",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Indica el nivel de ejecuci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Codificaci\u00f3n por transformaci\u00f3n (como TDC).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IP Masquerade",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "80. Indique la afirmaci\u00f3n correcta referente a un segmento Keep-Alive seg\u00fan RFC 1122:",
+            "options": [
+                {
+                    "text": "c) Se env\u00eda para comprobar si la conexi\u00f3n con otro dispositivo est\u00e1 activa.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 100",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Consiste en la suplantaci\u00f3n de una direcci\u00f3n MAC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) init 3",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "81. De entre los siguientes, \u00bfcu\u00e1l es un protocolo de gesti\u00f3n de redes?",
+            "options": [
+                {
+                    "text": "b) SNMP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Consiste en la suplantaci\u00f3n de una direcci\u00f3n MAC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) MeeGo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 123",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "82. En Linux, \u00bfqu\u00e9 informaci\u00f3n se muestra tras ejecutar en consola \"who -r\"?",
+            "options": [
+                {
+                    "text": "a) Indica el nivel de ejecuci\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) que est\u00e1 ejecutando el usuario actual.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 408 Request Timeout.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) fragmento, que pasa a ser un tipo de cabecera de extensi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "83. Indique cu\u00e1l de las siguientes herramientas es un Desktop Service o un Gestor de Atenci\u00f3n al Usuario CAU:",
+            "options": [
+                {
+                    "text": "a) BMC REMEDY",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Sector es cada uno de los lados un plato.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) e2fsck",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Windows Update",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "84. \u00bfC\u00f3mo se denomina la vulnerabilidad web consistente en la ejecuci\u00f3n de un comando malicioso de acceso o modificaci\u00f3n de una base de datos como parte de una petici\u00f3n?",
+            "options": [
+                {
+                    "text": "c) SQL injection",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Consiste en la suplantaci\u00f3n de una direcci\u00f3n MAC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) que est\u00e1 ejecutando el usuario actual.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 457",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "85. Indique la afirmaci\u00f3n INCORRECTA de las siguientes relacionadas con la seguridad inform\u00e1tica:",
+            "options": [
+                {
+                    "text": "b) Ataque: evento que puede originar un incidente produciendo da\u00f1os materiales o p\u00e9rdidas inmateriales.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) getmac (en Windows).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Gesti\u00f3n de Contenedores.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) fragmento, que pasa a ser un tipo de cabecera de extensi\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "86. La t\u00e9cnica que permite dar acceso a Internet a todos los equipos de una red interna a trav\u00e9s de una \u00fanica IP externa es:",
+            "options": [
+                {
+                    "text": "b) IP Masquerade",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) utiliza alguna herramienta (normalmente antenas de gran alcance) para capturar de forma pasiva el tr\u00e1fico inal\u00e1mbrico,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 408 Request Timeout.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 123",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "87. Para obtener la direcci\u00f3n f\u00edsica (MAC) de un dispositivo, el comando a utilizar es:",
+            "options": [
+                {
+                    "text": "d) getmac (en Windows).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Windows Update",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) CLARA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 408 Request Timeout.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "88. \u00bfCu\u00e1l es la direcci\u00f3n de difusi\u00f3n o broadcasting de la red a la que pertenece un host cuya IP es 34.254.0.17?",
+            "options": [
+                {
+                    "text": "d) 34.255.255.255",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) MeeGo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Consiste en la suplantaci\u00f3n de una direcci\u00f3n MAC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) DNS sinkholing",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "89. El campo que desaparece en la cabecera est\u00e1ndar de la versi\u00f3n 6 del protocolo TCP\/IP con respecto a la versi\u00f3n 4 es el campo:",
+            "options": [
+                {
+                    "text": "a) fragmento, que pasa a ser un tipo de cabecera de extensi\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) IP Masquerade",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Contiene ficheros ejecutables y algunas utilidades del sistema operativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 250",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "90. Dada la siguiente direcci\u00f3n de red 213.114.93.0, con m\u00e1scara de red 255.255.255,192, indique cu\u00e1l es su direcci\u00f3n de broadcast:",
+            "options": [
+                {
+                    "text": "a) 213.114.93.63",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 123",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) HSTS",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SMTP, puerto 27.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "91. Indique la afirmaci\u00f3n INCORRECTA en relaci\u00f3n a protocolos y su puerto conocido de escucha:",
+            "options": [
+                {
+                    "text": "c) SMTP, puerto 27.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Kruskal",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) ordenaci\u00f3n que recorre un vector de elementos e intercambia en cada recorrido un elemento con su sucesor si no est\u00e1n en orden.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) El tama\u00f1o m\u00e1ximo de archivo es 18 EB (exabytes). ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "92. La pol\u00edtica o mecanismo de seguridad estandarizado que sirve para indicar a los navegadores que una web (y todos sus enlaces) deben ser accedidos exclusivamente utilizando HTTPS se llama:",
+            "options": [
+                {
+                    "text": "c) HSTS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Consiste en la suplantaci\u00f3n de una direcci\u00f3n MAC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Codificaci\u00f3n por transformaci\u00f3n (como TDC).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) direcci\u00f3n de la instrucci\u00f3n a ejecutar.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "93. El protocolo NTP (Network Time Protocol) tiene asignado el puerto:",
+            "options": [
+                {
+                    "text": "a) 123",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) which",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La disponibilidad se ve afectada por la interrupci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) MeeGo",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "94. De los siguientes c\u00f3digos de respuesta de HTTP, identifique el correcto:",
+            "options": [
+                {
+                    "text": "c) 408 Request Timeout.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) OpenShift",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Gesti\u00f3n de Contenedores.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 34.255.255.255",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "95. Entre los riesgos de las redes inal\u00e1mbricas, el \u201ceavesdropping\u201d sucede cuando un individuo no autorizado:",
+            "options": [
+                {
+                    "text": "c) utiliza alguna herramienta (normalmente antenas de gran alcance) para capturar de forma pasiva el tr\u00e1fico inal\u00e1mbrico,",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Flops",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Sector es cada uno de los lados un plato.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IP Masquerade",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "96. En relaci\u00f3n a MAC spoofing indique la afirmaci\u00f3n correcta:",
+            "options": [
+                {
+                    "text": "a) Consiste en la suplantaci\u00f3n de una direcci\u00f3n MAC.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Deriva del factor de forma ATX.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) OSPF versi\u00f3n 3 soporta IPv6.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Gesti\u00f3n de Contenedores.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "97. Cu\u00e1l de las siguientes opciones se refiere a un m\u00e9todo que se utiliza para redirigir el tr\u00e1fico dirigido a ciertas IPs por razones de seguridad, para analizar, o detectar comportamientos an\u00f3malos y prevenir ataques de malware:",
+            "options": [
+                {
+                    "text": "b) DNS sinkholing",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Topolog\u00eda de anillo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Sector es cada uno de los lados un plato.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Devuelve al proceso hijo el ID del proceso padre.",
+                    "isCorrect": false,
+                    "hint": "fork() returns 0 in the child process and positive integer in the parent process"
+                }
+            ]
+        },
+        {
+            "question": "98. La herramienta del CCN para Auditor\u00eda de Cumplimiento ENS\/STIC en Sistemas Windows se denomina:",
+            "options": [
+                {
+                    "text": "d) CLARA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Deriva del factor de forma ATX.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) que est\u00e1 ejecutando el usuario actual.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 408 Request Timeout.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "99. En relaci\u00f3n a las dimensiones de seguridad y sus posibles amenazas, indique la afirmaci\u00f3n correcta:",
+            "options": [
+                {
+                    "text": "d) La disponibilidad se ve afectada por la interrupci\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Deriva del factor de forma ATX.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Contiene ficheros ejecutables y algunas utilidades del sistema operativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SQL injection",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "100. \u00bfCu\u00e1l de las siguientes NO se considera una topolog\u00eda de red inal\u00e1mbrica?",
+            "options": [
+                {
+                    "text": "d) Topolog\u00eda de anillo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) init 3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) OSPF versi\u00f3n 3 soporta IPv6.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Contiene ficheros ejecutables y algunas utilidades del sistema operativo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. En las placas base, el factor de forma MicroATX:",
+            "options": [
+                {
+                    "text": "d) Deriva del factor de forma ATX.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) ordenaci\u00f3n que recorre un vector de elementos e intercambia en cada recorrido un elemento con su sucesor si no est\u00e1n en orden.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) MeeGo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) DNS sinkholing",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 3. Cu\u00e1l de las siguientes afirmaciones acerca de OSPF es verdadera?",
+            "options": [
+                {
+                    "text": "b) OSPF versi\u00f3n 3 soporta IPv6.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 213.114.93.63",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) grep -c Autor libro.txt",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) e2fsck",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

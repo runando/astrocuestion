@@ -1,0 +1,583 @@
+{
+    "title": "Teoria IPv4 y IPv6",
+    "type": "ptype",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "Quien desarrolla IPV6?",
+            "options": [
+                {
+                    "text": "IETF",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Es un campo de 16 bits que indica el tama\u00f1o total del paquete. El valor m\u00e1s alto que puede almacenar un campo de 16 bits es 65535, que puede ser el tama\u00f1o m\u00e1ximo del paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Este campo de 8 bits remplaza el campo de TTL en IPv4. Este valor se decrementa en uno en cada nodo de enrutamiento y el paquete se descarta si se vuelve 0.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Este es un campo de 16 bits. Se utiliza para verificar la validez del encabezado. Como el valor TTL se modifica a cada salto, hay que calcularlo cada vez. Se descarta el paquete en caso de error.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Marque la respuesta INCORRECTA acerca de IPv6",
+            "options": [
+                {
+                    "text": "Elimina la necesidad de obtener de un ISP una direcci\u00f3n Global Unicast para acceder a internet.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "40 Bytes",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Esto se conoce como offset de fragmentaci\u00f3n. Es un campo de 13 bits que determina a qu\u00e9 parte del paquete original pertenece este fragmento.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Entre 20 y 60  Bytes",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Tama\u00f1o header IPv4",
+            "options": [
+                {
+                    "text": "Entre 20 y 60  Bytes",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Este es un campo de 16 bits. Se utiliza para verificar la validez del encabezado. Como el valor TTL se modifica a cada salto, hay que calcularlo cada vez. Se descarta el paquete en caso de error.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "El relleno (padding) se utiliza b\u00e1sicamente para asegurarse de que la longitud del encabezado del paquete IP sea un m\u00faltiplo de 32 bits.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Es un campo de 8 bits que indica la cantidad de saltos que un paquete puede tener antes de ser descartado Se va decrementando hasta llegar a 0 y se descarta y se manda un mensaje ICMP \"Time Exceded\".",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Tama\u00f1o header IPv6",
+            "options": [
+                {
+                    "text": "40 Bytes",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Esto se conoce como offset de fragmentaci\u00f3n. Es un campo de 13 bits que determina a qu\u00e9 parte del paquete original pertenece este fragmento.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Este es un campo de 8 bits que especifica el protocolo de capa superior. Indica al dispositivo receptor c\u00f3mo procesar este paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "ToS significa Tipo de Servicio (Type of Service). Es un campo de 8 bits. Este campo indica el tipo de servicio requerido para el paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Marque la correcta respecto al campo Header Length en IPv4",
+            "options": [
+                {
+                    "text": " La longitud del encabezado, tambi\u00e9n conocida como IHL (Internet Header Length), es un campo de 4 bits que nos indica la longitud del encabezado IPv4. El tama\u00f1o del encabezado IPv4 no es siempre el mismo, por eso se utiliza este campo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Es un campo de 16 bits que nos indica el n\u00famero de identificaci\u00f3n de un paquete. Sirve para poder reensamblar un paquete fragmentado. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Esto se conoce como offset de fragmentaci\u00f3n. Es un campo de 13 bits que determina a qu\u00e9 parte del paquete original pertenece este fragmento.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Cuando un paquete llega a un enrutador, el enrutador disminuye el campo TTL en el encabezado. En consecuencia, el enrutador debe calcular una nueva suma de verificaci\u00f3n del encabezado.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Marque la correcta respecto al campo ToS en IPv4",
+            "options": [
+                {
+                    "text": "ToS significa Tipo de Servicio (Type of Service). Es un campo de 8 bits. Este campo indica el tipo de servicio requerido para el paquete.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Este es un campo de 8 bits que especifica el protocolo de capa superior. Indica al dispositivo receptor c\u00f3mo procesar este paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Utiliza campo de opciones",
+                    "isCorrect": false,
+                    "hint": "En vez de opciones, usa encabezados m\u00faltiples."
+                },
+                {
+                    "text": "Cuando un paquete llega a un enrutador, el enrutador disminuye el campo TTL en el encabezado. En consecuencia, el enrutador debe calcular una nueva suma de verificaci\u00f3n del encabezado.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Marque la respuesta correcta respecto al campo Total Length en IPv4",
+            "options": [
+                {
+                    "text": "Es un campo de 16 bits que indica el tama\u00f1o total del paquete. El valor m\u00e1s alto que puede almacenar un campo de 16 bits es 65535, que puede ser el tama\u00f1o m\u00e1ximo del paquete.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Esto se conoce como offset de fragmentaci\u00f3n. Es un campo de 13 bits que determina a qu\u00e9 parte del paquete original pertenece este fragmento.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Utiliza campo de opciones",
+                    "isCorrect": false,
+                    "hint": "En vez de opciones, usa encabezados m\u00faltiples."
+                },
+                {
+                    "text": "Cuando un paquete llega a un enrutador, el enrutador disminuye el campo TTL en el encabezado. En consecuencia, el enrutador debe calcular una nueva suma de verificaci\u00f3n del encabezado.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Marque la correcta respecto al campo Identificaci\u00f3n (16 Bits) en IPv4",
+            "options": [
+                {
+                    "text": "Es un campo de 16 bits que nos indica el n\u00famero de identificaci\u00f3n de un paquete. Sirve para poder reensamblar un paquete fragmentado. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Es un campo de 16 bits que indica el tama\u00f1o total del paquete. El valor m\u00e1s alto que puede almacenar un campo de 16 bits es 65535, que puede ser el tama\u00f1o m\u00e1ximo del paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Este es un campo de 8 bits que especifica el protocolo de capa superior. Indica al dispositivo receptor c\u00f3mo procesar este paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "El campo de suma de verificaci\u00f3n es el complemento a uno de 16 bits de la suma de complemento a uno de todas las palabras de 16 bits en el encabezado. Para calcular la suma de verificaci\u00f3n, el valor del campo de suma de verificaci\u00f3n es cero.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Marque la respuesta correcta respecto al campo Flag en IPv4",
+            "options": [
+                {
+                    "text": "Este es un campo de 3 bits que permite la fragmentaci\u00f3n. El primer bit en este campo siempre se establece en 0. El segundo bit indica si el paquete debe ser fragmentado. El \u00faltimo bit indica si quedan m\u00e1s fragmentos despu\u00e9s del fragmento actual.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Utiliza campo de opciones",
+                    "isCorrect": false,
+                    "hint": "En vez de opciones, usa encabezados m\u00faltiples."
+                },
+                {
+                    "text": "40 Bytes",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Indica la longitud de la carga \u00fatil de IPv6. El tama\u00f1o de este campo es de 16 bits.  Incluye las cabeceras de extensi\u00f3n y la PDU de la capa superior. Para longitudes de carga \u00fatil superiores al m\u00e1ximo, el campo Payload Length se establece en 0 y se utiliza la opci\u00f3n Jumbo Payload en la cabecera de extensi\u00f3n Hop-by-Hop Options.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Marque la respuesta correcta respecto al campo Offset en IPv4",
+            "options": [
+                {
+                    "text": "Esto se conoce como offset de fragmentaci\u00f3n. Es un campo de 13 bits que determina a qu\u00e9 parte del paquete original pertenece este fragmento.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "El tama\u00f1o de este campo es de 8 bits. Este campo generalmente especifica el protocolo de la capa de transporte utilizado por la carga \u00fatil del paquete (como TCP, UDP o ICMPv6). Cuando hay cabeceras de extensi\u00f3n presentes en el paquete, este campo indica qu\u00e9 cabecera de extensi\u00f3n sigue. Los valores se comparten con los utilizados para el campo de protocolo de IPv4.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Es un campo de 16 bits que nos indica el n\u00famero de identificaci\u00f3n de un paquete. Sirve para poder reensamblar un paquete fragmentado. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Utiliza campo de opciones",
+                    "isCorrect": false,
+                    "hint": "En vez de opciones, usa encabezados m\u00faltiples."
+                }
+            ]
+        },
+        {
+            "question": "Marque la respuesta correcta respecto al campo TTL (8bits) en IPv4",
+            "options": [
+                {
+                    "text": "Es un campo de 8 bits que indica la cantidad de saltos que un paquete puede tener antes de ser descartado Se va decrementando hasta llegar a 0 y se descarta y se manda un mensaje ICMP \"Time Exceded\".",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ToS significa Tipo de Servicio (Type of Service). Es un campo de 8 bits. Este campo indica el tipo de servicio requerido para el paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Cuando un paquete llega a un enrutador, el enrutador disminuye el campo TTL en el encabezado. En consecuencia, el enrutador debe calcular una nueva suma de verificaci\u00f3n del encabezado.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "El relleno (padding) se utiliza b\u00e1sicamente para asegurarse de que la longitud del encabezado del paquete IP sea un m\u00faltiplo de 32 bits.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Marque la respuesta correcta respecto al campo Protocol en IPv4",
+            "options": [
+                {
+                    "text": "Este es un campo de 8 bits que especifica el protocolo de capa superior. Indica al dispositivo receptor c\u00f3mo procesar este paquete.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Esto se conoce como offset de fragmentaci\u00f3n. Es un campo de 13 bits que determina a qu\u00e9 parte del paquete original pertenece este fragmento.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "El campo de suma de verificaci\u00f3n es el complemento a uno de 16 bits de la suma de complemento a uno de todas las palabras de 16 bits en el encabezado. Para calcular la suma de verificaci\u00f3n, el valor del campo de suma de verificaci\u00f3n es cero.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Es un campo de 16 bits que nos indica el n\u00famero de identificaci\u00f3n de un paquete. Sirve para poder reensamblar un paquete fragmentado. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Marque la respuesta correcta respecto al campo Checksum en IPv4",
+            "options": [
+                {
+                    "text": "Este es un campo de 16 bits. Se utiliza para verificar la validez del encabezado. Como el valor TTL se modifica a cada salto, hay que calcularlo cada vez. Se descarta el paquete en caso de error.",
+                    "isCorrect": true
+                },
+                {
+                    "text": " La longitud del encabezado, tambi\u00e9n conocida como IHL (Internet Header Length), es un campo de 4 bits que nos indica la longitud del encabezado IPv4. El tama\u00f1o del encabezado IPv4 no es siempre el mismo, por eso se utiliza este campo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "El tama\u00f1o de este campo es de 8 bits. Este campo generalmente especifica el protocolo de la capa de transporte utilizado por la carga \u00fatil del paquete (como TCP, UDP o ICMPv6). Cuando hay cabeceras de extensi\u00f3n presentes en el paquete, este campo indica qu\u00e9 cabecera de extensi\u00f3n sigue. Los valores se comparten con los utilizados para el campo de protocolo de IPv4.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Este es un campo de 3 bits que permite la fragmentaci\u00f3n. El primer bit en este campo siempre se establece en 0. El segundo bit indica si el paquete debe ser fragmentado. El \u00faltimo bit indica si quedan m\u00e1s fragmentos despu\u00e9s del fragmento actual.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Respecto al campo Traffic Class de IPv6",
+            "options": [
+                {
+                    "text": "Este es un campo de 8 bits. Es similar al campo TOS en el encabezado de IPv4. Los primeros 6 bits representan el servicio requerido para este paquete y los \u00faltimos 2 bits se utilizan para la Notificaci\u00f3n Expl\u00edcita de Congesti\u00f3n (ECN).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "40 Bytes",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Es un campo de 16 bits que indica el tama\u00f1o total del paquete. El valor m\u00e1s alto que puede almacenar un campo de 16 bits es 65535, que puede ser el tama\u00f1o m\u00e1ximo del paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": " La longitud del encabezado, tambi\u00e9n conocida como IHL (Internet Header Length), es un campo de 4 bits que nos indica la longitud del encabezado IPv4. El tama\u00f1o del encabezado IPv4 no es siempre el mismo, por eso se utiliza este campo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Respecto al campo Checksum de IPv4",
+            "options": [
+                {
+                    "text": "Cuando un paquete llega a un enrutador, el enrutador disminuye el campo TTL en el encabezado. En consecuencia, el enrutador debe calcular una nueva suma de verificaci\u00f3n del encabezado.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Este es un campo de 16 bits. Se utiliza para verificar la validez del encabezado. Como el valor TTL se modifica a cada salto, hay que calcularlo cada vez. Se descarta el paquete en caso de error.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Este es un campo de 8 bits. Es similar al campo TOS en el encabezado de IPv4. Los primeros 6 bits representan el servicio requerido para este paquete y los \u00faltimos 2 bits se utilizan para la Notificaci\u00f3n Expl\u00edcita de Congesti\u00f3n (ECN).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Este es un campo de 20 bits. Se utiliza para etiquetar los paquetes que pertenecen a la misma secuencia. Su objetivo es asegurar que los paquetes se entreguen en orden. Este campo se utiliza principalmente para la entrega de datos en tiempo real, como audio o video. Si el paquete no pertenece a ning\u00fan flujo, su valor debe ser 0.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Respecto al c\u00e1lculo del Checksum de IPv4",
+            "options": [
+                {
+                    "text": "El campo de suma de verificaci\u00f3n es el complemento a uno de 16 bits de la suma de complemento a uno de todas las palabras de 16 bits en el encabezado. Para calcular la suma de verificaci\u00f3n, el valor del campo de suma de verificaci\u00f3n es cero.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Indica la longitud de la carga \u00fatil de IPv6. El tama\u00f1o de este campo es de 16 bits.  Incluye las cabeceras de extensi\u00f3n y la PDU de la capa superior. Para longitudes de carga \u00fatil superiores al m\u00e1ximo, el campo Payload Length se establece en 0 y se utiliza la opci\u00f3n Jumbo Payload en la cabecera de extensi\u00f3n Hop-by-Hop Options.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Utiliza campo de opciones",
+                    "isCorrect": false,
+                    "hint": "En vez de opciones, usa encabezados m\u00faltiples."
+                },
+                {
+                    "text": "Entre 20 y 60  Bytes",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Respecto al campo Fragment offset:",
+            "options": [
+                {
+                    "text": "Los fragmentos se especifican en unidades de 8 bytes, por eso la longitud de los fragmentos debe ser un m\u00faltiplo de 8.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Utiliza campo de opciones",
+                    "isCorrect": false,
+                    "hint": "En vez de opciones, usa encabezados m\u00faltiples."
+                },
+                {
+                    "text": " La longitud del encabezado, tambi\u00e9n conocida como IHL (Internet Header Length), es un campo de 4 bits que nos indica la longitud del encabezado IPv4. El tama\u00f1o del encabezado IPv4 no es siempre el mismo, por eso se utiliza este campo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Este es un campo de 8 bits que especifica el protocolo de capa superior. Indica al dispositivo receptor c\u00f3mo procesar este paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Respecto al padding en ipv4...",
+            "options": [
+                {
+                    "text": "El relleno (padding) se utiliza b\u00e1sicamente para asegurarse de que la longitud del encabezado del paquete IP sea un m\u00faltiplo de 32 bits.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Utiliza campo de opciones",
+                    "isCorrect": false,
+                    "hint": "En vez de opciones, usa encabezados m\u00faltiples."
+                },
+                {
+                    "text": "El tama\u00f1o de este campo es de 8 bits. Este campo generalmente especifica el protocolo de la capa de transporte utilizado por la carga \u00fatil del paquete (como TCP, UDP o ICMPv6). Cuando hay cabeceras de extensi\u00f3n presentes en el paquete, este campo indica qu\u00e9 cabecera de extensi\u00f3n sigue. Los valores se comparten con los utilizados para el campo de protocolo de IPv4.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "IETF",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Respecto al campo Flow Label de IPv6",
+            "options": [
+                {
+                    "text": "Este es un campo de 20 bits. Se utiliza para etiquetar los paquetes que pertenecen a la misma secuencia. Su objetivo es asegurar que los paquetes se entreguen en orden. Este campo se utiliza principalmente para la entrega de datos en tiempo real, como audio o video. Si el paquete no pertenece a ning\u00fan flujo, su valor debe ser 0.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "El relleno (padding) se utiliza b\u00e1sicamente para asegurarse de que la longitud del encabezado del paquete IP sea un m\u00faltiplo de 32 bits.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Utiliza campo de opciones",
+                    "isCorrect": false,
+                    "hint": "En vez de opciones, usa encabezados m\u00faltiples."
+                },
+                {
+                    "text": "4 GiB",
+                    "isCorrect": false,
+                    "hint": "4,294,967,295 bytes"
+                }
+            ]
+        },
+        {
+            "question": "Respecto al campo Payload Length de IPv6",
+            "options": [
+                {
+                    "text": "Indica la longitud de la carga \u00fatil de IPv6. El tama\u00f1o de este campo es de 16 bits.  Incluye las cabeceras de extensi\u00f3n y la PDU de la capa superior. Para longitudes de carga \u00fatil superiores al m\u00e1ximo, el campo Payload Length se establece en 0 y se utiliza la opci\u00f3n Jumbo Payload en la cabecera de extensi\u00f3n Hop-by-Hop Options.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Este es un campo de 20 bits. Se utiliza para etiquetar los paquetes que pertenecen a la misma secuencia. Su objetivo es asegurar que los paquetes se entreguen en orden. Este campo se utiliza principalmente para la entrega de datos en tiempo real, como audio o video. Si el paquete no pertenece a ning\u00fan flujo, su valor debe ser 0.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Este es un campo de 3 bits que permite la fragmentaci\u00f3n. El primer bit en este campo siempre se establece en 0. El segundo bit indica si el paquete debe ser fragmentado. El \u00faltimo bit indica si quedan m\u00e1s fragmentos despu\u00e9s del fragmento actual.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Los fragmentos se especifican en unidades de 8 bytes, por eso la longitud de los fragmentos debe ser un m\u00faltiplo de 8.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Respecto al campo Next Header de IPv6",
+            "options": [
+                {
+                    "text": "El tama\u00f1o de este campo es de 8 bits. Este campo generalmente especifica el protocolo de la capa de transporte utilizado por la carga \u00fatil del paquete (como TCP, UDP o ICMPv6). Cuando hay cabeceras de extensi\u00f3n presentes en el paquete, este campo indica qu\u00e9 cabecera de extensi\u00f3n sigue. Los valores se comparten con los utilizados para el campo de protocolo de IPv4.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Este es un campo de 8 bits. Es similar al campo TOS en el encabezado de IPv4. Los primeros 6 bits representan el servicio requerido para este paquete y los \u00faltimos 2 bits se utilizan para la Notificaci\u00f3n Expl\u00edcita de Congesti\u00f3n (ECN).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Utiliza campo de opciones",
+                    "isCorrect": false,
+                    "hint": "En vez de opciones, usa encabezados m\u00faltiples."
+                },
+                {
+                    "text": "ToS significa Tipo de Servicio (Type of Service). Es un campo de 8 bits. Este campo indica el tipo de servicio requerido para el paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Respecto al campo Hop Limit de IPv6",
+            "options": [
+                {
+                    "text": "Este campo de 8 bits remplaza el campo de TTL en IPv4. Este valor se decrementa en uno en cada nodo de enrutamiento y el paquete se descarta si se vuelve 0.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "4 GiB",
+                    "isCorrect": false,
+                    "hint": "4,294,967,295 bytes"
+                },
+                {
+                    "text": "Este es un campo de 8 bits que especifica el protocolo de capa superior. Indica al dispositivo receptor c\u00f3mo procesar este paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "El campo de suma de verificaci\u00f3n es el complemento a uno de 16 bits de la suma de complemento a uno de todas las palabras de 16 bits en el encabezado. Para calcular la suma de verificaci\u00f3n, el valor del campo de suma de verificaci\u00f3n es cero.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Marque la incorrecta respecto a IPv6",
+            "options": [
+                {
+                    "text": "Utiliza campo de opciones",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ToS significa Tipo de Servicio (Type of Service). Es un campo de 8 bits. Este campo indica el tipo de servicio requerido para el paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "El campo de suma de verificaci\u00f3n es el complemento a uno de 16 bits de la suma de complemento a uno de todas las palabras de 16 bits en el encabezado. Para calcular la suma de verificaci\u00f3n, el valor del campo de suma de verificaci\u00f3n es cero.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Cuando un paquete llega a un enrutador, el enrutador disminuye el campo TTL en el encabezado. En consecuencia, el enrutador debe calcular una nueva suma de verificaci\u00f3n del encabezado.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Tama\u00f1o m\u00e1ximo Jumbogramas IPv6",
+            "options": [
+                {
+                    "text": "4 GiB",
+                    "isCorrect": true
+                },
+                {
+                    "text": "El campo de suma de verificaci\u00f3n es el complemento a uno de 16 bits de la suma de complemento a uno de todas las palabras de 16 bits en el encabezado. Para calcular la suma de verificaci\u00f3n, el valor del campo de suma de verificaci\u00f3n es cero.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Esto se conoce como offset de fragmentaci\u00f3n. Es un campo de 13 bits que determina a qu\u00e9 parte del paquete original pertenece este fragmento.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Este es un campo de 20 bits. Se utiliza para etiquetar los paquetes que pertenecen a la misma secuencia. Su objetivo es asegurar que los paquetes se entreguen en orden. Este campo se utiliza principalmente para la entrega de datos en tiempo real, como audio o video. Si el paquete no pertenece a ning\u00fan flujo, su valor debe ser 0.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

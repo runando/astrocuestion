@@ -1,0 +1,1207 @@
+{
+    "title": "CUESTIONARIO 18-TAI\u2013LI - B2-4",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "n relaci\u00f3n con las funciones l\u00f3gicas b\u00e1sicas. Suponiendo que a=0 y b=1, \u00bfcu\u00e1l de las siguientes sentencias es INCORRECTA?",
+            "options": [
+                {
+                    "text": "c) a NOR b=1",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) TPID: identificador del hilo (thread) del proceso.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Chip EAC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) NETCDF",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. En cuanto a las caracter\u00edsticas del formato de imagen JPEG original, se\u00f1ale la opci\u00f3n correcta:",
+            "options": [
+                {
+                    "text": "b) Ofrece flexibilidad para ajustar el grado de compresi\u00f3n de la imagen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) MARTA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Recorrido INORDEN",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) L2TP se refiere a Layer 2 Tunneling Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. Indique cu\u00e1l de las siguientes unidades de medida de almacenamiento tiene mayor capacidad:",
+            "options": [
+                {
+                    "text": "d) Yottabyte.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 213.45.128.8 y 213.45.126.74",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Es un protocolo de enrutamiento para IPv6.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 9.0",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. De entre los siguientes, \u00bfcu\u00e1l NO es un componentes de la placa base de un ordenador?",
+            "options": [
+                {
+                    "text": "d) Chip EAC.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Short term scheduler.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Caracter\u00edstica de protecci\u00f3n de la informaci\u00f3n que ayuda a mitigar el acceso no autorizado a datos mejorando las protecciones de archivo y de sistema.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 2",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. Indique cu\u00e1l de las siguientes afirmaciones, respecto a los distintos tipos de conexi\u00f3n, es correcta:",
+            "options": [
+                {
+                    "text": "b) FireWire sirve tanto para conectar videoc\u00e1maras digitales como para conectar discos duros externos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Aurora.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Es un protocolo de enrutamiento para IPv6.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) En cuanto a la profundidad de color. si tenemos un 1 bit para describir el color de cada pixel podremos elegir 2 colores.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "26. En cuanto al proceso de digitalizaci\u00f3n de la informaci\u00f3n, se\u00f1ale la informaci\u00f3n correcta:",
+            "options": [
+                {
+                    "text": "d) En cuanto a la profundidad de color. si tenemos un 1 bit para describir el color de cada pixel podremos elegir 2 colores.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) tar tvf fichero.tar",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) STAT",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) a NOR b=1",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "27. \u00bfCu\u00e1l de las siguientes respuestas NO es una interfaz de conexi\u00f3n v\u00e1lida para discos SSD?",
+            "options": [
+                {
+                    "text": "c) DVI",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) En los medios de transmisi\u00f3n no guiados es necesario el uso de dispositivos que emitan o capten la se\u00f1al.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) lsb_release -a",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 1000BASE-SX.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "28. La tecnolog\u00eda Thunderbolt 3 permite transferencias de datos de hasta:",
+            "options": [
+                {
+                    "text": "c) 40 Gbps.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 213.45.128.8 y 213.45.126.74",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) net user pepe *",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Es un proyecto open source y se encuentra disponible para Linux y macOS.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "29. Dado un \u00e1rbol binario no vac\u00edo, \u00bfc\u00f3mo se denomina el recorrido que primero recorre el sub-\u00e1rbol izquierdo, luego la ra\u00edz y, por \u00faltimo, el sub-\u00e1rbol derecho?",
+            "options": [
+                {
+                    "text": "a) Recorrido INORDEN",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Es un protocolo binario, a diferencia de HTTP 1.1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) L2TP se refiere a Layer 2 Tunneling Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Es un proyecto open source y se encuentra disponible para Linux y macOS.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "30. Cu\u00e1l es el grado de un \u00e1rbol binario lleno de 15 nodos? ",
+            "options": [
+                {
+                    "text": "b) 2",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Short term scheduler.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) BPDUs (Bridge Protocol Data Units)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) RAID 0 es tolerante a fallos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "31. En relaci\u00f3n a las estructuras de datos, se\u00f1ale la INCORRECTA:",
+            "options": [
+                {
+                    "text": "b) Los vectores no son estructuras de datos contiguas.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Caracter\u00edstica de protecci\u00f3n de la informaci\u00f3n que ayuda a mitigar el acceso no autorizado a datos mejorando las protecciones de archivo y de sistema.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) STAT",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) net user pepe *",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "32. Con respecto a JSON, se\u00f1ale la correcta:",
+            "options": [
+                {
+                    "text": "d) Es un formato de intercambio de datos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Es un protocolo de enrutamiento para IPv6.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) DVI",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) En cuanto a la profundidad de color. si tenemos un 1 bit para describir el color de cada pixel podremos elegir 2 colores.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "33. En Linux, \u00bfcu\u00e1l de los siguientes comandos se debe utilizar para listar los ficheros contenidos en el archivo \"fichero.tar\"?",
+            "options": [
+                {
+                    "text": "a) tar tvf fichero.tar",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) La banda de 700 MHz.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) MARTA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) NETCDF",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "34. Seleccione la respuesta adecuada respecto al uso de Bitlocker en Windows:",
+            "options": [
+                {
+                    "text": "a) Caracter\u00edstica de protecci\u00f3n de la informaci\u00f3n que ayuda a mitigar el acceso no autorizado a datos mejorando las protecciones de archivo y de sistema.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) En los medios de transmisi\u00f3n no guiados es necesario el uso de dispositivos que emitan o capten la se\u00f1al.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) BPDUs (Bridge Protocol Data Units)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) La banda de 700 MHz.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "35. indique cu\u00e1l de las siguientes opciones NO corresponde con un identificador vinculado a informaci\u00f3n sobre un proceso en Linux:",
+            "options": [
+                {
+                    "text": "a) TPID: identificador del hilo (thread) del proceso.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Un tablespace es una unidad l\u00f3gica de almacenamiento.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) RAID 0 es tolerante a fallos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) FireWire sirve tanto para conectar videoc\u00e1maras digitales como para conectar discos duros externos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "36. En un sistema operativo, indique el scheduler que decide qu\u00e9 proceso entra en el procesador para su ejecuci\u00f3n:",
+            "options": [
+                {
+                    "text": "a) Short term scheduler.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Un cortafuegos DP! permite una inspecci\u00f3n profunda del contenido completo del paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 2",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) La banda de 700 MHz.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37. La versi\u00f3n Pie de Android se corresponde con la versi\u00f3n:",
+            "options": [
+                {
+                    "text": "c) 9.0",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Un cortafuegos DP! permite una inspecci\u00f3n profunda del contenido completo del paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 1000BASE-SX.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Chip EAC.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "38. \u00bfCu\u00e1l de las siguientes opciones NO es una Base de Datos NoSQL?",
+            "options": [
+                {
+                    "text": "c) Aurora.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 1000BASE-SX.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Es orientado a conexi\u00f3n, por lo que los paquetes son tratados de forma conjunta.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) La banda de 700 MHz.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39. En relaci\u00f3n al gestor de base de datos ORACLE, se\u00f1ale la correcta:",
+            "options": [
+                {
+                    "text": "a) Un tablespace es una unidad l\u00f3gica de almacenamiento.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Amenaza",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) NETCDF",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La capa de presentaci\u00f3n se encarga del formato de los datos que se van a intercambiar entre las aplicaciones.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "En Debian GNU\/Linux, \u00bfc\u00f3mo se puede obtener la versi\u00f3n de Linux instalada?",
+            "options": [
+                {
+                    "text": "a) lsb_release -a",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Es un formato de intercambio de datos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) La banda de 700 MHz.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) A:0 ; B:0",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "72. En relaci\u00f3n al framework PowerShell Core de administraci\u00f3n y configuraci\u00f3n de sistemas Windows, indique la afirmaci\u00f3n correcta:",
+            "options": [
+                {
+                    "text": "d) Es un proyecto open source y se encuentra disponible para Linux y macOS.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 40 Gbps.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 1000BASE-SX.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Chip EAC.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "73. Se\u00f1ale la respuesta que retleja, de forma ordenada, la estructura jer\u00e1rquica del Directorio Activo de Microsoft.",
+            "options": [
+                {
+                    "text": "b) Bosque, \u00e1rbol, dominio, unidad organizativa.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Un tablespace es una unidad l\u00f3gica de almacenamiento.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) En los medios de transmisi\u00f3n no guiados es necesario el uso de dispositivos que emitan o capten la se\u00f1al.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Recorrido INORDEN",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "74. De las siguientes, \u00bfcu\u00e1l es una soluci\u00f3n de virtualizaci\u00f3n?",
+            "options": [
+                {
+                    "text": "b) PowerVM",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 993",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Los vectores no son estructuras de datos contiguas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) BPDUs (Bridge Protocol Data Units)",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "75. Se\u00f1ale la respuesta INCORRECTA con respecto a los sistemas RAID:",
+            "options": [
+                {
+                    "text": "b) RAID 0 es tolerante a fallos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) PowerVM",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Es un protocolo de enrutamiento para IPv6.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Un tablespace es una unidad l\u00f3gica de almacenamiento.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "76. En relaci\u00f3n a la virtualizaci\u00f3n de escritorio, \u00bfqu\u00e9 opci\u00f3n NO es correcta?:",
+            "options": [
+                {
+                    "text": "d) VDI en modo no persistente cada usuario tiene su propia imagen de escritorio, que mantiene su configuraci\u00f3n una vez cerrada la sesi\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Trap",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) En los medios de transmisi\u00f3n no guiados es necesario el uso de dispositivos que emitan o capten la se\u00f1al.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) tar tvf fichero.tar",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "77. Cu\u00e1l es el puerto por defecto usado por IMAP sobre TLS?",
+            "options": [
+                {
+                    "text": "d) 993",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) TPID: identificador del hilo (thread) del proceso.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 213.45.128.8 y 213.45.126.74",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Short term scheduler.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "78. \u00bfCu\u00e1l de las siguientes opciones sobre el protocolo Exchange ActiveSync es FALSA?",
+            "options": [
+                {
+                    "text": "b) Consigue un mayor rendimiento gracias al empleo de JSON para la reducci\u00f3n del peso de los mensajes.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) L2TP se refiere a Layer 2 Tunneling Protocol.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Los vectores no son estructuras de datos contiguas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Es un protocolo binario, a diferencia de HTTP 1.1",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "79. En el protocolo de correo electr\u00f3nico POP3, el comando que permite obtener informaci\u00f3n acerca del n\u00famero de mensajes del servidor y lo que ocupan en total en bytes es:",
+            "options": [
+                {
+                    "text": "a) STAT",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) HelloRequest",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La capa de presentaci\u00f3n se encarga del formato de los datos que se van a intercambiar entre las aplicaciones.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) El protocolo OpenVPN no es compatible con IPSec, IKE, PPTP y L2TP.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "80. \u00bfDesde l\u00ednea de comandos, en Windows 10, con los privilegios adecuados, c\u00f3mo podemos cambiar la contrase\u00f1a de un usuario llamado pepe?",
+            "options": [
+                {
+                    "text": "d) net user pepe *",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) FireWire sirve tanto para conectar videoc\u00e1maras digitales como para conectar discos duros externos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Un cortafuegos DP! permite una inspecci\u00f3n profunda del contenido completo del paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) HelloRequest",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "81. Dentro del protocolo SNMP v3, \u00bfc\u00f3mo se denomina a los mensajes no solicitados por el administrador SNMP que remiten fos agentes cuando ocurre alg\u00fan evento inesperado?",
+            "options": [
+                {
+                    "text": "c) Trap",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) STAT",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 40 Gbps.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) En los medios de transmisi\u00f3n no guiados es necesario el uso de dispositivos que emitan o capten la se\u00f1al.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "82. Se\u00f1ale la correcta en cuanto a los medios de transmisi\u00f3n:",
+            "options": [
+                {
+                    "text": "c) En los medios de transmisi\u00f3n no guiados es necesario el uso de dispositivos que emitan o capten la se\u00f1al.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) BPDUs (Bridge Protocol Data Units)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 40 Gbps.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Es un protocolo binario, a diferencia de HTTP 1.1",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "83. Indique el protocolo que permite conocer la direcci\u00f3n IP asociada a una direcci\u00f3n MAC:",
+            "options": [
+                {
+                    "text": "c) RARP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Los vectores no son estructuras de datos contiguas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) DVI",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) PowerVM",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "84. La herramienta del CCN-CERT dedicada al an\u00e1lisis automatizado de ficheros que puedan tener un comportamiento malicioso se llama:",
+            "options": [
+                {
+                    "text": "b) MARTA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 1000BASE-SX.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) FireWire sirve tanto para conectar videoc\u00e1maras digitales como para conectar discos duros externos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Es orientado a conexi\u00f3n, por lo que los paquetes son tratados de forma conjunta.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "85. \u00bfC\u00f3mo se llama la causa potencial de un incidente que puede causar da\u00f1os a un sistema de informaci\u00f3n o a una organizaci\u00f3n?",
+            "options": [
+                {
+                    "text": "a) Amenaza",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) TPID: identificador del hilo (thread) del proceso.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) MARTA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Los vectores no son estructuras de datos contiguas.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "86. En relaci\u00f3n con el segundo dividendo digital, \u00bfqu\u00e9 banda es la que necesitar\u00e1 ser liberada?",
+            "options": [
+                {
+                    "text": "a) La banda de 700 MHz.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Es un formato de intercambio de datos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Los vectores no son estructuras de datos contiguas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Es orientado a conexi\u00f3n, por lo que los paquetes son tratados de forma conjunta.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "87. Indique cu\u00e1l de las siguientes afirmaciones sobre RIPng es verdadera:",
+            "options": [
+                {
+                    "text": "a) Es un protocolo de enrutamiento para IPv6.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) FireWire sirve tanto para conectar videoc\u00e1maras digitales como para conectar discos duros externos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) STAT",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) A:0 ; B:0",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "88. En una transmisi\u00f3n se env\u00edan secuencialmente dos tramas (A:0111011 ; B:0011100). Para incorporar un mecanismo de detecci\u00f3n de errores se va a a\u00f1adir un bit de paridad impar a cada una. \u00bfCu\u00e1les ser\u00edan los bits de paridad impar en cada caso?",
+            "options": [
+                {
+                    "text": "a) A:0 ; B:0",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) HelloRequest",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Bosque, \u00e1rbol, dominio, unidad organizativa.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) NETCDF",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "89. Seleccione cu\u00e1l de las siguientes tecnolog\u00edas Ethernet est\u00e1 basada exclusivamente en fibra \u00f3ptica multimodo con una velocidad de transmisi\u00f3n de 1000 Mbps:",
+            "options": [
+                {
+                    "text": "c) 1000BASE-SX.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) En los medios de transmisi\u00f3n no guiados es necesario el uso de dispositivos que emitan o capten la se\u00f1al.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 993",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Ofrece flexibilidad para ajustar el grado de compresi\u00f3n de la imagen.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "90. En cuanto al modelo de interconexi\u00f3n de sistemas abiertos OSI, escoja la opci\u00f3n correcta:",
+            "options": [
+                {
+                    "text": "d) La capa de presentaci\u00f3n se encarga del formato de los datos que se van a intercambiar entre las aplicaciones.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) En cuanto a la profundidad de color. si tenemos un 1 bit para describir el color de cada pixel podremos elegir 2 colores.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Trap",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) HelloRequest",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "91. Se\u00f1ale la opci\u00f3n INCORRECTA con respecto al protocolo IPv4:",
+            "options": [
+                {
+                    "text": "b) Es orientado a conexi\u00f3n, por lo que los paquetes son tratados de forma conjunta.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 213.45.128.8 y 213.45.126.74",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) La banda de 700 MHz.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Short term scheduler.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "92. De entre las siguientes opciones de direcciones IPv4, \u00bfcu\u00e1les son dos direcciones asignables a dos host en distintas redes?",
+            "options": [
+                {
+                    "text": "d) 213.45.128.8 y 213.45.126.74",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Los vectores no son estructuras de datos contiguas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 2",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) El protocolo OpenVPN no es compatible con IPSec, IKE, PPTP y L2TP.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "93. \u00bfCu\u00e1l de las siguientes afirmaciones sobre HTTP\/2 es correcta?",
+            "options": [
+                {
+                    "text": "a) Es un protocolo binario, a diferencia de HTTP 1.1",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Bosque, \u00e1rbol, dominio, unidad organizativa.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 213.45.128.8 y 213.45.126.74",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) HelloRequest",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "94. De acuerdo al RFC 8446, \u00bfcu\u00e1l de las siguientes opciones NO representa uno de los tipos de mensajes mediante los que TLS v 1.3 negocia los par\u00e1metros de seguridad de la conexi\u00f3n?",
+            "options": [
+                {
+                    "text": "b) HelloRequest",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) DVI",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) En los medios de transmisi\u00f3n no guiados es necesario el uso de dispositivos que emitan o capten la se\u00f1al.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Recorrido INORDEN",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "95. Cu\u00e1l de los siguientes protocolos NO tiene relaci\u00f3n directa con la telefon\u00eda IP?",
+            "options": [
+                {
+                    "text": "c) NETCDF",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 993",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 2",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Un cortafuegos DP! permite una inspecci\u00f3n profunda del contenido completo del paquete.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "96. Se\u00f1ale cu\u00e1l de las siguientes descripciones se corresponde con la amenaza denominada \u201cClickjacking\u201d:",
+            "options": [
+                {
+                    "text": "c) Un usuario malicioso secuestra las pulsaciones de rat\u00f3n dirigidas a un sitio aparentemente inocente y las redirige a otro sitio, enga\u00f1ando a usuarios de Internet.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) lsb_release -a",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) El protocolo OpenVPN no es compatible con IPSec, IKE, PPTP y L2TP.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) tar tvf fichero.tar",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "97. De entre las siguientes afirmaciones relacionadas con el uso de cortafuegos, seleccione la afirmaci\u00f3n correcta:",
+            "options": [
+                {
+                    "text": "b) Un cortafuegos DP! permite una inspecci\u00f3n profunda del contenido completo del paquete.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 213.45.128.8 y 213.45.126.74",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Es un protocolo de enrutamiento para IPv6.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) NETCDF",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "98. \u00bfCu\u00e1l de las siguientes opciones es cierta con respecto a los protocolos IPSec, PPTP y OpenVPN?",
+            "options": [
+                {
+                    "text": "b) El protocolo OpenVPN no es compatible con IPSec, IKE, PPTP y L2TP.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 9.0",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) net user pepe *",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Un router.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "99. De entre los siguientes, \u00bfqu\u00e9 dispositivo utiliza tablas de encaminamiento?",
+            "options": [
+                {
+                    "text": "a) Un router.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Chip EAC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) tar tvf fichero.tar",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) A:0 ; B:0",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "100. \u00bfCu\u00e1l de las siguientes opciones representa el nombre de los paquetes que utiliza el protocolo STP para determinar la topolog\u00eda de la red y evitar la aparici\u00f3n de bucles en redes de datos?",
+            "options": [
+                {
+                    "text": "a) BPDUs (Bridge Protocol Data Units)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) HelloRequest",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Short term scheduler.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La capa de presentaci\u00f3n se encarga del formato de los datos que se van a intercambiar entre las aplicaciones.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 3. \u00bfCu\u00e1l de las siguientes afirmaciones es correcta?",
+            "options": [
+                {
+                    "text": "a) L2TP se refiere a Layer 2 Tunneling Protocol.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Chip EAC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) net user pepe *",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Ofrece flexibilidad para ajustar el grado de compresi\u00f3n de la imagen.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

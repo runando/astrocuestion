@@ -1,0 +1,247 @@
+{
+    "title": "Errors HTTP 2XX",
+    "type": "bloque4",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "OK",
+            "options": [
+                {
+                    "text": "200",
+                    "isCorrect": true
+                },
+                {
+                    "text": "201",
+                    "isCorrect": false,
+                    "hint": "Created"
+                },
+                {
+                    "text": "203",
+                    "isCorrect": false,
+                    "hint": "Non-Authoritative Information"
+                },
+                {
+                    "text": "208",
+                    "isCorrect": false,
+                    "hint": "Alredy Reported"
+                }
+            ]
+        },
+        {
+            "question": "Created",
+            "options": [
+                {
+                    "text": "201",
+                    "isCorrect": true
+                },
+                {
+                    "text": "206 ",
+                    "isCorrect": false,
+                    "hint": "Partial Content"
+                },
+                {
+                    "text": "200",
+                    "isCorrect": false,
+                    "hint": "OK"
+                },
+                {
+                    "text": "205",
+                    "isCorrect": false,
+                    "hint": "Reset Content "
+                }
+            ]
+        },
+        {
+            "question": "Accepted",
+            "options": [
+                {
+                    "text": "202",
+                    "isCorrect": true
+                },
+                {
+                    "text": "201",
+                    "isCorrect": false,
+                    "hint": "Created"
+                },
+                {
+                    "text": "206 ",
+                    "isCorrect": false,
+                    "hint": "Partial Content"
+                },
+                {
+                    "text": "200",
+                    "isCorrect": false,
+                    "hint": "OK"
+                }
+            ]
+        },
+        {
+            "question": "Non-Authoritative Information",
+            "options": [
+                {
+                    "text": "203",
+                    "isCorrect": true
+                },
+                {
+                    "text": "200",
+                    "isCorrect": false,
+                    "hint": "OK"
+                },
+                {
+                    "text": "208",
+                    "isCorrect": false,
+                    "hint": "Alredy Reported"
+                },
+                {
+                    "text": "205",
+                    "isCorrect": false,
+                    "hint": "Reset Content "
+                }
+            ]
+        },
+        {
+            "question": "No Content",
+            "options": [
+                {
+                    "text": "204 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "203",
+                    "isCorrect": false,
+                    "hint": "Non-Authoritative Information"
+                },
+                {
+                    "text": "202",
+                    "isCorrect": false,
+                    "hint": "Accepted"
+                },
+                {
+                    "text": "208",
+                    "isCorrect": false,
+                    "hint": "Alredy Reported"
+                }
+            ]
+        },
+        {
+            "question": "Reset Content ",
+            "options": [
+                {
+                    "text": "205",
+                    "isCorrect": true
+                },
+                {
+                    "text": "202",
+                    "isCorrect": false,
+                    "hint": "Accepted"
+                },
+                {
+                    "text": "207",
+                    "isCorrect": false,
+                    "hint": "Multi-Status"
+                },
+                {
+                    "text": "204 ",
+                    "isCorrect": false,
+                    "hint": "No Content"
+                }
+            ]
+        },
+        {
+            "question": "Partial Content",
+            "options": [
+                {
+                    "text": "206 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "207",
+                    "isCorrect": false,
+                    "hint": "Multi-Status"
+                },
+                {
+                    "text": "202",
+                    "isCorrect": false,
+                    "hint": "Accepted"
+                },
+                {
+                    "text": "204 ",
+                    "isCorrect": false,
+                    "hint": "No Content"
+                }
+            ]
+        },
+        {
+            "question": "Multi-Status",
+            "options": [
+                {
+                    "text": "207",
+                    "isCorrect": true
+                },
+                {
+                    "text": "205",
+                    "isCorrect": false,
+                    "hint": "Reset Content "
+                },
+                {
+                    "text": "204 ",
+                    "isCorrect": false,
+                    "hint": "No Content"
+                },
+                {
+                    "text": "201",
+                    "isCorrect": false,
+                    "hint": "Created"
+                }
+            ]
+        },
+        {
+            "question": "Alredy Reported",
+            "options": [
+                {
+                    "text": "208",
+                    "isCorrect": true
+                },
+                {
+                    "text": "226",
+                    "isCorrect": false,
+                    "hint": "IM Used"
+                },
+                {
+                    "text": "206 ",
+                    "isCorrect": false,
+                    "hint": "Partial Content"
+                },
+                {
+                    "text": "207",
+                    "isCorrect": false,
+                    "hint": "Multi-Status"
+                }
+            ]
+        },
+        {
+            "question": "IM Used",
+            "options": [
+                {
+                    "text": "226",
+                    "isCorrect": true
+                },
+                {
+                    "text": "205",
+                    "isCorrect": false,
+                    "hint": "Reset Content "
+                },
+                {
+                    "text": "201",
+                    "isCorrect": false,
+                    "hint": "Created"
+                },
+                {
+                    "text": "202",
+                    "isCorrect": false,
+                    "hint": "Accepted"
+                }
+            ]
+        }
+    ]
+}

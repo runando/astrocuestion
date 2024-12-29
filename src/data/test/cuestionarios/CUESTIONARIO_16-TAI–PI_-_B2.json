@@ -1,0 +1,391 @@
+{
+    "title": "CUESTIONARIO 16-TAI\u2013PI - B2",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "11. \u00bfCu\u00e1l de los siguientes NO se corresponde con un interfaz de almacenamiento f\u00edsico en un ordenador? ",
+            "options": [
+                {
+                    "text": "d) NAS ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 1YB (Yottabyte). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Thunderbolt 3 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Favorece a los procesos parcialmente ejecutados. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12. Seleccione la respuesta que indica una caracter\u00edstica que NO pertenece a una arquitectura de procesadores RISC: ",
+            "options": [
+                {
+                    "text": "c) Muchos registros de uso dedicado y pocos registros de uso gen\u00e9rico. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Favorece a los procesos parcialmente ejecutados. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Sticky bit. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 1YB (Yottabyte). ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. \u00bfCu\u00e1l de las siguientes unidades de almacenamiento es la mayor? ",
+            "options": [
+                {
+                    "text": "c) 1YB (Yottabyte). ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) El mayor grado de los nodos que contiene. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) SWF ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) NAS ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14. Un nibble es una unidad de informaci\u00f3n en una computadora, \u00bfa cu\u00e1nto equivale 3 nibbles? ",
+            "options": [
+                {
+                    "text": "b) 1,5 Bytes. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) msconfig ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Sobre bloques de NxN pixeles, se elimina informaci\u00f3n redundante y se aplica la Transformada Discreta del Coseno (DCT). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 512 TB ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15. Una tarjeta gr\u00e1fica de tipo discreta: ",
+            "options": [
+                {
+                    "text": "a) Tiene una memoria dedicada para realizar sus c\u00e1lculos. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Sticky bit. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Sobre bloques de NxN pixeles, se elimina informaci\u00f3n redundante y se aplica la Transformada Discreta del Coseno (DCT). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) SWF ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. En relaci\u00f3n con el tipo abstracto de dato \u00c1rbol, seleccione la respuesta correcta, el grado de un \u00e1rbol es: ",
+            "options": [
+                {
+                    "text": "a) El mayor grado de los nodos que contiene. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 512 TB ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Favorece a los procesos parcialmente ejecutados. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) SWF ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17. \u00bfQu\u00e9 tecnolog\u00eda ofrece velocidades de transferencia de hasta 40 Gb\/s? ",
+            "options": [
+                {
+                    "text": "a) Thunderbolt 3 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 1YB (Yottabyte). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Sticky bit. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) msconfig ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18. El algoritmo SRR (Selfish Round Robin): ",
+            "options": [
+                {
+                    "text": "d) Favorece a los procesos parcialmente ejecutados. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 512 TB ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Thunderbolt 3 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Tiene una memoria dedicada para realizar sus c\u00e1lculos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "19. En cuanto a la compresi\u00f3n de im\u00e1genes en formato JPEG, se\u00f1ale la opci\u00f3n verdadera: ",
+            "options": [
+                {
+                    "text": "b) Sobre bloques de NxN pixeles, se elimina informaci\u00f3n redundante y se aplica la Transformada Discreta del Coseno (DCT). ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Muchos registros de uso dedicado y pocos registros de uso gen\u00e9rico. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) SWF ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 1YB (Yottabyte). ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "20. \u00bfCu\u00e1l de los siguientes formatos se utiliza para el almacenamiento de gr\u00e1ficos vectoriales? ",
+            "options": [
+                {
+                    "text": "d) SWF ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) msconfig ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Muchos registros de uso dedicado y pocos registros de uso gen\u00e9rico. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 1,5 Bytes. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "21. En Windows, en una unidad con el sistema de archivos exFAT, el tama\u00f1o m\u00e1ximo de volumen recomendado es de: ",
+            "options": [
+                {
+                    "text": "b) 512 TB ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) msconfig ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 1YB (Yottabyte). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Tiene una memoria dedicada para realizar sus c\u00e1lculos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. \u00bfCon qu\u00e9 bit indicar\u00eda que los ficheros contenidos en el directorio s\u00f3lo pueden ser renombrados\/borrados por el propietario del elemento, del directorio o el usuario root, aunque el resto de usuarios tenga permisos de escritura? ",
+            "options": [
+                {
+                    "text": "c) Sticky bit. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d)  ln ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) SWF ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 1YB (Yottabyte). ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. La hiperpaginaci\u00f3n (thrashing) en sistemas operativos, hace referencia a: ",
+            "options": [
+                {
+                    "text": "c) Tener una tasa excesiva de fallos de p\u00e1gina, tardando el sistema m\u00e1s tiempo en paginar que en ejecutar procesos, ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Sticky bit. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) NAS ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Sobre bloques de NxN pixeles, se elimina informaci\u00f3n redundante y se aplica la Transformada Discreta del Coseno (DCT). ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. El comando que crea un archivo vac\u00edo en \/home con el nombre prueba1.txt y actualiza la hora de modificaci\u00f3n si el fichero ya existe es: ",
+            "options": [
+                {
+                    "text": "b) touch \/home\/prueba.txt ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Thunderbolt 3 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 1YB (Yottabyte). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Tener una tasa excesiva de fallos de p\u00e1gina, tardando el sistema m\u00e1s tiempo en paginar que en ejecutar procesos, ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. De las siguientes utilidades del sistema Windows, \u00bfcu\u00e1l utilizaremos para modificar las opciones de inicio del sistema? ",
+            "options": [
+                {
+                    "text": "c) msconfig ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 512 TB ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Muchos registros de uso dedicado y pocos registros de uso gen\u00e9rico. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d)  ln ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. Se\u00f1ale el comando que sirve en UNIX para crear hard links (enlaces duros): ",
+            "options": [
+                {
+                    "text": "d)  ln ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 512 TB ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) El mayor grado de los nodos que contiene. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 1,5 Bytes. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

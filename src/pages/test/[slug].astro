@@ -1,20 +1,28 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+
 export async function getStaticPaths() {
-  // Importa todos los archivos JSON de cuestionarios
-  const quizzes = Object.keys(import.meta.glob('../../data/test/*.json'));
+  const quizzes = import.meta.glob('../../data/test/**/*.json');
+  const paths = [];
+  
+  for (const [path, loader] of Object.entries(quizzes)) {
+    const quiz = await loader();
+    // Extraemos solo el nombre del archivo, ignorando la estructura de carpetas
+    const slug = path.split('/').pop().replace('.json', '');
+    
+    paths.push({
+      params: { slug },
+      props: { quiz }
+    });
+  }
 
-  // Genera las rutas estáticas basadas en los nombres de los archivos
-  return quizzes.map((path) => {
-    const slug = path.split('/').pop().replace('.json', ''); // Extrae el slug
-    return { params: { slug } };
-  });
+  return paths;
 }
-
+const { quiz } = Astro.props;
 const { slug } = Astro.params;
 
 // Carga el cuestionario basado en el slug
-const quiz = await import(`../../data/test/${slug}.json`);
+// const quiz = await import(`../../data/test/${slug}.json`);
 
 
 
@@ -35,7 +43,10 @@ const questionsWithShuffledOptions = questions.map((question) => ({
   ...question,
   options: shuffleArray([...question.options]), // Solo desordenamos las respuestas
 }));
-
+// console.log('Quiz cargado:', { 
+//   title: quiz.title, 
+//   questionsCount: questions.length 
+// }); // Log para depuración
 ---
 <Layout>
   <h1>{quiz.title}</h1>

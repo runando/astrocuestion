@@ -1,0 +1,175 @@
+{
+    "title": "Pol\u00edticas, sistemas y procedimientos de backup y su recuperaci\u00f3n.",
+    "type": "bloque2",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "Tiempo m\u00e1ximo permitido para recuperar los sistemas y datos cr\u00edticos despu\u00e9s de un desastre o incidente.",
+            "options": [
+                {
+                    "text": "Recovery Time Objective (RTO)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mean Time Between Failures (MTBF)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Completo, Diferencial, Incremental",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Pol\u00edtica incremental",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Punto en el tiempo hasta el cual se pueden recuperar los datos despu\u00e9s de un incidente",
+            "options": [
+                {
+                    "text": "Recovery Point Objective (RPO)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mean Time To Recovery (MTTR)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Recovery Time Objective (RTO)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Pol\u00edtica incremental",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Tiempo promedio que lleva recuperar un sistema o servicio despu\u00e9s de que se produce un fallo o incidente.",
+            "options": [
+                {
+                    "text": "Mean Time To Recovery (MTTR)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mean Time Between Failures (MTBF)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Recovery Time Objective (RTO)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Completo, Diferencial, Incremental",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Tiempo promedio que transcurre entre las fallas o incidentes que afectan a un sistema o servicio.",
+            "options": [
+                {
+                    "text": "Mean Time Between Failures (MTBF)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Completo, Diferencial, Incremental",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Un snapshot",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Pol\u00edtica incremental",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Ordene los siguientes backups de menor a mayor tiempo de recuperaci\u00f3n",
+            "options": [
+                {
+                    "text": "Completo, Diferencial, Incremental",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Recovery Point Objective (RPO)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Mean Time To Recovery (MTTR)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Mean Time Between Failures (MTBF)",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Si hacemos un backup completo el lunes, y nuestra pol\u00edtica de backup nos exige poder restaurar siempre una copia del d\u00eda anterior, qu\u00e9 pol\u00edtica nos ocupar\u00e1 menos espacio a fecha de viernes?",
+            "options": [
+                {
+                    "text": "Pol\u00edtica incremental",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mean Time To Recovery (MTTR)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Recovery Time Objective (RTO)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Recovery Point Objective (RPO)",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "En caso de querer recuperar los datos en caso de fallos menores, como errores de configuraci\u00f3n, eliminaci\u00f3n accidental de archivos, etc, deber\u00edamos restaurar desde:",
+            "options": [
+                {
+                    "text": "Un snapshot",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Completo, Diferencial, Incremental",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Mean Time To Recovery (MTTR)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Mean Time Between Failures (MTBF)",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

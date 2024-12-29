@@ -1,0 +1,439 @@
+{
+    "title": "Errors HTTP 4XX",
+    "type": "bloque4",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "Bad Request",
+            "options": [
+                {
+                    "text": "400",
+                    "isCorrect": true
+                },
+                {
+                    "text": "451",
+                    "isCorrect": false,
+                    "hint": "Unavailable For Legal Reasons"
+                },
+                {
+                    "text": "403",
+                    "isCorrect": false,
+                    "hint": "Forbidden"
+                },
+                {
+                    "text": "408",
+                    "isCorrect": false,
+                    "hint": "Request Timeout"
+                }
+            ]
+        },
+        {
+            "question": "Unauthorized",
+            "options": [
+                {
+                    "text": "401",
+                    "isCorrect": true
+                },
+                {
+                    "text": "414",
+                    "isCorrect": false,
+                    "hint": "URI Too Long"
+                },
+                {
+                    "text": "411",
+                    "isCorrect": false,
+                    "hint": "Length Required"
+                },
+                {
+                    "text": "406",
+                    "isCorrect": false,
+                    "hint": "Not acceptable"
+                }
+            ]
+        },
+        {
+            "question": "Payment Required",
+            "options": [
+                {
+                    "text": "402",
+                    "isCorrect": true
+                },
+                {
+                    "text": "405",
+                    "isCorrect": false,
+                    "hint": "Method Not Allowed"
+                },
+                {
+                    "text": "403",
+                    "isCorrect": false,
+                    "hint": "Forbidden"
+                },
+                {
+                    "text": "401",
+                    "isCorrect": false,
+                    "hint": "Unauthorized"
+                }
+            ]
+        },
+        {
+            "question": "Forbidden",
+            "options": [
+                {
+                    "text": "403",
+                    "isCorrect": true
+                },
+                {
+                    "text": "410",
+                    "isCorrect": false,
+                    "hint": "Gone"
+                },
+                {
+                    "text": "407",
+                    "isCorrect": false,
+                    "hint": "Proxy Authentication Required"
+                },
+                {
+                    "text": "411",
+                    "isCorrect": false,
+                    "hint": "Length Required"
+                }
+            ]
+        },
+        {
+            "question": "Not Found",
+            "options": [
+                {
+                    "text": "404",
+                    "isCorrect": true
+                },
+                {
+                    "text": "400",
+                    "isCorrect": false,
+                    "hint": "Bad Request"
+                },
+                {
+                    "text": "403",
+                    "isCorrect": false,
+                    "hint": "Forbidden"
+                },
+                {
+                    "text": "405",
+                    "isCorrect": false,
+                    "hint": "Method Not Allowed"
+                }
+            ]
+        },
+        {
+            "question": "Method Not Allowed",
+            "options": [
+                {
+                    "text": "405",
+                    "isCorrect": true
+                },
+                {
+                    "text": "429",
+                    "isCorrect": false,
+                    "hint": "Too Many Requests"
+                },
+                {
+                    "text": "400",
+                    "isCorrect": false,
+                    "hint": "Bad Request"
+                },
+                {
+                    "text": "411",
+                    "isCorrect": false,
+                    "hint": "Length Required"
+                }
+            ]
+        },
+        {
+            "question": "Not acceptable",
+            "options": [
+                {
+                    "text": "406",
+                    "isCorrect": true
+                },
+                {
+                    "text": "451",
+                    "isCorrect": false,
+                    "hint": "Unavailable For Legal Reasons"
+                },
+                {
+                    "text": "400",
+                    "isCorrect": false,
+                    "hint": "Bad Request"
+                },
+                {
+                    "text": "403",
+                    "isCorrect": false,
+                    "hint": "Forbidden"
+                }
+            ]
+        },
+        {
+            "question": "Proxy Authentication Required",
+            "options": [
+                {
+                    "text": "407",
+                    "isCorrect": true
+                },
+                {
+                    "text": "405",
+                    "isCorrect": false,
+                    "hint": "Method Not Allowed"
+                },
+                {
+                    "text": "403",
+                    "isCorrect": false,
+                    "hint": "Forbidden"
+                },
+                {
+                    "text": "451",
+                    "isCorrect": false,
+                    "hint": "Unavailable For Legal Reasons"
+                }
+            ]
+        },
+        {
+            "question": "Request Timeout",
+            "options": [
+                {
+                    "text": "408",
+                    "isCorrect": true
+                },
+                {
+                    "text": "410",
+                    "isCorrect": false,
+                    "hint": "Gone"
+                },
+                {
+                    "text": "404",
+                    "isCorrect": false,
+                    "hint": "Not Found"
+                },
+                {
+                    "text": "400",
+                    "isCorrect": false,
+                    "hint": "Bad Request"
+                }
+            ]
+        },
+        {
+            "question": "Conflict",
+            "options": [
+                {
+                    "text": "409",
+                    "isCorrect": true
+                },
+                {
+                    "text": "412",
+                    "isCorrect": false,
+                    "hint": "Precondition Failed"
+                },
+                {
+                    "text": "451",
+                    "isCorrect": false,
+                    "hint": "Unavailable For Legal Reasons"
+                },
+                {
+                    "text": "405",
+                    "isCorrect": false,
+                    "hint": "Method Not Allowed"
+                }
+            ]
+        },
+        {
+            "question": "Gone",
+            "options": [
+                {
+                    "text": "410",
+                    "isCorrect": true
+                },
+                {
+                    "text": "406",
+                    "isCorrect": false,
+                    "hint": "Not acceptable"
+                },
+                {
+                    "text": "412",
+                    "isCorrect": false,
+                    "hint": "Precondition Failed"
+                },
+                {
+                    "text": "405",
+                    "isCorrect": false,
+                    "hint": "Method Not Allowed"
+                }
+            ]
+        },
+        {
+            "question": "Length Required",
+            "options": [
+                {
+                    "text": "411",
+                    "isCorrect": true
+                },
+                {
+                    "text": "407",
+                    "isCorrect": false,
+                    "hint": "Proxy Authentication Required"
+                },
+                {
+                    "text": "406",
+                    "isCorrect": false,
+                    "hint": "Not acceptable"
+                },
+                {
+                    "text": "408",
+                    "isCorrect": false,
+                    "hint": "Request Timeout"
+                }
+            ]
+        },
+        {
+            "question": "Precondition Failed",
+            "options": [
+                {
+                    "text": "412",
+                    "isCorrect": true
+                },
+                {
+                    "text": "405",
+                    "isCorrect": false,
+                    "hint": "Method Not Allowed"
+                },
+                {
+                    "text": "407",
+                    "isCorrect": false,
+                    "hint": "Proxy Authentication Required"
+                },
+                {
+                    "text": "413",
+                    "isCorrect": false,
+                    "hint": "Payload Too Large"
+                }
+            ]
+        },
+        {
+            "question": "Payload Too Large",
+            "options": [
+                {
+                    "text": "413",
+                    "isCorrect": true
+                },
+                {
+                    "text": "451",
+                    "isCorrect": false,
+                    "hint": "Unavailable For Legal Reasons"
+                },
+                {
+                    "text": "429",
+                    "isCorrect": false,
+                    "hint": "Too Many Requests"
+                },
+                {
+                    "text": "409",
+                    "isCorrect": false,
+                    "hint": "Conflict"
+                }
+            ]
+        },
+        {
+            "question": "URI Too Long",
+            "options": [
+                {
+                    "text": "414",
+                    "isCorrect": true
+                },
+                {
+                    "text": "402",
+                    "isCorrect": false,
+                    "hint": "Payment Required"
+                },
+                {
+                    "text": "409",
+                    "isCorrect": false,
+                    "hint": "Conflict"
+                },
+                {
+                    "text": "406",
+                    "isCorrect": false,
+                    "hint": "Not acceptable"
+                }
+            ]
+        },
+        {
+            "question": "Unsupported Media Type",
+            "options": [
+                {
+                    "text": "415",
+                    "isCorrect": true
+                },
+                {
+                    "text": "451",
+                    "isCorrect": false,
+                    "hint": "Unavailable For Legal Reasons"
+                },
+                {
+                    "text": "403",
+                    "isCorrect": false,
+                    "hint": "Forbidden"
+                },
+                {
+                    "text": "400",
+                    "isCorrect": false,
+                    "hint": "Bad Request"
+                }
+            ]
+        },
+        {
+            "question": "Unavailable For Legal Reasons",
+            "options": [
+                {
+                    "text": "451",
+                    "isCorrect": true
+                },
+                {
+                    "text": "415",
+                    "isCorrect": false,
+                    "hint": "Unsupported Media Type"
+                },
+                {
+                    "text": "405",
+                    "isCorrect": false,
+                    "hint": "Method Not Allowed"
+                },
+                {
+                    "text": "401",
+                    "isCorrect": false,
+                    "hint": "Unauthorized"
+                }
+            ]
+        },
+        {
+            "question": "Too Many Requests",
+            "options": [
+                {
+                    "text": "429",
+                    "isCorrect": true
+                },
+                {
+                    "text": "408",
+                    "isCorrect": false,
+                    "hint": "Request Timeout"
+                },
+                {
+                    "text": "413",
+                    "isCorrect": false,
+                    "hint": "Payload Too Large"
+                },
+                {
+                    "text": "414",
+                    "isCorrect": false,
+                    "hint": "URI Too Long"
+                }
+            ]
+        }
+    ]
+}

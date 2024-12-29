@@ -1,0 +1,871 @@
+{
+    "title": "CUESTIONARIO 17-TAI\u2013LI - B3",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "36. Cypher es:",
+            "options": [
+                {
+                    "text": "a) Un lenguaje de consulta sobre bases de datos Neo4j.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Un lector de pantalla para invidentes,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 2 4 6 8 10",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SELECT CATEGORIA, AVG(SUELDO) FROM EMPLEADO GROUP BY CATEGORIA HAVING AVG(SUELDO) < (SELECT AVG(SUELDO) FROM EMPLEADO)",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37. \u00bfCu\u00e1l de los siguientes proyectos de Apache relacionados con Hadoop provee de servicios de serializaci\u00f3n de datos?",
+            "options": [
+                {
+                    "text": "c) Avro",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Sobrecarga",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) echo count($monedas);",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Stylus",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "38. Indique cu\u00e1l de los siguientes NO es un gestor de bases de datos relacional:",
+            "options": [
+                {
+                    "text": "c) JSON",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) los protocolos de comunicaci\u00f3n usados.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) &ltp> situados justo despu\u00e9s de un elemento &ltdiv>.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Tienen nombres \u00fanicos (como direcciones URL) que se usan para resolver su ubicaci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39. En un Diagrama de Flujo de Datos o DFD se denomina proceso primitivo a:",
+            "options": [
+                {
+                    "text": "c) Aquel proceso que no necesita descomposici\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) JSON",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Jmeter",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Un lenguaje de consulta sobre bases de datos Neo4j.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "40. Una tabla se encuentra en 5NF, Quinta Forma Normal, si:",
+            "options": [
+                {
+                    "text": "c) Si y solo si est\u00e1 en 4NF y cada dependencia de uni\u00f3n (join) en ella es implicada por las claves candidatas.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 2 4 6 8 10",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) int a=11,b;b=a--;",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Tienen nombres \u00fanicos (como direcciones URL) que se usan para resolver su ubicaci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "41. Cu\u00e1l de las siguientes afirmaciones NO es uno de los objetivos que se persigue al normalizar una base de datos:",
+            "options": [
+                {
+                    "text": "b) Reducir las relaciones existentes entre tablas.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Ionic",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) OPTIONS",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) JDOM es recomendable para la edici\u00f3n o cambios en documentos XML, SAX para la lectura de documentos XML,",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "42. En la teor\u00eda de la normalizaci\u00f3n se utiliza el concepto de dependencia funcional, \u00bfcu\u00e1l de las siguientes NO es una de sus caracter\u00edsticas?",
+            "options": [
+                {
+                    "text": "c) Todas las restricciones de integridad se pueden representar mediante estas dependencias.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Bridge",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SELECT COUNT(DISTINCT(Nombre)) FROM Clientes",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Scratch",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "43. Indique cu\u00e1l ser\u00eda la salida que se obtendr\u00eda ejecutando el siguiente trozo de c\u00f3digo en C++: for (int i=1; i++<10; i++) { ((i == 5) ? cout<< \"Cinco\" : cout << i << \" \"); }",
+            "options": [
+                {
+                    "text": "c) 2 4 6 8 10",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) DISTINCT",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SELECT COUNT(DISTINCT(Nombre)) FROM Clientes",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Aquel proceso que no necesita descomposici\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "44. Indique cu\u00e1l de los siguientes se considera un lenguaje de programaci\u00f3n orientado a la educaci\u00f3n:",
+            "options": [
+                {
+                    "text": "a) Scratch",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) .titulo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 2 4 6 8 10",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SELECT COUNT(DISTINCT(Nombre)) FROM Clientes",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "45. Se\u00f1ale la afirmaci\u00f3n correcta:",
+            "options": [
+                {
+                    "text": "b) DCL permiten controlar el acceso a los datos,",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Una clase padre de la que pueden derivar una serie de subclases,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) AppServer",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Scratch",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "46. En una empresa hay una tabla de empleados: EMPLEADO(EMP_ID, NOMBRE, CATEGORIA, SUELDO). Elija qu\u00e9 sentencia nos dar\u00e1 como resultado la categor\u00eda y sueldo medio de aquellas categor\u00edas cuyo sueldo medio es inferior al sueldo medio de todos los empleados de la empresa.",
+            "options": [
+                {
+                    "text": "a) SELECT CATEGORIA, AVG(SUELDO) FROM EMPLEADO GROUP BY CATEGORIA HAVING AVG(SUELDO) < (SELECT AVG(SUELDO) FROM EMPLEADO)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) &ltdialog>",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Ionic",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Tienen nombres \u00fanicos (como direcciones URL) que se usan para resolver su ubicaci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "47. En una base de datos en la que se almacena informaci\u00f3n de clientes a trav\u00e9s de la tabla Clientes, existen, entre otras, las siguientes columnas: \"id\", \"Nombre\", \"Apellido1\", etc. \u00bfCu\u00e1l de las siguientes sentencias SQL devuelve el n\u00famero de nombres (s\u00f3lo Nombre, sin incluir apellidos) diferentes que hay en la tabla?",
+            "options": [
+                {
+                    "text": "c) SELECT COUNT(DISTINCT(Nombre)) FROM Clientes",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) int a=11,b;b=a--;",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Una clase padre de la que pueden derivar una serie de subclases,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) .titulo",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "48. \u00bfCu\u00e1l de las siguientes operaciones NO es una operaci\u00f3n de agregaci\u00f3n en SQL?",
+            "options": [
+                {
+                    "text": "c) DISTINCT",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SELECT COUNT(DISTINCT(Nombre)) FROM Clientes",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) git push origin master",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Un lenguaje de consulta sobre bases de datos Neo4j.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "49. Qu\u00e9 sentencia de las siguientes nunca altera el contenido de la base de datos:",
+            "options": [
+                {
+                    "text": "a) SELECT PEDIDOS.PRECIO, PEDIDOS.ITEM, STOCK.VALIDO FROM PEDIDOS, STOCK WHERE PEDIDOS.NUM_ITEM = STOCK.NUM_ITEM AND PEDIDOS.PRECIO > 300",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) SELECT CATEGORIA, AVG(SUELDO) FROM EMPLEADO GROUP BY CATEGORIA HAVING AVG(SUELDO) < (SELECT AVG(SUELDO) FROM EMPLEADO)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Una clase padre de la que pueden derivar una serie de subclases,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) JSON",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "50. En el contexto de la programaci\u00f3n orientada a objetos, \u00bfqu\u00e9 entendemos por superciase?",
+            "options": [
+                {
+                    "text": "a) Una clase padre de la que pueden derivar una serie de subclases,",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) DCL permiten controlar el acceso a los datos,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) int a=11,b;b=a--;",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Un lenguaje de consulta sobre bases de datos Neo4j.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "51. La caracter\u00edstica de los lenguajes orientados a objetos que permite declarar y definir dos m\u00e9todos con el mismo nombre, pero distintos argumentos, se denomina:",
+            "options": [
+                {
+                    "text": "d) Sobrecarga",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 2 4 6 8 10",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) los protocolos de comunicaci\u00f3n usados.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) int a=11,b;b=a--;",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "52. El patr\u00f3n de dise\u00f1o cuyo prop\u00f3sito es desacoplar una abstracci\u00f3n de su implementaci\u00f3n de manera que las dos puedan evolucionar independientemente es:",
+            "options": [
+                {
+                    "text": "b) Bridge",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Reducir las relaciones existentes entre tablas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Jmeter",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) echo count($monedas);",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "53. Java DB es:",
+            "options": [
+                {
+                    "text": "a) La distribuci\u00f3n de Oracle para la base de datos de c\u00f3digo abierto Apache Derby.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) AppServer",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) JDOM es recomendable para la edici\u00f3n o cambios en documentos XML, SAX para la lectura de documentos XML,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) &ltdialog>",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "54. Se\u00f1ale cu\u00e1l de las siguientes herramientas sirve para realizar pruebas de estr\u00e9s en Java:",
+            "options": [
+                {
+                    "text": "a) Jmeter",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Aquel proceso que no necesita descomposici\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) echo count($monedas);",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 2 4 6 8 10",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "55. En el contexto del lenguaje C de ANSI, \u00bfcu\u00e1l de las siguientes opciones consigue que los valores de \u201ca\u201d y \"b\u201d sean respectivamente 10 y 11?",
+            "options": [
+                {
+                    "text": "a) int a=11,b;b=a--;",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Tienen nombres \u00fanicos (como direcciones URL) que se usan para resolver su ubicaci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SELECT PEDIDOS.PRECIO, PEDIDOS.ITEM, STOCK.VALIDO FROM PEDIDOS, STOCK WHERE PEDIDOS.NUM_ITEM = STOCK.NUM_ITEM AND PEDIDOS.PRECIO > 300",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) AppServer",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "56. Una diferencia entre las APIs de Java, SAX y JDOM, es:",
+            "options": [
+                {
+                    "text": "c) JDOM es recomendable para la edici\u00f3n o cambios en documentos XML, SAX para la lectura de documentos XML,",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) &ltp> situados justo despu\u00e9s de un elemento &ltdiv>.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) DISTINCT",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Operador exponencial (**),",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "57. En ASP.NET cu\u00e1l de las siguientes alternativas NO representa un modo v\u00e1lido de almacenamiento de los datos de sesi\u00f3n:",
+            "options": [
+                {
+                    "text": "d) AppServer",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) DCL permiten controlar el acceso a los datos,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Jmeter",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) &ltdialog>",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "58. Se\u00f1ale la respuesta correcta respecto a las arquitecturas de microservicios:",
+            "options": [
+                {
+                    "text": "a) Tienen nombres \u00fanicos (como direcciones URL) que se usan para resolver su ubicaci\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) JDOM es recomendable para la edici\u00f3n o cambios en documentos XML, SAX para la lectura de documentos XML,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Jmeter",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) los protocolos de comunicaci\u00f3n usados.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "59. De las siguientes opciones, representa un m\u00e9todo v\u00e1lido dentro del protocolo HTTP:",
+            "options": [
+                {
+                    "text": "a) OPTIONS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) SELECT CATEGORIA, AVG(SUELDO) FROM EMPLEADO GROUP BY CATEGORIA HAVING AVG(SUELDO) < (SELECT AVG(SUELDO) FROM EMPLEADO)",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) AppServer",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Avro",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "60. En un documento WSDL 2.0, el elemento <binding> especifica:",
+            "options": [
+                {
+                    "text": "b) los protocolos de comunicaci\u00f3n usados.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) OPTIONS",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) DCL permiten controlar el acceso a los datos,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) JSON",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "61. Si quiero aplicar un estilo a todos los elementos con atributo class=\u201dtitulo\u201d en varias p\u00e1ginas HTML, definir\u00e9 en la hoja de estilos CSS3 asociada el selector:",
+            "options": [
+                {
+                    "text": "c) .titulo",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Un lenguaje de consulta sobre bases de datos Neo4j.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) AppServer",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SELECT COUNT(DISTINCT(Nombre)) FROM Clientes",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "62. En una hoja de estilos CSS3, el estilo definido en el selector div + p se aplicar\u00eda a todos los elementos:",
+            "options": [
+                {
+                    "text": "b) &ltp> situados justo despu\u00e9s de un elemento &ltdiv>.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Principios, pautas, criterios de conformidad, t\u00e9cnicas suficientes y recomendables.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) DCL permiten controlar el acceso a los datos,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Scratch",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "63. Indique la afirmaci\u00f3n verdadera, ECMAScript 7 (tambi\u00e9n llamado ECMAScript 2016) a\u00f1ade:",
+            "options": [
+                {
+                    "text": "c) Operador exponencial (**),",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Principios, pautas, criterios de conformidad, t\u00e9cnicas suficientes y recomendables.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SELECT PEDIDOS.PRECIO, PEDIDOS.ITEM, STOCK.VALIDO FROM PEDIDOS, STOCK WHERE PEDIDOS.NUM_ITEM = STOCK.NUM_ITEM AND PEDIDOS.PRECIO > 300",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Ionic",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "67. En PHP 7, dado el siguiente array: $monedas = array(\"bitcoin\", \"ada\", \"ripple\"), \u00bfqu\u00e9 sentencia permite mostrar el n\u00famero de elementos que tiene?",
+            "options": [
+                {
+                    "text": "b) echo count($monedas);",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) .titulo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Una clase padre de la que pueden derivar una serie de subclases,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) DCL permiten controlar el acceso a los datos,",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "65. De los siguientes, \u00bfcu\u00e1l es un preprocesador de CSS?",
+            "options": [
+                {
+                    "text": "b) Stylus",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 2 4 6 8 10",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Avro",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) DISTINCT",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "66. Es un framework que permite el desarrollo de aplicaciones para dispositivos m\u00f3viles:",
+            "options": [
+                {
+                    "text": "a) Ionic",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) JSON",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Stylus",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) JDOM es recomendable para la edici\u00f3n o cambios en documentos XML, SAX para la lectura de documentos XML,",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "67. \u00bfCu\u00e1l de las siguientes es una nueva etiqueta introducida en HTML5?",
+            "options": [
+                {
+                    "text": "a) &ltdialog>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Sobrecarga",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Bridge",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Operador exponencial (**),",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "68. En las pautas de accesibilidad para el contenido web 2.0 se han identificado 4 niveles de orientaci\u00f3n, se\u00f1ale la respuesta correcta que enumera estos niveles desde lo m\u00e1s general a lo m\u00e1s particular:",
+            "options": [
+                {
+                    "text": "a) Principios, pautas, criterios de conformidad, t\u00e9cnicas suficientes y recomendables.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Stylus",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) OPTIONS",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Una clase padre de la que pueden derivar una serie de subclases,",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "69. \u00bfCu\u00e1l de los siguientes NO es un concepto directamente relacionado con la Web Sem\u00e1ntica?",
+            "options": [
+                {
+                    "text": "d) WebM",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Scratch",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) OPTIONS",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) int a=11,b;b=a--;",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "70. La aplicaci\u00f3n JAWS es:",
+            "options": [
+                {
+                    "text": "c) Un lector de pantalla para invidentes,",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Tienen nombres \u00fanicos (como direcciones URL) que se usan para resolver su ubicaci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) JDOM es recomendable para la edici\u00f3n o cambios en documentos XML, SAX para la lectura de documentos XML,",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Operador exponencial (**),",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "71. Siendo el nombre remoto \u201corigin\u201d, y la rama \u201cmaster\u201d, para subir los commits de una rama local a un repositorio remoto, \u00bfcu\u00e1l ser\u00eda el comando en Git?",
+            "options": [
+                {
+                    "text": "a) git push origin master",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) DISTINCT",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Reducir las relaciones existentes entre tablas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) DCL permiten controlar el acceso a los datos,",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

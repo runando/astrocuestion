@@ -1,0 +1,247 @@
+{
+    "title": "Docker",
+    "type": "bloque4",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "Le piden chequear el funcionamiento de Docker, para ello debe listar todos los contenedores en ejecuci\u00f3n. \u00bfQu\u00e9 debe ejecutar?",
+            "options": [
+                {
+                    "text": "docker ps",
+                    "isCorrect": true
+                },
+                {
+                    "text": "docker stop 4d78338ee766",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker run SW2008",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker create",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Dado el identificador de contenedor \"4d78338ee766\" y que est\u00e1 en ejecuci\u00f3n, \u00bfqu\u00e9 orden de Docker necesita ejecutar para detenerlo?",
+            "options": [
+                {
+                    "text": "docker stop 4d78338ee766",
+                    "isCorrect": true
+                },
+                {
+                    "text": "docker ps -a",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker create",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker start",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Desde Docker se le pide buscar una imagen de Jenkins contenida en \"Docker Hub\". \u00bfQu\u00e9 comando usar\u00eda?",
+            "options": [
+                {
+                    "text": "docker search Jenkins",
+                    "isCorrect": true
+                },
+                {
+                    "text": "docker run SW2008",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker run",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker create",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "En su unidad se ha decidido utilizar Docker. \u00bfCu\u00e1l de los siguientes comandos deber\u00e1 utilizar para mostrar la informaci\u00f3n que tiene todo el sistema sobre la instalaci\u00f3n de Docker (n\u00ba de contenedores, las im\u00e1genes\u2026)",
+            "options": [
+                {
+                    "text": "docker info",
+                    "isCorrect": true
+                },
+                {
+                    "text": "docker search Jenkins",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker build",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker run SW2008",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "En sus instalaciones no disponen de un Windows Server 2008, pero como tienen instalado Docker han decidido crear uno y arrancarlo a partir de una imagen llamada SW2008. \u00bfCon qu\u00e9 sentencia deber\u00eda realizar esta petici\u00f3n?",
+            "options": [
+                {
+                    "text": "docker run SW2008",
+                    "isCorrect": true
+                },
+                {
+                    "text": "docker stop 4d78338ee766",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker start",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker search Jenkins",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "No est\u00e1 seguro de que el contenedor se haya arrancado correctamente. \u00bfQu\u00e9 comando utilizar\u00eda para listar todos los contenedores, est\u00e9n o no en marcha?",
+            "options": [
+                {
+                    "text": "docker ps -a",
+                    "isCorrect": true
+                },
+                {
+                    "text": "docker stop 4d78338ee766",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker create",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker info",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Se utiliza para compilar una imagen de Docker a partir de un archivo Dockerfile",
+            "options": [
+                {
+                    "text": "docker build",
+                    "isCorrect": true
+                },
+                {
+                    "text": "docker create",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker start",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker stop 4d78338ee766",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Se utiliza para crear un nuevo contenedor Docker a partir de una imagen existente, pero no lo inicia.",
+            "options": [
+                {
+                    "text": "docker create",
+                    "isCorrect": true
+                },
+                {
+                    "text": "docker build",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker run SW2008",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker stop 4d78338ee766",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Se utiliza para crear y ejecutar un nuevo contenedor Docker a partir de una imagen existente. La imagen se descarga autom\u00e1ticamente si no est\u00e1 presente en el sistema local.",
+            "options": [
+                {
+                    "text": "docker run",
+                    "isCorrect": true
+                },
+                {
+                    "text": "docker search Jenkins",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker run SW2008",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker build",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Se utiliza para iniciar un contenedor detenido que ya ha sido creado",
+            "options": [
+                {
+                    "text": "docker start",
+                    "isCorrect": true
+                },
+                {
+                    "text": "docker run SW2008",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker ps",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "docker info",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

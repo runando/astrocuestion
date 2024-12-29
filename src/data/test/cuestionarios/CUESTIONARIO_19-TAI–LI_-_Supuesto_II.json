@@ -1,0 +1,583 @@
+{
+    "title": "CUESTIONARIO 19-TAI\u2013LI - Supuesto II",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1. El equipo de comunicaciones le asigna la red 10.0.4.0 con la m\u00e1scara 255.255.255.128 para el direccionamiento de la DCM. \u00bfCuantos bits tiene la m\u00e1scara de red?",
+            "options": [
+                {
+                    "text": "c)\t25",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) net accounts",
+                    "isCorrect": false,
+                    "hint": "El comando net accounts se utiliza para ver y modificar la configuraci\u00f3n de las pol\u00edticas de cuentas y contrase\u00f1as de una m\u00e1quina local. "
+                },
+                {
+                    "text": "d)\tnet localgroup administradores",
+                    "isCorrect": false,
+                    "hint": "net localgroup se utiliza para administrar grupos locales en una m\u00e1quina, mientras que net group se utiliza para administrar grupos globales en un dominio. Los grupos globales son grupos de usuarios que se pueden utilizar en todo el dominio, mientras que los grupos locales son grupos de usuarios que solo se pueden utilizar en la m\u00e1quina local."
+                },
+                {
+                    "text": "b)\tnc -v 10.0.4.22 422",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2.\tTambi\u00e9n le preguntan a qu\u00e9 Clase pertenece la red asignada (10.0.4.0).",
+            "options": [
+                {
+                    "text": "a)\tClase A.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tdocker ps -a",
+                    "isCorrect": false,
+                    "hint": "\"docker container ls -a\" seria igualmente v\u00e1lido"
+                },
+                {
+                    "text": "a)\troute -p add -net 10.0.5.0\/24 -gateway 10.0.5.150",
+                    "isCorrect": false,
+                    "hint": "El flag correcto para una ruta persistente en solaris es -p. Persistente significa que la ruta se guardar\u00e1 incluso despu\u00e9s de un reinicio."
+                },
+                {
+                    "text": "a)\tSELECT * FROM V$VERSION",
+                    "isCorrect": false,
+                    "hint": "Las otras opciones no son correctas porque no son vistas din\u00e1micas v\u00e1lidas en Oracle. Las vistas din\u00e1micas de rendimiento en Oracle comienzan con el prefijo V$. Las vistas din\u00e1micas de rendimiento en Oracle son vistas que est\u00e1n constantemente actualizadas por Oracle y reflejan la situaci\u00f3n actual de la instancia y de la base de datos. Algunas vistas comunes incluyen V$SQL para ver informaci\u00f3n sobre las sentencias SQL ejecutadas, V$SESSION para ver informaci\u00f3n sobre las sesiones de usuario, V$SYSTEM_EVENT para ver informaci\u00f3n sobre los eventos del sistema y V$MEMORY_TARGET_ADVICE para ver informaci\u00f3n sobre el uso de la memoria."
+                }
+            ]
+        },
+        {
+            "question": "3.\tPara la CHT los compa\u00f1eros de redes le asignan el direccionamiento 10.0.0.0\/21. \u00bfCu\u00e1l es el n\u00famero m\u00e1ximo de hosts disponible?",
+            "options": [
+                {
+                    "text": "b)\t2046",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\t18 TB",
+                    "isCorrect": false,
+                    "hint": "En RAID 6 perdemos el tama\u00f1o equivalente a dos discos para paridad. 6 TB * 3 discos = 18 TB"
+                },
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)    La clave de BitLocker.",
+                    "isCorrect": false,
+                    "hint": "BitLocker es una funci\u00f3n de cifrado de disco completo incluida en las versiones Pro y Enterprise de Windows. BitLocker puede cifrar el disco duro de su sistema operativo, as\u00ed como cualquier otro disco duro o unidad extra\u00edble, como una unidad USB. Cuando se habilita BitLocker, se le pedir\u00e1 que proporcione una contrase\u00f1a o una clave de recuperaci\u00f3n para desbloquear el disco. Esto ayuda a proteger sus datos en caso de p\u00e9rdida o robo de su dispositiv"
+                }
+            ]
+        },
+        {
+            "question": "4.\tDado el direccionamiento anterior (10.0.0.0\/21) su responsable le pregunta cu\u00e1l es el rango de hosts, para poder calcular si el direccionamiento es el adecuado.",
+            "options": [
+                {
+                    "text": "d)\t10.0.0.1 - 10.0.7.254",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\tnc -v 10.0.4.22 422",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\ttar -czf TEMAS.tar.gz \/home\/opositor\/temas\/",
+                    "isCorrect": false,
+                    "hint": "-c indica crear (--create), -z comprime en gzip, -f infica el fichero de salida, que debe indicarse a continuaci\u00f3n (TEMAS.tar.gz). Otros flags para comprimir serian: -Z compress, -j bzip2, -J xz, -a detecta el sufijo del archivo para determinar el programa de compresi\u00f3n. Sin nin\u00fan par\u00e1metro de compres\u00f3n, simplemente agrupa en fichero .tar."
+                }
+            ]
+        },
+        {
+            "question": "5.\tLa DCM no es capaz de especificarle la versi\u00f3n de RHEL que tienen sus m\u00e1quinas, por lo que debe decirles el comando a ejecutar. \u00bfCu\u00e1l de los siguientes ser\u00eda?",
+            "options": [
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tdocker ps -a",
+                    "isCorrect": false,
+                    "hint": "\"docker container ls -a\" seria igualmente v\u00e1lido"
+                },
+                {
+                    "text": "d) net accounts",
+                    "isCorrect": false,
+                    "hint": "El comando net accounts se utiliza para ver y modificar la configuraci\u00f3n de las pol\u00edticas de cuentas y contrase\u00f1as de una m\u00e1quina local. "
+                },
+                {
+                    "text": "c)\tSi, mediante PoE IEEE 802.3bt",
+                    "isCorrect": false,
+                    "hint": "Existen los siguientes est\u00e1ndares: PoE: 802.3af (15,4W te\u00f3ricos\/12,95W garantizados), PoE+: 802.3at (30W\/25W) y PoE++: 802.3bt que se separa en tipo 1(60W\/51W) y tipo 2 (100W\/71W) "
+                }
+            ]
+        },
+        {
+            "question": "6.\tPara poder tener conectividad, la CHT necesita poner una ruta persistente en una de sus m\u00e1quinas Solaris a la red 10.0.5.0\/24 con una m\u00e1scara de red 255.255.255.0 y usando como puerta de enlace la direcci\u00f3n IP 10.0.5.150 \u00bfCu\u00e1l ser\u00eda el comando correcto?",
+            "options": [
+                {
+                    "text": "a)\troute -p add -net 10.0.5.0\/24 -gateway 10.0.5.150",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tdocker ps -a",
+                    "isCorrect": false,
+                    "hint": "\"docker container ls -a\" seria igualmente v\u00e1lido"
+                },
+                {
+                    "text": "d)\t22",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\tnetsh advfirewall firewall add rule name= \"Inventariado\" dir=in action=allow protocol=TCP localport=4433",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "8.\tUna pieza crucial en cualquier sistema inform\u00e1tico son las BBDD. Le han informado que tanto la DCM como la CHT utilizan Oracle, pero no le han dicho la versi\u00f3n. \u00bfQu\u00e9 consulta podr\u00eda hacer en la base de datos para conocer esta informaci\u00f3n?",
+            "options": [
+                {
+                    "text": "a)\tSELECT * FROM V$VERSION",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a)\troute -p add -net 10.0.5.0\/24 -gateway 10.0.5.150",
+                    "isCorrect": false,
+                    "hint": "El flag correcto para una ruta persistente en solaris es -p. Persistente significa que la ruta se guardar\u00e1 incluso despu\u00e9s de un reinicio."
+                },
+                {
+                    "text": "b)\tdocker ps -a",
+                    "isCorrect": false,
+                    "hint": "\"docker container ls -a\" seria igualmente v\u00e1lido"
+                },
+                {
+                    "text": "d)\tnet localgroup administradores",
+                    "isCorrect": false,
+                    "hint": "net localgroup se utiliza para administrar grupos locales en una m\u00e1quina, mientras que net group se utiliza para administrar grupos globales en un dominio. Los grupos globales son grupos de usuarios que se pueden utilizar en todo el dominio, mientras que los grupos locales son grupos de usuarios que solo se pueden utilizar en la m\u00e1quina local."
+                }
+            ]
+        },
+        {
+            "question": "9.\tSe le solicita crear un backup del directorio \/home\/opositor\/temas\/ comprimido con gzip en RHEL. Indique el comando correcto para realizarlo.",
+            "options": [
+                {
+                    "text": "a)\ttar -czf TEMAS.tar.gz \/home\/opositor\/temas\/",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tnetsh advfirewall set allprofiles state on",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\t2046",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\tClase A.",
+                    "isCorrect": false,
+                    "hint": "1.0.0.0 a 127.0.0.0 "
+                }
+            ]
+        },
+        {
+            "question": "10.\tLe preguntan sobre las cuentas de usuario que pertenecen al grupo Administradores locales de una m\u00e1quina, \u00bfqu\u00e9 comando de Windows deber\u00eda utilizar?",
+            "options": [
+                {
+                    "text": "d)\tnet localgroup administradores",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tNBA",
+                    "isCorrect": false,
+                    "hint": "Un IPS es un Intrusion Preventin System. NBA (An\u00e1lisis de Comportamiento de Red): Analiza el comportamiento de la red para detectar actividades sospechosas"
+                },
+                {
+                    "text": "b)\t2046",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)     465",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11.\tTambi\u00e9n se le consulta sobre la configuraci\u00f3n actual de las pol\u00edticas de cuentas y contrase\u00f1as de una m\u00e1quina local. \u00bfQu\u00e9 comando de Windows muestra esa informaci\u00f3n?",
+            "options": [
+                {
+                    "text": "d) net accounts",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\t2046",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\ttar -czf TEMAS.tar.gz \/home\/opositor\/temas\/",
+                    "isCorrect": false,
+                    "hint": "-c indica crear (--create), -z comprime en gzip, -f infica el fichero de salida, que debe indicarse a continuaci\u00f3n (TEMAS.tar.gz). Otros flags para comprimir serian: -Z compress, -j bzip2, -J xz, -a detecta el sufijo del archivo para determinar el programa de compresi\u00f3n. Sin nin\u00fan par\u00e1metro de compres\u00f3n, simplemente agrupa en fichero .tar."
+                },
+                {
+                    "text": "c)\tAl menos 4 discos duros.",
+                    "isCorrect": false,
+                    "hint": "Raid 10 es un raid 0 de raids 1. El minimo para raid 1 es 2 discos. Como tenemos 2 raids 1, m\u00ednimo 4 discos."
+                }
+            ]
+        },
+        {
+            "question": "12.\tSe est\u00e1n realizando en su unidad informes de las capacidades de los discos y requieren de su ayuda. Si se dispone de 5 discos duros de 6 TB, y se decide configurarlos en RAID 6, \u00bfqu\u00e9 capacidad neta de almacenamiento se obtendr\u00e1?",
+            "options": [
+                {
+                    "text": "b)\t18 TB",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d)\t22",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\t25",
+                    "isCorrect": false,
+                    "hint": null
+                },
+                {
+                    "text": "c)\tnetsh advfirewall firewall add rule name= \"Inventariado\" dir=in action=allow protocol=TCP localport=4433",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13.\tEn sus instalaciones no disponen de un Windows Server 2008, pero como tienen instalado Docker han decidido crear uno y arrancarlo a partir de una imagen llamada SW2008. \u00bfCon qu\u00e9 sentencia deber\u00eda realizar esta petici\u00f3n?",
+            "options": [
+                {
+                    "text": "a)\tdocker run SW2008",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a)\tClase A.",
+                    "isCorrect": false,
+                    "hint": "1.0.0.0 a 127.0.0.0 "
+                },
+                {
+                    "text": "c)\tNBA",
+                    "isCorrect": false,
+                    "hint": "Un IPS es un Intrusion Preventin System. NBA (An\u00e1lisis de Comportamiento de Red): Analiza el comportamiento de la red para detectar actividades sospechosas"
+                },
+                {
+                    "text": "d)     Categor\u00eda 8.",
+                    "isCorrect": false,
+                    "hint": "El cable Cat8  trabaja a una frequencia de 2.000 MHz y velocidades de hasta 40.000 Mbps"
+                }
+            ]
+        },
+        {
+            "question": "14.\tNo est\u00e1 seguro de que el contenedor se haya arrancado correctamente. \u00bfQu\u00e9 comando utilizar\u00eda para listar todos los contenedores, est\u00e9n o no en marcha?",
+            "options": [
+                {
+                    "text": "b)\tdocker ps -a",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d)\tnet localgroup administradores",
+                    "isCorrect": false,
+                    "hint": "net localgroup se utiliza para administrar grupos locales en una m\u00e1quina, mientras que net group se utiliza para administrar grupos globales en un dominio. Los grupos globales son grupos de usuarios que se pueden utilizar en todo el dominio, mientras que los grupos locales son grupos de usuarios que solo se pueden utilizar en la m\u00e1quina local."
+                },
+                {
+                    "text": "a)\tdocker run SW2008",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\tnetsh advfirewall set allprofiles state on",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15.\tEst\u00e1n estudiando el traslado de algunos equipos de la CHT a su CPD y le informan de que tienen una sonda de alrededor de 70 watios que utilizan 1 hora a la semana y que debe permanecer apagada el resto del tiempo. Le indican que ser\u00eda necesario poder encenderla remotamente por red. \u00bfSer\u00eda posible hacerlo?",
+            "options": [
+                {
+                    "text": "c)\tSi, mediante PoE IEEE 802.3bt",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\t25",
+                    "isCorrect": false,
+                    "hint": null
+                },
+                {
+                    "text": "d) net accounts",
+                    "isCorrect": false,
+                    "hint": "El comando net accounts se utiliza para ver y modificar la configuraci\u00f3n de las pol\u00edticas de cuentas y contrase\u00f1as de una m\u00e1quina local. "
+                },
+                {
+                    "text": "c)\tnetsh advfirewall firewall add rule name= \"Inventariado\" dir=in action=allow protocol=TCP localport=4433",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16.\tLa DCM le informa que tienen un acuerdo con la Direcci\u00f3n General de Tr\u00e1fico y alojan en sus instalaciones un medidor de tr\u00e1fico que requiere una conexi\u00f3n Ethernet de unos 30 Gbps. Seg\u00fan el est\u00e1ndar ANSI\/TIA-568, \u00bfqu\u00e9 categor\u00eda de cableado ser\u00eda necesitar\u00eda?",
+            "options": [
+                {
+                    "text": "d)     Categor\u00eda 8.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)    La clave de BitLocker.",
+                    "isCorrect": false,
+                    "hint": "BitLocker es una funci\u00f3n de cifrado de disco completo incluida en las versiones Pro y Enterprise de Windows. BitLocker puede cifrar el disco duro de su sistema operativo, as\u00ed como cualquier otro disco duro o unidad extra\u00edble, como una unidad USB. Cuando se habilita BitLocker, se le pedir\u00e1 que proporcione una contrase\u00f1a o una clave de recuperaci\u00f3n para desbloquear el disco. Esto ayuda a proteger sus datos en caso de p\u00e9rdida o robo de su dispositiv"
+                },
+                {
+                    "text": "a)\ttar -czf TEMAS.tar.gz \/home\/opositor\/temas\/",
+                    "isCorrect": false,
+                    "hint": "-c indica crear (--create), -z comprime en gzip, -f infica el fichero de salida, que debe indicarse a continuaci\u00f3n (TEMAS.tar.gz). Otros flags para comprimir serian: -Z compress, -j bzip2, -J xz, -a detecta el sufijo del archivo para determinar el programa de compresi\u00f3n. Sin nin\u00fan par\u00e1metro de compres\u00f3n, simplemente agrupa en fichero .tar."
+                }
+            ]
+        },
+        {
+            "question": "17.\tDurante el proceso de creaci\u00f3n de reglas, se da cuenta de un grave problema de seguridad. Algunos de los equipos Windows no tienen habilitado el firewall. \u00bfQu\u00e9 comando utilizar\u00eda para habilitarlo?",
+            "options": [
+                {
+                    "text": "b)\tnetsh advfirewall set allprofiles state on",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tSi, mediante PoE IEEE 802.3bt",
+                    "isCorrect": false,
+                    "hint": "Existen los siguientes est\u00e1ndares: PoE: 802.3af (15,4W te\u00f3ricos\/12,95W garantizados), PoE+: 802.3at (30W\/25W) y PoE++: 802.3bt que se separa en tipo 1(60W\/51W) y tipo 2 (100W\/71W) "
+                },
+                {
+                    "text": "a)\tdocker run SW2008",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\tnetsh advfirewall firewall add rule name= \"Inventariado\" dir=in action=allow protocol=TCP localport=4433",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18.\tDebido al creciente n\u00famero de ataques, se decide implantar en su CPD un IPS que analice el comportamiento de la red y que examine el tr\u00e1fico inusual para detectar posibles ataques DoS y malwares. \u00bfQu\u00e9 tipo de IPS necesita?",
+            "options": [
+                {
+                    "text": "c)\tNBA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\t18 TB",
+                    "isCorrect": false,
+                    "hint": "En RAID 6 perdemos el tama\u00f1o equivalente a dos discos para paridad. 6 TB * 3 discos = 18 TB"
+                },
+                {
+                    "text": "b)\tnc -v 10.0.4.22 422",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)    La clave de BitLocker.",
+                    "isCorrect": false,
+                    "hint": "BitLocker es una funci\u00f3n de cifrado de disco completo incluida en las versiones Pro y Enterprise de Windows. BitLocker puede cifrar el disco duro de su sistema operativo, as\u00ed como cualquier otro disco duro o unidad extra\u00edble, como una unidad USB. Cuando se habilita BitLocker, se le pedir\u00e1 que proporcione una contrase\u00f1a o una clave de recuperaci\u00f3n para desbloquear el disco. Esto ayuda a proteger sus datos en caso de p\u00e9rdida o robo de su dispositiv"
+                }
+            ]
+        },
+        {
+            "question": "19.\tUn aspecto importante es el protocolo de correo que se va a utilizar para las comunicaciones v\u00eda email. En la DCM est\u00e1n preocupados y no les parece seguro usar SMTP por lo que usted r\u00e1pidamente sugiere usar SMTPS. \u00bfQu\u00e9 puerto por defecto tendr\u00e1 que solicitar a los compa\u00f1ero de seguridad para este protocolo SMTPS?",
+            "options": [
+                {
+                    "text": "b)     465",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\tClase A.",
+                    "isCorrect": false,
+                    "hint": "1.0.0.0 a 127.0.0.0 "
+                },
+                {
+                    "text": "b)\t2046",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "20.\tPara evitar problemas de resoluci\u00f3n de nombres en estos equipos Windows donde se est\u00e1 configurando el cliente de correo, han decidido limpiar la cach\u00e9 DNS. \u00bfCu\u00e1l ser\u00eda el comando adecuado?",
+            "options": [
+                {
+                    "text": "b)\tipconfig \/flushdns",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d)\tnet localgroup administradores",
+                    "isCorrect": false,
+                    "hint": "net localgroup se utiliza para administrar grupos locales en una m\u00e1quina, mientras que net group se utiliza para administrar grupos globales en un dominio. Los grupos globales son grupos de usuarios que se pueden utilizar en todo el dominio, mientras que los grupos locales son grupos de usuarios que solo se pueden utilizar en la m\u00e1quina local."
+                },
+                {
+                    "text": "b)\t2046",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\tSi, mediante PoE IEEE 802.3bt",
+                    "isCorrect": false,
+                    "hint": "Existen los siguientes est\u00e1ndares: PoE: 802.3af (15,4W te\u00f3ricos\/12,95W garantizados), PoE+: 802.3at (30W\/25W) y PoE++: 802.3bt que se separa en tipo 1(60W\/51W) y tipo 2 (100W\/71W) "
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1.\tCon el objetivo de recabar informaci\u00f3n sobre los equipos Windows, disponen de un software de inventariado que necesita acceso por el puerto 4433 (TCP) en los equipos destino. \u00bfQu\u00e9 comando utilizar\u00eda en estos \u00faltimos para a\u00f1adir la regla al firewall?",
+            "options": [
+                {
+                    "text": "c)\tnetsh advfirewall firewall add rule name= \"Inventariado\" dir=in action=allow protocol=TCP localport=4433",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\tnc -v 10.0.4.22 422",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\t2046",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2.\tDesde la unidad responsable de la red, le indican que por motivos de seguridad van a realizar la conexi\u00f3n por el puerto 422. \u00bfQu\u00e9 comando deber\u00eda utilizar en sus equipos RHEL para comprobar que la comunicaci\u00f3n ya est\u00e1 abierta, si la IP destino es la 10.0.4.22 ?",
+            "options": [
+                {
+                    "text": "b)\tnc -v 10.0.4.22 422",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\tAl menos 4 discos duros.",
+                    "isCorrect": false,
+                    "hint": "Raid 10 es un raid 0 de raids 1. El minimo para raid 1 es 2 discos. Como tenemos 2 raids 1, m\u00ednimo 4 discos."
+                },
+                {
+                    "text": "d)\t22",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 3.\tDurante el proceso de traslado, uno de los equipos Windows m\u00e1s importantes de la DCM da problemas de corrupci\u00f3n de datos y han decidido restaurar la copia de seguridad. Le indican que el dispositivo est\u00e1 cifrado. \u00bfQu\u00e9 necesita que le proporcionen para poder restaurar la copia?",
+            "options": [
+                {
+                    "text": "b)    La clave de BitLocker.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a)\tClase A.",
+                    "isCorrect": false,
+                    "hint": "1.0.0.0 a 127.0.0.0 "
+                },
+                {
+                    "text": "b)\tnc -v 10.0.4.22 422",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\troute -p add -net 10.0.5.0\/24 -gateway 10.0.5.150",
+                    "isCorrect": false,
+                    "hint": "El flag correcto para una ruta persistente en solaris es -p. Persistente significa que la ruta se guardar\u00e1 incluso despu\u00e9s de un reinicio."
+                }
+            ]
+        },
+        {
+            "question": "Reserva 4.\tDesde su unidad tambi\u00e9n se est\u00e1 valorando el uso de RAID 10, \u00bfcu\u00e1ntos discos duros son necesarios para crearlo?",
+            "options": [
+                {
+                    "text": "c)\tAl menos 4 discos duros.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a)\ttar -czf TEMAS.tar.gz \/home\/opositor\/temas\/",
+                    "isCorrect": false,
+                    "hint": "-c indica crear (--create), -z comprime en gzip, -f infica el fichero de salida, que debe indicarse a continuaci\u00f3n (TEMAS.tar.gz). Otros flags para comprimir serian: -Z compress, -j bzip2, -J xz, -a detecta el sufijo del archivo para determinar el programa de compresi\u00f3n. Sin nin\u00fan par\u00e1metro de compres\u00f3n, simplemente agrupa en fichero .tar."
+                },
+                {
+                    "text": "b)\tipconfig \/flushdns",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d)     Categor\u00eda 8.",
+                    "isCorrect": false,
+                    "hint": "El cable Cat8  trabaja a una frequencia de 2.000 MHz y velocidades de hasta 40.000 Mbps"
+                }
+            ]
+        },
+        {
+            "question": "Reserva 5.\tMuchas de las comunicaciones se van a realizar mediante conexiones ssh y tiene que solicitar las reglas de firewall al equipo de comunicaciones. \u00bfCu\u00e1l es el puerto que debe solicitar?",
+            "options": [
+                {
+                    "text": "d)\t22",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\t2046",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)\tnc -v 10.0.4.22 422",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\tSELECT * FROM V$VERSION",
+                    "isCorrect": false,
+                    "hint": "Las otras opciones no son correctas porque no son vistas din\u00e1micas v\u00e1lidas en Oracle. Las vistas din\u00e1micas de rendimiento en Oracle comienzan con el prefijo V$. Las vistas din\u00e1micas de rendimiento en Oracle son vistas que est\u00e1n constantemente actualizadas por Oracle y reflejan la situaci\u00f3n actual de la instancia y de la base de datos. Algunas vistas comunes incluyen V$SQL para ver informaci\u00f3n sobre las sentencias SQL ejecutadas, V$SESSION para ver informaci\u00f3n sobre las sesiones de usuario, V$SYSTEM_EVENT para ver informaci\u00f3n sobre los eventos del sistema y V$MEMORY_TARGET_ADVICE para ver informaci\u00f3n sobre el uso de la memoria."
+                }
+            ]
+        }
+    ]
+}

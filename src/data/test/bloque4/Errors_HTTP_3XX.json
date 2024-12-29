@@ -1,0 +1,175 @@
+{
+    "title": "Errors HTTP 3XX",
+    "type": "bloque4",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "Multiple Choice",
+            "options": [
+                {
+                    "text": "300",
+                    "isCorrect": true
+                },
+                {
+                    "text": "307",
+                    "isCorrect": false,
+                    "hint": "Temporary Redirect"
+                },
+                {
+                    "text": "301",
+                    "isCorrect": false,
+                    "hint": "Moved Permanently"
+                },
+                {
+                    "text": "302",
+                    "isCorrect": false,
+                    "hint": "Found"
+                }
+            ]
+        },
+        {
+            "question": "Moved Permanently",
+            "options": [
+                {
+                    "text": "301",
+                    "isCorrect": true
+                },
+                {
+                    "text": "303 ",
+                    "isCorrect": false,
+                    "hint": "See Other"
+                },
+                {
+                    "text": "300",
+                    "isCorrect": false,
+                    "hint": "Multiple Choice"
+                },
+                {
+                    "text": "304",
+                    "isCorrect": false,
+                    "hint": "Not Modified"
+                }
+            ]
+        },
+        {
+            "question": "Found",
+            "options": [
+                {
+                    "text": "302",
+                    "isCorrect": true
+                },
+                {
+                    "text": "307",
+                    "isCorrect": false,
+                    "hint": "Temporary Redirect"
+                },
+                {
+                    "text": "300",
+                    "isCorrect": false,
+                    "hint": "Multiple Choice"
+                },
+                {
+                    "text": "304",
+                    "isCorrect": false,
+                    "hint": "Not Modified"
+                }
+            ]
+        },
+        {
+            "question": "See Other",
+            "options": [
+                {
+                    "text": "303 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "300",
+                    "isCorrect": false,
+                    "hint": "Multiple Choice"
+                },
+                {
+                    "text": "304",
+                    "isCorrect": false,
+                    "hint": "Not Modified"
+                },
+                {
+                    "text": "308",
+                    "isCorrect": false,
+                    "hint": "Permanent Redirect"
+                }
+            ]
+        },
+        {
+            "question": "Not Modified",
+            "options": [
+                {
+                    "text": "304",
+                    "isCorrect": true
+                },
+                {
+                    "text": "300",
+                    "isCorrect": false,
+                    "hint": "Multiple Choice"
+                },
+                {
+                    "text": "303 ",
+                    "isCorrect": false,
+                    "hint": "See Other"
+                },
+                {
+                    "text": "308",
+                    "isCorrect": false,
+                    "hint": "Permanent Redirect"
+                }
+            ]
+        },
+        {
+            "question": "Temporary Redirect",
+            "options": [
+                {
+                    "text": "307",
+                    "isCorrect": true
+                },
+                {
+                    "text": "308",
+                    "isCorrect": false,
+                    "hint": "Permanent Redirect"
+                },
+                {
+                    "text": "302",
+                    "isCorrect": false,
+                    "hint": "Found"
+                },
+                {
+                    "text": "303 ",
+                    "isCorrect": false,
+                    "hint": "See Other"
+                }
+            ]
+        },
+        {
+            "question": "Permanent Redirect",
+            "options": [
+                {
+                    "text": "308",
+                    "isCorrect": true
+                },
+                {
+                    "text": "302",
+                    "isCorrect": false,
+                    "hint": "Found"
+                },
+                {
+                    "text": "300",
+                    "isCorrect": false,
+                    "hint": "Multiple Choice"
+                },
+                {
+                    "text": "307",
+                    "isCorrect": false,
+                    "hint": "Temporary Redirect"
+                }
+            ]
+        }
+    ]
+}

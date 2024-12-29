@@ -1,0 +1,1039 @@
+{
+    "title": "CUESTIONARIO 15-TAI\u2013LI - Supuesto II",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1. Es necesario que se actualice el servidor S1 al \u00faltimo software disponible, \u00bfcu\u00e1l, de las siguientes, ser\u00eda las \u00f3rdenes que deber\u00eda ejecutar?",
+            "options": [
+                {
+                    "text": "a) apt-get update; apt-get dist-upgrade;",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Zabbix",
+                    "isCorrect": false,
+                    "hint": " Zimbra es un software de colaboraci\u00f3n y correo electr\u00f3nico, eWallet es una aplicaci\u00f3n para almacenar informaci\u00f3n confidencial y WebStorm es un entorno de desarrollo integrado (IDE) para JavaScript."
+                },
+                {
+                    "text": "c) Se permite la conexi\u00f3n al puerto 80.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La p\u00e1gina se mostrar\u00e1 al acceder al puerto 8888.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2. Se le pide que se haga un backup de todas las bases de datos, indique cu\u00e1l es el comando para realizarlo:",
+            "options": [
+                {
+                    "text": "b) mysqldump --all- databases -u u_mysql -pxyz > \/tmp\/backup.sql",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 4094",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) vgcfgrestore",
+                    "isCorrect": false,
+                    "hint": "El comando correcto para restaurar los metadatos de un grupo de vol\u00famenes de LVM es vgcfgrestore. lvmgrestore, importlvm y lvmrestore no son comandos reconocidos por LVM."
+                },
+                {
+                    "text": "b) 443",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. Se necesita repetir el \u00faltimo comando ejecutado en una consola Linux con el shell por defecto bash. \u00bfCu\u00e1l de los siguientes permite realizarlo?",
+            "options": [
+                {
+                    "text": "c) !!",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 3306",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Se permite la conexi\u00f3n al puerto 80.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 995",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4. Si fuese necesario, \u00bfcon qu\u00e9 comando se restauran los metadatos de un grupo de vol\u00famenes de LVM?",
+            "options": [
+                {
+                    "text": "a) vgcfgrestore",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 995",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) a2enmod rewrite",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) dsadd",
+                    "isCorrect": false,
+                    "hint": "adduser es un comando de Unix para agregar usuarios, mientras que dscreate y dacreate no son comandos reconocidos en Windows Server 2008 R2."
+                }
+            ]
+        },
+        {
+            "question": "5. Indique con qu\u00e9 orden, de las siguientes, aumentar\u00edamos a 1024 el m\u00e1ximo permitido de ficheros abiertos para el grupo users en el servidor Linux:",
+            "options": [
+                {
+                    "text": "c) echo \"@users soft nofile 1024\" >>\/etc\/security\/limits.conf; echo \"@users hard nofile 1024\" >> \/etc\/security\/limits.conf",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) vgcfgrestore",
+                    "isCorrect": false,
+                    "hint": "El comando correcto para restaurar los metadatos de un grupo de vol\u00famenes de LVM es vgcfgrestore. lvmgrestore, importlvm y lvmrestore no son comandos reconocidos por LVM."
+                },
+                {
+                    "text": "b) 443",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La capacidad total resultante es de 200 GB,",
+                    "isCorrect": false,
+                    "hint": "Raid10 consiste en un Raid 0 (stripping) de Raid 1 (mirror), por lo tanto se puede hacer con 4 discos. En el mirror perderemos la mitad de los 400gb disponibles."
+                }
+            ]
+        },
+        {
+            "question": "6. El comando que se emplear\u00eda para cancelar una orden de \"shutdown\" pendiente es:",
+            "options": [
+                {
+                    "text": "d) shutdown -c",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) echo \"@users soft nofile 1024\" >>\/etc\/security\/limits.conf; echo \"@users hard nofile 1024\" >> \/etc\/security\/limits.conf",
+                    "isCorrect": false,
+                    "hint": "La opci\u00f3n a) especifica el archivo \/etc\/security\/filelimits.conf, que no es el archivo correcto para cambiar los l\u00edmites de recursos del sistema. El archivo correcto es \/etc\/security\/limits.conf.  La opci\u00f3n b) especifica el archivo \/etc\/security\/files.conf, que tampoco es el archivo correcto para cambiar los l\u00edmites de recursos del sistema.  La opci\u00f3n d) solo cambia el l\u00edmite suave y no cambia el l\u00edmite duro. Adem\u00e1s, la ruta del archivo especificada (\/etc\/security\/soft.conf) tampoco es la ruta correcta."
+                },
+                {
+                    "text": "c) tail -n 77 \/tmp\/fichero.log | head",
+                    "isCorrect": false,
+                    "hint": "Si el archivo \/tmp\/fichero.log tiene exactamente 30 l\u00edneas, entonces el comando tail -n 77 \/tmp\/fichero.log | head mostrar\u00eda las \u00faltimas 30 l\u00edneas del archivo y luego head mostrar\u00eda las primeras 10 l\u00edneas de esas 30 l\u00edneas. En este caso espec\u00edfico, el comando tail -n 77 \/tmp\/fichero.log | head mostrar\u00eda las primeras 10 l\u00edneas del archivo \/tmp\/fichero.log. Sin embargo, en general, este comando no siempre muestra las primeras 10 l\u00edneas de un archivo."
+                },
+                {
+                    "text": "d) OwnCloud",
+                    "isCorrect": false,
+                    "hint": "Nagios es un sistema de monitoreo de red y no est\u00e1 dise\u00f1ado para el alojamiento de archivos. SCCM (System Center Configuration Manager) es una herramienta de administraci\u00f3n de sistemas de Microsoft y tampoco est\u00e1 dise\u00f1ada para el alojamiento de archivos. xfce es un entorno de escritorio para sistemas operativos tipo Unix y no est\u00e1 relacionado con el alojamiento de archivos."
+                }
+            ]
+        },
+        {
+            "question": "7. El comando para inicializar la partici\u00f3n \/dev\/sdb1 para ser usada por LVM es:",
+            "options": [
+                {
+                    "text": "d) pvcreate \/dev\/sdb1",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 995",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) echo \"@users soft nofile 1024\" >>\/etc\/security\/limits.conf; echo \"@users hard nofile 1024\" >> \/etc\/security\/limits.conf",
+                    "isCorrect": false,
+                    "hint": "La opci\u00f3n a) especifica el archivo \/etc\/security\/filelimits.conf, que no es el archivo correcto para cambiar los l\u00edmites de recursos del sistema. El archivo correcto es \/etc\/security\/limits.conf.  La opci\u00f3n b) especifica el archivo \/etc\/security\/files.conf, que tampoco es el archivo correcto para cambiar los l\u00edmites de recursos del sistema.  La opci\u00f3n d) solo cambia el l\u00edmite suave y no cambia el l\u00edmite duro. Adem\u00e1s, la ruta del archivo especificada (\/etc\/security\/soft.conf) tampoco es la ruta correcta."
+                },
+                {
+                    "text": "c) El registro de nombre can\u00f3nico.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "8. Se necesita configurar el interfaz de red, eth0 en modo promiscuo, \u00bfcu\u00e1l ser\u00eda el comando que lo activar\u00eda para la interfaz indicada?",
+            "options": [
+                {
+                    "text": "b) ifconfig eth0 promisc",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) dsadd",
+                    "isCorrect": false,
+                    "hint": "adduser es un comando de Unix para agregar usuarios, mientras que dscreate y dacreate no son comandos reconocidos en Windows Server 2008 R2."
+                },
+                {
+                    "text": "a) ElGamal",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) !!",
+                    "isCorrect": false,
+                    "hint": "En una consola Linux con el shell por defecto bash, puedes repetir el \u00faltimo comando ejecutado escribiendo !! y presionando Enter. a) # es utilizado para hacer comentarios en un script de bash y no tiene efecto al ser ingresado en la l\u00ednea de comandos.  b) ## no es un comando v\u00e1lido en bash.  d) ! se utiliza para hacer referencia a comandos previos en el historial de comandos, pero debe ir seguido de alg\u00fan otro car\u00e1cter o palabra para especificar qu\u00e9 comando se quiere repetir. Por ejemplo, !ls repetir\u00eda el \u00faltimo comando que comenz\u00f3 con ls."
+                }
+            ]
+        },
+        {
+            "question": "9. Se le indica que el servidor tiene la direcci\u00f3n IPv4 192.168.1.111 y IPv6 fe80::a00::27ff::fee9::ffac, indique la afirmaci\u00f3n correcta:",
+            "options": [
+                {
+                    "text": "a) La direcci\u00f3n IPv6 mostrada es err\u00f3nea.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) IDEA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) rman",
+                    "isCorrect": false,
+                    "hint": "Es una suite completa de backup y recuperaci\u00f3n proporcionada por Oracle "
+                },
+                {
+                    "text": "d) La p\u00e1gina se mostrar\u00e1 al acceder al puerto 8888.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "10. Para poder configurar correctamente las reglas del firewall, indique cu\u00e1l es el puerto por defecto de MySQL",
+            "options": [
+                {
+                    "text": "a) 3306",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) La segunda orden (echo \"Hola\u201d) no se ejecuta.",
+                    "isCorrect": false,
+                    "hint": "Esto se debe a que el comando false devuelve un estado de salida no cero, lo que indica un resultado fallido. Cuando se usa el operador &&, el comando que sigue solo se ejecutar\u00e1 si el comando anterior devuelve un estado de salida cero, lo que indica un resultado exitoso. Como false no devuelve un estado de salida cero, el comando echo \"Hola\" no se ejecutar\u00e1."
+                },
+                {
+                    "text": "c) Se permite la conexi\u00f3n al puerto 80.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Para la creaci\u00f3n y administraci\u00f3n de RAID por software.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11. \u00bfCu\u00e1l de los siguientes comandos elegir\u00eda en Windows Server 2008 R2 para realizar b\u00fasquedas en el directorio activo de ordenadores cuyo nombre empieza por xyz?",
+            "options": [
+                {
+                    "text": "a) dsquery computer domainroot -name xyz*",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Si la base de datos est\u00e1 abierta, se realiza un SHUTDOWN ABORT antes de volver a abrirla.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) GLBP",
+                    "isCorrect": false,
+                    "hint": "El protocolo propietario de Cisco para el balanceo de carga es GLBP (Gateway Load Balancing Protocol)12. Este protocolo est\u00e1 dise\u00f1ado para ofrecer balanceo de carga sin las limitaciones de otros protocolos como HSRP (Hot Standby Router Protocol) o VRRP (Virtual Router Redundancy Protocol)"
+                },
+                {
+                    "text": "d) shutdown -c",
+                    "isCorrect": false,
+                    "hint": "Las otras opciones no existen. En windows seria shutdown -a"
+                }
+            ]
+        },
+        {
+            "question": "12. Indique cu\u00e1l de las siguientes herramientas de l\u00ednea de comandos emplear\u00eda para a\u00f1adir un usuario al directorio activo en Windows Server 2008 R2:",
+            "options": [
+                {
+                    "text": "c) dsadd",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 995",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) rman",
+                    "isCorrect": false,
+                    "hint": "Es una suite completa de backup y recuperaci\u00f3n proporcionada por Oracle "
+                },
+                {
+                    "text": "a) Se ejecuta un backup de \/home\/ a las 5:00 de la ma\u00f1ana una vez a la semana.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. \u00bfCu\u00e1ntos host son posibles para la red 200.100.15.0\/24?",
+            "options": [
+                {
+                    "text": "c) 254",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) VRRP",
+                    "isCorrect": false,
+                    "hint": " VRRP (Virtual Router Redundancy Protocol)  es un protocolo de Internet que permite tener uno o m\u00e1s routers en espera cuando se utiliza un router configurado est\u00e1ticamente en una LAN. Esto crea redundancia, eliminando los puntos \u00fanicos de falla al tiempo que aumenta la disponibilidad y la fiabilidad de las rutas de ruteo en una red"
+                },
+                {
+                    "text": "c) echo \"@users soft nofile 1024\" >>\/etc\/security\/limits.conf; echo \"@users hard nofile 1024\" >> \/etc\/security\/limits.conf",
+                    "isCorrect": false,
+                    "hint": "La opci\u00f3n a) especifica el archivo \/etc\/security\/filelimits.conf, que no es el archivo correcto para cambiar los l\u00edmites de recursos del sistema. El archivo correcto es \/etc\/security\/limits.conf.  La opci\u00f3n b) especifica el archivo \/etc\/security\/files.conf, que tampoco es el archivo correcto para cambiar los l\u00edmites de recursos del sistema.  La opci\u00f3n d) solo cambia el l\u00edmite suave y no cambia el l\u00edmite duro. Adem\u00e1s, la ruta del archivo especificada (\/etc\/security\/soft.conf) tampoco es la ruta correcta."
+                },
+                {
+                    "text": "a) apt-get update; apt-get dist-upgrade;",
+                    "isCorrect": false,
+                    "hint": " El comando apt-get update actualiza la lista de paquetes disponibles y sus versiones, pero no instala ni actualiza ning\u00fan paquete. El comando apt-get dist-upgrade adem\u00e1s de realizar la funci\u00f3n de upgrade, maneja inteligentemente los cambios de dependencias con nuevas versiones de paquetes y tratar\u00e1 de actualizar los paquetes m\u00e1s importantes a expensas de los menos importantes si es necesario. La opci\u00f3n b) contiene el comando apt-get dist-install que no existe. La opci\u00f3n c) contiene el comando apt-cache update y apt-dist upgrade que tampoco existen. La opci\u00f3n d) contiene el comando apt-dist update que no existe y el comando apt-get install all que est\u00e1 mal escrito ya que la sintaxis correcta ser\u00eda apt-get install [nombre del paquete]."
+                }
+            ]
+        },
+        {
+            "question": "14. Para una red de clase C dada, 200.100.15.0\/24, se requiere crear 10 subredes con 10 hosts por subred. \u00bfQu\u00e9 mascara de subred ser\u00eda la correcta para dichas subredes?",
+            "options": [
+                {
+                    "text": "b) 255.255.255.240",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) openssl",
+                    "isCorrect": false,
+                    "hint": "openssl genpkey -algorithm RSA -out private_key.pem generar\u00eda una clave privada RSA y la guardar\u00eda en un archivo llamado private_key.pem"
+                },
+                {
+                    "text": "b) 995",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Zabbix",
+                    "isCorrect": false,
+                    "hint": " Zimbra es un software de colaboraci\u00f3n y correo electr\u00f3nico, eWallet es una aplicaci\u00f3n para almacenar informaci\u00f3n confidencial y WebStorm es un entorno de desarrollo integrado (IDE) para JavaScript."
+                }
+            ]
+        },
+        {
+            "question": "15. \u00bfCu\u00e1l de las siguientes es la direcci\u00f3n de broadcast para la red 172.167.0.0 con m\u00e1scara 255.255,240.0?",
+            "options": [
+                {
+                    "text": "d) 172.167.15.255",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) pvcreate \/dev\/sdb1",
+                    "isCorrect": false,
+                    "hint": "d). El comando correcto para inicializar la partici\u00f3n \/dev\/sdb1 para ser usada por LVM es pvcreate \/dev\/sdb1. Este comando se utiliza para inicializar un dispositivo de almacenamiento f\u00edsico para su uso por LVM. La opci\u00f3n a) es incorrecta ya que LVM puede utilizar particiones individuales como dispositivos f\u00edsicos. La opci\u00f3n b) es incorrecta ya que el comando lvm --create no existe. La opci\u00f3n c) es incorrecta ya que el comando correcto es pvcreate, no pv--create"
+                },
+                {
+                    "text": "a) apt-get update; apt-get dist-upgrade;",
+                    "isCorrect": false,
+                    "hint": " El comando apt-get update actualiza la lista de paquetes disponibles y sus versiones, pero no instala ni actualiza ning\u00fan paquete. El comando apt-get dist-upgrade adem\u00e1s de realizar la funci\u00f3n de upgrade, maneja inteligentemente los cambios de dependencias con nuevas versiones de paquetes y tratar\u00e1 de actualizar los paquetes m\u00e1s importantes a expensas de los menos importantes si es necesario. La opci\u00f3n b) contiene el comando apt-get dist-install que no existe. La opci\u00f3n c) contiene el comando apt-cache update y apt-dist upgrade que tampoco existen. La opci\u00f3n d) contiene el comando apt-dist update que no existe y el comando apt-get install all que est\u00e1 mal escrito ya que la sintaxis correcta ser\u00eda apt-get install [nombre del paquete]."
+                },
+                {
+                    "text": "d) shutdown -c",
+                    "isCorrect": false,
+                    "hint": "Las otras opciones no existen. En windows seria shutdown -a"
+                }
+            ]
+        },
+        {
+            "question": "16. \u00bfCu\u00e1ntos hosts se pueden tener para la red 172.167.0.0\/20?",
+            "options": [
+                {
+                    "text": "b) 4094",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) VRRP",
+                    "isCorrect": false,
+                    "hint": " VRRP (Virtual Router Redundancy Protocol)  es un protocolo de Internet que permite tener uno o m\u00e1s routers en espera cuando se utiliza un router configurado est\u00e1ticamente en una LAN. Esto crea redundancia, eliminando los puntos \u00fanicos de falla al tiempo que aumenta la disponibilidad y la fiabilidad de las rutas de ruteo en una red"
+                },
+                {
+                    "text": "a) 3306",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Se redirigen las peticiones TCP del puerto 8888 al puerto 80.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17. Se\u00f1ale el rango de direcciones IP v\u00e1lidas para hosts para la subred a la que pertenece el host 192.168.168.188\/255.255.255.192:",
+            "options": [
+                {
+                    "text": "a) De 192.168.168.129 a 192.168.168.190",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) OwnCloud",
+                    "isCorrect": false,
+                    "hint": "Nagios es un sistema de monitoreo de red y no est\u00e1 dise\u00f1ado para el alojamiento de archivos. SCCM (System Center Configuration Manager) es una herramienta de administraci\u00f3n de sistemas de Microsoft y tampoco est\u00e1 dise\u00f1ada para el alojamiento de archivos. xfce es un entorno de escritorio para sistemas operativos tipo Unix y no est\u00e1 relacionado con el alojamiento de archivos."
+                },
+                {
+                    "text": "a) 3306",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) a2enmod rewrite",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18. \u00bfQu\u00e9 tipo de direcci\u00f3n es 204.201.210.4\/30?",
+            "options": [
+                {
+                    "text": "b) Direcci\u00f3n de red.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) El registro de nombre can\u00f3nico.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) openssl",
+                    "isCorrect": false,
+                    "hint": "openssl genpkey -algorithm RSA -out private_key.pem generar\u00eda una clave privada RSA y la guardar\u00eda en un archivo llamado private_key.pem"
+                },
+                {
+                    "text": "a) NS",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "19. En Windows, \u00bfqu\u00e9 comando actualiza la configuraci\u00f3n de las directivas de grupo?",
+            "options": [
+                {
+                    "text": "c) gpupdate",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) ElGamal",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Se ejecuta un backup de \/home\/ a las 5:00 de la ma\u00f1ana una vez a la semana.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) La direcci\u00f3n IPv6 mostrada es err\u00f3nea.",
+                    "isCorrect": false,
+                    "hint": "S\u00f3lo puede haber una cadena \"::\" en una direcci\u00f3n ipv6."
+                }
+            ]
+        },
+        {
+            "question": "20. En Windows, \u00bfqu\u00e9 herramienta muestra informaci\u00f3n del conjunto resultante de directivas para un usuario y equipo de destino?",
+            "options": [
+                {
+                    "text": "a) gpresult",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) ifconfig eth0 promisc",
+                    "isCorrect": false,
+                    "hint": "Las otras sintaxis no son correctas. En inform\u00e1tica, el modo promiscuo es aquel en el que una computadora conectada a una red compartida, tanto la basada en cable de cobre como la basada en tecnolog\u00eda inal\u00e1mbrica, captura todo el tr\u00e1fico que circula por ella.  Este modo est\u00e1 muy relacionado con los sniffers que se basan en este modo para realizar su tarea."
+                },
+                {
+                    "text": "b) Zabbix",
+                    "isCorrect": false,
+                    "hint": " Zimbra es un software de colaboraci\u00f3n y correo electr\u00f3nico, eWallet es una aplicaci\u00f3n para almacenar informaci\u00f3n confidencial y WebStorm es un entorno de desarrollo integrado (IDE) para JavaScript."
+                },
+                {
+                    "text": "c) !!",
+                    "isCorrect": false,
+                    "hint": "En una consola Linux con el shell por defecto bash, puedes repetir el \u00faltimo comando ejecutado escribiendo !! y presionando Enter. a) # es utilizado para hacer comentarios en un script de bash y no tiene efecto al ser ingresado en la l\u00ednea de comandos.  b) ## no es un comando v\u00e1lido en bash.  d) ! se utiliza para hacer referencia a comandos previos en el historial de comandos, pero debe ir seguido de alg\u00fan otro car\u00e1cter o palabra para especificar qu\u00e9 comando se quiere repetir. Por ejemplo, !ls repetir\u00eda el \u00faltimo comando que comenz\u00f3 con ls."
+                }
+            ]
+        },
+        {
+            "question": "21. Indique qu\u00e9 ocurrir\u00e1 si desde la shell bash en el servidor Linux, ejecuta lo siguiente: false && echo \"Hola\u201d",
+            "options": [
+                {
+                    "text": "a) La segunda orden (echo \"Hola\u201d) no se ejecuta.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) gpupdate",
+                    "isCorrect": false,
+                    "hint": " gpresult es un comando que muestra informaci\u00f3n sobre las directivas de grupo aplicadas a un usuario o equipo. gpcheck no es un comando v\u00e1lido en Windows. dsup tampoco es un comando v\u00e1lido en Windows"
+                },
+                {
+                    "text": "d) 172.167.15.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 4094",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. Para garantizar la disponibilidad del acceso a Internet, se desea que los dos routers que hacen este servicio, se configuren mediante un protocolo de redundancia. \u00bfCu\u00e1l de los siguientes ser\u00eda v\u00e1lido para realizar este cometido?",
+            "options": [
+                {
+                    "text": "b) VRRP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) GLBP",
+                    "isCorrect": false,
+                    "hint": "El protocolo propietario de Cisco para el balanceo de carga es GLBP (Gateway Load Balancing Protocol)12. Este protocolo est\u00e1 dise\u00f1ado para ofrecer balanceo de carga sin las limitaciones de otros protocolos como HSRP (Hot Standby Router Protocol) o VRRP (Virtual Router Redundancy Protocol)"
+                },
+                {
+                    "text": "a) NS",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Se permite la conexi\u00f3n al puerto 80.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. Le solicitan que instale un sistema de monitorizaci\u00f3n de la infraestructura. Indique cu\u00e1l de los siguientes es un sistema que realiza tal cometido:",
+            "options": [
+                {
+                    "text": "b) Zabbix",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) dsadd",
+                    "isCorrect": false,
+                    "hint": "adduser es un comando de Unix para agregar usuarios, mientras que dscreate y dacreate no son comandos reconocidos en Windows Server 2008 R2."
+                },
+                {
+                    "text": "a) Se redirigen las peticiones TCP del puerto 8888 al puerto 80.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 3306",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. Debido a la deslocalizaci\u00f3n de los usuarios, se le pide que recomiende un sistema de alojamiento de archivos, proporcionando funciones similares a las alternativas comerciales como Dropbox, pero que permita la instalaci\u00f3n de dicha soluci\u00f3n en el CPD, esto es una nube privada para sus usuarios. De entre las siguientes opciones, \u00bfcu\u00e1l ser\u00eda su recomendaci\u00f3n?",
+            "options": [
+                {
+                    "text": "d) OwnCloud",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) La capacidad total resultante es de 200 GB,",
+                    "isCorrect": false,
+                    "hint": "Raid10 consiste en un Raid 0 (stripping) de Raid 1 (mirror), por lo tanto se puede hacer con 4 discos. En el mirror perderemos la mitad de los 400gb disponibles."
+                },
+                {
+                    "text": "a) gpresult",
+                    "isCorrect": false,
+                    "hint": "gpupdate es una herramienta que actualiza la configuraci\u00f3n de directiva de grupo, las otras no existen."
+                },
+                {
+                    "text": "c) 254",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. Est\u00e1 instalando una aplicaci\u00f3n open source de nube privada, dicha aplicaci\u00f3n requiere del uso de Apache y que \u00e9ste tenga activado el m\u00f3dulo rewrite. \u00bfCu\u00e1l es el comando para activarlo?",
+            "options": [
+                {
+                    "text": "b) a2enmod rewrite",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 172.167.15.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) La direcci\u00f3n IPv6 mostrada es err\u00f3nea.",
+                    "isCorrect": false,
+                    "hint": "S\u00f3lo puede haber una cadena \"::\" en una direcci\u00f3n ipv6."
+                },
+                {
+                    "text": "a) ab http:\/\/192.168.0.100\/",
+                    "isCorrect": false,
+                    "hint": "ab (ApacheBench) es una herramienta para evaluar el rendimiento de tu servidor Apache HTTP. Est\u00e1 dise\u00f1ada para darte una impresi\u00f3n de c\u00f3mo se desempe\u00f1a tu instalaci\u00f3n actual de Apache"
+                }
+            ]
+        },
+        {
+            "question": "26. En el caso de los routers que dan acceso a la red SARA, \u00e9stos son de la marca Cisco y permiten configurarse para conseguir balanceo de carga. \u00bfCu\u00e1l es dicho protocolo propietario de Cisco?",
+            "options": [
+                {
+                    "text": "c) GLBP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Direcci\u00f3n de red.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) OwnCloud",
+                    "isCorrect": false,
+                    "hint": "Nagios es un sistema de monitoreo de red y no est\u00e1 dise\u00f1ado para el alojamiento de archivos. SCCM (System Center Configuration Manager) es una herramienta de administraci\u00f3n de sistemas de Microsoft y tampoco est\u00e1 dise\u00f1ada para el alojamiento de archivos. xfce es un entorno de escritorio para sistemas operativos tipo Unix y no est\u00e1 relacionado con el alojamiento de archivos."
+                },
+                {
+                    "text": "a) Si la base de datos est\u00e1 abierta, se realiza un SHUTDOWN ABORT antes de volver a abrirla.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "27. Para realizar un backup de las bases de datos Oracle 10G se utilizar\u00eda:",
+            "options": [
+                {
+                    "text": "a) rman",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Se ejecuta un backup de \/home\/ a las 5:00 de la ma\u00f1ana una vez a la semana.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Zabbix",
+                    "isCorrect": false,
+                    "hint": " Zimbra es un software de colaboraci\u00f3n y correo electr\u00f3nico, eWallet es una aplicaci\u00f3n para almacenar informaci\u00f3n confidencial y WebStorm es un entorno de desarrollo integrado (IDE) para JavaScript."
+                },
+                {
+                    "text": "c) !!",
+                    "isCorrect": false,
+                    "hint": "En una consola Linux con el shell por defecto bash, puedes repetir el \u00faltimo comando ejecutado escribiendo !! y presionando Enter. a) # es utilizado para hacer comentarios en un script de bash y no tiene efecto al ser ingresado en la l\u00ednea de comandos.  b) ## no es un comando v\u00e1lido en bash.  d) ! se utiliza para hacer referencia a comandos previos en el historial de comandos, pero debe ir seguido de alg\u00fan otro car\u00e1cter o palabra para especificar qu\u00e9 comando se quiere repetir. Por ejemplo, !ls repetir\u00eda el \u00faltimo comando que comenz\u00f3 con ls."
+                }
+            ]
+        },
+        {
+            "question": "28. Mediante la ejecuci\u00f3n del comando crontab -e, usted a\u00f1ade la siguiente l\u00ednea: 0 5 ** 1 tar -zcf \/var\/backups\/home\/home.tgz \/home\/ \u00bfCu\u00e1l es el resultado una vez guardado dicho cambio?",
+            "options": [
+                {
+                    "text": "a) Se ejecuta un backup de \/home\/ a las 5:00 de la ma\u00f1ana una vez a la semana.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) openssl",
+                    "isCorrect": false,
+                    "hint": "openssl genpkey -algorithm RSA -out private_key.pem generar\u00eda una clave privada RSA y la guardar\u00eda en un archivo llamado private_key.pem"
+                },
+                {
+                    "text": "a) apt-get update; apt-get dist-upgrade;",
+                    "isCorrect": false,
+                    "hint": " El comando apt-get update actualiza la lista de paquetes disponibles y sus versiones, pero no instala ni actualiza ning\u00fan paquete. El comando apt-get dist-upgrade adem\u00e1s de realizar la funci\u00f3n de upgrade, maneja inteligentemente los cambios de dependencias con nuevas versiones de paquetes y tratar\u00e1 de actualizar los paquetes m\u00e1s importantes a expensas de los menos importantes si es necesario. La opci\u00f3n b) contiene el comando apt-get dist-install que no existe. La opci\u00f3n c) contiene el comando apt-cache update y apt-dist upgrade que tampoco existen. La opci\u00f3n d) contiene el comando apt-dist update que no existe y el comando apt-get install all que est\u00e1 mal escrito ya que la sintaxis correcta ser\u00eda apt-get install [nombre del paquete]."
+                },
+                {
+                    "text": "a) Se redirigen las peticiones TCP del puerto 8888 al puerto 80.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "29. Se le ha solicitado configurar un RAID 10 de 4 discos de 100 GB, \u00bfcu\u00e1l de las siguientes afirmaciones es cierta?",
+            "options": [
+                {
+                    "text": "c) La capacidad total resultante es de 200 GB,",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) ElGamal",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 443",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) La segunda orden (echo \"Hola\u201d) no se ejecuta.",
+                    "isCorrect": false,
+                    "hint": "Esto se debe a que el comando false devuelve un estado de salida no cero, lo que indica un resultado fallido. Cuando se usa el operador &&, el comando que sigue solo se ejecutar\u00e1 si el comando anterior devuelve un estado de salida cero, lo que indica un resultado exitoso. Como false no devuelve un estado de salida cero, el comando echo \"Hola\" no se ejecutar\u00e1."
+                }
+            ]
+        },
+        {
+            "question": "30. Indique para qu\u00e9 sirve la utilidad \"mdadm\" en Linux:",
+            "options": [
+                {
+                    "text": "b) Para la creaci\u00f3n y administraci\u00f3n de RAID por software.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) La segunda orden (echo \"Hola\u201d) no se ejecuta.",
+                    "isCorrect": false,
+                    "hint": "Esto se debe a que el comando false devuelve un estado de salida no cero, lo que indica un resultado fallido. Cuando se usa el operador &&, el comando que sigue solo se ejecutar\u00e1 si el comando anterior devuelve un estado de salida cero, lo que indica un resultado exitoso. Como false no devuelve un estado de salida cero, el comando echo \"Hola\" no se ejecutar\u00e1."
+                },
+                {
+                    "text": "b) openssl",
+                    "isCorrect": false,
+                    "hint": "openssl genpkey -algorithm RSA -out private_key.pem generar\u00eda una clave privada RSA y la guardar\u00eda en un archivo llamado private_key.pem"
+                },
+                {
+                    "text": "c) 254",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "31. En Oracle 10G Release 2, \u00bfcu\u00e1l es el cometido de ejecutar \"STARTUP FORCE\u201d?",
+            "options": [
+                {
+                    "text": "a) Si la base de datos est\u00e1 abierta, se realiza un SHUTDOWN ABORT antes de volver a abrirla.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 4094",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) shutdown -c",
+                    "isCorrect": false,
+                    "hint": "Las otras opciones no existen. En windows seria shutdown -a"
+                },
+                {
+                    "text": "c) gpupdate",
+                    "isCorrect": false,
+                    "hint": " gpresult es un comando que muestra informaci\u00f3n sobre las directivas de grupo aplicadas a un usuario o equipo. gpcheck no es un comando v\u00e1lido en Windows. dsup tampoco es un comando v\u00e1lido en Windows"
+                }
+            ]
+        },
+        {
+            "question": "32. El puerto por defecto del protocolo POP3 sobre TLS\/SSL es:",
+            "options": [
+                {
+                    "text": "b) 995",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 255.255.255.240",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Se ejecuta un backup de \/home\/ a las 5:00 de la ma\u00f1ana una vez a la semana.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 254",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "33. Necesitamos mostrar por pantalla las primeras 10 filas de un fichero \/tmp\/fichero.log que contiene 30 filas. \u00bfCu\u00e1l ser\u00eda el comando para ello?",
+            "options": [
+                {
+                    "text": "c) tail -n 77 \/tmp\/fichero.log | head",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) De 192.168.168.129 a 192.168.168.190",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) La segunda orden (echo \"Hola\u201d) no se ejecuta.",
+                    "isCorrect": false,
+                    "hint": "Esto se debe a que el comando false devuelve un estado de salida no cero, lo que indica un resultado fallido. Cuando se usa el operador &&, el comando que sigue solo se ejecutar\u00e1 si el comando anterior devuelve un estado de salida cero, lo que indica un resultado exitoso. Como false no devuelve un estado de salida cero, el comando echo \"Hola\" no se ejecutar\u00e1."
+                },
+                {
+                    "text": "d) OwnCloud",
+                    "isCorrect": false,
+                    "hint": "Nagios es un sistema de monitoreo de red y no est\u00e1 dise\u00f1ado para el alojamiento de archivos. SCCM (System Center Configuration Manager) es una herramienta de administraci\u00f3n de sistemas de Microsoft y tampoco est\u00e1 dise\u00f1ada para el alojamiento de archivos. xfce es un entorno de escritorio para sistemas operativos tipo Unix y no est\u00e1 relacionado con el alojamiento de archivos."
+                }
+            ]
+        },
+        {
+            "question": "34. El servidor 192.168.0.100 est\u00e1 sirviendo una p\u00e1gina web usando Apache y a trav\u00e9s del puerto 80, \u00bfcu\u00e1l ser\u00eda el comando, disponible en el paquete apache2-utils, para obtener informaci\u00f3n del rendimiento, tales como peticiones por segundo?",
+            "options": [
+                {
+                    "text": "a) ab http:\/\/192.168.0.100\/",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) vgcfgrestore",
+                    "isCorrect": false,
+                    "hint": "El comando correcto para restaurar los metadatos de un grupo de vol\u00famenes de LVM es vgcfgrestore. lvmgrestore, importlvm y lvmrestore no son comandos reconocidos por LVM."
+                },
+                {
+                    "text": "c) dsadd",
+                    "isCorrect": false,
+                    "hint": "adduser es un comando de Unix para agregar usuarios, mientras que dscreate y dacreate no son comandos reconocidos en Windows Server 2008 R2."
+                },
+                {
+                    "text": "a) dsquery computer domainroot -name xyz*",
+                    "isCorrect": false,
+                    "hint": "La opci\u00f3n b) dsquery pc domainroot -name xyz* no es un comando v\u00e1lido ya que pc no es una opci\u00f3n v\u00e1lida para el comando dsquery. La opci\u00f3n c) dsquery ou domainroot -name xyz* busca en el directorio activo de unidades organizativas (OU) cuyo nombre empieza por \u201cxyz\u201d, en lugar de buscar ordenadores. La opci\u00f3n d) dsquery search domainroot -name xyz* tampoco es un comando v\u00e1lido ya que search no es una opci\u00f3n v\u00e1lida para el comando dsquery."
+                }
+            ]
+        },
+        {
+            "question": "35. En el servidor Linux, se le ha pedido crear una clave privada RSA , \u00bfqu\u00e9 comando utilizar\u00eda?",
+            "options": [
+                {
+                    "text": "b) openssl",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) GLBP",
+                    "isCorrect": false,
+                    "hint": "El protocolo propietario de Cisco para el balanceo de carga es GLBP (Gateway Load Balancing Protocol)12. Este protocolo est\u00e1 dise\u00f1ado para ofrecer balanceo de carga sin las limitaciones de otros protocolos como HSRP (Hot Standby Router Protocol) o VRRP (Virtual Router Redundancy Protocol)"
+                },
+                {
+                    "text": "a) NS",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) gpupdate",
+                    "isCorrect": false,
+                    "hint": " gpresult es un comando que muestra informaci\u00f3n sobre las directivas de grupo aplicadas a un usuario o equipo. gpcheck no es un comando v\u00e1lido en Windows. dsup tampoco es un comando v\u00e1lido en Windows"
+                }
+            ]
+        },
+        {
+            "question": "36. Para mejorar la seguridad, se solicita que el acceso al servidor web se realice a trav\u00e9s de https. \u00bfCu\u00e1l es el n\u00famero de puerto est\u00e1ndar de https (http sobre TLS\/SSL)?",
+            "options": [
+                {
+                    "text": "b) 443",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) rman",
+                    "isCorrect": false,
+                    "hint": "Es una suite completa de backup y recuperaci\u00f3n proporcionada por Oracle "
+                },
+                {
+                    "text": "d) 172.167.15.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) ElGamal",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37. En el servidor Linux est\u00e1 configurado el servicio de DNS. El tipo de registro CNAME en los ficheros de zona DNS establece:",
+            "options": [
+                {
+                    "text": "c) El registro de nombre can\u00f3nico.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) !!",
+                    "isCorrect": false,
+                    "hint": "En una consola Linux con el shell por defecto bash, puedes repetir el \u00faltimo comando ejecutado escribiendo !! y presionando Enter. a) # es utilizado para hacer comentarios en un script de bash y no tiene efecto al ser ingresado en la l\u00ednea de comandos.  b) ## no es un comando v\u00e1lido en bash.  d) ! se utiliza para hacer referencia a comandos previos en el historial de comandos, pero debe ir seguido de alg\u00fan otro car\u00e1cter o palabra para especificar qu\u00e9 comando se quiere repetir. Por ejemplo, !ls repetir\u00eda el \u00faltimo comando que comenz\u00f3 con ls."
+                },
+                {
+                    "text": "d) pvcreate \/dev\/sdb1",
+                    "isCorrect": false,
+                    "hint": "d). El comando correcto para inicializar la partici\u00f3n \/dev\/sdb1 para ser usada por LVM es pvcreate \/dev\/sdb1. Este comando se utiliza para inicializar un dispositivo de almacenamiento f\u00edsico para su uso por LVM. La opci\u00f3n a) es incorrecta ya que LVM puede utilizar particiones individuales como dispositivos f\u00edsicos. La opci\u00f3n b) es incorrecta ya que el comando lvm --create no existe. La opci\u00f3n c) es incorrecta ya que el comando correcto es pvcreate, no pv--create"
+                },
+                {
+                    "text": "c) echo \"@users soft nofile 1024\" >>\/etc\/security\/limits.conf; echo \"@users hard nofile 1024\" >> \/etc\/security\/limits.conf",
+                    "isCorrect": false,
+                    "hint": "La opci\u00f3n a) especifica el archivo \/etc\/security\/filelimits.conf, que no es el archivo correcto para cambiar los l\u00edmites de recursos del sistema. El archivo correcto es \/etc\/security\/limits.conf.  La opci\u00f3n b) especifica el archivo \/etc\/security\/files.conf, que tampoco es el archivo correcto para cambiar los l\u00edmites de recursos del sistema.  La opci\u00f3n d) solo cambia el l\u00edmite suave y no cambia el l\u00edmite duro. Adem\u00e1s, la ruta del archivo especificada (\/etc\/security\/soft.conf) tampoco es la ruta correcta."
+                }
+            ]
+        },
+        {
+            "question": "38. \u00bfCu\u00e1l es el registro DNS que indica los servidores de nombres autorizados para el dominio?",
+            "options": [
+                {
+                    "text": "a) NS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) dsquery computer domainroot -name xyz*",
+                    "isCorrect": false,
+                    "hint": "La opci\u00f3n b) dsquery pc domainroot -name xyz* no es un comando v\u00e1lido ya que pc no es una opci\u00f3n v\u00e1lida para el comando dsquery. La opci\u00f3n c) dsquery ou domainroot -name xyz* busca en el directorio activo de unidades organizativas (OU) cuyo nombre empieza por \u201cxyz\u201d, en lugar de buscar ordenadores. La opci\u00f3n d) dsquery search domainroot -name xyz* tampoco es un comando v\u00e1lido ya que search no es una opci\u00f3n v\u00e1lida para el comando dsquery."
+                },
+                {
+                    "text": "c) dsadd",
+                    "isCorrect": false,
+                    "hint": "adduser es un comando de Unix para agregar usuarios, mientras que dscreate y dacreate no son comandos reconocidos en Windows Server 2008 R2."
+                },
+                {
+                    "text": "c) La capacidad total resultante es de 200 GB,",
+                    "isCorrect": false,
+                    "hint": "Raid10 consiste en un Raid 0 (stripping) de Raid 1 (mirror), por lo tanto se puede hacer con 4 discos. En el mirror perderemos la mitad de los 400gb disponibles."
+                }
+            ]
+        },
+        {
+            "question": "39. \u00bfCu\u00e1l de los siguientes es un algoritmo de clave sim\u00e9trica?",
+            "options": [
+                {
+                    "text": "b) IDEA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) La capacidad total resultante es de 200 GB,",
+                    "isCorrect": false,
+                    "hint": "Raid10 consiste en un Raid 0 (stripping) de Raid 1 (mirror), por lo tanto se puede hacer con 4 discos. En el mirror perderemos la mitad de los 400gb disponibles."
+                },
+                {
+                    "text": "c) 254",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) tail -n 77 \/tmp\/fichero.log | head",
+                    "isCorrect": false,
+                    "hint": "Si el archivo \/tmp\/fichero.log tiene exactamente 30 l\u00edneas, entonces el comando tail -n 77 \/tmp\/fichero.log | head mostrar\u00eda las \u00faltimas 30 l\u00edneas del archivo y luego head mostrar\u00eda las primeras 10 l\u00edneas de esas 30 l\u00edneas. En este caso espec\u00edfico, el comando tail -n 77 \/tmp\/fichero.log | head mostrar\u00eda las primeras 10 l\u00edneas del archivo \/tmp\/fichero.log. Sin embargo, en general, este comando no siempre muestra las primeras 10 l\u00edneas de un archivo."
+                }
+            ]
+        },
+        {
+            "question": "40. \u00bfCu\u00e1l de los siguientes es un algoritmo de clave asim\u00e9trica?",
+            "options": [
+                {
+                    "text": "a) ElGamal",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) apt-get update; apt-get dist-upgrade;",
+                    "isCorrect": false,
+                    "hint": " El comando apt-get update actualiza la lista de paquetes disponibles y sus versiones, pero no instala ni actualiza ning\u00fan paquete. El comando apt-get dist-upgrade adem\u00e1s de realizar la funci\u00f3n de upgrade, maneja inteligentemente los cambios de dependencias con nuevas versiones de paquetes y tratar\u00e1 de actualizar los paquetes m\u00e1s importantes a expensas de los menos importantes si es necesario. La opci\u00f3n b) contiene el comando apt-get dist-install que no existe. La opci\u00f3n c) contiene el comando apt-cache update y apt-dist upgrade que tampoco existen. La opci\u00f3n d) contiene el comando apt-dist update que no existe y el comando apt-get install all que est\u00e1 mal escrito ya que la sintaxis correcta ser\u00eda apt-get install [nombre del paquete]."
+                },
+                {
+                    "text": "c) gpupdate",
+                    "isCorrect": false,
+                    "hint": " gpresult es un comando que muestra informaci\u00f3n sobre las directivas de grupo aplicadas a un usuario o equipo. gpcheck no es un comando v\u00e1lido en Windows. dsup tampoco es un comando v\u00e1lido en Windows"
+                },
+                {
+                    "text": "b) a2enmod rewrite",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. Tras ejecutar el fichero iptables.sh, si desde un ordenador situado en la misma red accede a la URL mencionada, \u00bfcu\u00e1l de las siguientes afirmaciones es cierta?<br>Contenido de iptables.sh:<br> #!\/bin\/bash <br> iptables --flush<br> iptables -A INPUT -i eth0 -p tcp --dport 80 -j ACCEPT <br> iptables -A INPUT -i ethO -p tcp --dport 80 -j DROP <br>iptables -A INPUT -i ethO -p tcp --dport 8888 -j ACCEPT",
+            "options": [
+                {
+                    "text": "c) Se permite la conexi\u00f3n al puerto 80.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Si la base de datos est\u00e1 abierta, se realiza un SHUTDOWN ABORT antes de volver a abrirla.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) dsadd",
+                    "isCorrect": false,
+                    "hint": "adduser es un comando de Unix para agregar usuarios, mientras que dscreate y dacreate no son comandos reconocidos en Windows Server 2008 R2."
+                },
+                {
+                    "text": "b) IDEA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2. Tras ejecutar el fichero iptables2.sh, si desde un ordenador con navegador situado en la misma red accede a la URL mencionada pero al puerto 8888, \u00bfcu\u00e1l de las siguientes afirmaciones es cierta?.<br> Contenido de iptables2.sh:<br> #!\/bin\/bash <br>iptables --flush <br>iptables -A INPUT -i eth0 -p tcp --dport 80 -j ACCEPT <br>iptables -A INPUT -i eth0 -p tcp --dport 80 -j DROP<br> iptables -A INPUT -i eth0 -p tcp --dport 8888 -j ACCEPT<br> iptables -A PREROUTING -t nat -i eth0 -p tcp --dport 8888 -j REDIRECT --to-pot 80",
+            "options": [
+                {
+                    "text": "d) La p\u00e1gina se mostrar\u00e1 al acceder al puerto 8888.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Se permite la conexi\u00f3n al puerto 80.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) shutdown -c",
+                    "isCorrect": false,
+                    "hint": "Las otras opciones no existen. En windows seria shutdown -a"
+                },
+                {
+                    "text": "b) IDEA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 3. Tras ejecutar el fichero iptables3.sh, si desde un ordenador con navegador situado en la misma red se accede a la URL mencionada, pero por el puerto 8888, \u00bfcu\u00e1l de las siguientes afirmaciones es cierta?.<br> Contenido de iptables3.sh: <br> #!\/bin\/bash<br> iptables --flush<br> iptables -A INPUT -i eth0 -p tcp --dport 80 -j ACCEPT <br>iptables -A INPUT -i eth0 -p tcp --dport 80 -j DROP <br>iptables -A INPUT -i eth0 -p tcp --dport 8888 -j ACCEPT <br>iptables -A PREROUTING -t nat -i eth0 -p tcp --dport 8888 -j REDIRECT --to-port 80",
+            "options": [
+                {
+                    "text": "a) Se redirigen las peticiones TCP del puerto 8888 al puerto 80.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) VRRP",
+                    "isCorrect": false,
+                    "hint": " VRRP (Virtual Router Redundancy Protocol)  es un protocolo de Internet que permite tener uno o m\u00e1s routers en espera cuando se utiliza un router configurado est\u00e1ticamente en una LAN. Esto crea redundancia, eliminando los puntos \u00fanicos de falla al tiempo que aumenta la disponibilidad y la fiabilidad de las rutas de ruteo en una red"
+                },
+                {
+                    "text": "d) 172.167.15.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Si la base de datos est\u00e1 abierta, se realiza un SHUTDOWN ABORT antes de volver a abrirla.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

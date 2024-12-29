@@ -1,0 +1,175 @@
+{
+    "title": "Patrones de Dise\u00f1o - Estructurales",
+    "type": "bloque3",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "Permite la colaboraci\u00f3n entre objetos con interfaces incompatibles.",
+            "options": [
+                {
+                    "text": "Adapter",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Composite",
+                    "isCorrect": false,
+                    "hint": "Permite componer objetos en estructuras de \u00e1rbol y trabajar con esas estructuras como si fueran objetos individuales."
+                },
+                {
+                    "text": "Proxy",
+                    "isCorrect": false,
+                    "hint": "Permite proporcionar un sustituto o marcador de posici\u00f3n para otro objeto. Un proxy controla el acceso al objeto original, permiti\u00e9ndote hacer algo antes o despu\u00e9s de que la solicitud llegue al objeto original."
+                },
+                {
+                    "text": "Facade",
+                    "isCorrect": false,
+                    "hint": "Proporciona una interfaz simplificada a una biblioteca, un framework o cualquier otro grupo complejo de clases."
+                }
+            ]
+        },
+        {
+            "question": "Permite dividir una clase grande, o un grupo de clases estrechamente relacionadas, en dos jerarqu\u00edas separadas (abstracci\u00f3n e implementaci\u00f3n) que pueden desarrollarse independientemente la una de la otra.",
+            "options": [
+                {
+                    "text": "Bridge",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Adapter",
+                    "isCorrect": false,
+                    "hint": "Permite la colaboraci\u00f3n entre objetos con interfaces incompatibles."
+                },
+                {
+                    "text": "Facade",
+                    "isCorrect": false,
+                    "hint": "Proporciona una interfaz simplificada a una biblioteca, un framework o cualquier otro grupo complejo de clases."
+                },
+                {
+                    "text": "Proxy",
+                    "isCorrect": false,
+                    "hint": "Permite proporcionar un sustituto o marcador de posici\u00f3n para otro objeto. Un proxy controla el acceso al objeto original, permiti\u00e9ndote hacer algo antes o despu\u00e9s de que la solicitud llegue al objeto original."
+                }
+            ]
+        },
+        {
+            "question": "Permite componer objetos en estructuras de \u00e1rbol y trabajar con esas estructuras como si fueran objetos individuales.",
+            "options": [
+                {
+                    "text": "Composite",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Facade",
+                    "isCorrect": false,
+                    "hint": "Proporciona una interfaz simplificada a una biblioteca, un framework o cualquier otro grupo complejo de clases."
+                },
+                {
+                    "text": "Adapter",
+                    "isCorrect": false,
+                    "hint": "Permite la colaboraci\u00f3n entre objetos con interfaces incompatibles."
+                },
+                {
+                    "text": "Proxy",
+                    "isCorrect": false,
+                    "hint": "Permite proporcionar un sustituto o marcador de posici\u00f3n para otro objeto. Un proxy controla el acceso al objeto original, permiti\u00e9ndote hacer algo antes o despu\u00e9s de que la solicitud llegue al objeto original."
+                }
+            ]
+        },
+        {
+            "question": "Permite a\u00f1adir funcionalidades a objetos colocando estos objetos dentro de objetos encapsuladores especiales que contienen estas funcionalidades.",
+            "options": [
+                {
+                    "text": "Decorator",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Flyweight",
+                    "isCorrect": false,
+                    "hint": "Permite mantener m\u00e1s objetos dentro de la cantidad disponible de RAM compartiendo las partes comunes del estado entre varios objetos en lugar de mantener toda la informaci\u00f3n en cada objeto."
+                },
+                {
+                    "text": "Composite",
+                    "isCorrect": false,
+                    "hint": "Permite componer objetos en estructuras de \u00e1rbol y trabajar con esas estructuras como si fueran objetos individuales."
+                },
+                {
+                    "text": "Proxy",
+                    "isCorrect": false,
+                    "hint": "Permite proporcionar un sustituto o marcador de posici\u00f3n para otro objeto. Un proxy controla el acceso al objeto original, permiti\u00e9ndote hacer algo antes o despu\u00e9s de que la solicitud llegue al objeto original."
+                }
+            ]
+        },
+        {
+            "question": "Proporciona una interfaz simplificada a una biblioteca, un framework o cualquier otro grupo complejo de clases.",
+            "options": [
+                {
+                    "text": "Facade",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Decorator",
+                    "isCorrect": false,
+                    "hint": "Permite a\u00f1adir funcionalidades a objetos colocando estos objetos dentro de objetos encapsuladores especiales que contienen estas funcionalidades."
+                },
+                {
+                    "text": "Flyweight",
+                    "isCorrect": false,
+                    "hint": "Permite mantener m\u00e1s objetos dentro de la cantidad disponible de RAM compartiendo las partes comunes del estado entre varios objetos en lugar de mantener toda la informaci\u00f3n en cada objeto."
+                },
+                {
+                    "text": "Bridge",
+                    "isCorrect": false,
+                    "hint": "Permite dividir una clase grande, o un grupo de clases estrechamente relacionadas, en dos jerarqu\u00edas separadas (abstracci\u00f3n e implementaci\u00f3n) que pueden desarrollarse independientemente la una de la otra."
+                }
+            ]
+        },
+        {
+            "question": "Permite mantener m\u00e1s objetos dentro de la cantidad disponible de RAM compartiendo las partes comunes del estado entre varios objetos en lugar de mantener toda la informaci\u00f3n en cada objeto.",
+            "options": [
+                {
+                    "text": "Flyweight",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Bridge",
+                    "isCorrect": false,
+                    "hint": "Permite dividir una clase grande, o un grupo de clases estrechamente relacionadas, en dos jerarqu\u00edas separadas (abstracci\u00f3n e implementaci\u00f3n) que pueden desarrollarse independientemente la una de la otra."
+                },
+                {
+                    "text": "Adapter",
+                    "isCorrect": false,
+                    "hint": "Permite la colaboraci\u00f3n entre objetos con interfaces incompatibles."
+                },
+                {
+                    "text": "Proxy",
+                    "isCorrect": false,
+                    "hint": "Permite proporcionar un sustituto o marcador de posici\u00f3n para otro objeto. Un proxy controla el acceso al objeto original, permiti\u00e9ndote hacer algo antes o despu\u00e9s de que la solicitud llegue al objeto original."
+                }
+            ]
+        },
+        {
+            "question": "Permite proporcionar un sustituto o marcador de posici\u00f3n para otro objeto. Un proxy controla el acceso al objeto original, permiti\u00e9ndote hacer algo antes o despu\u00e9s de que la solicitud llegue al objeto original.",
+            "options": [
+                {
+                    "text": "Proxy",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Adapter",
+                    "isCorrect": false,
+                    "hint": "Permite la colaboraci\u00f3n entre objetos con interfaces incompatibles."
+                },
+                {
+                    "text": "Facade",
+                    "isCorrect": false,
+                    "hint": "Proporciona una interfaz simplificada a una biblioteca, un framework o cualquier otro grupo complejo de clases."
+                },
+                {
+                    "text": "Bridge",
+                    "isCorrect": false,
+                    "hint": "Permite dividir una clase grande, o un grupo de clases estrechamente relacionadas, en dos jerarqu\u00edas separadas (abstracci\u00f3n e implementaci\u00f3n) que pueden desarrollarse independientemente la una de la otra."
+                }
+            ]
+        }
+    ]
+}

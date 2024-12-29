@@ -14,6 +14,7 @@ Si se desea que el cuestionario tenga las preguntas con orden aleatorio, se reco
 ### ¿Cómo puedo aportar un cuestionario?
 
 Puedes aportar agregando ficheros json con una pull request. Será aceptada siempre y cuando respete el formato de json necesario.
+Desde la versión 1.3.0 se ha agregado la posibilidad de que los cuestionarios se puedan agrupar por carapeta, la aplicación se encargará de mostrarlos.
 
 ```
 

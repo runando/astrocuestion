@@ -1,0 +1,367 @@
+{
+    "title": "CUESTIONARIO 15-TAI\u2013PI - B2",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "11. Cuando el resultado de una operaci\u00f3n aritm\u00e9tica en un ordenador supera la longitud prevista para el resultado  se dice que hay: ",
+            "options": [
+                {
+                    "text": "c) OVERFLOW ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Recorrer primero el sub\u00e1rbol izquierdo en in-orden, despu\u00e9s visitar el nodo ra\u00edz y finalmente, recorrer el sub\u00e1rbol derecho  en in-orden. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) man ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La ruta del directorio en el que estamos trabajando. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12. Se\u00f1ale el valor decimal del n\u00famero hexadecimal 3B: ",
+            "options": [
+                {
+                    "text": "c) 59 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) La ruta del directorio en el que estamos trabajando. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Lollipop. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 4 kilobytes. ",
+                    "isCorrect": false,
+                    "hint": "La capacidad de una memoria de 2.048 palabras con un ancho de palabra de 16 bits es de 2.048 palabras * 16 bits\/palabra = 32.768 bits. Como hay 8 bits en un byte, la capacidad en bytes es de 32.768 bits \/ 8 bits\/byte = 4.096 bytes. Como hay 1.024 bytes en un kilobyte, la capacidad en kilobytes es de 4.096 bytes \/ 1.024 bytes\/kilobyte = 4 kilobytes."
+                }
+            ]
+        },
+        {
+            "question": "13. \u00bfCu\u00e1l es la capacidad de una memoria de 2.048 palabras si tenemos en cuenta que el ancho de palabra es de 16  bits? ",
+            "options": [
+                {
+                    "text": "b) 4 kilobytes. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Lollipop. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) OASIS. ",
+                    "isCorrect": false,
+                    "hint": "Open Artwork System Interchange Standard\", que es un est\u00e1ndar para el intercambio de datos de dise\u00f1o de circuitos integrados (IC) entre diferentes sistemas de dise\u00f1o electr\u00f3nico."
+                },
+                {
+                    "text": "c) OVERFLOW ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14. La diferencia entre dos monitores con resoluci\u00f3n 1080p y 1080i, con 60Hz de refresco los dos, radica en que  aunque ambos monitores tienen la misma resoluci\u00f3n de: ",
+            "options": [
+                {
+                    "text": "b) 1920 x 1080, el \"p\u201d actualiza todos los puntos de la imagen 60 veces por segundo, mientras el \"\u00a1\" refresca 30 veces las  l\u00edneas pares y otras 30 veces las impares por segundo. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Pila. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Organizaci\u00f3n direccionada dispersa. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La ruta del directorio en el que estamos trabajando. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15. Cu\u00e1l NO es un est\u00e1ndar\/driver de esc\u00e1ner para tecnolog\u00edas de escaneo de im\u00e1genes: ",
+            "options": [
+                {
+                    "text": "b) OASIS. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Son las siglas en ingl\u00e9s de Synchronous Random-Access Memory. ",
+                    "isCorrect": false,
+                    "hint": "Static Random-Access Memory"
+                },
+                {
+                    "text": "a) Recorrer primero el sub\u00e1rbol izquierdo en in-orden, despu\u00e9s visitar el nodo ra\u00edz y finalmente, recorrer el sub\u00e1rbol derecho  en in-orden. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Son unidades de almacenamiento que realizan la misma funci\u00f3n que el disco duro del ordenador. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. Respecto a las memorias RAM de tipo SRAM diga cu\u00e1l de las siguientes respuestas es INCORRECTA: ",
+            "options": [
+                {
+                    "text": "b) Son las siglas en ingl\u00e9s de Synchronous Random-Access Memory. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) OASIS. ",
+                    "isCorrect": false,
+                    "hint": "Open Artwork System Interchange Standard\", que es un est\u00e1ndar para el intercambio de datos de dise\u00f1o de circuitos integrados (IC) entre diferentes sistemas de dise\u00f1o electr\u00f3nico."
+                },
+                {
+                    "text": "c) 59 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Siempre se ejecuta en segundo plano (background). ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17. El tipo de estructura de datos en la que el modo de acceso a sus elementos es de tipo LIFO se denomina: ",
+            "options": [
+                {
+                    "text": "a) Pila. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) \/etc ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) OASIS. ",
+                    "isCorrect": false,
+                    "hint": "Open Artwork System Interchange Standard\", que es un est\u00e1ndar para el intercambio de datos de dise\u00f1o de circuitos integrados (IC) entre diferentes sistemas de dise\u00f1o electr\u00f3nico."
+                },
+                {
+                    "text": "c) 59 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18. \u00bfQu\u00e9 tipo de organizaci\u00f3n de fichero tiene como principal inconveniente que puede provocar colisiones de las  claves de direccionamiento? ",
+            "options": [
+                {
+                    "text": "b) Organizaci\u00f3n direccionada dispersa. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Son las siglas en ingl\u00e9s de Synchronous Random-Access Memory. ",
+                    "isCorrect": false,
+                    "hint": "Static Random-Access Memory"
+                },
+                {
+                    "text": "c) Lollipop. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 4 kilobytes. ",
+                    "isCorrect": false,
+                    "hint": "La capacidad de una memoria de 2.048 palabras con un ancho de palabra de 16 bits es de 2.048 palabras * 16 bits\/palabra = 32.768 bits. Como hay 8 bits en un byte, la capacidad en bytes es de 32.768 bits \/ 8 bits\/byte = 4.096 bytes. Como hay 1.024 bytes en un kilobyte, la capacidad en kilobytes es de 4.096 bytes \/ 1.024 bytes\/kilobyte = 4 kilobytes."
+                }
+            ]
+        },
+        {
+            "question": "19. Las unidades SSD: ",
+            "options": [
+                {
+                    "text": "a) Son unidades de almacenamiento que realizan la misma funci\u00f3n que el disco duro del ordenador. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Lollipop. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Recorrer primero el sub\u00e1rbol izquierdo en in-orden, despu\u00e9s visitar el nodo ra\u00edz y finalmente, recorrer el sub\u00e1rbol derecho  en in-orden. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) OVERFLOW ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "20. Un recorrido en in-orden de un \u00e1rbol binario consiste en: ",
+            "options": [
+                {
+                    "text": "a) Recorrer primero el sub\u00e1rbol izquierdo en in-orden, despu\u00e9s visitar el nodo ra\u00edz y finalmente, recorrer el sub\u00e1rbol derecho  en in-orden. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 1920 x 1080, el \"p\u201d actualiza todos los puntos de la imagen 60 veces por segundo, mientras el \"\u00a1\" refresca 30 veces las  l\u00edneas pares y otras 30 veces las impares por segundo. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Pila. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Son unidades de almacenamiento que realizan la misma funci\u00f3n que el disco duro del ordenador. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "21. La herramienta de sistemas Unix que se utiliza para documentar y aprender sobre comandos, archivos, llamadas  de sistema, etc se denomina: ",
+            "options": [
+                {
+                    "text": "b) man ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) OVERFLOW ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) OASIS. ",
+                    "isCorrect": false,
+                    "hint": "Open Artwork System Interchange Standard\", que es un est\u00e1ndar para el intercambio de datos de dise\u00f1o de circuitos integrados (IC) entre diferentes sistemas de dise\u00f1o electr\u00f3nico."
+                },
+                {
+                    "text": "b) 1920 x 1080, el \"p\u201d actualiza todos los puntos de la imagen 60 veces por segundo, mientras el \"\u00a1\" refresca 30 veces las  l\u00edneas pares y otras 30 veces las impares por segundo. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. En el sistema operativo Unix la expresi\u00f3n \"daemon\" se refiere a un proceso del sistema que: ",
+            "options": [
+                {
+                    "text": "a) Siempre se ejecuta en segundo plano (background). ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Pila. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) man ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Recorrer primero el sub\u00e1rbol izquierdo en in-orden, despu\u00e9s visitar el nodo ra\u00edz y finalmente, recorrer el sub\u00e1rbol derecho  en in-orden. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. \u00bfQu\u00e9 resultado devolver\u00e1 el comando \"pwd\" en un sistema UNIX? ",
+            "options": [
+                {
+                    "text": "c) La ruta del directorio en el que estamos trabajando. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) OVERFLOW ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Lollipop. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Siempre se ejecuta en segundo plano (background). ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. \u00bfEn qu\u00e9 directorio de Linux se guardan los archivos de configuraci\u00f3n? ",
+            "options": [
+                {
+                    "text": "a) \/etc ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) man ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Pila. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Organizaci\u00f3n direccionada dispersa. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. \u00bfCu\u00e1l de las siguientes NO es una distribuci\u00f3n del sistema operativo Linux? ",
+            "options": [
+                {
+                    "text": "c) Lollipop. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) man ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Siempre se ejecuta en segundo plano (background). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Recorrer primero el sub\u00e1rbol izquierdo en in-orden, despu\u00e9s visitar el nodo ra\u00edz y finalmente, recorrer el sub\u00e1rbol derecho  en in-orden. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

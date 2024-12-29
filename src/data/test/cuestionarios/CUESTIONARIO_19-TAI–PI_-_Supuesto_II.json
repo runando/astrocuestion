@@ -1,0 +1,367 @@
+{
+    "title": "CUESTIONARIO 19-TAI\u2013PI - Supuesto II",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1. El equipo de comunicaciones le asigna la red 10.0.4.0 con la m\u00e1scara 255.255.255.128 para el direccionamiento de la DCM. \u00bfCuantos bits tiene la m\u00e1scara de red?",
+            "options": [
+                {
+                    "text": "c)\t25",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tnetsh advfirewall firewall add rule name= \"Inventariado\" dir=in action=allow protocol=TCP localport=4433",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\tClase A.",
+                    "isCorrect": false,
+                    "hint": "1.0.0.0 a 127.0.0.0 "
+                },
+                {
+                    "text": "d)\tLVM",
+                    "isCorrect": false,
+                    "hint": "es Logical Volume Manager, un gestor de vol\u00famenes l\u00f3gicos para el n\u00facleo Linux."
+                }
+            ]
+        },
+        {
+            "question": "2.\tTambi\u00e9n le preguntan a qu\u00e9 Clase pertenece la red asignada (10.0.4.0).",
+            "options": [
+                {
+                    "text": "a)\tClase A.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\t25",
+                    "isCorrect": false,
+                    "hint": null
+                },
+                {
+                    "text": "b)\t2046",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d)\tLVM",
+                    "isCorrect": false,
+                    "hint": "es Logical Volume Manager, un gestor de vol\u00famenes l\u00f3gicos para el n\u00facleo Linux."
+                }
+            ]
+        },
+        {
+            "question": "3.\tPara la CHT los compa\u00f1eros de redes le asignan el direccionamiento 10.0.0.0\/21. \u00bfCu\u00e1l es el n\u00famero m\u00e1ximo de hosts disponible?",
+            "options": [
+                {
+                    "text": "b)\t2046",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)    La clave de BitLocker.",
+                    "isCorrect": false,
+                    "hint": "BitLocker es una funci\u00f3n de cifrado de disco completo incluida en las versiones Pro y Enterprise de Windows. BitLocker puede cifrar el disco duro de su sistema operativo, as\u00ed como cualquier otro disco duro o unidad extra\u00edble, como una unidad USB. Cuando se habilita BitLocker, se le pedir\u00e1 que proporcione una contrase\u00f1a o una clave de recuperaci\u00f3n para desbloquear el disco. Esto ayuda a proteger sus datos en caso de p\u00e9rdida o robo de su dispositiv"
+                },
+                {
+                    "text": "d)\tLVM",
+                    "isCorrect": false,
+                    "hint": "es Logical Volume Manager, un gestor de vol\u00famenes l\u00f3gicos para el n\u00facleo Linux."
+                },
+                {
+                    "text": "c)\tEs un almac\u00e9n de datos estructurado que permite almacenar informaci\u00f3n sobre los objetos o recursos de una red para facilitar su localizaci\u00f3n y administraci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4.\tLa DCM no es capaz de especificarle la versi\u00f3n de RHEL que tienen sus m\u00e1quinas, por lo que debe decirles el comando a ejecutar. \u00bfCu\u00e1l de los siguientes ser\u00eda?",
+            "options": [
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\t25",
+                    "isCorrect": false,
+                    "hint": null
+                },
+                {
+                    "text": "a)\tSELECT * FROM V$VERSION",
+                    "isCorrect": false,
+                    "hint": "Las otras opciones no son correctas porque no son vistas din\u00e1micas v\u00e1lidas en Oracle. Las vistas din\u00e1micas de rendimiento en Oracle comienzan con el prefijo V$. Las vistas din\u00e1micas de rendimiento en Oracle son vistas que est\u00e1n constantemente actualizadas por Oracle y reflejan la situaci\u00f3n actual de la instancia y de la base de datos. Algunas vistas comunes incluyen V$SQL para ver informaci\u00f3n sobre las sentencias SQL ejecutadas, V$SESSION para ver informaci\u00f3n sobre las sesiones de usuario, V$SYSTEM_EVENT para ver informaci\u00f3n sobre los eventos del sistema y V$MEMORY_TARGET_ADVICE para ver informaci\u00f3n sobre el uso de la memoria."
+                },
+                {
+                    "text": "d)\t22",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "5.\tUna pieza crucial en cualquier sistema inform\u00e1tico son las BBDD. Le han informado que tanto la DCM como la CHT utilizan Oracle, pero no le han dicho la versi\u00f3n. \u00bfQu\u00e9 consulta podr\u00eda hacer en la base de datos para conocer esta informaci\u00f3n?",
+            "options": [
+                {
+                    "text": "a)\tSELECT * FROM V$VERSION",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tDeduplicaci\u00f3n",
+                    "isCorrect": false,
+                    "hint": "T\u00e9cnica que consiste en optimizar el espacio libre en un volumen mediante el examen de los datos del este en busca de partes duplicadas en el volumen."
+                },
+                {
+                    "text": "c)\tAl menos 4 discos duros.",
+                    "isCorrect": false,
+                    "hint": "Raid 10 es un raid 0 de raids 1. El minimo para raid 1 es 2 discos. Como tenemos 2 raids 1, m\u00ednimo 4 discos."
+                },
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "7.\tDesde su unidad tambi\u00e9n se est\u00e1 valorando el uso de RAID 10, \u00bfcu\u00e1ntos discos duros son necesarios para crearlo?",
+            "options": [
+                {
+                    "text": "c)\tAl menos 4 discos duros.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a)\tSELECT * FROM V$VERSION",
+                    "isCorrect": false,
+                    "hint": "Las otras opciones no son correctas porque no son vistas din\u00e1micas v\u00e1lidas en Oracle. Las vistas din\u00e1micas de rendimiento en Oracle comienzan con el prefijo V$. Las vistas din\u00e1micas de rendimiento en Oracle son vistas que est\u00e1n constantemente actualizadas por Oracle y reflejan la situaci\u00f3n actual de la instancia y de la base de datos. Algunas vistas comunes incluyen V$SQL para ver informaci\u00f3n sobre las sentencias SQL ejecutadas, V$SESSION para ver informaci\u00f3n sobre las sesiones de usuario, V$SYSTEM_EVENT para ver informaci\u00f3n sobre los eventos del sistema y V$MEMORY_TARGET_ADVICE para ver informaci\u00f3n sobre el uso de la memoria."
+                },
+                {
+                    "text": "d)\tnet localgroup administradores",
+                    "isCorrect": false,
+                    "hint": "net localgroup se utiliza para administrar grupos locales en una m\u00e1quina, mientras que net group se utiliza para administrar grupos globales en un dominio. Los grupos globales son grupos de usuarios que se pueden utilizar en todo el dominio, mientras que los grupos locales son grupos de usuarios que solo se pueden utilizar en la m\u00e1quina local."
+                },
+                {
+                    "text": "b)\t2046",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11.\tLe preguntan sobre las cuentas de usuario que pertenecen al grupo Administradores locales de una m\u00e1quina, \u00bfqu\u00e9 comando de Windows deber\u00eda utilizar?",
+            "options": [
+                {
+                    "text": "d)\tnet localgroup administradores",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tAl menos 4 discos duros.",
+                    "isCorrect": false,
+                    "hint": "Raid 10 es un raid 0 de raids 1. El minimo para raid 1 es 2 discos. Como tenemos 2 raids 1, m\u00ednimo 4 discos."
+                },
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d)\t22",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1.\tCon el objetivo de recabar informaci\u00f3n sobre los equipos Windows, disponen de un software de inventariado que necesita acceso por el puerto 4433 (TCP) en los equipos destino. \u00bfQu\u00e9 comando utilizar\u00eda en estos \u00faltimos para a\u00f1adir la regla al firewall?",
+            "options": [
+                {
+                    "text": "c)\tnetsh advfirewall firewall add rule name= \"Inventariado\" dir=in action=allow protocol=TCP localport=4433",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tAl menos 4 discos duros.",
+                    "isCorrect": false,
+                    "hint": "Raid 10 es un raid 0 de raids 1. El minimo para raid 1 es 2 discos. Como tenemos 2 raids 1, m\u00ednimo 4 discos."
+                },
+                {
+                    "text": "b)\tDeduplicaci\u00f3n",
+                    "isCorrect": false,
+                    "hint": "T\u00e9cnica que consiste en optimizar el espacio libre en un volumen mediante el examen de los datos del este en busca de partes duplicadas en el volumen."
+                },
+                {
+                    "text": "b)\t2046",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2.\tDurante el proceso de traslado, uno de los equipos Windows m\u00e1s importantes de la DCM da problemas de corrupci\u00f3n de datos y han decidido restaurar la copia de seguridad. Le indican que el dispositivo est\u00e1 cifrado. \u00bfQu\u00e9 necesita que le proporcionen para poder restaurar la copia?",
+            "options": [
+                {
+                    "text": "b)    La clave de BitLocker.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\t25",
+                    "isCorrect": false,
+                    "hint": null
+                },
+                {
+                    "text": "b)\tdocker info",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 3.\tMuchas de las comunicaciones se van a realizar mediante conexiones ssh y tiene que solicitar las reglas de firewall al equipo de comunicaciones. \u00bfCu\u00e1l es el puerto que debe solicitar?",
+            "options": [
+                {
+                    "text": "d)\t22",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tdocker info",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)    La clave de BitLocker.",
+                    "isCorrect": false,
+                    "hint": "BitLocker es una funci\u00f3n de cifrado de disco completo incluida en las versiones Pro y Enterprise de Windows. BitLocker puede cifrar el disco duro de su sistema operativo, as\u00ed como cualquier otro disco duro o unidad extra\u00edble, como una unidad USB. Cuando se habilita BitLocker, se le pedir\u00e1 que proporcione una contrase\u00f1a o una clave de recuperaci\u00f3n para desbloquear el disco. Esto ayuda a proteger sus datos en caso de p\u00e9rdida o robo de su dispositiv"
+                },
+                {
+                    "text": "c)\tEs un almac\u00e9n de datos estructurado que permite almacenar informaci\u00f3n sobre los objetos o recursos de una red para facilitar su localizaci\u00f3n y administraci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "6.\tRelacionado con los sistemas de backup, le preguntan por una t\u00e9cnica que mejore la eficiencia del almacenamiento y reduzca su coste medio. \u00bfCu\u00e1l propondr\u00eda?",
+            "options": [
+                {
+                    "text": "b)\tDeduplicaci\u00f3n",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tdocker info",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\tSELECT * FROM V$VERSION",
+                    "isCorrect": false,
+                    "hint": "Las otras opciones no son correctas porque no son vistas din\u00e1micas v\u00e1lidas en Oracle. Las vistas din\u00e1micas de rendimiento en Oracle comienzan con el prefijo V$. Las vistas din\u00e1micas de rendimiento en Oracle son vistas que est\u00e1n constantemente actualizadas por Oracle y reflejan la situaci\u00f3n actual de la instancia y de la base de datos. Algunas vistas comunes incluyen V$SQL para ver informaci\u00f3n sobre las sentencias SQL ejecutadas, V$SESSION para ver informaci\u00f3n sobre las sesiones de usuario, V$SYSTEM_EVENT para ver informaci\u00f3n sobre los eventos del sistema y V$MEMORY_TARGET_ADVICE para ver informaci\u00f3n sobre el uso de la memoria."
+                }
+            ]
+        },
+        {
+            "question": "8.\tSe est\u00e1 hablando sobre el uso de m\u00e1quinas virtuales, y le piden indicar cu\u00e1l de los siguientes NO es un software de virtualizaci\u00f3n.",
+            "options": [
+                {
+                    "text": "d)\tLVM",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\tEs un almac\u00e9n de datos estructurado que permite almacenar informaci\u00f3n sobre los objetos o recursos de una red para facilitar su localizaci\u00f3n y administraci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\tSELECT * FROM V$VERSION",
+                    "isCorrect": false,
+                    "hint": "Las otras opciones no son correctas porque no son vistas din\u00e1micas v\u00e1lidas en Oracle. Las vistas din\u00e1micas de rendimiento en Oracle comienzan con el prefijo V$. Las vistas din\u00e1micas de rendimiento en Oracle son vistas que est\u00e1n constantemente actualizadas por Oracle y reflejan la situaci\u00f3n actual de la instancia y de la base de datos. Algunas vistas comunes incluyen V$SQL para ver informaci\u00f3n sobre las sentencias SQL ejecutadas, V$SESSION para ver informaci\u00f3n sobre las sesiones de usuario, V$SYSTEM_EVENT para ver informaci\u00f3n sobre los eventos del sistema y V$MEMORY_TARGET_ADVICE para ver informaci\u00f3n sobre el uso de la memoria."
+                }
+            ]
+        },
+        {
+            "question": "9.\tEn su unidad se ha decidido utilizar Docker. \u00bfCu\u00e1l de los siguientes comandos deber\u00e1 utilizar para mostrar la informaci\u00f3n que tiene todo el sistema sobre la instalaci\u00f3n de Docker (n\u00ba de contenedores, las im\u00e1genes\u2026)?",
+            "options": [
+                {
+                    "text": "b)\tdocker info",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)\tEs un almac\u00e9n de datos estructurado que permite almacenar informaci\u00f3n sobre los objetos o recursos de una red para facilitar su localizaci\u00f3n y administraci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d)    osTicket",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b)    La clave de BitLocker.",
+                    "isCorrect": false,
+                    "hint": "BitLocker es una funci\u00f3n de cifrado de disco completo incluida en las versiones Pro y Enterprise de Windows. BitLocker puede cifrar el disco duro de su sistema operativo, as\u00ed como cualquier otro disco duro o unidad extra\u00edble, como una unidad USB. Cuando se habilita BitLocker, se le pedir\u00e1 que proporcione una contrase\u00f1a o una clave de recuperaci\u00f3n para desbloquear el disco. Esto ayuda a proteger sus datos en caso de p\u00e9rdida o robo de su dispositiv"
+                }
+            ]
+        },
+        {
+            "question": "10.\tEn una reuni\u00f3n se habla del Directorio Activo. Defina en qu\u00e9 consiste este concepto.",
+            "options": [
+                {
+                    "text": "c)\tEs un almac\u00e9n de datos estructurado que permite almacenar informaci\u00f3n sobre los objetos o recursos de una red para facilitar su localizaci\u00f3n y administraci\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d)\t22",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a)\tClase A.",
+                    "isCorrect": false,
+                    "hint": "1.0.0.0 a 127.0.0.0 "
+                },
+                {
+                    "text": "d)\tnet localgroup administradores",
+                    "isCorrect": false,
+                    "hint": "net localgroup se utiliza para administrar grupos locales en una m\u00e1quina, mientras que net group se utiliza para administrar grupos globales en un dominio. Los grupos globales son grupos de usuarios que se pueden utilizar en todo el dominio, mientras que los grupos locales son grupos de usuarios que solo se pueden utilizar en la m\u00e1quina local."
+                }
+            ]
+        },
+        {
+            "question": "12.\tDebido al elevado volumen de peticiones e incidencias que se esperan durante la integraci\u00f3n, se est\u00e1 valorando implantar un sistema de gesti\u00f3n espec\u00edfico. El \u00fanico requerimiento que tienen es que sea Open Source. \u00bfCu\u00e1l propondr\u00eda?",
+            "options": [
+                {
+                    "text": "d)    osTicket",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b)\tdocker info",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)\tAl menos 4 discos duros.",
+                    "isCorrect": false,
+                    "hint": "Raid 10 es un raid 0 de raids 1. El minimo para raid 1 es 2 discos. Como tenemos 2 raids 1, m\u00ednimo 4 discos."
+                },
+                {
+                    "text": "c)\tcat \/etc\/redhat-release",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

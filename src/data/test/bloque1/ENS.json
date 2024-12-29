@@ -1,0 +1,175 @@
+{
+    "title": "ENS",
+    "type": "bloque1",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "Es un principo b\u00e1sico del ENS",
+            "options": [
+                {
+                    "text": "Seguridad como proceso integral",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Seguridad como proceso general",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Seguridad como proceso informativo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Seguridad como proceso interoperacional",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es un principo b\u00e1sico del ENS",
+            "options": [
+                {
+                    "text": "Gesti\u00f3n de la seguridad basada en los riesgos",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Gestión de la infraestructura basada en la prevención",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Gestión de la seguirdad basada en la prevención",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Gestión de la infraestructura basada en los riesgos",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es un principo b\u00e1sico del ENS",
+            "options": [
+                {
+                    "text": "Prevenci\u00f3n, detecci\u00f3n, respuesta y conservaci\u00f3n",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Prevención, identificación, reaccion y perserveración",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Prevención, identificación, respuesta y conservación",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Prevención, detección, reacción y conservación",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es un principo b\u00e1sico del ENS",
+            "options": [
+                {
+                    "text": "Existencia de l\u00edneas de defensa",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Existencia de capas de seguridad",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Existencia de seguridad perimetral",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Existencia de firewalls y proxis",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es un principo b\u00e1sico del ENS",
+            "options": [
+                {
+                    "text": "Vigilancia continua",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Monitoreo constante y persistente",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Observación permanente",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Supervisión ininterrumpida",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es un principo b\u00e1sico del ENS",
+            "options": [
+                {
+                    "text": "Reevaluaci\u00f3n peri\u00f3dica",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Evaluación recurrente",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Análisis constante",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Actualización periódica",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Es un principo b\u00e1sico del ENS",
+            "options": [
+                {
+                    "text": "Diferenciaci\u00f3n de responsabilidades",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Clarificación de roles y tareas",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Delimitación de deberes y funciones",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "Asignación de responsabilidades específicas",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

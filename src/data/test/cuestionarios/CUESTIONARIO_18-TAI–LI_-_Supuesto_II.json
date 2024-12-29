@@ -1,0 +1,847 @@
+{
+    "title": "CUESTIONARIO 18-TAI\u2013LI - Supuesto II",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1. En lo que respecta a la red \"RED001\", 172.30.23.0\/20, \u00bfa qu\u00e9 clase de red pertenece?",
+            "options": [
+                {
+                    "text": "b) Clase B",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) salt-cp '*' fichero.txt \/tmp",
+                    "isCorrect": false,
+                    "hint": "El '*' en el comando es un comod\u00edn que indica que el archivo \u201cfichero.txt\u201d debe ser copiado a todos los minions conectados al servidor master. En lugar de '*', tambi\u00e9n puedes especificar un minion en particular o un grupo de minions para copiar el archivo solo a esos minions espec\u00edficos."
+                },
+                {
+                    "text": "a) FileVault",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 4094",
+                    "isCorrect": false,
+                    "hint": "32 - 20 = 12. (2^12) - 2 = 4096. Hay que restar 2 porqu\u00e9 la primera y \u00faltima ip no son assignables a hosts."
+                }
+            ]
+        },
+        {
+            "question": "2. Le piden saber cu\u00e1ntos host est\u00e1n disponibles para su uso en la red \"RED001 \", 172.30.23.0\/20",
+            "options": [
+                {
+                    "text": "d) 4094",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) docker search jenkins\t",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SPF",
+                    "isCorrect": false,
+                    "hint": "SPF (Sender Policy Framework) es un m\u00e9todo de protecci\u00f3n basado en la autorizaci\u00f3n del remitente del correo electr\u00f3nico. El registro SPF es simplemente informaci\u00f3n adicional en la configuraci\u00f3n DNS de su dominio que define qu\u00e9 servidores de correo est\u00e1n autorizados para enviar correos electr\u00f3nicos."
+                },
+                {
+                    "text": "c) Ataque sobre un servidor web como consecuencia del cual se cambia su apariencia.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. \u00bfCu\u00e1l es la direcci\u00f3n de broadcast de la red \"RED001\", 172.30.23.0\/20?",
+            "options": [
+                {
+                    "text": "a) 172.30.31.255",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Copy-Item \"carpeta\" -Destination \"destino\" -Recurse",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Mobilelron",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) pidof systemd",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4. Le han pedido como t\u00e9cnico realizar un cableado Ethernet en los nuevos despachos. Debe ser de una velocidad de hasta 10 Gbps, a una distancia m\u00e1xima de 100 metros y frecuencia de hasta 500 MHz. Seg\u00fan el est\u00e1ndar ANSI\/EIA\/TIA-568-C, \u00bfqu\u00e9 categor\u00eda de cable UTP recomendar\u00eda?",
+            "options": [
+                {
+                    "text": "d) Cat 6a",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) docker stop 4d78338ee766",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) tasklist",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 172.30.16.1",
+                    "isCorrect": false,
+                    "hint": "Hay que poner a 0 todos los bits de la ip que correspondan con la m\u00e1scara, menos el \u00faltimo que hay que ponerlo a 1."
+                }
+            ]
+        },
+        {
+            "question": "5. Debe comprobar si se est\u00e1 ejecutando \"systemd\", para ello decide obtener su ID de proceso en ejecuci\u00f3n.  Desde la l\u00ednea de comandos en el servidor Debian GNU\/Linux, qu\u00e9 comando usar\u00eda?",
+            "options": [
+                {
+                    "text": "a) pidof systemd",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) salt '*' disk.usage",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Copy-Item \"carpeta\" -Destination \"destino\" -Recurse",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) apt-cache search salt",
+                    "isCorrect": false,
+                    "hint": "Otra opci\u00f3n seria \"apt search\", una versi\u00f3n m\u00e1s amigable de \"apt-cache search\"."
+                }
+            ]
+        },
+        {
+            "question": "6. Le piden el nombre de la m\u00e1quina Linux a Ia que est\u00e1 conectado, \u00bfcu\u00e1l ser\u00eda el comando para obtenerlo?",
+            "options": [
+                {
+                    "text": "b) hostname",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) FileVault",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) tasklist",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) usermod -a -G docker udocker",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "7. Le piden obtener de forma remota la informaci\u00f3n de los usuarios conectados a la m\u00e1quina llamada s1, siendo \u201cu\u201d un usuario v\u00e1lido en el sistema y con permisos de acceso remoto. \u00bfC\u00f3mo lo har\u00eda? ",
+            "options": [
+                {
+                    "text": "a) ssh u@s1 'who'",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) usermod -a -G docker udocker",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) apt install net-tools",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) salt-cp '*' fichero.txt \/tmp",
+                    "isCorrect": false,
+                    "hint": "El '*' en el comando es un comod\u00edn que indica que el archivo \u201cfichero.txt\u201d debe ser copiado a todos los minions conectados al servidor master. En lugar de '*', tambi\u00e9n puedes especificar un minion en particular o un grupo de minions para copiar el archivo solo a esos minions espec\u00edficos."
+                }
+            ]
+        },
+        {
+            "question": "8. Necesita conocer la ip del servidor en el que est\u00e1 conectado, pero descubre que el comando ifconfig ya no viene instalado por defecto y en su lugar debe usar otra opci\u00f3n. \u00bfQu\u00e9 debe ejecutar para obtener la ip del servidor?",
+            "options": [
+                {
+                    "text": "d) ip address",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 172.30.31.255",
+                    "isCorrect": false,
+                    "hint": "La direcci\u00f3n de broadcast corresponde en poner todos los bits a 0 de la m\u00e1scara en 1 en la direcci\u00f3n IP. "
+                },
+                {
+                    "text": "d) ren *.gz *.rar",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) usermod -a -G docker udocker",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "9. Si quisiera usar en Debian el comando ifconfig, deber\u00eda instalar el paquete net-tools, actualmente no instalado. Con los permisos adecuados, \u00bfc\u00f3mo lo har\u00eda?",
+            "options": [
+                {
+                    "text": "b) apt install net-tools",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) salt '*' disk.usage",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) ssh u@s1 'who'",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Veeam Backup & Replication.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "10. En Linux, indique como buscar los paquetes disponibles de salt:",
+            "options": [
+                {
+                    "text": "a) apt-cache search salt",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) docker search jenkins\t",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c)  SARA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Clase B",
+                    "isCorrect": false,
+                    "hint": "128.0.0.0 a 191.255.0.0"
+                }
+            ]
+        },
+        {
+            "question": "11. En el servidor que hace de rol de master de Salt est\u00e1 la instalaci\u00f3n de los paquetes, salt-master, salt-ssh y salt-doc y en los servidores que hacen los roles de minion est\u00e1 instalado el paquete salt-minion. Desde el servidor con rol master, y mediante el uso de comandos de Salt, \u00bfc\u00f3mo podr\u00eda copiar un archivo que est\u00e1 en la ruta actual llamado \"fichero.txt\", a la carpeta \"\/tmp\" de todos los minions del sistema?",
+            "options": [
+                {
+                    "text": "a) salt-cp '*' fichero.txt \/tmp",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) docker stop 4d78338ee766",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) apt-cache show nginx | grep Version",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Mediante un algoritmo de cifrado como AES. ",
+                    "isCorrect": false,
+                    "hint": " AES (Advanced Encryption Standard) asegur\u00eda que los datos transmitidos a trav\u00e9s de la VPN est\u00e9n protegidos y solo puedan ser le\u00eddos por aquellos que tengan la clave de descifrado correcta."
+                }
+            ]
+        },
+        {
+            "question": "12. Mediante el uso de comandos de Salt, \u00bfc\u00f3mo podr\u00eda obtener el uso de disco de todos los minions del sistema?",
+            "options": [
+                {
+                    "text": "a) salt '*' disk.usage",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) apt install net-tools",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La distribuci\u00f3n estable es Debian 10 \"buster\" y la antigua estable es Deb\u00edan 9 \"stretch\".",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) FileVault",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. Ha detectado que uno de los servidores no tiene instalado salt-minion, desde el propio servidor debe comprobar de forma manual cu\u00e1l es la versi\u00f3n del paquete nginx instalado. \u00bfCu\u00e1l ser\u00eda la orden a ejecutar para obtener dicha versi\u00f3n?",
+            "options": [
+                {
+                    "text": "b) apt-cache show nginx | grep Version",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) docker stop 4d78338ee766",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 172.30.31.255",
+                    "isCorrect": false,
+                    "hint": "La direcci\u00f3n de broadcast corresponde en poner todos los bits a 0 de la m\u00e1scara en 1 en la direcci\u00f3n IP. "
+                },
+                {
+                    "text": "d) Establece el tiempo m\u00e1ximo que un servicio puede permanecer interrumpido.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14. En la instalaci\u00f3n de Docker se ha creado un grupo llamado \"docker\", con usuarios que necesiten ejecutar comandos de Docker. Siendo \"udocker\" un usuario ya creado, \u00bfc\u00f3mo a\u00f1adir\u00eda este usuario a dicho grupo?",
+            "options": [
+                {
+                    "text": "a) usermod -a -G docker udocker",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 172.30.31.255",
+                    "isCorrect": false,
+                    "hint": "La direcci\u00f3n de broadcast corresponde en poner todos los bits a 0 de la m\u00e1scara en 1 en la direcci\u00f3n IP. "
+                },
+                {
+                    "text": "b) El puerto por defecto que usa Sql Server es 1433.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Copy-Item \"carpeta\" -Destination \"destino\" -Recurse",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15. Le piden chequear el funcionamiento de Docker, para ello debe listar todos los contenedores en ejecuci\u00f3n. \u00bfQu\u00e9 debe ejecutar?",
+            "options": [
+                {
+                    "text": "d) docker ps",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Establece el tiempo m\u00e1ximo que un servicio puede permanecer interrumpido.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) docker search jenkins\t",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) ren *.gz *.rar",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. Dado el identificador de contenedor \"4d78338ee766\" y que est\u00e1 en ejecuci\u00f3n, \u00bfqu\u00e9 orden de Docker necesita ejecutar para detenerlo?",
+            "options": [
+                {
+                    "text": "a) docker stop 4d78338ee766",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) ssh u@s1 'who'",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) docker ps",
+                    "isCorrect": false,
+                    "hint": "para ver todos, esten o no en ejecuci\u00f3n, a\u00f1adir flag -a"
+                },
+                {
+                    "text": "a) salt-cp '*' fichero.txt \/tmp",
+                    "isCorrect": false,
+                    "hint": "El '*' en el comando es un comod\u00edn que indica que el archivo \u201cfichero.txt\u201d debe ser copiado a todos los minions conectados al servidor master. En lugar de '*', tambi\u00e9n puedes especificar un minion en particular o un grupo de minions para copiar el archivo solo a esos minions espec\u00edficos."
+                }
+            ]
+        },
+        {
+            "question": "17. Desde Docker se le pide buscar una imagen de Jenkins contenida en \"Docker Hub\". \u00bfQu\u00e9 comando usar\u00eda?",
+            "options": [
+                {
+                    "text": "c) docker search jenkins\t",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) ssh u@s1 'who'",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) docker ps",
+                    "isCorrect": false,
+                    "hint": "para ver todos, esten o no en ejecuci\u00f3n, a\u00f1adir flag -a"
+                },
+                {
+                    "text": "a) pidof systemd",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18. En la web de CCN-CERT hay un aviso de vulnerabilidad que afecta a algunas distribuciones Deb\u00edan, y necesita saber si est\u00e1 afectado o no. De entre las siguientes opciones elija la afirmaci\u00f3n verdadera:",
+            "options": [
+                {
+                    "text": "d) La distribuci\u00f3n estable es Debian 10 \"buster\" y la antigua estable es Deb\u00edan 9 \"stretch\".",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Mobilelron",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Establece el tiempo m\u00e1ximo que un servicio puede permanecer interrumpido.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Ataque sobre un servidor web como consecuencia del cual se cambia su apariencia.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "19. Tambi\u00e9n ha habido una notificaci\u00f3n de una amenaza llamada Defacement o Deface (Desfiguraci\u00f3n\/Desfigurar), \u00bfa qu\u00e9 hace referencia?",
+            "options": [
+                {
+                    "text": "c) Ataque sobre un servidor web como consecuencia del cual se cambia su apariencia.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) apt install net-tools",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Get-Process",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) pidof systemd",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "20. Se van a necesitar redes privadas virtuales y uno de los factores claves debido a la sensibilidad de los datos es la confidencialidad. \u00bfC\u00f3mo puede garantizarla?",
+            "options": [
+                {
+                    "text": "d) Mediante un algoritmo de cifrado como AES. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) ssh u@s1 'who'",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) ip address",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) docker search jenkins\t",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "21. Le piden configurar la recepci\u00f3n de los correos electr\u00f3nicos. De entre los siguientes, escoja el tipo de registro DNS necesario para ello:",
+            "options": [
+                {
+                    "text": "b) MX",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) salt-cp '*' fichero.txt \/tmp",
+                    "isCorrect": false,
+                    "hint": "El '*' en el comando es un comod\u00edn que indica que el archivo \u201cfichero.txt\u201d debe ser copiado a todos los minions conectados al servidor master. En lugar de '*', tambi\u00e9n puedes especificar un minion en particular o un grupo de minions para copiar el archivo solo a esos minions espec\u00edficos."
+                },
+                {
+                    "text": "a) SPF",
+                    "isCorrect": false,
+                    "hint": "SPF (Sender Policy Framework) es un m\u00e9todo de protecci\u00f3n basado en la autorizaci\u00f3n del remitente del correo electr\u00f3nico. El registro SPF es simplemente informaci\u00f3n adicional en la configuraci\u00f3n DNS de su dominio que define qu\u00e9 servidores de correo est\u00e1n autorizados para enviar correos electr\u00f3nicos."
+                },
+                {
+                    "text": "d) docker ps",
+                    "isCorrect": false,
+                    "hint": "para ver todos, esten o no en ejecuci\u00f3n, a\u00f1adir flag -a"
+                }
+            ]
+        },
+        {
+            "question": "22. El departamento de seguridad necesita conocer los puertos por defecto que usan diferentes gestores de base de datos. Indique cu\u00e1l es una afirmaci\u00f3n correcta.",
+            "options": [
+                {
+                    "text": "b) El puerto por defecto que usa Sql Server es 1433.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 172.30.16.1",
+                    "isCorrect": false,
+                    "hint": "Hay que poner a 0 todos los bits de la ip que correspondan con la m\u00e1scara, menos el \u00faltimo que hay que ponerlo a 1."
+                },
+                {
+                    "text": "a) Veeam Backup & Replication.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) docker images",
+                    "isCorrect": false,
+                    "hint": "Se di\u00f3 por buena esta respuesta, sin embargo lo correcto ser\u00eda \"docker search\". Docker images solo busca en la m\u00e1quina local."
+                }
+            ]
+        },
+        {
+            "question": "23. Se est\u00e1 definiendo un plan de continuidad, y en la estrategia para la recuperaci\u00f3n ante desastres y sus mecanismos de respaldo, se le pregunta qu\u00e9 es el \"RTO\" :",
+            "options": [
+                {
+                    "text": "d) Establece el tiempo m\u00e1ximo que un servicio puede permanecer interrumpido.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)  SARA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) docker search jenkins\t",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) apt install net-tools",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. Referente a la plataforma VMWARE, \u00bfqu\u00e9 soluci\u00f3n le permite realizar backups de las m\u00e1quinas virtuales?",
+            "options": [
+                {
+                    "text": "a) Veeam Backup & Replication.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) docker images",
+                    "isCorrect": false,
+                    "hint": "Se di\u00f3 por buena esta respuesta, sin embargo lo correcto ser\u00eda \"docker search\". Docker images solo busca en la m\u00e1quina local."
+                },
+                {
+                    "text": "c) Ataque sobre un servidor web como consecuencia del cual se cambia su apariencia.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Copy-Item \"carpeta\" -Destination \"destino\" -Recurse",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. Se est\u00e1 estudiando la posibilidad de implantar una soluci\u00f3n MDM (Mobile Device Management) que permita la administraci\u00f3n de dispositivos m\u00f3viles. Indique cu\u00e1l de las siguientes es una posible soluci\u00f3n para evaluar:",
+            "options": [
+                {
+                    "text": "c) Mobilelron",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c)  SARA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Establece el tiempo m\u00e1ximo que un servicio puede permanecer interrumpido.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Veeam Backup & Replication.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "26. En el puesto cliente Windows 10 mediante Windows PowerShell, \u00bfcu\u00e1l es el comando (cmdlet) para obtener informaci\u00f3n acerca de los procesos del equipo Local?",
+            "options": [
+                {
+                    "text": "b) Get-Process",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) hostname",
+                    "isCorrect": false,
+                    "hint": "Otros comandos v\u00e1lidos: Uname -n, hostnamectl, \/etc\/hostname, \/proc\/sys\/kernel\/hostname. "
+                },
+                {
+                    "text": "b) apt-cache show nginx | grep Version",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) ip address",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "27. Tambi\u00e9n mediante Windows PowerShell, es necesario copiar una carpeta y su contenido, llamada \"carpeta\",  a un directorio vac\u00edo y existente, llamado \"destino\". Considerando que ambas carpetas est\u00e1n en la ruta actual, \u00bfcu\u00e1l ser\u00eda el comando que ejecutarla?",
+            "options": [
+                {
+                    "text": "a) Copy-Item \"carpeta\" -Destination \"destino\" -Recurse",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El puerto por defecto que usa Sql Server es 1433.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Cat 6a",
+                    "isCorrect": false,
+                    "hint": "10.000 Mbps \/ 500 Hz"
+                },
+                {
+                    "text": "c) docker search jenkins\t",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "28. En la carpeta actual, en el mismo equipo Windows 10, se ha encontrado con ficheros con extensi\u00f3n incorrecta. Desde el s\u00edmbolo del sistema (cmd) debe renombrar todo fichero con extensi\u00f3n \"gz\" a extensi\u00f3n \"rar\". \u00bfCu\u00e1l opci\u00f3n de las siguientes ser\u00eda la correcta?",
+            "options": [
+                {
+                    "text": "d) ren *.gz *.rar",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) tasklist",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 4094",
+                    "isCorrect": false,
+                    "hint": "32 - 20 = 12. (2^12) - 2 = 4096. Hay que restar 2 porqu\u00e9 la primera y \u00faltima ip no son assignables a hosts."
+                },
+                {
+                    "text": "a) Online Certificate Status Protocol (OCSP).",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "29. Respecto a la seguridad en el puesto cliente macOS, \u00bfqu\u00e9 tecnolog\u00eda proporciona capacidades de cifrado para la totalidad del sistema de almacenamiento principal o disco duro del equipo?",
+            "options": [
+                {
+                    "text": "a) FileVault",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) tasklist",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Veeam Backup & Replication.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Clase B",
+                    "isCorrect": false,
+                    "hint": "128.0.0.0 a 191.255.0.0"
+                }
+            ]
+        },
+        {
+            "question": "30. De entre los siguientes, \u00bfqu\u00e9 protocolo permite realizar la validaci\u00f3n de certificados digitales?",
+            "options": [
+                {
+                    "text": "a) Online Certificate Status Protocol (OCSP).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Mediante un algoritmo de cifrado como AES. ",
+                    "isCorrect": false,
+                    "hint": " AES (Advanced Encryption Standard) asegur\u00eda que los datos transmitidos a trav\u00e9s de la VPN est\u00e9n protegidos y solo puedan ser le\u00eddos por aquellos que tengan la clave de descifrado correcta."
+                },
+                {
+                    "text": "a) salt-cp '*' fichero.txt \/tmp",
+                    "isCorrect": false,
+                    "hint": "El '*' en el comando es un comod\u00edn que indica que el archivo \u201cfichero.txt\u201d debe ser copiado a todos los minions conectados al servidor master. En lugar de '*', tambi\u00e9n puedes especificar un minion en particular o un grupo de minions para copiar el archivo solo a esos minions espec\u00edficos."
+                },
+                {
+                    "text": "c) Ataque sobre un servidor web como consecuencia del cual se cambia su apariencia.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. \u00bfQu\u00e9 red es un conjunto de infraestructuras de comunicaciones y servicios b\u00e1sicos que conecta las redes de las Administraciones P\u00fablicas Espa\u00f1olas e Instituciones Europeas facilitando el intercambio de informaci\u00f3n y el acceso a los servicios?",
+            "options": [
+                {
+                    "text": "c)  SARA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 172.30.16.1",
+                    "isCorrect": false,
+                    "hint": "Hay que poner a 0 todos los bits de la ip que correspondan con la m\u00e1scara, menos el \u00faltimo que hay que ponerlo a 1."
+                },
+                {
+                    "text": "a) salt-cp '*' fichero.txt \/tmp",
+                    "isCorrect": false,
+                    "hint": "El '*' en el comando es un comod\u00edn que indica que el archivo \u201cfichero.txt\u201d debe ser copiado a todos los minions conectados al servidor master. En lugar de '*', tambi\u00e9n puedes especificar un minion en particular o un grupo de minions para copiar el archivo solo a esos minions espec\u00edficos."
+                },
+                {
+                    "text": "b) apt install net-tools",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2. \u00bfCu\u00e1l ser\u00eda la primera IP disponible para asignar a un host en la red \"RED001\", 172.30.23.0\/20? ",
+            "options": [
+                {
+                    "text": "c) 172.30.16.1",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) usermod -a -G docker udocker",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) apt-cache search salt",
+                    "isCorrect": false,
+                    "hint": "Otra opci\u00f3n seria \"apt search\", una versi\u00f3n m\u00e1s amigable de \"apt-cache search\"."
+                },
+                {
+                    "text": "d) ip address",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 3. \u00bfC\u00f3mo podr\u00eda ver en \"Docker Hub\" las im\u00e1genes disponibles?",
+            "options": [
+                {
+                    "text": "b) docker images",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 172.30.31.255",
+                    "isCorrect": false,
+                    "hint": "La direcci\u00f3n de broadcast corresponde en poner todos los bits a 0 de la m\u00e1scara en 1 en la direcci\u00f3n IP. "
+                },
+                {
+                    "text": "a) tasklist",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Establece el tiempo m\u00e1ximo que un servicio puede permanecer interrumpido.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 4.En un equipo con Windows 10, y mediante el uso del s\u00edmbolo del sistema (cmd), \u00bfc\u00f3mo  obtendr\u00eda la lista de procesos que se est\u00e1n ejecutando en un equipo local o remoto?",
+            "options": [
+                {
+                    "text": "a) tasklist",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) pidof systemd",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Establece el tiempo m\u00e1ximo que un servicio puede permanecer interrumpido.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 172.30.31.255",
+                    "isCorrect": false,
+                    "hint": "La direcci\u00f3n de broadcast corresponde en poner todos los bits a 0 de la m\u00e1scara en 1 en la direcci\u00f3n IP. "
+                }
+            ]
+        },
+        {
+            "question": "Reserva 5. En el contexto de los servidores SMTP de una organizaci\u00f3n. \u00bfQu\u00e9 medida, de entre las siguientes, ser\u00eda la m\u00e1s adecuada para protegerse frente a ciberataques?",
+            "options": [
+                {
+                    "text": "a) SPF",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) ip address",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) tasklist",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) docker images",
+                    "isCorrect": false,
+                    "hint": "Se di\u00f3 por buena esta respuesta, sin embargo lo correcto ser\u00eda \"docker search\". Docker images solo busca en la m\u00e1quina local."
+                }
+            ]
+        }
+    ]
+}

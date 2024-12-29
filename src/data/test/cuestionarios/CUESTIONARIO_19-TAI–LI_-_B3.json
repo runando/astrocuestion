@@ -1,0 +1,583 @@
+{
+    "title": "CUESTIONARIO 19-TAI\u2013LI - B3",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "33. \u00bfCu\u00e1l de los siguientes NO es un ORM (Mapeador Objeto-Relacional)?",
+            "options": [
+                {
+                    "text": "b) Ruby Hibernation",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Usa la especificaci\u00f3n UDDI para publicar y encontrar informaci\u00f3n sobre los servicios web expuestos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Es un framework de desarrollo de aplicaciones web basado en el patr\u00f3n MVC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Mediante la cl\u00e1usula 'implements'.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "34. \u00bfCu\u00e1l de las siguientes opciones NO se corresponde con una de las 12 Reglas de Codd?",
+            "options": [
+                {
+                    "text": "c) Dependencia de la distribuci\u00f3n. Que la base de datos se almacene o gestione de forma distribuida en varios servidores afecta al uso de la misma y a la programaci\u00f3n de las aplicaciones de usuario.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) StAX",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Sass, Less y Stylus, son preprocesadores de CSS.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) JMeter ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "35. Indique la definici\u00f3n correcta en referencia a los diagramas de flujo de datos de M\u00e9trica v3:",
+            "options": [
+                {
+                    "text": "b) Proceso de control: representa procesos que coordinan y sincronizan las actividades de otros procesos del diagrama de flujo de datos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Dependencia de la distribuci\u00f3n. Que la base de datos se almacene o gestione de forma distribuida en varios servidores afecta al uso de la misma y a la programaci\u00f3n de las aplicaciones de usuario.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Es un framework de desarrollo de aplicaciones web basado en el patr\u00f3n MVC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 5",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "36. Una tabla se encuentra en Tercera Forma Normal (3FN) si:",
+            "options": [
+                {
+                    "text": "b) Est\u00e1 en 2FN y no existe ninguna dependencia transitiva de atributos no principales respecto de las claves.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Usa la especificaci\u00f3n UDDI para publicar y encontrar informaci\u00f3n sobre los servicios web expuestos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Dependencia de la distribuci\u00f3n. Que la base de datos se almacene o gestione de forma distribuida en varios servidores afecta al uso de la misma y a la programaci\u00f3n de las aplicaciones de usuario.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Mediante la cl\u00e1usula 'implements'.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37. Seg\u00fan M\u00e9trica v3, en la teor\u00eda de la normalizaci\u00f3n se define el t\u00e9rmino de Dependencia Funcional como:",
+            "options": [
+                {
+                    "text": "b) Un atributo Y se dice que depende funcionalmente de otro X si, y s\u00f3lo si, a cada valor de X le corresponde un \u00fanico valor de Y.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Ruby Hibernation",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Pruebas de rendimiento. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Un administrador de paquetes.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "38. En el lenguaje C++, si hablamos de un bucle con estructura do\u2026while:",
+            "options": [
+                {
+                    "text": "c) Se ejecuta una vez antes de evaluar la condici\u00f3n del bucle.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) StAX",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Dependencia de la distribuci\u00f3n. Que la base de datos se almacene o gestione de forma distribuida en varios servidores afecta al uso de la misma y a la programaci\u00f3n de las aplicaciones de usuario.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Pruebas de rendimiento. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39. Se\u00f1ale la respuesta correcta en relaci\u00f3n a las tecnolog\u00edas y herramientas de desarrollo front-end:",
+            "options": [
+                {
+                    "text": "a) Sass, Less y Stylus, son preprocesadores de CSS.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Dependencia de la distribuci\u00f3n. Que la base de datos se almacene o gestione de forma distribuida en varios servidores afecta al uso de la misma y a la programaci\u00f3n de las aplicaciones de usuario.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Pruebas de rendimiento. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Facilitar a los usuarios ver y o\u00edr el contenido, incluyendo la separaci\u00f3n entre el primer plano y el fondo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "40. En Java, una clase declarada como 'abstract':",
+            "options": [
+                {
+                    "text": "a) Puede no estar implementada o estarlo de manera incompleta.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Utilizar la sentencia SAVEPOINT y as\u00ed definir un punto de salvaguarda dentro de una transacci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) StAX",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Facilitar a los usuarios ver y o\u00edr el contenido, incluyendo la separaci\u00f3n entre el primer plano y el fondo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "41. En la declaraci\u00f3n de una clase en java, \u00bfmediante qu\u00e9 cl\u00e1usula es posible definir un listado de uno o varios interfaces para la clase en cuesti\u00f3n?",
+            "options": [
+                {
+                    "text": "c) Mediante la cl\u00e1usula 'implements'.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Utilizar la sentencia SAVEPOINT y as\u00ed definir un punto de salvaguarda dentro de una transacci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Cada l\u00ednea del bloque debe estar precedida por el mismo n\u00famero de espacios en blanco, con la misma sangr\u00eda.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Facilitar a los usuarios ver y o\u00edr el contenido, incluyendo la separaci\u00f3n entre el primer plano y el fondo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "42. Teniendo una base de datos relacional, con una tabla \"Empleados\" con campos {Id, Nombre, Puesto, Salario,....}, indique cu\u00e1l ser\u00eda una forma v\u00e1lida de comenzar la creaci\u00f3n de un Trigger en ANSI SQL, si lo que se quiere validar es un cambio de valor del campo \"Salario\":",
+            "options": [
+                {
+                    "text": "d) CREATE TRIGGER Validar_salario BEFORE UPDATE OF Salario ON Empleados",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Un atributo Y se dice que depende funcionalmente de otro X si, y s\u00f3lo si, a cada valor de X le corresponde un \u00fanico valor de Y.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La acci\u00f3n de almacenar una nueva instant\u00e1nea (snapshot) del estado del proyecto en el historial de GIT",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Puede no estar implementada o estarlo de manera incompleta.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "43. Si utilizamos el gestor de base de datos Oracle (v.10g), \u00bfqu\u00e9 podr\u00edamos hacer si dentro de una transacci\u00f3n de la base de datos se quiere establecer un punto de recuperaci\u00f3n?",
+            "options": [
+                {
+                    "text": "a) Utilizar la sentencia SAVEPOINT y as\u00ed definir un punto de salvaguarda dentro de una transacci\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Usa la especificaci\u00f3n UDDI para publicar y encontrar informaci\u00f3n sobre los servicios web expuestos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) CREATE TRIGGER Validar_salario BEFORE UPDATE OF Salario ON Empleados",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Sass, Less y Stylus, son preprocesadores de CSS.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "44. Respecto a los patrones de dise\u00f1o GoF (Gang of Four), indique cu\u00e1l de las siguientes definiciones se corresponde con el patr\u00f3n Decorator:",
+            "options": [
+                {
+                    "text": "a) Proporciona el poder agregar una nueva funcionalidad a un objeto din\u00e1micamente.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Dependencia de la distribuci\u00f3n. Que la base de datos se almacene o gestione de forma distribuida en varios servidores afecta al uso de la misma y a la programaci\u00f3n de las aplicaciones de usuario.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) StAX",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Usa la especificaci\u00f3n UDDI para publicar y encontrar informaci\u00f3n sobre los servicios web expuestos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "46. En JAVA, siendo x=6 e y=3 (ambas variables de tipo int), la operaci\u00f3n x^y da como resultado:",
+            "options": [
+                {
+                    "text": "d) 5",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Proporciona el poder agregar una nueva funcionalidad a un objeto din\u00e1micamente.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Proceso de control: representa procesos que coordinan y sincronizan las actividades de otros procesos del diagrama de flujo de datos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Puede no estar implementada o estarlo de manera incompleta.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "47. En el entorno de programaci\u00f3n .Net, indique que es un NuGet:",
+            "options": [
+                {
+                    "text": "b) Un administrador de paquetes.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Cada l\u00ednea del bloque debe estar precedida por el mismo n\u00famero de espacios en blanco, con la misma sangr\u00eda.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Proceso de control: representa procesos que coordinan y sincronizan las actividades de otros procesos del diagrama de flujo de datos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La primera revisi\u00f3n de accesibilidad deber\u00e1 haberse realizado en el caso de las aplicaciones m\u00f3viles, antes de dos a\u00f1os desde la entrada en vigor de este real decreto.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "48. Indique cu\u00e1l de las siguientes opciones corresponde a una API de Java para el procesamiento de documentos en formato XML.",
+            "options": [
+                {
+                    "text": "b) StAX",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Es un framework de desarrollo de aplicaciones web basado en el patr\u00f3n MVC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Usa la especificaci\u00f3n UDDI para publicar y encontrar informaci\u00f3n sobre los servicios web expuestos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 5",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "49. \u00bfCu\u00e1l NO es una caracter\u00edstica de los servicios REST?",
+            "options": [
+                {
+                    "text": "d) Usa la especificaci\u00f3n UDDI para publicar y encontrar informaci\u00f3n sobre los servicios web expuestos.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Proceso de control: representa procesos que coordinan y sincronizan las actividades de otros procesos del diagrama de flujo de datos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Se ejecuta una vez antes de evaluar la condici\u00f3n del bucle.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Es un framework de desarrollo de aplicaciones web basado en el patr\u00f3n MVC.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "50. Indique, de entre las siguientes afirmaciones, cu\u00e1l es relativa a Ruby on Rails (RoR):",
+            "options": [
+                {
+                    "text": "c) Es un framework de desarrollo de aplicaciones web basado en el patr\u00f3n MVC.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Se ejecuta una vez antes de evaluar la condici\u00f3n del bucle.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Cada l\u00ednea del bloque debe estar precedida por el mismo n\u00famero de espacios en blanco, con la misma sangr\u00eda.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Un administrador de paquetes.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "51. En una sentencia \"if\" en el lenguaje de programaci\u00f3n Python, \u00bfc\u00f3mo se identifica el bloque de c\u00f3digo a ejecutar si la condici\u00f3n se cumple?",
+            "options": [
+                {
+                    "text": "d) Cada l\u00ednea del bloque debe estar precedida por el mismo n\u00famero de espacios en blanco, con la misma sangr\u00eda.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Proporciona el poder agregar una nueva funcionalidad a un objeto din\u00e1micamente.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Proceso de control: representa procesos que coordinan y sincronizan las actividades de otros procesos del diagrama de flujo de datos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) La acci\u00f3n de almacenar una nueva instant\u00e1nea (snapshot) del estado del proyecto en el historial de GIT",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "52. En el lenguaje XML, \u00bfcu\u00e1l de las siguientes sentencias ser\u00eda correcta para a\u00f1adir comentarios?",
+            "options": [
+                {
+                    "text": "c) &lt!-- Aqu\u00ed va el comentario --&gt",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) CREATE TRIGGER Validar_salario BEFORE UPDATE OF Salario ON Empleados",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) StAX",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La primera revisi\u00f3n de accesibilidad deber\u00e1 haberse realizado en el caso de las aplicaciones m\u00f3viles, antes de dos a\u00f1os desde la entrada en vigor de este real decreto.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "53. En relaci\u00f3n con el Real Decreto 1112\/2018, sobre accesibilidad de los sitios web y aplicaciones para dispositivos m\u00f3viles del sector p\u00fablico, indique qu\u00e9 respuesta es INCORRECTA:",
+            "options": [
+                {
+                    "text": "c) La primera revisi\u00f3n de accesibilidad deber\u00e1 haberse realizado en el caso de las aplicaciones m\u00f3viles, antes de dos a\u00f1os desde la entrada en vigor de este real decreto.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Es un framework de desarrollo de aplicaciones web basado en el patr\u00f3n MVC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Mediante la cl\u00e1usula 'implements'.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Utilizar la sentencia SAVEPOINT y as\u00ed definir un punto de salvaguarda dentro de una transacci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "54. Seg\u00fan las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1, \u00bfcu\u00e1l es el objetivo de que un contenido sea Distinguible?",
+            "options": [
+                {
+                    "text": "b) Facilitar a los usuarios ver y o\u00edr el contenido, incluyendo la separaci\u00f3n entre el primer plano y el fondo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Sass, Less y Stylus, son preprocesadores de CSS.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) JMeter ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Est\u00e1 en 2FN y no existe ninguna dependencia transitiva de atributos no principales respecto de las claves.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "55. Seg\u00fan M\u00e9trica v3, \u00bfqu\u00e9 tipo de pruebas consiste en determinar que los tiempos de respuesta est\u00e1n dentro de los intervalos establecidos en las especificaciones del sistema?",
+            "options": [
+                {
+                    "text": "c) Pruebas de rendimiento. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Proceso de control: representa procesos que coordinan y sincronizan las actividades de otros procesos del diagrama de flujo de datos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 5",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Usa la especificaci\u00f3n UDDI para publicar y encontrar informaci\u00f3n sobre los servicios web expuestos.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "56. En el software para control de versiones GIT, hacer un 'commit' es:",
+            "options": [
+                {
+                    "text": "d) La acci\u00f3n de almacenar una nueva instant\u00e1nea (snapshot) del estado del proyecto en el historial de GIT",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Se ejecuta una vez antes de evaluar la condici\u00f3n del bucle.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) La primera revisi\u00f3n de accesibilidad deber\u00e1 haberse realizado en el caso de las aplicaciones m\u00f3viles, antes de dos a\u00f1os desde la entrada en vigor de este real decreto.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Utilizar la sentencia SAVEPOINT y as\u00ed definir un punto de salvaguarda dentro de una transacci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "57. Se\u00f1ale cu\u00e1l de las siguientes herramientas de software libre se utiliza para realizar pruebas de carga y de estr\u00e9s, permitiendo simular escenarios de concurrencia de usuarios",
+            "options": [
+                {
+                    "text": "c) JMeter ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Proceso de control: representa procesos que coordinan y sincronizan las actividades de otros procesos del diagrama de flujo de datos.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Utilizar la sentencia SAVEPOINT y as\u00ed definir un punto de salvaguarda dentro de una transacci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Es un framework de desarrollo de aplicaciones web basado en el patr\u00f3n MVC.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

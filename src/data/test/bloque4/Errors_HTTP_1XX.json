@@ -1,0 +1,103 @@
+{
+    "title": "Errors HTTP 1XX",
+    "type": "bloque4",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "Continue",
+            "options": [
+                {
+                    "text": "100",
+                    "isCorrect": true
+                },
+                {
+                    "text": "103",
+                    "isCorrect": false,
+                    "hint": "Early Hints"
+                },
+                {
+                    "text": "102",
+                    "isCorrect": false,
+                    "hint": " Processing"
+                },
+                {
+                    "text": "101",
+                    "isCorrect": false,
+                    "hint": "Switching Protocol"
+                }
+            ]
+        },
+        {
+            "question": "Switching Protocol",
+            "options": [
+                {
+                    "text": "101",
+                    "isCorrect": true
+                },
+                {
+                    "text": "103",
+                    "isCorrect": false,
+                    "hint": "Early Hints"
+                },
+                {
+                    "text": "100",
+                    "isCorrect": false,
+                    "hint": "Continue"
+                },
+                {
+                    "text": "102",
+                    "isCorrect": false,
+                    "hint": " Processing"
+                }
+            ]
+        },
+        {
+            "question": " Processing",
+            "options": [
+                {
+                    "text": "102",
+                    "isCorrect": true
+                },
+                {
+                    "text": "103",
+                    "isCorrect": false,
+                    "hint": "Early Hints"
+                },
+                {
+                    "text": "101",
+                    "isCorrect": false,
+                    "hint": "Switching Protocol"
+                },
+                {
+                    "text": "100",
+                    "isCorrect": false,
+                    "hint": "Continue"
+                }
+            ]
+        },
+        {
+            "question": "Early Hints",
+            "options": [
+                {
+                    "text": "103",
+                    "isCorrect": true
+                },
+                {
+                    "text": "102",
+                    "isCorrect": false,
+                    "hint": " Processing"
+                },
+                {
+                    "text": "100",
+                    "isCorrect": false,
+                    "hint": "Continue"
+                },
+                {
+                    "text": "101",
+                    "isCorrect": false,
+                    "hint": "Switching Protocol"
+                }
+            ]
+        }
+    ]
+}

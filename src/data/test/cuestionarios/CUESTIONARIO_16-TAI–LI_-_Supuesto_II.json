@@ -1,0 +1,1039 @@
+{
+    "title": "CUESTIONARIO 16-TAI\u2013LI - Supuesto II",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1.     De cara a las pertinentes configuraciones de firewall, de los siguientes, \u00bfcu\u00e1l es un puerto utilizado, por defecto, por Salt?",
+            "options": [
+                {
+                    "text": "a) 4505",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) find \/home -xdev -type d -perm -0002 -print",
+                    "isCorrect": false,
+                    "hint": "Este comando busca en el punto de montaje \/home todos los directorios (-type d) que sean modificables por todos los usuarios (-perm -0002) y muestra los resultados en la pantalla (-print"
+                },
+                {
+                    "text": "c) Squid",
+                    "isCorrect": false,
+                    "hint": "Squid es un servidor proxy de cach\u00e9 web completo que proporciona servicios de proxy y cach\u00e9 para protocolos de red populares como HTTP, FTP y otros."
+                },
+                {
+                    "text": "a) Una funci\u00f3n hash.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2. En Linux, si fuese necesario eliminar un paquete instalado, eliminando adem\u00e1s su fichero de configuraci\u00f3n. Qu\u00e9 opci\u00f3n es la que deber\u00eda usar del comando apt-get:",
+            "options": [
+                {
+                    "text": "c) purge",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) \/etc\/login.defs",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 6to4",
+                    "isCorrect": false,
+                    "hint": " Este mecanismo proporciona comunicaci\u00f3n entre islas IPv6 de manera transparente al usuario IPv6 y ofrece conectividad unicast entre sitios IPv6 a trav\u00e9s de una red IPv4"
+                },
+                {
+                    "text": "d) Windows 10 Enterprise.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. Se debe conocer cu\u00e1l es el sistema de ficheros correspondiente a un punto de montaje. \u00bfCon qu\u00e9 comando averiguar\u00eda cual es el correspondiente al punto de montaje \/home?",
+            "options": [
+                {
+                    "text": "b) mount | grep \/home",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Get-ADUser -Identity usuario",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) purge",
+                    "isCorrect": false,
+                    "hint": "La opci\u00f3n que deber\u00eda usar del comando apt-get para eliminar un paquete instalado y su fichero de configuraci\u00f3n es purge. Por ejemplo: sudo apt-get purge nombre-del-paquete."
+                },
+                {
+                    "text": "b) chage",
+                    "isCorrect": false,
+                    "hint": "chage -l nombre_de_usuario para ver la informaci\u00f3n de la cuenta y la fecha del \u00faltimo cambio de contrase\u00f1a para ese usuario en particular"
+                }
+            ]
+        },
+        {
+            "question": "4. En Debian 8.7, \u00bfcu\u00e1l es la ruta absoluta del fichero de log d\u00f3nde podemos encontrar mensajes como el siguiente \u201cMar 13 15:01:01 ofelia sshd[1496]: Invalid user mengano from 192.168.2.15\u201d, que advierten que un usuario inv\u00e1lido ha intentado conectarse por SSH?",
+            "options": [
+                {
+                    "text": "d) \/var\/log\/auth.log",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Get-ADUser -Identity usuario",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) free -h",
+                    "isCorrect": false,
+                    "hint": "el flag -h sirve para que la salida sea legible para humanos."
+                },
+                {
+                    "text": "b) chage",
+                    "isCorrect": false,
+                    "hint": "chage -l nombre_de_usuario para ver la informaci\u00f3n de la cuenta y la fecha del \u00faltimo cambio de contrase\u00f1a para ese usuario en particular"
+                }
+            ]
+        },
+        {
+            "question": "5. En Linux, qu\u00e9 comando permite visualizar la informaci\u00f3n de los grupos de vol\u00famenes disponibles de LVM?",
+            "options": [
+                {
+                    "text": "a) vgdisplay",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) OSPF",
+                    "isCorrect": false,
+                    "hint": "Open Shortest Path First"
+                },
+                {
+                    "text": "a) find \/ -type f -mtime -3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 547",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "6. \u00bfCu\u00e1l de las siguientes afirmaciones es cierta acerca de la ejecuci\u00f3n del siguiente comando en la m\u00e1quina Linux: dd if=\/dev\/zero of=\/tmp\/testfile bs=512 count=1000?",
+            "options": [
+                {
+                    "text": "C) El fichero \/tmp\/testfile ser\u00e1 de 512000 bytes.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) cat \/proc\/cpuinfo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 547",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) lprm",
+                    "isCorrect": false,
+                    "hint": "Otros comando v\u00e1lidos: lpr, lpq (muestra el estado actual de la cola de impresi\u00f3n) y lpstat (muestra informaci\u00f3n sobre el estado del sistema de impresi\u00f3n.)"
+                }
+            ]
+        },
+        {
+            "question": "7. Indique c\u00f3mo podr\u00eda llegar a obtener la informaci\u00f3n de la versi\u00f3n del servidor local de MySql, considerando un usuario \"u_acme\u201d con contrase\u00f1a \"p_acme\":",
+            "options": [
+                {
+                    "text": "b) mysqladmin version -u u_acme -pp_acme",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) MARTA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) cat",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) find \/ -type f -mtime -3",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "8. \u00bfC\u00f3mo podr\u00eda, en Debian, obtener la informaci\u00f3n acerca de la memoria disponible?",
+            "options": [
+                {
+                    "text": "b) free -h",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) lprm",
+                    "isCorrect": false,
+                    "hint": "Otros comando v\u00e1lidos: lpr, lpq (muestra el estado actual de la cola de impresi\u00f3n) y lpstat (muestra informaci\u00f3n sobre el estado del sistema de impresi\u00f3n.)"
+                },
+                {
+                    "text": "d) 10101100.00010001.00001110.00000010",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 172.17.15.254",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "9. En el servidor de dominio con Windows 2012 R2, \u00bfcu\u00e1l es el cmdlet de Powershell que muestra informaci\u00f3n de ayuda acerca de otros cmdlets ?",
+            "options": [
+                {
+                    "text": "b) Get-Help",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) free -h",
+                    "isCorrect": false,
+                    "hint": "el flag -h sirve para que la salida sea legible para humanos."
+                },
+                {
+                    "text": "c) cat",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) chage",
+                    "isCorrect": false,
+                    "hint": "chage -l nombre_de_usuario para ver la informaci\u00f3n de la cuenta y la fecha del \u00faltimo cambio de contrase\u00f1a para ese usuario en particular"
+                }
+            ]
+        },
+        {
+            "question": "10. Indique qu\u00e9 par\u00e1metro de \u201cexpdp\" debemos utilizar para que un proceso de exportaci\u00f3n de datos en Oracle 11g sea consistente en el tiempo:",
+            "options": [
+                {
+                    "text": "b) flashback_time",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) find \/home -xdev -type d -perm -0002 -print",
+                    "isCorrect": false,
+                    "hint": "Este comando busca en el punto de montaje \/home todos los directorios (-type d) que sean modificables por todos los usuarios (-perm -0002) y muestra los resultados en la pantalla (-print"
+                },
+                {
+                    "text": "c) 2046",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Windows 10 Enterprise.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "11. En uno de los servidores Linux, para optimizar el acceso a Internet, est\u00e1 funcionando un servidor proxy HTTP, indique, cu\u00e1l de las siguientes soluciones, realiza dicha funci\u00f3n:",
+            "options": [
+                {
+                    "text": "c) Squid",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 255.255.255.128",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 172.17.8.1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "C) El fichero \/tmp\/testfile ser\u00e1 de 512000 bytes.",
+                    "isCorrect": false,
+                    "hint": "El comando dd copia un archivo de entrada (if) a un archivo de salida (of) con un tama\u00f1o de bloque (bs) especificado y una cantidad (count) de bloques. En este caso, el tama\u00f1o del bloque es 512 bytes y se copiar\u00e1n 1000 bloques, lo que resulta en un archivo de salida de 512 * 1000 = 512000 bytes."
+                }
+            ]
+        },
+        {
+            "question": "12. En Linux, para poder visualizar peri\u00f3dicamente los ficheros que se han creado por el usuario \"www-data\" en la ruta \"\/var\/www\", \u00bfqu\u00e9 comando lo permitir\u00eda?",
+            "options": [
+                {
+                    "text": "d) watch -d 'ls -l -R \/var\/www\/ | fgrep www-data'",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Una funci\u00f3n hash.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) find \/home -xdev -type d -perm -0002 -print",
+                    "isCorrect": false,
+                    "hint": "Este comando busca en el punto de montaje \/home todos los directorios (-type d) que sean modificables por todos los usuarios (-perm -0002) y muestra los resultados en la pantalla (-print"
+                },
+                {
+                    "text": "a) eventvwr",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. Se necesita conocer m\u00e1s informaci\u00f3n acerca del paquete \"tzdata\". \u00bfQu\u00e9 comando ejecutar\u00eda, en Debian, para obtener informaci\u00f3n sobre dicho paquete?",
+            "options": [
+                {
+                    "text": "d) apt-cache show tzdata",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 2046",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 10101100.00010001.00001110.00000010",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) LAPS",
+                    "isCorrect": false,
+                    "hint": "Local Administrator Password Solution (LAPS) "
+                }
+            ]
+        },
+        {
+            "question": "14. Se necesita conocer si Tomcat ha sido instalado. \u00bfCu\u00e1l es la orden que ejecutar\u00eda para obtener dicha informaci\u00f3n en los servidores Linux?",
+            "options": [
+                {
+                    "text": "a) dpkg --get-selections | grep tomcat",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) vgdisplay",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) free -h",
+                    "isCorrect": false,
+                    "hint": "el flag -h sirve para que la salida sea legible para humanos."
+                },
+                {
+                    "text": "c) lprm",
+                    "isCorrect": false,
+                    "hint": "Otros comando v\u00e1lidos: lpr, lpq (muestra el estado actual de la cola de impresi\u00f3n) y lpstat (muestra informaci\u00f3n sobre el estado del sistema de impresi\u00f3n.)"
+                }
+            ]
+        },
+        {
+            "question": "15. Una de las recomendaciones para la vulnerabilidad de Struts, es revisar la creaci\u00f3n y modificaci\u00f3n de ficheros en los d\u00edas que ha durado el ataque, qu\u00e9 comando emplear\u00eda para la b\u00fasqueda de los 3 \u00faltimos d\u00edas:",
+            "options": [
+                {
+                    "text": "a) find \/ -type f -mtime -3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) purge",
+                    "isCorrect": false,
+                    "hint": "La opci\u00f3n que deber\u00eda usar del comando apt-get para eliminar un paquete instalado y su fichero de configuraci\u00f3n es purge. Por ejemplo: sudo apt-get purge nombre-del-paquete."
+                },
+                {
+                    "text": "a) Una funci\u00f3n hash.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) MARTA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. Se ha detectado, realizando una b\u00fasqueda con Salt, que uno de los servidores Linux tiene Struts instalado, teniendo en cuenta que el interfaz de red de la m\u00e1quina se llama \u201ceth1\u201d y el puerto por el que se escuchan las peticiones es el puerto est\u00e1ndar de HTTPS, \u00bfCu\u00e1l ser\u00eda la l\u00ednea de iptables (en su versi\u00f3n 1.4.21) que deber\u00eda construir para bloquear el tr\u00e1fico en dicha interfaz al puerto est\u00e1ndar de HTTPS?",
+            "options": [
+                {
+                    "text": "b) iptables -A INPUT -i eth1 -p tcp --dport 443 -j DROP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 255.255.255.128",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 6to4",
+                    "isCorrect": false,
+                    "hint": " Este mecanismo proporciona comunicaci\u00f3n entre islas IPv6 de manera transparente al usuario IPv6 y ofrece conectividad unicast entre sitios IPv6 a trav\u00e9s de una red IPv4"
+                },
+                {
+                    "text": "c) Get-ADUser -Identity usuario",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17.  En el servidor Linux, \u00bfqu\u00e9 comando ejecutar\u00eda para borrar todas \u00a1as reglas de iptables?",
+            "options": [
+                {
+                    "text": "a) iptables --flush",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 172.17.8.1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) chage",
+                    "isCorrect": false,
+                    "hint": "chage -l nombre_de_usuario para ver la informaci\u00f3n de la cuenta y la fecha del \u00faltimo cambio de contrase\u00f1a para ese usuario en particular"
+                },
+                {
+                    "text": "c) find \/home -xdev -type d -perm -0002 -print",
+                    "isCorrect": false,
+                    "hint": "Este comando busca en el punto de montaje \/home todos los directorios (-type d) que sean modificables por todos los usuarios (-perm -0002) y muestra los resultados en la pantalla (-print"
+                }
+            ]
+        },
+        {
+            "question": "18. Se ha detectado que no ha asignado caducidad a las contrase\u00f1as en uno de los servidores Debian. Indique el fichero en donde se puede cambiar el valor de \u201c\"PASS_MAX_DAYS\u201d para forzar el cambio de contrase\u00f1as cada 180 d\u00edas para cada nuevo usuario que se cree a partir de dicho cambio:",
+            "options": [
+                {
+                    "text": "d) \/etc\/login.defs",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) free -h",
+                    "isCorrect": false,
+                    "hint": "el flag -h sirve para que la salida sea legible para humanos."
+                },
+                {
+                    "text": "b) 255.255.255.128",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 172.17.8.1",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "19. Cu\u00e1l es el comando que permite averiguar cu\u00e1ndo se ha realizado el \u00faltimo cambio de contrase\u00f1a de un usuario dado:",
+            "options": [
+                {
+                    "text": "b) chage",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 172.17.15.254",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) watch -d 'ls -l -R \/var\/www\/ | fgrep www-data'",
+                    "isCorrect": false,
+                    "hint": "el flag -d remarca las diferencias."
+                },
+                {
+                    "text": "c) find \/home -xdev -type d -perm -0002 -print",
+                    "isCorrect": false,
+                    "hint": "Este comando busca en el punto de montaje \/home todos los directorios (-type d) que sean modificables por todos los usuarios (-perm -0002) y muestra los resultados en la pantalla (-print"
+                }
+            ]
+        },
+        {
+            "question": "20. La gu\u00eda CCN-STIC-612 sugiere que no se deben disponer de ficheros con permisos de escritura globales, dado un fichero \/home\/fichero, indique como corregir\u00eda el permiso:",
+            "options": [
+                {
+                    "text": "b) chmod -c o-w \/home\/fichero",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) \/etc\/login.defs",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) cat \/proc\/cpuinfo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 547",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "21. En los sistemas Linux, indique c\u00f3mo har\u00eda para buscar en el punto de montaje \u201d\/home\u201d todos aquellos directorios que sean modificables por todos los usuarios:",
+            "options": [
+                {
+                    "text": "c) find \/home -xdev -type d -perm -0002 -print",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) mysqladmin version -u u_acme -pp_acme",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) MARTA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) mount | grep \/home",
+                    "isCorrect": false,
+                    "hint": " El comando mount muestra informaci\u00f3n sobre los sistemas de archivos montados en el sistema y al usarlo junto con el comando grep, puedes filtrar la salida para mostrar solo la informaci\u00f3n relacionada con el punto de montaje \/home."
+                }
+            ]
+        },
+        {
+            "question": "22. De cara a poder configurar protecciones contra desbordamientos de buffer, necesita conocer informaci\u00f3n acerca del procesador en el que se est\u00e1 ejecutando la m\u00e1quina con el sistema operativo Debian reci\u00e9n instalado, indique el comando que le permite obtener dicha informaci\u00f3n:",
+            "options": [
+                {
+                    "text": "b) cat \/proc\/cpuinfo",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Get-AppxPackage -AllUsers",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) LAPS",
+                    "isCorrect": false,
+                    "hint": "Local Administrator Password Solution (LAPS) "
+                },
+                {
+                    "text": "b) MARTA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. En el servidor Linux, \u00bfcu\u00e1l es el comando usado para concatenar archivos y mostrar en salida est\u00e1ndar?",
+            "options": [
+                {
+                    "text": "c) cat",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) MARTA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) vgdisplay",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) eventvwr",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. \u00bfQu\u00e9 comando se usa en entornos Linux para borrar los trabajos pendientes de la cola de impresi\u00f3n?",
+            "options": [
+                {
+                    "text": "c) lprm",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 172.17.15.254",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 4505",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) find \/home -xdev -type d -perm -0002 -print",
+                    "isCorrect": false,
+                    "hint": "Este comando busca en el punto de montaje \/home todos los directorios (-type d) que sean modificables por todos los usuarios (-perm -0002) y muestra los resultados en la pantalla (-print"
+                }
+            ]
+        },
+        {
+            "question": "25. Tiene que revisar de forma peri\u00f3dica los eventos del sistema en Windows 10, para ello tras pulsar la combinaci\u00f3n de teclas \u201cWindows + R\u201d, \u00bfqu\u00e9 es lo que debe escribir a continuaci\u00f3n para arrancar el visor de eventos?",
+            "options": [
+                {
+                    "text": "a) eventvwr",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) chmod -c o-w \/home\/fichero",
+                    "isCorrect": false,
+                    "hint": "el flah -c es para informar de los cambios, o es others, y -w para quitar permiso de escritura."
+                },
+                {
+                    "text": "c) LTO generaci\u00f3n 7",
+                    "isCorrect": false,
+                    "hint": "La s\u00e9ptima generaci\u00f3n de medios de cinta LTO Ultrium ofrece una capacidad nativa de 6 TB y una capacidad comprimida de hasta 15 TB."
+                },
+                {
+                    "text": "d) Windows 10 Enterprise.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "26. \u00bfQu\u00e9 herramienta, desarrollada por el CCN-CERT, es una plataforma avanzada de sandboxing qu\u00e9 est\u00e1 dedicada al an\u00e1lisis automatizado de m\u00faltiples tipos de ficheros que podr\u00edan tener alg\u00fan tipo de comportamiento malicioso?",
+            "options": [
+                {
+                    "text": "b) MARTA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 172.17.8.1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Una funci\u00f3n hash.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) dpkg --get-selections | grep tomcat",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "27. \u00bfQu\u00e9 herramienta desarrollada por el CCN-CERT, agiliza la labor de an\u00e1lisis de ciberincidentes y permite compartir informaci\u00f3n de ciberamenazas?",
+            "options": [
+                {
+                    "text": "b) REYES",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 172.17.15.254",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Clase B",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Get-Help",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "28. Se le solicita que estudie qu\u00e9 posibilidades hay, para los puestos Windows existentes, de una soluci\u00f3n para poder gestionar las contrase\u00f1as de la cuenta local de los equipos unidos al dominio. \u00bfQu\u00e9 herramienta podr\u00eda servir para esta funci\u00f3n?",
+            "options": [
+                {
+                    "text": "b) LAPS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) mount | grep \/home",
+                    "isCorrect": false,
+                    "hint": " El comando mount muestra informaci\u00f3n sobre los sistemas de archivos montados en el sistema y al usarlo junto con el comando grep, puedes filtrar la salida para mostrar solo la informaci\u00f3n relacionada con el punto de montaje \/home."
+                },
+                {
+                    "text": "a) iptables --flush",
+                    "isCorrect": false,
+                    "hint": "Este comando borra todas las reglas de iptables en el servidor Linux."
+                },
+                {
+                    "text": "d) apt-cache show tzdata",
+                    "isCorrect": false,
+                    "hint": "La opci\u00f3n show de apt-cache muestra informaci\u00f3n detallada sobre un paquete espec\u00edfico, incluyendo su descripci\u00f3n y dependencias."
+                }
+            ]
+        },
+        {
+            "question": "29. El 27 de febrero de 2017, CCN-CERT informa que se ha realizado con \u00e9xito el primer ataque a SHA-1, \u00bfqu\u00e9 es SHA-1?",
+            "options": [
+                {
+                    "text": "a) Una funci\u00f3n hash.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Squid",
+                    "isCorrect": false,
+                    "hint": "Squid es un servidor proxy de cach\u00e9 web completo que proporciona servicios de proxy y cach\u00e9 para protocolos de red populares como HTTP, FTP y otros."
+                },
+                {
+                    "text": "c) purge",
+                    "isCorrect": false,
+                    "hint": "La opci\u00f3n que deber\u00eda usar del comando apt-get para eliminar un paquete instalado y su fichero de configuraci\u00f3n es purge. Por ejemplo: sudo apt-get purge nombre-del-paquete."
+                },
+                {
+                    "text": "b) chage",
+                    "isCorrect": false,
+                    "hint": "chage -l nombre_de_usuario para ver la informaci\u00f3n de la cuenta y la fecha del \u00faltimo cambio de contrase\u00f1a para ese usuario en particular"
+                }
+            ]
+        },
+        {
+            "question": "30. Para preservar la informaci\u00f3n y poder recuperarla ante un posible borrado generado por un ataque, debe comprar un sistema de copia de seguridad en cintas, para ello se le pide que elija una librer\u00eda de cintas en la que cada cinta guarde m\u00e1s de 1TB. \u00bfCu\u00e1l de las siguientes es la que cumple la premisa?",
+            "options": [
+                {
+                    "text": "c) LTO generaci\u00f3n 7",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) purge",
+                    "isCorrect": false,
+                    "hint": "La opci\u00f3n que deber\u00eda usar del comando apt-get para eliminar un paquete instalado y su fichero de configuraci\u00f3n es purge. Por ejemplo: sudo apt-get purge nombre-del-paquete."
+                },
+                {
+                    "text": "c) 172.17.15.255",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 2046",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "31. \u00bfCu\u00e1ntos host son posibles para la red 172.17.8.0\/21?",
+            "options": [
+                {
+                    "text": "c) 2046",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) dpkg --get-selections | grep tomcat",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Windows 10 Enterprise.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) iptables -A INPUT -i eth1 -p tcp --dport 443 -j DROP",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "32. \u00bfA qu\u00e9 clase de red pertenece la red 172.17.8.0\/21?",
+            "options": [
+                {
+                    "text": "d) Clase B",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Squid",
+                    "isCorrect": false,
+                    "hint": "Squid es un servidor proxy de cach\u00e9 web completo que proporciona servicios de proxy y cach\u00e9 para protocolos de red populares como HTTP, FTP y otros."
+                },
+                {
+                    "text": "c) lprm",
+                    "isCorrect": false,
+                    "hint": "Otros comando v\u00e1lidos: lpr, lpq (muestra el estado actual de la cola de impresi\u00f3n) y lpstat (muestra informaci\u00f3n sobre el estado del sistema de impresi\u00f3n.)"
+                },
+                {
+                    "text": "b) 255.255.255.128",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "33. \u00bfCu\u00e1l es la primera IP disponible para asignar a un host en la red 172.17.8.0\/21?",
+            "options": [
+                {
+                    "text": "a) 172.17.8.1",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) find \/home -xdev -type d -perm -0002 -print",
+                    "isCorrect": false,
+                    "hint": "Este comando busca en el punto de montaje \/home todos los directorios (-type d) que sean modificables por todos los usuarios (-perm -0002) y muestra los resultados en la pantalla (-print"
+                },
+                {
+                    "text": "C) El fichero \/tmp\/testfile ser\u00e1 de 512000 bytes.",
+                    "isCorrect": false,
+                    "hint": "El comando dd copia un archivo de entrada (if) a un archivo de salida (of) con un tama\u00f1o de bloque (bs) especificado y una cantidad (count) de bloques. En este caso, el tama\u00f1o del bloque es 512 bytes y se copiar\u00e1n 1000 bloques, lo que resulta en un archivo de salida de 512 * 1000 = 512000 bytes."
+                },
+                {
+                    "text": "c) Get-ADUser -Identity usuario",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "34. La direcci\u00f3n de broadcast para la red 172.17.8.0\/21 es:",
+            "options": [
+                {
+                    "text": "c) 172.17.15.255",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) \/var\/log\/auth.log",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 172.17.15.254",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 2046",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "35. \u00bfQu\u00e9 direcci\u00f3n de host pertenece a la red 172.17.8.0\/21?",
+            "options": [
+                {
+                    "text": "d) 172.17.15.254",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) find \/ -type f -mtime -3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) MARTA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) \/etc\/login.defs",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "36. \u00bfCu\u00e1l es, en binario, el valor correspondiente a la IP 172.17.14.2?",
+            "options": [
+                {
+                    "text": "d) 10101100.00010001.00001110.00000010",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) find \/ -type f -mtime -3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Clase B",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 172.17.15.254",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37. Para una red de clase B dada, 172.17.8.0\/21, se requiere crear 16 subredes con 126 hosts por subred. \u00bfQu\u00e9 m\u00e1scara de subred ser\u00eda la correcta para dichas subredes?",
+            "options": [
+                {
+                    "text": "b) 255.255.255.128",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) iptables --flush",
+                    "isCorrect": false,
+                    "hint": "Este comando borra todas las reglas de iptables en el servidor Linux."
+                },
+                {
+                    "text": "c) purge",
+                    "isCorrect": false,
+                    "hint": "La opci\u00f3n que deber\u00eda usar del comando apt-get para eliminar un paquete instalado y su fichero de configuraci\u00f3n es purge. Por ejemplo: sudo apt-get purge nombre-del-paquete."
+                },
+                {
+                    "text": "d) Clase B",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "38. \u00bfC\u00f3mo se conoce al mecanismo, que mediante el uso de t\u00faneles autom\u00e1ticos de IPv6 sobre IPv4 permite conectar islas IPv6?",
+            "options": [
+                {
+                    "text": "c) 6to4",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) OSPF",
+                    "isCorrect": false,
+                    "hint": "Open Shortest Path First"
+                },
+                {
+                    "text": "a) 172.17.8.1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) find \/ -type f -mtime -3",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39. En DHCPv6 (definido en RFC 3315), \u00bfcu\u00e1l de los siguientes es un puerto UDP en el que escuchan los servidores y agentes de retransmisi\u00f3n?",
+            "options": [
+                {
+                    "text": "a) 547",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) watch -d 'ls -l -R \/var\/www\/ | fgrep www-data'",
+                    "isCorrect": false,
+                    "hint": "el flag -d remarca las diferencias."
+                },
+                {
+                    "text": "a) eventvwr",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Windows 10 Enterprise.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "40. Se van a reemplazar unos routers existentes por otros m\u00e1s modernos, y proponen usar un protocolo de enrutamiento de estado de enlace. \u00bfCu\u00e1l de los siguientes protocolos es el adecuado?",
+            "options": [
+                {
+                    "text": "a) OSPF",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) apt-cache show tzdata",
+                    "isCorrect": false,
+                    "hint": "La opci\u00f3n show de apt-cache muestra informaci\u00f3n detallada sobre un paquete espec\u00edfico, incluyendo su descripci\u00f3n y dependencias."
+                },
+                {
+                    "text": "d) watch -d 'ls -l -R \/var\/www\/ | fgrep www-data'",
+                    "isCorrect": false,
+                    "hint": "el flag -d remarca las diferencias."
+                },
+                {
+                    "text": "c) 6to4",
+                    "isCorrect": false,
+                    "hint": " Este mecanismo proporciona comunicaci\u00f3n entre islas IPv6 de manera transparente al usuario IPv6 y ofrece conectividad unicast entre sitios IPv6 a trav\u00e9s de una red IPv4"
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. En el servidor de dominio con Windows 2012 R2, \u00bfcu\u00e1l es el comando de Powershell que muestra el valor de SID de un usuario llamado \"usuario\"?",
+            "options": [
+                {
+                    "text": "c) Get-ADUser -Identity usuario",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) find \/home -xdev -type d -perm -0002 -print",
+                    "isCorrect": false,
+                    "hint": "Este comando busca en el punto de montaje \/home todos los directorios (-type d) que sean modificables por todos los usuarios (-perm -0002) y muestra los resultados en la pantalla (-print"
+                },
+                {
+                    "text": "b) cat \/proc\/cpuinfo",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) cat",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2. Se le recomienda que revise qu\u00e9 aplicaciones \"Appx\" tiene instaladas en los puestos Windows 10, para ello, en la consola de Powershell, con permisos de administraci\u00f3n, \u00bfcu\u00e1l es la sintaxis para listar las aplicaciones \"Appx\" instaladas?",
+            "options": [
+                {
+                    "text": "d) Get-AppxPackage -AllUsers",
+                    "isCorrect": true
+                },
+                {
+                    "text": "C) El fichero \/tmp\/testfile ser\u00e1 de 512000 bytes.",
+                    "isCorrect": false,
+                    "hint": "El comando dd copia un archivo de entrada (if) a un archivo de salida (of) con un tama\u00f1o de bloque (bs) especificado y una cantidad (count) de bloques. En este caso, el tama\u00f1o del bloque es 512 bytes y se copiar\u00e1n 1000 bloques, lo que resulta en un archivo de salida de 512 * 1000 = 512000 bytes."
+                },
+                {
+                    "text": "b) chmod -c o-w \/home\/fichero",
+                    "isCorrect": false,
+                    "hint": "el flah -c es para informar de los cambios, o es others, y -w para quitar permiso de escritura."
+                },
+                {
+                    "text": "d) \/var\/log\/auth.log",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 3. \u00bfA partir de qu\u00e9 versi\u00f3n de Windows 10, incluye la posibilidad de configurar las pol\u00edticas de AppLocker con directivas de grupo?",
+            "options": [
+                {
+                    "text": "d) Windows 10 Enterprise.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) LAPS",
+                    "isCorrect": false,
+                    "hint": "Local Administrator Password Solution (LAPS) "
+                },
+                {
+                    "text": "a) 172.17.8.1",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) \/etc\/login.defs",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1279 @@
+{
+    "title": "CUESTIONARIO 16-TAI\u2013LI - B4",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "1. VCS (Version Control System), SCM (Software Configuration Management) y CMS (Configuration Management  System) son: ",
+            "options": [
+                {
+                    "text": "a) Formas de referirse al control de cambios de los programas de una instalaci\u00f3n. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Indican los servidores de correo autorizadas a enviar transporte a un dominio determinado. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IBM AppScan ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Un dispositivo electr\u00f3nico que se le da a un usuario autorizado de un servicio computerizado para facilitar el proceso de autenticaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "2. Indique cu\u00e1l es el resultado de la ejecuci\u00f3n del comando \u201ccat fichero | wc -l\u201d en Unix: ",
+            "options": [
+                {
+                    "text": "b) El n\u00famero de l\u00edneas que tiene fichero, ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) ipconfig \/flushdns ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Multicast ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IBM AppScan ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. Los repositorios en un sistema operativo Linux, son bases de datos (BBDD) o servidores que: ",
+            "options": [
+                {
+                    "text": "a) alojan aplicaciones qu\u00e9 el sistema necesita. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) GSM, GPRS, UMTS, HSDPA, LTE ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 2,4 Ghz. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) IEEE 802.16",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "4. En el editor de texto de Unix denominado vi, \u00bfcu\u00e1l es el comando que deshace la \u00faltima acci\u00f3n realizada? ",
+            "options": [
+                {
+                    "text": "d) u ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Monomodo y Multimodo. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Suricata ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) ActiveSync. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "5. En Linux, \u00bfcu\u00e1l es la finalidad del comando modprobe? ",
+            "options": [
+                {
+                    "text": "b) A\u00f1ade o elimina m\u00f3dulos del kernel de Linux. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 2,4 Ghz. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Split Horizon ayuda a reducir los tiempos de convergencia. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Phreaker ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "6. \u00bfCu\u00e1l es el puerto publicado por la IANA para el servicio Quick Mail Transfer Protocol (qmtp)?",
+            "options": [
+                {
+                    "text": "d) 209 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) La capa de enlace de datos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 802.1x",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 802.1Q",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "7. Los registros SPF (Sender Policy Framework) son los registros que: ",
+            "options": [
+                {
+                    "text": "d) Indican los servidores de correo autorizadas a enviar transporte a un dominio determinado. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SOHO ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) La capa de enlace de datos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Multicast ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Se\u00f1ale la afirmaci\u00f3n correcta, el servidor de correo electr\u00f3nico corporativo seg\u00fan recomendaciones del CCN-CERT debe estar: ",
+            "options": [
+                {
+                    "text": "b) ubicado en una zona desmilitarizada. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Opera con bloques de 64 bits, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) El elemento que conmuta etiquetas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Split Horizon ayuda a reducir los tiempos de convergencia. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Protocolo de sincronizaci\u00f3n, basado en HTTP y XML, que permite que dispositivos m\u00f3viles obtengan acceso a la informaci\u00f3n de una organizaci\u00f3n (emails, calendario, etc.) alojada en servidor\/es Microsoft Exchange, y permite acceso a \u00e9stos cuando trabajan sin conexi\u00f3n: ",
+            "options": [
+                {
+                    "text": "d) Exchange ActiveSync ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) ipconfig \/flushdns ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Un CPD TIER IV es tolerante a fallos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) S\/MIME ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "10. Indique la afirmaci\u00f3n verdadera sobre los protocolos de correo electr\u00f3nico: ",
+            "options": [
+                {
+                    "text": "a) SMTP se emplea para gestionar el correo saliente. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Opera con bloques de 64 bits, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Exchange ActiveSync ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) A\u00f1ade o elimina m\u00f3dulos del kernel de Linux. ",
+                    "isCorrect": false,
+                    "hint": "sudo modprobe -r nombre_del_modulo para eliminar, sin la r para a\u00f1adir."
+                }
+            ]
+        },
+        {
+            "question": "11. Nagios se basa en el protocolo: ",
+            "options": [
+                {
+                    "text": "c) SNMP ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Split Horizon ayuda a reducir los tiempos de convergencia. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Multicast ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) FTP ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12. La herramienta gratuita y de c\u00f3digo libre que para controlar el tr\u00e1fico de red y cuyo principal objetivo es rastrear o buscar los eventos",
+            "options": [
+                {
+                    "text": "d) Suricata ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 802.1Q",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Las direcciones tienen una longitud de 32 bytes. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Wireshark. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. En Windows, \u00bfcu\u00e1l es la afirmaci\u00f3n verdadera al ejecutar en cmd el comando nslookup 81.89.32.200 10.31.15.6? ",
+            "options": [
+                {
+                    "text": "c) Nos dar\u00eda el nombre del servidor que corresponde a 81.89.32.200 tras realizar la consulta oportuna en el servidor 10.31.15.6 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 80 y 443, respectivamente. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Para su funcionamiento, utiliza dos capas: TLS Record Protoco! y TLS Handshake Protocol. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Multicast ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14. En el sistema operativo Windows, \u00bfqu\u00e9 comando purga la cach\u00e9 de resoluci\u00f3n de DNS?",
+            "options": [
+                {
+                    "text": "c) ipconfig \/flushdns ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Suricata ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 802.1Q",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 207 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15. Indique cu\u00e1l de las siguientes herramientas de monitorizaci\u00f3n de red se puede usar en sistemas Windows, Linux y OS Xx: ",
+            "options": [
+                {
+                    "text": "d) Wireshark. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) La capa de enlace de datos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Las direcciones tienen una longitud de 32 bytes. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Indican los servidores de correo autorizadas a enviar transporte a un dominio determinado. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. En el \u00e1mbito de la seguridad de los sistemas de Informaci\u00f3n, token f\u00edsico de seguridad es: ",
+            "options": [
+                {
+                    "text": "b) Un dispositivo electr\u00f3nico que se le da a un usuario autorizado de un servicio computerizado para facilitar el proceso de autenticaci\u00f3n. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 802.1Q",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 993 (TCP) ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 2,4 Ghz. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "17. Se\u00f1ale cu\u00e1l de las siguientes afirmaciones es cierta, referente al algoritmo criptogr\u00e1fico IDEA: ",
+            "options": [
+                {
+                    "text": "c) Opera con bloques de 64 bits, ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) IEEE 802.6 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) ActiveSync. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Multicast ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "18. Indique cu\u00e1l de las afirmaciones sobre la clasificaci\u00f3n de los centros de datos (CPDs) del UPTIME INSTITUTE es  VERDADERA: ",
+            "options": [
+                {
+                    "text": "c) Un CPD TIER IV es tolerante a fallos. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Ransomware ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) alojan aplicaciones qu\u00e9 el sistema necesita. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SOHO ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "19. La persona que busca la forma de usar o abusar del tel\u00e9fono ajeno a su antojo es un: ",
+            "options": [
+                {
+                    "text": "c) Phreaker ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) GSMA ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) A\u00f1ade o elimina m\u00f3dulos del kernel de Linux. ",
+                    "isCorrect": false,
+                    "hint": "sudo modprobe -r nombre_del_modulo para eliminar, sin la r para a\u00f1adir."
+                },
+                {
+                    "text": "b) ActiveSync. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "20. Indique, de las siguientes afirmaciones sobre algoritmos de cifrado, cu\u00e1l es verdadera: ",
+            "options": [
+                {
+                    "text": "a) TDEA es sim\u00e9trico, ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) La capa de enlace de datos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Suricata ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Split Horizon ayuda a reducir los tiempos de convergencia. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "21. \u00bfCu\u00e1l de los siguientes es un c\u00f3digo malicioso para secuestrar datos, en el que el atacante encripta los datos de la  v\u00edctima y exlge un pago por la clave de descifrado? ",
+            "options": [
+                {
+                    "text": "c) Ransomware ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 802.1x",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 80 y 443, respectivamente. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) FTP ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "22. En la arquitectura TCP\/1P, los protocolos Telnet, HTTP y FTP funcionan en la capa de: ",
+            "options": [
+                {
+                    "text": "a) Aplicaci\u00f3n:",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Split Horizon ayuda a reducir los tiempos de convergencia. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) GSM, GPRS, UMTS, HSDPA, LTE ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Phreaker ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "23. Seg\u00fan su tipo de propagaci\u00f3n, las Fibras \u00d3pticas pueden clasificarse como: ",
+            "options": [
+                {
+                    "text": "a) Monomodo y Multimodo. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) touch ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 207 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Exchange ActiveSync ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "24. Se\u00f1ale cu\u00e1l de las siguientes es una t\u00e9cnica de compartici\u00f3n por reserva para el control de acceso al medio: REVISAR",
+            "options": [
+                {
+                    "text": "c) GSMA ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) ubicado en una zona desmilitarizada. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 802.1Q",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 126 ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "25. \u00bfCu\u00e1l es el est\u00e1ndar para WiMAX? ",
+            "options": [
+                {
+                    "text": "d) IEEE 802.16",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 802.1x",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 80 y 443, respectivamente. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Opera con bloques de 64 bits, ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "26. Cu\u00e1l de los siguientes est\u00e1ndares define un bus doble de colas distribuidas (DQDB)? ",
+            "options": [
+                {
+                    "text": "b) IEEE 802.6 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Un CPD TIER IV es tolerante a fallos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 209 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) S\/MIME ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "27. Seg\u00fan el consorcio Wi-Fi Alliance, los productos que incorporan la tecnolog\u00eda IEEE 802.i11ah reciben la  denominaci\u00f3n de: ",
+            "options": [
+                {
+                    "text": "a) Wi-Fi HaLow. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Las direcciones tienen una longitud de 32 bytes. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Utiliza la tecnolog\u00eda de acceso m\u00f3vil W-CDMA. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) TDEA es sim\u00e9trico, ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "28. El est\u00e1ndar IEEE relativo a las arquitecturas de red que controla que, equipos invitados, no autorizados o no  administrados que no pueden autenticarse correctamente se conecten a una red, es: ",
+            "options": [
+                {
+                    "text": "c) 802.1x",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) ActiveSync. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Wireshark. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Las direcciones tienen una longitud de 32 bytes. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "29. En relaci\u00f3n a las caracter\u00edsticas de LTE Advanced del 3GPP, se\u00f1ale la sentencia FALSA: ",
+            "options": [
+                {
+                    "text": "c) Utiliza la tecnolog\u00eda de acceso m\u00f3vil W-CDMA. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Wireshark. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) El elemento que conmuta etiquetas.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SNMP ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "30. Indique el orden correcto de evoluci\u00f3n en los sistemas de comunicaci\u00f3n m\u00f3viles:",
+            "options": [
+                {
+                    "text": "c) GSM, GPRS, UMTS, HSDPA, LTE ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) ubicado en una zona desmilitarizada. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) A\u00f1ade o elimina m\u00f3dulos del kernel de Linux. ",
+                    "isCorrect": false,
+                    "hint": "sudo modprobe -r nombre_del_modulo para eliminar, sin la r para a\u00f1adir."
+                },
+                {
+                    "text": "b) 802.1Q",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "31. El roaming es el servicio que permite: ",
+            "options": [
+                {
+                    "text": "d) la posibilidad de utilizar los servicios contratados en su tel\u00e9fono m\u00f3vil en un pa\u00eds diferente al de su operador de origen sin  tener que cambiar de operador, ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) SMTP se emplea para gestionar el correo saliente. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) GSM, GPRS, UMTS, HSDPA, LTE ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Formas de referirse al control de cambios de los programas de una instalaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "32. Cu\u00e1l de las siguientes afirmaciones con respecto al direccionamiento IPv6 es FALSA? ",
+            "options": [
+                {
+                    "text": "b) Las direcciones tienen una longitud de 32 bytes. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) ubicado en una zona desmilitarizada. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) SMTP se emplea para gestionar el correo saliente. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SNMP ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "33. Para una subred con m\u00e1scara 255.255.255.128, indique cu\u00e1ntas direcciones de host estar\u00e1n disponibles para asignar: ",
+            "options": [
+                {
+                    "text": "a) 126 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SOHO ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 11000000.00110000.00001011.01111111 (en binario). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Un CPD TIER IV es tolerante a fallos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "34. En el modelo OSI, las subcapas MAC (Medium Access Control) y LLC (Logical Link Control) se sit\u00faan en: ",
+            "options": [
+                {
+                    "text": "a) La capa de enlace de datos. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Wi-Fi HaLow. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) ipconfig \/flushdns ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Indican los servidores de correo autorizadas a enviar transporte a un dominio determinado. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "35. El protocolo IMAP4\/SSL usa por defecto el puerto: ",
+            "options": [
+                {
+                    "text": "c) 993 (TCP) ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) FTP ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IBM AppScan ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) El n\u00famero de l\u00edneas que tiene fichero, ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "36. En una red MPLS, el LSR es: ",
+            "options": [
+                {
+                    "text": "a) El elemento que conmuta etiquetas.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) GSMA ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SNMP ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) 993 (TCP) ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37. De entre las siguientes, \u00bfcu\u00e1l se corresponde con una cabecera de extensi\u00f3n en IP versi\u00f3n 6? ",
+            "options": [
+                {
+                    "text": "d) Cabecera de fragmentaci\u00f3n. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) La capa de enlace de datos. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 207 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) S\/MIME ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "38. Dada la direcci\u00f3n 192.48.11.3 y la m\u00e1scara de subred 255.255.255.128, la direcci\u00f3n de difusi\u00f3n (broadcast) de dicha subred es: ",
+            "options": [
+                {
+                    "text": "d) 11000000.00110000.00001011.01111111 (en binario). ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Combina el proxy con NAT de manera que las conexiones son enrutadas dentro del proxy sin configuraci\u00f3n por parte del  cliente (navegador). ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) S\/MIME ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Suricata ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39. En IPv6, las direcciones FF00::\/8 son: ",
+            "options": [
+                {
+                    "text": "b) Multicast ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 126 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Un dispositivo electr\u00f3nico que se le da a un usuario autorizado de un servicio computerizado para facilitar el proceso de autenticaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) FTP ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "40. Para los protocolos HTTP (Hypertext Transfer Protocol) y HTTPS (http sobre TLS\/SSL), los puertos utilizados por defecto seg\u00fan la IANA son: ",
+            "options": [
+                {
+                    "text": "b) 80 y 443, respectivamente. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) TDEA es sim\u00e9trico, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Multicast ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) u ",
+                    "isCorrect": false,
+                    "hint": "redo \u00e9s control+r"
+                }
+            ]
+        },
+        {
+            "question": "41. En una m\u00e1quina con sistema operativo Linux, los comandos get, put, mget y mput, pertenecen a: ",
+            "options": [
+                {
+                    "text": "a) FTP ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) El n\u00famero de l\u00edneas que tiene fichero, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Cabecera de fragmentaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) TDEA es sim\u00e9trico, ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "42. HTTP va indicando elestado en el que se encuentra la solicitud d\u00e9 una p\u00e1gina en funci\u00f3n de una lista de c\u00f3digos  de respuesta y frases est\u00e1ndar. El c\u00f3digo de estado m\u00faltiple (Multi-Status) es: ",
+            "options": [
+                {
+                    "text": "d) 207 ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) 802.1x",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Formas de referirse al control de cambios de los programas de una instalaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SOHO ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "43. En relaci\u00f3n al protocolo TLS versi\u00f3n 1.2, se\u00f1ale la afirmaci\u00f3n verdadera: ",
+            "options": [
+                {
+                    "text": "d) Para su funcionamiento, utiliza dos capas: TLS Record Protoco! y TLS Handshake Protocol. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Rootkit. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 802.1Q",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Combina el proxy con NAT de manera que las conexiones son enrutadas dentro del proxy sin configuraci\u00f3n por parte del  cliente (navegador). ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "44. De los siguientes protocolos, \u00bfcu\u00e1l es usado para el env\u00edo de correos electr\u00f3nicos seguros? ",
+            "options": [
+                {
+                    "text": "d) S\/MIME ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) Indican los servidores de correo autorizadas a enviar transporte a un dominio determinado. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) GSM, GPRS, UMTS, HSDPA, LTE ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) ipconfig \/flushdns ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "45. La herramienta que permite un acceso de privilegio continuo a una computadora, pero que mantiene su presencia activamente oculta al control de los administradores, al corromper el funcionamiento normal del sistema  operativo o de otras aplicaciones, se denomina: ",
+            "options": [
+                {
+                    "text": "d) Rootkit. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 80 y 443, respectivamente. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SNMP ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Indican los servidores de correo autorizadas a enviar transporte a un dominio determinado. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "46. \u00bfCu\u00e1l de las siguientes herramientas se utiliza para la realizaci\u00f3n de pruebas de seguridad? ",
+            "options": [
+                {
+                    "text": "b) IBM AppScan ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) 2,4 Ghz. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) 802.1Q",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) alojan aplicaciones qu\u00e9 el sistema necesita. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "47. En entornos de redes, el t\u00e9rmino que engloba el concepto de \"oficina peque\u00f1a \/ oficina dom\u00e9stica\u201d se denomina: ",
+            "options": [
+                {
+                    "text": "c) SOHO ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Multicast ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) ActiveSync. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Split Horizon ayuda a reducir los tiempos de convergencia. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "48. A algunos proxis se los considera transparente porque:",
+            "options": [
+                {
+                    "text": "c) Combina el proxy con NAT de manera que las conexiones son enrutadas dentro del proxy sin configuraci\u00f3n por parte del  cliente (navegador). ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SOHO ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IBM AppScan ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) El elemento que conmuta etiquetas.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "49. \u00bfCu\u00e1l de las siguientes opciones recoge la especificaci\u00f3n de VLANs? ",
+            "options": [
+                {
+                    "text": "b) 802.1Q",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) ipconfig \/flushdns ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) GSMA ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Formas de referirse al control de cambios de los programas de una instalaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "50. En materia de protocolos de enrutamiento, \u00bfcu\u00e1l de las siguientes afirmaciones es VERDADERA acerca de RIP? ",
+            "options": [
+                {
+                    "text": "a) Split Horizon ayuda a reducir los tiempos de convergencia. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Nos dar\u00eda el nombre del servidor que corresponde a 81.89.32.200 tras realizar la consulta oportuna en el servidor 10.31.15.6 ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Formas de referirse al control de cambios de los programas de una instalaci\u00f3n. ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) A\u00f1ade o elimina m\u00f3dulos del kernel de Linux. ",
+                    "isCorrect": false,
+                    "hint": "sudo modprobe -r nombre_del_modulo para eliminar, sin la r para a\u00f1adir."
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. Comando Unix que crea un archivo vac\u00edo o, si \u00e9ste existe, actualiza la hora de modificaci\u00f3n: ",
+            "options": [
+                {
+                    "text": "d) touch ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) GSM, GPRS, UMTS, HSDPA, LTE ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) TDEA es sim\u00e9trico, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Wi-Fi HaLow. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 2.Indique la tecnolog\u00eda utilizada por Microsoft en sus sistemas operativos Windows, cuyo objetivo espec\u00edfico es la  sincronizaci\u00f3n de datos entre equipos de escritorio y dispositivos m\u00f3viles: ",
+            "options": [
+                {
+                    "text": "b) ActiveSync. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) 802.1Q",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) El n\u00famero de l\u00edneas que tiene fichero, ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Combina el proxy con NAT de manera que las conexiones son enrutadas dentro del proxy sin configuraci\u00f3n por parte del  cliente (navegador). ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 3. El protocolo IEEE 802.11g utiliza la banda de: ",
+            "options": [
+                {
+                    "text": "d) 2,4 Ghz. ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Aplicaci\u00f3n:",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SOHO ",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Wireshark. ",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

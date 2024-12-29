@@ -5,10 +5,11 @@ import Layout from '../layouts/Layout.astro';
 import QuizList from '../components/QuizList.astro';
 
 // Carga todos los archivos JSON de los cuestionarios
-const quizzes = Object.entries(import.meta.glob('../data/test/*.json', { eager: true }))
+const quizzes = Object.entries(import.meta.glob('../data/test/**/*.json', { eager: true }))
   .map(([path, module]) => ({
-    slug: path.split('/').pop().replace('.json', ''), // Extrae el nombre del archivo como slug
-    title: module.title, // Usa el campo "title" del JSON
+    // Extraemos solo el nombre del archivo para el slug, ignorando la estructura de carpetas
+    slug: path.split('/').pop().replace('.json', ''),
+    title: module.title,
     type: module.type
   }));
 

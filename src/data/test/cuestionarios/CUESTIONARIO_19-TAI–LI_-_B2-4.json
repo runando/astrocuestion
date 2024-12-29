@@ -1,0 +1,799 @@
+{
+    "title": "CUESTIONARIO 19-TAI\u2013LI - B2-4",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "25. \u00bfQu\u00e9 es la arquitectura ARM?",
+            "options": [
+                {
+                    "text": "a) Una arquitectura avanzada para microprocesadores RISC.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Es una colecci\u00f3n de mejores pr\u00e1cticas de gesti\u00f3n de servicios de tecnolog\u00edas de la informaci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 503",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La seguridad del protocolo WEP es superior a la del protocolo WPA2.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "26. Indique la velocidad m\u00e1xima de transferencia del USB 4.0:",
+            "options": [
+                {
+                    "text": "c) Hasta 40 Gbps.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) FF00::\/8",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 802.11ax",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Tiene dos espacios de memoria separados, uno para datos y otro para instrucciones.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "27. Indique cu\u00e1l de las siguientes es una tecnolog\u00eda de interfaz hardware:",
+            "options": [
+                {
+                    "text": "c) Thunderbolt",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) BYOD",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Solid State Drive. Es un dispositivo de almacenamiento de datos que utiliza memoria no vol\u00e1til.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Cuatro niveles, siendo TIER I el de menor disponibilidad y TIER IV el de mayor.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "28. En relaci\u00f3n con el almacenamiento, \u00bfqu\u00e9 es un SSD?",
+            "options": [
+                {
+                    "text": "c) Solid State Drive. Es un dispositivo de almacenamiento de datos que utiliza memoria no vol\u00e1til.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) MARIA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) SMTP se usa desde el ordenador del usuario de origen al servidor de correo electr\u00f3nico en el origen, as\u00ed como desde el servidor de origen al servidor de destino. POP3 o IMAP se usan desde el servidor de correo en el destino hasta el ordenador del desti",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Net start",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "29. AV1 es un:",
+            "options": [
+                {
+                    "text": "c) Nuevo c\u00f3dec de v\u00eddeo.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) GOST",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La seguridad del protocolo WEP es superior a la del protocolo WPA2.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Es un grupo de Piconets.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "30. Si un \u00e1rbol binario lo recorremos siguiendo el orden siguiente: ra\u00edz, sub\u00e1rbol izquierdo, sub\u00e1rbol derecho, \u00bfcu\u00e1l de los siguientes tipos de recorrido estamos utilizando?",
+            "options": [
+                {
+                    "text": "a) Preorden",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) P2TP (Point two Tunneling Protocol).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Es una colecci\u00f3n de mejores pr\u00e1cticas de gesti\u00f3n de servicios de tecnolog\u00edas de la informaci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 503",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "31. En una distribuci\u00f3n Linux, \u00bfqu\u00e9 directorio contiene, entre otros, los ficheros de configuraci\u00f3n tanto a nivel de componentes del sistema operativo en s\u00ed, como de los programas y aplicaciones instaladas a posteriori?",
+            "options": [
+                {
+                    "text": "d) \/etc",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) UDP obliga al nivel de red a verificar que el env\u00edo es correcto.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) GOST",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) nmap",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "32. En los sistemas Linux, si se ejecuta el comando chmod 640 para modificar los permisos de un archivo, \u00bfqu\u00e9 permisos estoy asignando?",
+            "options": [
+                {
+                    "text": "c) Acceso de lectura y escritura al propietario, acceso de lectura al grupo, y ning\u00fan acceso al resto de usuarios.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) SNMP v3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 503",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) MARIA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "58. En Linux, \u00bfcu\u00e1l de las siguientes opciones utilizar\u00eda para conocer qu\u00e9 puertos tiene abiertos un servidor?",
+            "options": [
+                {
+                    "text": "c) nmap",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Una arquitectura avanzada para microprocesadores RISC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) \/etc",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) P2TP (Point two Tunneling Protocol).",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "59. En sistemas Debian, \u00bfcu\u00e1l de los siguientes comandos permitir\u00eda descargar la informaci\u00f3n de los paquetes desde todas las fuentes configuradas?",
+            "options": [
+                {
+                    "text": "a) apt update",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Acceso de lectura y escritura al propietario, acceso de lectura al grupo, y ning\u00fan acceso al resto de usuarios.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La seguridad del protocolo WEP es superior a la del protocolo WPA2.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) nmap",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "60. En el contexto de la administraci\u00f3n del almacenamiento, \u00bfqu\u00e9 es el \u201cThin Provisioning\u201d?",
+            "options": [
+                {
+                    "text": "b) Es m\u00e9todo de virtualizaci\u00f3n de almacenamiento que permite que el espacio se asigne de forma justa y puntual.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Hasta 40 Gbps.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Solid State Drive. Es un dispositivo de almacenamiento de datos que utiliza memoria no vol\u00e1til.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) nmap",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "61. En relaci\u00f3n a los sistemas RAID, indique qu\u00e9 configuraci\u00f3n permite acceso independiente con paridad distribuida:",
+            "options": [
+                {
+                    "text": "d) RAID 5",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) La aplicaci\u00f3n cifra el documento a firmar asegurando la confidencialidad.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) TLS 1.3",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 503",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "62. Considerando que tanto en el punto de origen como en el punto de destino disponemos de un ordenador de usuario con un cliente de correo electr\u00f3nico instalado y un servidor de correo electr\u00f3nico, \u00bfqu\u00e9 papel juegan los protocolos SMTP, POP3 e IMAP durante el env\u00edo de uno de estos correos electr\u00f3nicos?",
+            "options": [
+                {
+                    "text": "c) SMTP se usa desde el ordenador del usuario de origen al servidor de correo electr\u00f3nico en el origen, as\u00ed como desde el servidor de origen al servidor de destino. POP3 o IMAP se usan desde el servidor de correo en el destino hasta el ordenador del desti",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) GOST",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) nmap",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Solid State Drive. Es un dispositivo de almacenamiento de datos que utiliza memoria no vol\u00e1til.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "3. En las arquitecturas de microservicios las funcionalidades se implementan mediante la composici\u00f3n de distintos microservicios. Existen dos estrategias para gestionar esta composici\u00f3n, que son:",
+            "options": [
+                {
+                    "text": "a) Coreograf\u00eda y orquestaci\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) P2TP (Point two Tunneling Protocol).",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Es un grupo de Piconets.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) nmap",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "64. \u00bfQu\u00e9 comando se debe ejecutar para mostrar un listado de los servicios en ejecuci\u00f3n en un ordenador con sistema operativo Windows 10?",
+            "options": [
+                {
+                    "text": "c) Net start",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Es una colecci\u00f3n de mejores pr\u00e1cticas de gesti\u00f3n de servicios de tecnolog\u00edas de la informaci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) BYOD",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Tiene dos espacios de memoria separados, uno para datos y otro para instrucciones.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "65. \u00bfCu\u00e1l es la \u00faltima versi\u00f3n del protocolo de administraci\u00f3n de red SNMP?",
+            "options": [
+                {
+                    "text": "b) SNMP v3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Acceso de lectura y escritura al propietario, acceso de lectura al grupo, y ning\u00fan acceso al resto de usuarios.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Una arquitectura avanzada para microprocesadores RISC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La aplicaci\u00f3n cifra el documento a firmar asegurando la confidencialidad.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "66. \u00bfIndique la afirmaci\u00f3n FALSA con respecto al proceso de firma digital?",
+            "options": [
+                {
+                    "text": "b) La aplicaci\u00f3n cifra el documento a firmar asegurando la confidencialidad.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Es un grupo de Piconets.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Cuatro niveles, siendo TIER I el de menor disponibilidad y TIER IV el de mayor.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) MARIA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "67. Indique cu\u00e1l de las siguientes opciones se corresponde con el concepto de ITIL:",
+            "options": [
+                {
+                    "text": "c) Es una colecci\u00f3n de mejores pr\u00e1cticas de gesti\u00f3n de servicios de tecnolog\u00edas de la informaci\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) 802.11ax",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Tiene dos espacios de memoria separados, uno para datos y otro para instrucciones.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Nuevo c\u00f3dec de v\u00eddeo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "68. \u00bfCu\u00e1l es la \u00faltima versi\u00f3n estable del protocolo TLS?",
+            "options": [
+                {
+                    "text": "b) TLS 1.3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Tiene dos espacios de memoria separados, uno para datos y otro para instrucciones.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Es una colecci\u00f3n de mejores pr\u00e1cticas de gesti\u00f3n de servicios de tecnolog\u00edas de la informaci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La seguridad del protocolo WEP es superior a la del protocolo WPA2.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "69. Se\u00f1ale cu\u00e1l de los siguientes NO es un algoritmo asim\u00e9trico:",
+            "options": [
+                {
+                    "text": "b) GOST",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) SMTP se usa desde el ordenador del usuario de origen al servidor de correo electr\u00f3nico en el origen, as\u00ed como desde el servidor de origen al servidor de destino. POP3 o IMAP se usan desde el servidor de correo en el destino hasta el ordenador del desti",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) 503",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La aplicaci\u00f3n cifra el documento a firmar asegurando la confidencialidad.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "70. Sobre redes inal\u00e1mbricas, indique cu\u00e1l de las siguientes afirmaciones es INCORRECTA:",
+            "options": [
+                {
+                    "text": "b) La seguridad del protocolo WEP es superior a la del protocolo WPA2.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) IGRP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Una arquitectura avanzada para microprocesadores RISC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) apt update",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "71. El est\u00e1ndar comercializado con el nombre de Wi-Fi 6 se corresponde con el est\u00e1ndar de IEEE:",
+            "options": [
+                {
+                    "text": "a) 802.11ax",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) apt update",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Tiene dos espacios de memoria separados, uno para datos y otro para instrucciones.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Nuevo c\u00f3dec de v\u00eddeo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "72. \u00bfCu\u00e1l es el prefijo para las direcciones multicast en el protocolo IPv6?",
+            "options": [
+                {
+                    "text": "b) FF00::\/8",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) UDP obliga al nivel de red a verificar que el env\u00edo es correcto.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) SOA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SNMP v3",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "73. De los siguientes protocolos de enrutamiento, \u00bfcu\u00e1l utiliza un algoritmo de vector de distancia?",
+            "options": [
+                {
+                    "text": "b) IGRP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) La seguridad del protocolo WEP es superior a la del protocolo WPA2.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Preorden",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SNMP v3",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "74. En el protocolo HTTP, el c\u00f3digo de error que indica que el servicio no est\u00e1 disponible es el:",
+            "options": [
+                {
+                    "text": "d) 503",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) La seguridad del protocolo WEP es superior a la del protocolo WPA2.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Thunderbolt",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Acceso de lectura y escritura al propietario, acceso de lectura al grupo, y ning\u00fan acceso al resto de usuarios.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "75. \u00bfCu\u00e1l de los siguientes registros DNS proporciona informaci\u00f3n sobre las caracter\u00edsticas b\u00e1sicas del dominio y de la zona en la que se encuentra?",
+            "options": [
+                {
+                    "text": "d) SOA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Una arquitectura avanzada para microprocesadores RISC.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) IGRP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La aplicaci\u00f3n cifra el documento a firmar asegurando la confidencialidad.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "76. \u00bfQu\u00e9 modalidad de gesti\u00f3n de dispositivos m\u00f3viles se basa en permitir al usuario usar su propio dispositivo personal para tareas profesionales o educativas?",
+            "options": [
+                {
+                    "text": "b) BYOD",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) SOA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La aplicaci\u00f3n cifra el documento a firmar asegurando la confidencialidad.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Tiene dos espacios de memoria separados, uno para datos y otro para instrucciones.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "77. La herramienta del CCN-CERT que permite realizar an\u00e1lisis est\u00e1tico de c\u00f3digo da\u00f1ino a trav\u00e9s de m\u00faltiples motores antivirus y antimalware para plataformas Windows y Linux es:",
+            "options": [
+                {
+                    "text": "a) MARIA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) IGRP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) UDP obliga al nivel de red a verificar que el env\u00edo es correcto.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Net start",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "78. En relaci\u00f3n con las VPN de nivel de enlace, \u00bfcu\u00e1l de los siguientes protocolos NO se utiliza para la implementaci\u00f3n de dicha VPN",
+            "options": [
+                {
+                    "text": "d) P2TP (Point two Tunneling Protocol).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Nuevo c\u00f3dec de v\u00eddeo.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 802.11ax",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La aplicaci\u00f3n cifra el documento a firmar asegurando la confidencialidad.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "79. \u00bfQu\u00e9 es una red Scatternet?",
+            "options": [
+                {
+                    "text": "c) Es un grupo de Piconets.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Es m\u00e9todo de virtualizaci\u00f3n de almacenamiento que permite que el espacio se asigne de forma justa y puntual.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) GOST",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Nuevo c\u00f3dec de v\u00eddeo.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "80. En relaci\u00f3n a TCP y UDP indique cu\u00e1l de las siguientes caracter\u00edsticas NO es correcta:",
+            "options": [
+                {
+                    "text": "b) UDP obliga al nivel de red a verificar que el env\u00edo es correcto.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) La seguridad del protocolo WEP es superior a la del protocolo WPA2.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Hasta 40 Gbps.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) P2TP (Point two Tunneling Protocol).",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. La arquitectura de ordenadores Harvard:",
+            "options": [
+                {
+                    "text": "b) Tiene dos espacios de memoria separados, uno para datos y otro para instrucciones.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) IGRP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) nmap",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Thunderbolt",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 4. Para valorar el nivel de disponibilidad y seguridad de un CPD, el est\u00e1ndar ANSI EIA\/TIA 942 estableci\u00f3:",
+            "options": [
+                {
+                    "text": "d) Cuatro niveles, siendo TIER I el de menor disponibilidad y TIER IV el de mayor.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Es m\u00e9todo de virtualizaci\u00f3n de almacenamiento que permite que el espacio se asigne de forma justa y puntual.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) \/etc",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Preorden",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

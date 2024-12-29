@@ -1,0 +1,295 @@
+{
+    "title": "Claves de Registro Windows",
+    "type": "bloque2",
+    "shuffle": true,
+    "questions": [
+        {
+            "question": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n del hardware y el software del equipo, as\u00ed como informaci\u00f3n sobre los usuarios y grupos locales.",
+            "options": [
+                {
+                    "text": "HKEY_LOCAL_MACHINE",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HKEY_CURRENT_USER",
+                    "isCorrect": false,
+                    "hint": "sta clave de registro contiene informaci\u00f3n sobre el perfil del usuario actual que ha iniciado sesi\u00f3n en el equipo. Incluye la configuraci\u00f3n de escritorio, el historial de archivos y otras preferencias del usuario."
+                },
+                {
+                    "text": "HKEY_CURRENT_USER\\Control Panel",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n del Panel de control para el usuario actual."
+                },
+                {
+                    "text": "HKEY_CLASSES_ROOT\\CLSID",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre objetos COM (Component Object Model) y otros objetos del sistema."
+                }
+            ]
+        },
+        {
+            "question": "sta clave de registro contiene informaci\u00f3n sobre el perfil del usuario actual que ha iniciado sesi\u00f3n en el equipo. Incluye la configuraci\u00f3n de escritorio, el historial de archivos y otras preferencias del usuario.",
+            "options": [
+                {
+                    "text": "HKEY_CURRENT_USER",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n del hardware y el software del equipo, as\u00ed como informaci\u00f3n sobre los usuarios y grupos locales."
+                },
+                {
+                    "text": "HKEY_CLASSES_ROOT\\CLSID",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre objetos COM (Component Object Model) y otros objetos del sistema."
+                },
+                {
+                    "text": "HKEY_CURRENT_CONFIG",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n actual de hardware del equipo."
+                }
+            ]
+        },
+        {
+            "question": "Esta clave de registro contiene informaci\u00f3n sobre las extensiones de archivo y los tipos de archivo asociados con diferentes aplicaciones.",
+            "options": [
+                {
+                    "text": "HKEY_CLASSES_ROOT",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HKEY_USERS",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre los perfiles de usuario en el equipo, incluidos los perfiles de usuario que no han iniciado sesi\u00f3n actualmente."
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\Security",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de seguridad del sistema, como pol\u00edticas de seguridad y permisos de usuario."
+                },
+                {
+                    "text": "HKEY_CURRENT_CONFIG",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n actual de hardware del equipo."
+                }
+            ]
+        },
+        {
+            "question": "Esta clave de registro contiene informaci\u00f3n sobre los perfiles de usuario en el equipo, incluidos los perfiles de usuario que no han iniciado sesi\u00f3n actualmente.",
+            "options": [
+                {
+                    "text": "HKEY_USERS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\Security",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de seguridad del sistema, como pol\u00edticas de seguridad y permisos de usuario."
+                },
+                {
+                    "text": "HKEY_CLASSES_ROOT\\CLSID",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre objetos COM (Component Object Model) y otros objetos del sistema."
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n del hardware y el software del equipo, as\u00ed como informaci\u00f3n sobre los usuarios y grupos locales."
+                }
+            ]
+        },
+        {
+            "question": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n actual de hardware del equipo.",
+            "options": [
+                {
+                    "text": "HKEY_CURRENT_CONFIG",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HKEY_CURRENT_USER\\Control Panel",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n del Panel de control para el usuario actual."
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\Hardware",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de hardware del equipo."
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\Security",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de seguridad del sistema, como pol\u00edticas de seguridad y permisos de usuario."
+                }
+            ]
+        },
+        {
+            "question": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de software para el usuario actual.",
+            "options": [
+                {
+                    "text": "HKEY_CURRENT_USER\\Software",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HKEY_CURRENT_USER",
+                    "isCorrect": false,
+                    "hint": "sta clave de registro contiene informaci\u00f3n sobre el perfil del usuario actual que ha iniciado sesi\u00f3n en el equipo. Incluye la configuraci\u00f3n de escritorio, el historial de archivos y otras preferencias del usuario."
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\Security",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de seguridad del sistema, como pol\u00edticas de seguridad y permisos de usuario."
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n del hardware y el software del equipo, as\u00ed como informaci\u00f3n sobre los usuarios y grupos locales."
+                }
+            ]
+        },
+        {
+            "question": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de software para el equipo.",
+            "options": [
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\Software",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HKEY_CURRENT_USER\\Control Panel",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n del Panel de control para el usuario actual."
+                },
+                {
+                    "text": "HKEY_CLASSES_ROOT",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre las extensiones de archivo y los tipos de archivo asociados con diferentes aplicaciones."
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\System",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n del sistema del equipo, como controladores y servicios del sistema."
+                }
+            ]
+        },
+        {
+            "question": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n del sistema del equipo, como controladores y servicios del sistema.",
+            "options": [
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\System",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HKEY_CLASSES_ROOT\\CLSID",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre objetos COM (Component Object Model) y otros objetos del sistema."
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\Software",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de software para el equipo."
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\Security",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de seguridad del sistema, como pol\u00edticas de seguridad y permisos de usuario."
+                }
+            ]
+        },
+        {
+            "question": "Esta clave de registro contiene informaci\u00f3n sobre objetos COM (Component Object Model) y otros objetos del sistema.",
+            "options": [
+                {
+                    "text": "HKEY_CLASSES_ROOT\\CLSID",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\System",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n del sistema del equipo, como controladores y servicios del sistema."
+                },
+                {
+                    "text": "HKEY_USERS",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre los perfiles de usuario en el equipo, incluidos los perfiles de usuario que no han iniciado sesi\u00f3n actualmente."
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n del hardware y el software del equipo, as\u00ed como informaci\u00f3n sobre los usuarios y grupos locales."
+                }
+            ]
+        },
+        {
+            "question": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n del Panel de control para el usuario actual.",
+            "options": [
+                {
+                    "text": "HKEY_CURRENT_USER\\Control Panel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\System",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n del sistema del equipo, como controladores y servicios del sistema."
+                },
+                {
+                    "text": "HKEY_CLASSES_ROOT\\CLSID",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre objetos COM (Component Object Model) y otros objetos del sistema."
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\Security",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de seguridad del sistema, como pol\u00edticas de seguridad y permisos de usuario."
+                }
+            ]
+        },
+        {
+            "question": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de hardware del equipo.",
+            "options": [
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\Hardware",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\Security",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de seguridad del sistema, como pol\u00edticas de seguridad y permisos de usuario."
+                },
+                {
+                    "text": "HKEY_CURRENT_CONFIG",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n actual de hardware del equipo."
+                },
+                {
+                    "text": "HKEY_CLASSES_ROOT",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre las extensiones de archivo y los tipos de archivo asociados con diferentes aplicaciones."
+                }
+            ]
+        },
+        {
+            "question": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de seguridad del sistema, como pol\u00edticas de seguridad y permisos de usuario.",
+            "options": [
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\Security",
+                    "isCorrect": true
+                },
+                {
+                    "text": "HKEY_CLASSES_ROOT",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre las extensiones de archivo y los tipos de archivo asociados con diferentes aplicaciones."
+                },
+                {
+                    "text": "HKEY_LOCAL_MACHINE\\Software",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre la configuraci\u00f3n de software para el equipo."
+                },
+                {
+                    "text": "HKEY_CLASSES_ROOT\\CLSID",
+                    "isCorrect": false,
+                    "hint": "Esta clave de registro contiene informaci\u00f3n sobre objetos COM (Component Object Model) y otros objetos del sistema."
+                }
+            ]
+        }
+    ]
+}

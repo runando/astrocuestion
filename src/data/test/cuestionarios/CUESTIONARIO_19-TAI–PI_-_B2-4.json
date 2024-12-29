@@ -1,0 +1,607 @@
+{
+    "title": "CUESTIONARIO 19-TAI\u2013PI - B2-4",
+    "type": "cuestionarios",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "11. \u00bfCu\u00e1l de los siguientes es un tipo de almacenamiento de datos vol\u00e1til?",
+            "options": [
+                {
+                    "text": "a) Memoria de acceso aleatorio din\u00e1mico.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Ransomware",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) UDP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) SOA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "12. Indique la velocidad m\u00e1xima de transferencia del USB 4.0:",
+            "options": [
+                {
+                    "text": "c) Hasta 40 Gbps.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) SNMP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Bring Your Own Device.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Proceso zombie.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "13. Si un \u00e1rbol binario lo recorremos siguiendo el orden siguiente: ra\u00edz, sub\u00e1rbol izquierdo, sub\u00e1rbol derecho, \u00bfcu\u00e1l de los siguientes tipos de recorrido estamos utilizando?",
+            "options": [
+                {
+                    "text": "a) Preorden",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) S\u00f3lo leer y ejecutar.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) Inyecci\u00f3n.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Bring Your Own Device.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "14. El algoritmo de ordenaci\u00f3n que consiste en comparar pares de elementos adyacentes e intercambiarlos entre s\u00ed, si no est\u00e1n en orden, hasta que todo el conjunto de elementos se encuentre ordenado, es conocido como:",
+            "options": [
+                {
+                    "text": "b) Burbuja",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) SOA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Ransomware",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Memoria de acceso aleatorio din\u00e1mico.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "15. \u00bfEn Linux, qu\u00e9 tipo de proceso se corresponde con la caracter\u00edstica de que, habiendo concluido, a\u00fan est\u00e1 presente en la tabla de procesos?",
+            "options": [
+                {
+                    "text": "a) Proceso zombie.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Compartimental",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Hasta 40 Gbps.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) CLAUDIA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "16. En un entorno UNIX, tenemos los permisos \"rwxr-x-r\u2013\" sobre un determinado fichero. \u00bfQu\u00e9 acci\u00f3n o acciones puede hacer un usuario del grupo del propietario del fichero?",
+            "options": [
+                {
+                    "text": "b) S\u00f3lo leer y ejecutar.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Memoria de acceso aleatorio din\u00e1mico.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Burbuja",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Simple Mail Transfer Protocol",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "34. En los sistemas Linux, el comando pwd permite:",
+            "options": [
+                {
+                    "text": "a) Mostrar el nombre del directorio de trabajo actual.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Memoria de acceso aleatorio din\u00e1mico.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Bring Your Own Device.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Hasta 40 Gbps.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "35. En Linux, \u00bfcu\u00e1l de las siguientes opciones utilizar\u00eda para conocer qu\u00e9 puertos tiene abiertos un servidor?",
+            "options": [
+                {
+                    "text": "c) nmap",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Proceso zombie.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) S\u00f3lo leer y ejecutar.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Burbuja",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "36. \u00bfCu\u00e1l de los siguientes NO es un tipo de backup?",
+            "options": [
+                {
+                    "text": "a) Compartimental",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) S\u00f3lo leer y ejecutar.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Burbuja",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Net start",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "37. En relaci\u00f3n a los sistemas RAID, indique qu\u00e9 configuraci\u00f3n permite acceso independiente con paridad distribuida:",
+            "options": [
+                {
+                    "text": "d) RAID 5",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) SOA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Mostrar el nombre del directorio de trabajo actual.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) CLAUDIA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "38. El protocolo SMTP es acr\u00f3nimo de:",
+            "options": [
+                {
+                    "text": "c) Simple Mail Transfer Protocol",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Memoria de acceso aleatorio din\u00e1mico.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) La seguridad del protocolo WEP es superior a la del protocolo WPA2.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Compartimental",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "39. \u00bfQu\u00e9 comando se debe ejecutar para mostrar un listado de los servicios en ejecuci\u00f3n en un ordenador con sistema operativo Windows 10?",
+            "options": [
+                {
+                    "text": "c) Net start",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Mostrar el nombre del directorio de trabajo actual.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) SNMP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) S\u00f3lo leer y ejecutar.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "40. Indique cu\u00e1l de los siguientes es un protocolo orientado a la gesti\u00f3n de los dispositivos de una red:",
+            "options": [
+                {
+                    "text": "b) SNMP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Net start",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Simple Mail Transfer Protocol",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Compartimental",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "41. En relaci\u00f3n a los riesgos de seguridad en aplicaciones, seg\u00fan OWASP, \u00bfqu\u00e9 tipo de fallo ocurre cuando datos no confiables son enviados a un int\u00e9rprete como parte de un comando o consulta?",
+            "options": [
+                {
+                    "text": "d) Inyecci\u00f3n.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Hasta 40 Gbps.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Simple Mail Transfer Protocol",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) RAID 5",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "42. \u00bfQu\u00e9 tipo de ataque lleva a cabo el virus Ryuk?",
+            "options": [
+                {
+                    "text": "b) Ransomware",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) CLAUDIA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Tiene dos espacios de memoria separados, uno para datos y otro para instrucciones.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Compartimental",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "43. \u00bfCu\u00e1l de los siguientes algoritmos de cifrado es de clave p\u00fablica?",
+            "options": [
+                {
+                    "text": "a) RSA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) SNMP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Tiene dos espacios de memoria separados, uno para datos y otro para instrucciones.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Hasta 40 Gbps.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "44. Sobre redes inal\u00e1mbricas, indique cu\u00e1l de las siguientes afirmaciones es INCORRECTA:",
+            "options": [
+                {
+                    "text": "b) La seguridad del protocolo WEP es superior a la del protocolo WPA2.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) Burbuja",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) S\u00f3lo leer y ejecutar.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 802.11ax",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "45. El est\u00e1ndar comercializado con el nombre de Wi-Fi 6 se corresponde con el est\u00e1ndar de IEEE:",
+            "options": [
+                {
+                    "text": "a) 802.11ax",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) UDP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Proceso zombie.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) RSA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "46. \u00bfCu\u00e1l de los siguientes es un protocolo de nivel de transporte de TCP\/IP?",
+            "options": [
+                {
+                    "text": "c) UDP",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) CLAUDIA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) SOA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "a) F\u00edsica, Enlace, Red, Transporte, Sesi\u00f3n, Presentaci\u00f3n y Aplicaci\u00f3n.",
+            "options": [
+                {
+                    "text": "",
+                    "isCorrect": true
+                },
+                {
+                    "text": "d) SOA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Tiene dos espacios de memoria separados, uno para datos y otro para instrucciones.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Bring Your Own Device.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "48. \u00bfCu\u00e1l de los siguientes registros DNS proporciona informaci\u00f3n sobre las caracter\u00edsticas b\u00e1sicas del dominio y de la zona en la que se encuentra?",
+            "options": [
+                {
+                    "text": "d) SOA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Compartimental",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Ransomware",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Burbuja",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "49. \u00bfCu\u00e1l de las siguientes herramientas del CCN-CERT se utiliza para la detecci\u00f3n de amenazas complejas en el puesto del usuario?",
+            "options": [
+                {
+                    "text": "b) CLAUDIA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "b) SNMP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) 802.11ax",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Compartimental",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "50. En el contexto de la gesti\u00f3n de dispositivos m\u00f3viles, qu\u00e9 significan las siglas BYOD:",
+            "options": [
+                {
+                    "text": "a) Bring Your Own Device.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) UDP",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "d) SOA",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) Burbuja",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 1. La arquitectura de ordenadores Harvard:",
+            "options": [
+                {
+                    "text": "b) Tiene dos espacios de memoria separados, uno para datos y otro para instrucciones.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "c) Hasta 40 Gbps.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "c) Net start",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Mostrar el nombre del directorio de trabajo actual.",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        },
+        {
+            "question": "Reserva 4. En tecnolog\u00edas de almacenamiento, el t\u00e9rmino SAS se corresponde con",
+            "options": [
+                {
+                    "text": "c) Serial Attached SCSI.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "a) Compartimental",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "a) Bring Your Own Device.",
+                    "isCorrect": false,
+                    "hint": ""
+                },
+                {
+                    "text": "b) CLAUDIA",
+                    "isCorrect": false,
+                    "hint": ""
+                }
+            ]
+        }
+    ]
+}

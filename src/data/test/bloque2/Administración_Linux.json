@@ -1,0 +1,16 @@
+{
+    "title": "Administraci\u00f3n Linux",
+    "type": "bloque2",
+    "shuffle": false,
+    "questions": [
+        {
+            "question": "Se est\u00e1 realizando una auditor\u00eda de seguridad en uno de los servidores Linux y le preguntan d\u00f3nde se est\u00e1n guardando\nlas contrase\u00f1as encriptadas de los usuarios:",
+            "options": [
+                {
+                    "text": "\/etc\/shadow",
+                    "isCorrect": true
+                }
+            ]
+        }
+    ]
+}
