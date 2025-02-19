@@ -27,10 +27,15 @@ Aquí te dejo los comandos esenciales para correr este proyecto en tu máquina l
 | :------------------------ | :----------------------------------------------- |
 | `npm install`             | Installs dependencies                            |
 | `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `node --run dev`          | Starts local dev server at `localhost:4321` in node 22    |
 | `npm run build`           | Build your production site to `./dist/`          |
 | `npm run preview`         | Preview your build locally, before deploying     |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |
+| `npm i --package-lock-only` | Updates only package-lock.json                  |
+| `bun dev` | Starts local dev server                                           |
+
 
 
 
